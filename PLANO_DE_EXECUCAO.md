@@ -80,11 +80,32 @@ Todas as tabelas foram estruturadas no padrão estrito *Flat Table* (linha por l
 ### Detalhamento por Marco
 
 #### 🎓 Marco 1: Distrito Federal — Faculdades e IFs (Prazo: 27/10 às 23:00)
-- **Status:** **CONCLUÍDO LOCALMENTE (188 Contatos)**
-- **Escopo:**
-  1. **UnB (75 contatos):** Reitoria, 7 Decanatos (Extensão, Graduação, Pós, etc.), Faculdades (FAC, FT, FGA, FCE, FUP, Medicina, Direito, FACE), Institutos (Artes, Biologia, Química, Física, etc.) e Departamentos de Exatas.
-  2. **IFB (47 contatos):** Reitoria + 10 campi mapeados (Brasília/Asa Norte, Ceilândia, Estrutural, Gama, Planaltina, Recanto das Emas, Riacho Fundo, Samambaia, São Sebastião e Taguatinga).
-  3. **Privadas e Distrital (66 contatos):** UCB, UniCEUB, IESB, UniEuro, UniProjeção, IDP, IBMEC DF, UNICEPLAC, ESCS (FEPECS), Mackenzie, Anhanguera e Estácio.
+- **Status:** **CONCLUÍDO LOCALMENTE (223 Contatos Consolidados)**
+- **Arquivo de Entrega Específica:** [`csv_exports/01_universidades_DF_marco1.csv`](file:///C:/Users/alexk/Desktop/freela-edumi/csv_exports/01_universidades_DF_marco1.csv)
+- **Escopo 100% Mapeado no DF:**
+  1. **Universidade de Brasília (UnB — 95 contatos):** Reitoria, todos os 7 Decanatos (DEX, DEG, DPG, DAC, DPO, DAF, DGP), Faculdades (FAU, FAC, FT, FGA Gama, FCE Ceilândia, FUP Planaltina, Medicina, Direito, FACE), Institutos (Artes, Biologia, Química, Física, etc.) e Departamentos Acadêmicos (Ciência da Computação, Engenharias, Matemática).
+  2. **Instituto Federal de Brasília (IFB — 58 contatos):** Reitoria + os **10 campi do DF** (Brasília/Asa Norte, Ceilândia, Estrutural, Gama, Planaltina, Recanto das Emas, Riacho Fundo, Samambaia, São Sebastião e Taguatinga) com Direção-Geral, Ensino, Registro Escolar, Extensão e Pesquisa de cada unidade.
+  3. **Pública Distrital (5 contatos):** Escola Superior de Ciências da Saúde (ESCS / FEPECS) — Direção, Secretaria Acadêmica, Medicina, Enfermagem e Pós-Graduação.
+  4. **Privadas, Confessionais e Sistema S (65 contatos):**
+     - Centro Universitário do Distrito Federal (UDF — 7 contatos)
+     - Universidade Católica de Brasília (UCB — 7 contatos)
+     - Centro Universitário de Brasília (UniCEUB — 7 contatos)
+     - Centro Universitário IESB (6 contatos)
+     - Centro Universitário Planalto do DF / UNIP Brasília (UNIPLAN — 4 contatos)
+     - Centro Universitário EuroAmericano (UniEuro — 3 contatos)
+     - Centro Universitário Projeção (UniProjeção — 3 contatos)
+     - Instituto Brasileiro de Ensino, Desenv. e Pesquisa (IDP — 3 contatos)
+     - Centro Universitário UNICEPLAC Gama (3 contatos)
+     - Faculdade Republicana Asa Norte (3 contatos)
+     - Faculdade Senac Distrito Federal (3 contatos)
+     - Faculdade JK Brasília (3 contatos)
+     - Faculdade SENAI de Tecnologia DF (2 contatos)
+     - IBMEC Brasília (2 contatos)
+     - Faculdade Presbiteriana Mackenzie Brasília (2 contatos)
+     - Centro Universitário Estácio de Brasília (2 contatos)
+     - Faculdade Anhanguera Brasília (2 contatos)
+     - Faculdade Mauá de Brasília (1 contato)
+     - Centro Universitário UNINTER Polo Brasília (1 contato)
 
 #### 🌍 Marco 2: Resto do Brasil — Faculdades e IFs (Prazo: 31/10 às 23:00)
 - **Status:** **CONCLUÍDO LOCALMENTE (936 Contatos adicionais)**

@@ -16,7 +16,7 @@ O projeto conta também com uma **aplicação web local autônoma (`app.html`)**
 
 Todas as bases seguem o formato de tabela plana (*Flat Table*), conforme a estrutura oficial criada na planilha [`0. Planilha centralizadora`](https://docs.google.com/spreadsheets/d/1hqgfKgMzn00-zV91sFe7a6aMK5ZV47TCvQNfMP8Ksv0/edit):
 
-1. **`universidades`**: `nome_faculdade`, `nome_departamento`, `email`, `uf` *(1.124 contatos consolidados: 188 DF, 170 GO e 766 Brasil)*.
+1. **`universidades`**: `nome_faculdade`, `nome_departamento`, `email`, `uf` *(1.158 contatos consolidados: 223 DF, 170 GO e 765 Brasil)*.
 2. **`artistas`**: `nome`, `arroba`, `quantidade_seguidores`, `tipo`, `uf` *(Artistas do DF da @edicoesmotim em 2025/2026)*.
 3. **`influenciadores`**: `nome`, `arroba`, `quantidade_seguidores`, `tipo`, `uf` *(Criadores de conteúdo de DF, GO e PE)*.
 4. **`midias`**: `nome`, `link`, `email`, `telefone`, `uf`, `obs` *(194 veículos de comunicação de 13 estados)*.
