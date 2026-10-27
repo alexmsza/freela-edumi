@@ -24,22 +24,36 @@ Todas as bases seguem o formato de tabela plana (*Flat Table*), conforme a estru
 
 ---
 
-## 🖥️ Como Usar a Aplicação Web Local (`app.html`)
+## 🖥️ Aplicações Web Locais (Tabela & Dashboard Dedicado)
 
-Não requer nenhuma instalação, servidor Node.js ou dependências externas.
+Não requer nenhuma instalação, servidor Node.js ou dependências externas. Basta dar um duplo clique para abrir no navegador:
 
-1. Navegue até a pasta do projeto no Windows Explorer.
-2. Dê um **duplo clique no arquivo `app.html`** (ou `index.html`).
-3. O aplicativo abrirá imediatamente no seu navegador padrão (Chrome, Edge, etc.).
+### 1. 📊 Dashboard Analítico & Métricas (`dashboard.html`)
+Tela dedicada com painel visual completo e segmentação dinâmica por assunto e categoria:
+* **Filtro por Assunto (Pills):** Alterna as análises entre `🎓 Universidades & IFs`, `📱 Influenciadores (DF, GO, PE)`, `🎨 Artistas Motim DF` e `📰 Mídias & Imprensa`.
+* **Filtro por Tipo de Instituição:** Segmenta instantaneamente entre:
+  - 🏛️ **Institutos Federais (IF)** (212 contatos e campi)
+  - 🎓 **Universidades Federais** (345 contatos)
+  - 🏢 **Faculdades Privadas / Particulares** (507 contatos)
+  - 🏫 **Universidades Estaduais** (56 contatos)
+  - 🏥 **Pública Distrital (DF)** (4 contatos)
+* **Filtro por UF:** Dropdown dinâmico com todas as unidades federativas (DF, GO, SP, RJ, MG, PE...).
+* **Gráficos Dinâmicos (Chart.js):**
+  - Gráfico Donut de Proporção por Tipo (IFs vs Federais vs Privadas vs Estaduais).
+  - Gráfico de Barras do Ranking das Top 10 UFs filtradas.
+* **KPIs Reativos:** Métricas calculadas instantaneamente conforme os filtros selecionados.
+* **Tabela de Prévia Analítica:** Visualização tabular direta dos dados filtrados com exportação em CSV com 1 clique.
 
-### Recursos do Aplicativo:
-* **📈 Dashboard Analítico:** Gráficos interativos com o Top 10 Estados com mais faculdades e distribuição por categoria.
+### 2. 📋 Centralizador & Gestão de Dados (`app.html` / `index.html`)
+Tela focada na operação, edição e alimentação das planilhas:
 * **🔍 Busca em Tempo Real:** Filtre instantaneamente por faculdade, departamento, e-mail, cidade ou palavras-chave.
-* **🏷️ Filtros Rápidos por UF:** Seletores de 1 clique para `Só DF (188)`, `Só GO (170)`, `SP`, `RJ`, `MG` e dropdown com todos os estados.
+* **🏷️ Filtros Rápidos por UF:** Seletores de 1 clique para `Só DF (188)`, `Só GO (170)`, `SP`, `RJ`, `MG` e dropdown geral.
 * **➕ Adição Manual de Registros:** Cadastre novos contatos diretamente na interface com validação de colunas.
 * **📥 Importação de CSV:** Importe novas listas em formato `.csv` com prévia automática e mapeamento de campos.
 * **📋 Cópia Rápida:** Botão para copiar e-mail ou a linha inteira para a área de transferência.
 * **💾 Exportação de CSV:** Baixe um arquivo CSV com os dados exatamente como filtrados na tela.
+
+Ambas as telas possuem um **menu superior integrado (*Top Nav Switcher*)**, permitindo alternar livremente entre a visão analítica e a visão tabular.
 
 ---
 
