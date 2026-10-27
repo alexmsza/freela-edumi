@@ -696,12 +696,11 @@
       const saved = localStorage.getItem('EDUMI_MASTER_DATA');
       if (saved) {
         LOCAL_DATA = JSON.parse(saved);
-        if (!LOCAL_DATA['artistas'] || LOCAL_DATA['artistas'].length === 0) {
-          LOCAL_DATA['artistas'] = MASTER_PAYLOAD['artistas'];
-        }
-        if (!LOCAL_DATA['influenciadores'] || LOCAL_DATA['influenciadores'].length === 0) {
-          LOCAL_DATA['influenciadores'] = MASTER_PAYLOAD['influenciadores'];
-        }
+        ['universidades', 'artistas', 'influenciadores', 'midias', 'parceiros'].forEach(key => {
+          if (!LOCAL_DATA[key] || (MASTER_PAYLOAD[key] && LOCAL_DATA[key].length < MASTER_PAYLOAD[key].length)) {
+            LOCAL_DATA[key] = MASTER_PAYLOAD[key];
+          }
+        });
       } else {
         LOCAL_DATA = MASTER_PAYLOAD;
         localStorage.setItem('EDUMI_MASTER_DATA', JSON.stringify(LOCAL_DATA));

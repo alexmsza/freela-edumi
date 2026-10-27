@@ -587,7 +587,11 @@
       const saved = localStorage.getItem('EDUMI_MASTER_DATA');
       if (saved) {
         DATA = JSON.parse(saved);
-        // Ensure tipo_instituicao is present
+        ['universidades', 'artistas', 'influenciadores', 'midias', 'parceiros'].forEach(key => {
+          if (!DATA[key] || (MASTER_PAYLOAD[key] && DATA[key].length < MASTER_PAYLOAD[key].length)) {
+            DATA[key] = MASTER_PAYLOAD[key];
+          }
+        });
         if (DATA['universidades'] && !DATA['universidades'][0].tipo_instituicao && MASTER_PAYLOAD['universidades']) {
           DATA['universidades'] = MASTER_PAYLOAD['universidades'];
         }

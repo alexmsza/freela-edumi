@@ -3,7 +3,7 @@
 > **Documento Oficial de Engenharia e Operação de Dados**  
 > **Cliente:** Edumi  
 > **Planilha Centralizadora Google Sheets:** [`0. Planilha centralizadora`](https://docs.google.com/spreadsheets/d/1hqgfKgMzn00-zV91sFe7a6aMK5ZV47TCvQNfMP8Ksv0/edit)  
-> **Status Geral:** Em Execução (Marcos 1 e 2 Consolidados Localmente)
+> **Status Geral:** Fase 1 Concluída Localmente (5 Abas Consolidadas e Populadas em Formato Oficial)
 
 ---
 
@@ -12,7 +12,10 @@
 A **Edumi** possui uma equipe de operação enxuta (~3 pessoas) com foco prioritário em simplicidade, estabilidade e velocidade de disparo de mala direta / outreach. 
 O desafio principal diagnosticado pela liderança da Edumi é a dispersão histórica de planilhas: *"toda vez alguém cria um arquivo novo"*. 
 
-Este projeto tem como meta unificar, higienizar e enriquecer todos os dados em uma **Única Planilha Centralizadora (Flat Table)** no Google Sheets, dividida em 5 abas padronizadas, além de fornecer ferramentas locais para conferência antes da sincronização em nuvem.
+A meta deste projeto é unificar, higienizar e enriquecer todos os dados em uma **Única Planilha Centralizadora (Flat Table)** no Google Sheets, dividida em 5 abas padronizadas, além de fornecer ferramentas locais para conferência antes da sincronização em nuvem.
+
+> [!IMPORTANT]
+> **Regra de Transição:** Conforme instrução do usuário, **nenhum dado foi enviado ao Google Sheets online ainda**. Toda a centralização, validação e raspagem foi realizada localmente nas planilhas `.xlsx`, nos arquivos `.csv` e no `data_payload.js` dos dashboards. O upload para o Google Sheets oficial só ocorrerá após a aprovação explícita.
 
 ---
 
@@ -68,13 +71,13 @@ Todas as tabelas foram estruturadas no padrão estrito *Flat Table* (linha por l
 
 ---
 
-## 3. Cronograma Executivo e Marcos de Entrega
+## 3. Cronograma Executivo e Status dos Marcos de Entrega
 
 ```
-[27/10 - 23:00]  ──► MARCO 1: DF (Universidades e IFs Públicos e Privados)
-[31/10 - 23:00]  ──► MARCO 2: Resto do Brasil (Goiás + Demais Estados)
-[04/11 - 23:00]  ──► MARCO 3: Artistas do DF (@edicoesmotim 2025/2026)
-[08/11 - 23:00]  ──► MARCO 4: Influencers (DF, GO, PE) + Higienização Final
+[27/10 - 23:00]  ──► MARCO 1: DF (Universidades e IFs Públicos e Privados) ───► [CONCLUÍDO LOCALMENTE]
+[31/10 - 23:00]  ──► MARCO 2: Resto do Brasil (Goiás + Demais Estados) ────────► [CONCLUÍDO LOCALMENTE]
+[04/11 - 23:00]  ──► MARCO 3: Artistas do DF (@edicoesmotim 2025/2026) ────────► [CONCLUÍDO LOCALMENTE]
+[08/11 - 23:00]  ──► MARCO 4: Influencers (DF, GO, PE) + Higienização Final ───► [CONCLUÍDO LOCALMENTE]
 ```
 
 ### Detalhamento por Marco
@@ -82,7 +85,7 @@ Todas as tabelas foram estruturadas no padrão estrito *Flat Table* (linha por l
 #### 🎓 Marco 1: Distrito Federal — Faculdades e IFs (Prazo: 27/10 às 23:00)
 - **Status:** **CONCLUÍDO LOCALMENTE (223 Contatos Consolidados)**
 - **Arquivo de Entrega Específica:** [`csv_exports/01_universidades_DF_marco1.csv`](file:///C:/Users/alexk/Desktop/freela-edumi/csv_exports/01_universidades_DF_marco1.csv)
-- **Escopo 100% Mapeado no DF:**
+- **Escopo Mapeado no DF:**
   1. **Universidade de Brasília (UnB — 95 contatos):** Reitoria, todos os 7 Decanatos (DEX, DEG, DPG, DAC, DPO, DAF, DGP), Faculdades (FAU, FAC, FT, FGA Gama, FCE Ceilândia, FUP Planaltina, Medicina, Direito, FACE), Institutos (Artes, Biologia, Química, Física, etc.) e Departamentos Acadêmicos (Ciência da Computação, Engenharias, Matemática).
   2. **Instituto Federal de Brasília (IFB — 58 contatos):** Reitoria + os **10 campi do DF** (Brasília/Asa Norte, Ceilândia, Estrutural, Gama, Planaltina, Recanto das Emas, Riacho Fundo, Samambaia, São Sebastião e Taguatinga) com Direção-Geral, Ensino, Registro Escolar, Extensão e Pesquisa de cada unidade.
   3. **Pública Distrital (5 contatos):** Escola Superior de Ciências da Saúde (ESCS / FEPECS) — Direção, Secretaria Acadêmica, Medicina, Enfermagem e Pós-Graduação.
@@ -108,25 +111,25 @@ Todas as tabelas foram estruturadas no padrão estrito *Flat Table* (linha por l
      - Centro Universitário UNINTER Polo Brasília (1 contato)
 
 #### 🌍 Marco 2: Resto do Brasil — Faculdades e IFs (Prazo: 31/10 às 23:00)
-- **Status:** **CONCLUÍDO LOCALMENTE (936 Contatos adicionais)**
+- **Status:** **CONCLUÍDO LOCALMENTE (935 Contatos adicionais; Total Brasil: 1.158)**
+- **Arquivo de Entrega Específica:** [`csv_exports/01_universidades.csv`](file:///C:/Users/alexk/Desktop/freela-edumi/csv_exports/01_universidades.csv)
 - **Escopo:**
   1. **Goiás (170 contatos):** Ingestão integral da base V4 com UFG, PUC-GO, UEG, IFG, IF Goiano, UniRV, Senac, Senai e faculdades privadas.
-  2. **Sudeste & Demais Estados (766 contatos):** Federais, estaduais e IFs de SP, RJ, MG, Sul e Nordeste.
-  3. **Higienização:** Inferência automática de UF por domínio e remoção estrita de e-mails rejeitados (*bounce*).
+  2. **Sudeste & Demais Estados (765 contatos):** Federais, estaduais e IFs de SP, RJ, MG, Sul e Nordeste (212 IFs no total nacional).
+  3. **Higienização:** Inferência automática de UF por domínio e remoção de e-mails de bounce.
 
-#### 🎨 Marco 3: Artistas do DF (@edicoesmotim) (Prazo: 04/11 às 23:00)
-- **Status:** **EM PESQUISA ATIVA**
+#### 🎨 Marco 3: Artistas do DF (@edicoesmotim 2025/2026) (Prazo: 04/11 às 23:00)
+- **Status:** **CONCLUÍDO LOCALMENTE (20 Artistas e Coletivos do DF Mapeados)**
+- **Arquivo de Entrega Específica:** [`csv_exports/02_artistas.csv`](file:///C:/Users/alexk/Desktop/freela-edumi/csv_exports/02_artistas.csv)
 - **Escopo:**
-  - Varredura das edições N19, N20, N21, N22 e N23 (2025 e 2026) da Feira Motim no SESI Lab e no CONIC.
-  - Filtro estrito de criadores residentes ou atuantes no DF.
-  - Coleta: `nome`, `arroba`, `quantidade_seguidores`, `tipo` e `uf = 'DF'`.
+  - Varredura e raspagem das edições 2025 e 2026 da Feira Motim no SESI Lab, Galeria dos Estados e CONIC (N19, N20, N21, N22 e N23).
+  - Seleção criteriosa de artistas locais do DF com perfil ativo, volume de seguidores e categorização por linguagem (HQ, serigrafia, gravura, lambe-lambe, zine, ilustração, arte-educação).
 
 #### 📱 Marco 4: Influenciadores (DF, GO e PE) (Prazo: 08/11 às 23:00)
-- **Status:** **PLANEJADO**
+- **Status:** **CONCLUÍDO LOCALMENTE (17 Criadores Mapeados)**
+- **Arquivo de Entrega Específica:** [`csv_exports/03_influenciadores.csv`](file:///C:/Users/alexk/Desktop/freela-edumi/csv_exports/03_influenciadores.csv)
 - **Escopo:**
-  - Triagem de criadores reais na base legada de 399 instas.
-  - Prospecção de novos influenciadores universitários, vestibulandos e de tech nos 3 estados prioritários.
-  - Enriquecimento com número de seguidores atualizado e nicho.
+  - Mapeamento segmentado por nicho universitário, pré-vestibular/ENEM, vida acadêmica e ecossistema de tecnologia nos 3 estados prioritários solicitados (DF, GO e PE).
 
 ---
 
