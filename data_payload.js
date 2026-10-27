@@ -1,5 +1,5 @@
-// Gerado automaticamente por tools/exporter.py — Hash: bfe2932e3378
-const MASTER_PAYLOAD_VERSION = "bfe2932e3378";
+// Gerado automaticamente por tools/exporter.py — Hash: 0ef5fa6d24b0
+const MASTER_PAYLOAD_VERSION = "0ef5fa6d24b0";
 const MASTER_PAYLOAD = {
   "universidades": [
     {
@@ -2129,6 +2129,13 @@ const MASTER_PAYLOAD = {
       "email": "ouvidoria@ufc.br",
       "uf": "CE",
       "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Instituto Federal do Ceará (IFCE)",
+      "nome_departamento": "Instituto Federal de Educação, Ciência e Tecnologia do Estado do Ceará",
+      "email": "reitoria@ifce.edu.br",
+      "uf": "CE",
+      "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
       "nome_faculdade": "UFC",
@@ -6814,6 +6821,20 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
+      "nome_faculdade": "Universidade Federal do Rio de Janeiro (UFRJ)",
+      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
+      "email": "claudiamendes@reitoria.ufrj.br",
+      "uf": "RJ",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Rio de Janeiro (UFRJ)",
+      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
+      "email": "portal@ufrj.br",
+      "uf": "RJ",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
       "nome_faculdade": "IFRN",
       "nome_departamento": "Atendimento Institucional / Secretaria Geral",
       "email": "joao.costa@ifrn.edu.br",
@@ -7103,13 +7124,6 @@ const MASTER_PAYLOAD = {
     {
       "nome_faculdade": "IFRS",
       "nome_departamento": "Assessoria de Comunicação (ASCOM)",
-      "email": "comunicacao@ifrs.edu.br",
-      "uf": "RS",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFRS",
-      "nome_departamento": "Assessoria de Comunicação (ASCOM)",
       "email": "comunicacao@bento.ifrs.edu.br",
       "uf": "RS",
       "tipo_instituicao": "Instituto Federal (IF)"
@@ -7267,6 +7281,34 @@ const MASTER_PAYLOAD = {
       "email": "secretaria-geral@unisinos.br",
       "uf": "RS",
       "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "Instituto Federal do Rio Grande do Sul (IFRS)",
+      "nome_departamento": "Assessoria de Ações Afirmativas, Inclusivas e de Diversidade",
+      "email": "acoes.inclusivas@ifrs.edu.br",
+      "uf": "RS",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal do Rio Grande do Sul (IFRS)",
+      "nome_departamento": "Comunicação / Imprensa",
+      "email": "comunicacao@ifrs.edu.br",
+      "uf": "RS",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal do Rio Grande do Sul (IFRS)",
+      "nome_departamento": "Processo Seletivo do IFRS (dúvidas)",
+      "email": "processoseletivo@ifrs.edu.br",
+      "uf": "RS",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal do Rio Grande do Sul (IFRS)",
+      "nome_departamento": "Reitoria",
+      "email": "gabinete@ifrs.edu.br",
+      "uf": "RS",
+      "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
       "nome_faculdade": "UFCSPA",
@@ -7512,6 +7554,160 @@ const MASTER_PAYLOAD = {
       "email": "gabinetereitoria@udesc.br",
       "uf": "SC",
       "tipo_instituicao": "Universidade Estadual"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+      "nome_departamento": "Câmpus Araranguá",
+      "email": "assessoria.ararangua@ifsc.edu.br",
+      "uf": "SC",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+      "nome_departamento": "Câmpus Avançado São Lourenço do Oeste",
+      "email": "assessoria.slo@ifsc.edu.br",
+      "uf": "SC",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+      "nome_departamento": "Câmpus Canoinhas",
+      "email": "assessoria.canoinhas@ifsc.edu.br",
+      "uf": "SC",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+      "nome_departamento": "Câmpus Caçador",
+      "email": "atendimento.cdr@ifsc.edu.br",
+      "uf": "SC",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+      "nome_departamento": "Câmpus Chapecó",
+      "email": "assessoria.chapeco@ifsc.edu.br",
+      "uf": "SC",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+      "nome_departamento": "Câmpus Criciúma",
+      "email": "assessoria.criciuma@ifsc.edu.br",
+      "uf": "SC",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+      "nome_departamento": "Câmpus Florianópolis-Continente",
+      "email": "assessoria.continente@ifsc.edu.br",
+      "uf": "SC",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+      "nome_departamento": "Câmpus Garopaba",
+      "email": "cere.garopaba@ifsc.edu.br",
+      "uf": "SC",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+      "nome_departamento": "Câmpus Gaspar",
+      "email": "assessoria.gaspar@ifsc.edu.br",
+      "uf": "SC",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+      "nome_departamento": "Câmpus Itajaí",
+      "email": "direcao.itajai@ifsc.edu.br",
+      "uf": "SC",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+      "nome_departamento": "Câmpus Jaraguá do Sul - Centro",
+      "email": "direcao.jaragua@ifsc.edu.br",
+      "uf": "SC",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+      "nome_departamento": "Câmpus Jaraguá do Sul - Rau",
+      "email": "assessoria.rau@ifsc.edu.br",
+      "uf": "SC",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+      "nome_departamento": "Câmpus Joinville",
+      "email": "direcao.joinville@ifsc.edu.br",
+      "uf": "SC",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+      "nome_departamento": "Câmpus Joinville",
+      "email": "secretariaacademica.joinville@ifsc.edu.br",
+      "uf": "SC",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+      "nome_departamento": "Câmpus Lages",
+      "email": "assessoria.lages@ifsc.edu.br",
+      "uf": "SC",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+      "nome_departamento": "Câmpus Palhoça Bilíngue",
+      "email": "contato.palhoca@ifsc.edu.br",
+      "uf": "SC",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+      "nome_departamento": "Câmpus São Carlos",
+      "email": "assessoria.saocarlos@ifsc.edu.br",
+      "uf": "SC",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+      "nome_departamento": "Câmpus São José",
+      "email": "gabinete.sje@ifsc.edu.br",
+      "uf": "SC",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+      "nome_departamento": "Câmpus São Miguel do Oeste",
+      "email": "assessoria.smo@ifsc.edu.br",
+      "uf": "SC",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+      "nome_departamento": "Câmpus Tubarão",
+      "email": "gabinete.tub@ifsc.edu.br",
+      "uf": "SC",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+      "nome_departamento": "Câmpus Urupema",
+      "email": "assessoria.urupema@ifsc.edu.br",
+      "uf": "SC",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+      "nome_departamento": "Câmpus Xanxerê",
+      "email": "assessoria.xanxere@ifsc.edu.br",
+      "uf": "SC",
+      "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
       "nome_faculdade": "UFFS",
@@ -8543,8 +8739,444 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     }
   ],
-  "artistas": [],
-  "influenciadores": [],
+  "artistas": [
+    {
+      "nome": "Cartumante",
+      "arroba": "@cartumante",
+      "quantidade_seguidores": "224233",
+      "tipo": "Tatuagem / Ilustração / Flash",
+      "uf": "DF"
+    },
+    {
+      "nome": "Batatinha Fantasma",
+      "arroba": "@batatinhafantasma",
+      "quantidade_seguidores": "120993",
+      "tipo": "Quadrinhos / Tiras / Zines",
+      "uf": "DF"
+    },
+    {
+      "nome": "Bruna Yonashiro",
+      "arroba": "@brunayonashiro",
+      "quantidade_seguidores": "85749",
+      "tipo": "Design / Ilustração",
+      "uf": "DF"
+    },
+    {
+      "nome": "Dessamore",
+      "arroba": "@dessamore",
+      "quantidade_seguidores": "66735",
+      "tipo": "Lettering / Ilustração",
+      "uf": "DF"
+    },
+    {
+      "nome": "Gurulino",
+      "arroba": "@gurulino",
+      "quantidade_seguidores": "61703",
+      "tipo": "Arte Urbana / Ilustração / Brasília",
+      "uf": "DF"
+    },
+    {
+      "nome": "Lote 42",
+      "arroba": "@lote42",
+      "quantidade_seguidores": "38653",
+      "tipo": "Publicações Independentes / Feira Miolo",
+      "uf": "DF"
+    },
+    {
+      "nome": "Guga Baygon",
+      "arroba": "@gugabaygon",
+      "quantidade_seguidores": "26936",
+      "tipo": "Quadrinhos / Humor / Zines",
+      "uf": "DF"
+    },
+    {
+      "nome": "Estúdio Largata",
+      "arroba": "@estudiolargata",
+      "quantidade_seguidores": "26028",
+      "tipo": "Gravura / Ilustração",
+      "uf": "DF"
+    },
+    {
+      "nome": "Bebel Books",
+      "arroba": "@bebelbooks",
+      "quantidade_seguidores": "24761",
+      "tipo": "Editora Independente / Zines / HQ",
+      "uf": "DF"
+    },
+    {
+      "nome": "Brixx Furtado",
+      "arroba": "@brixxfurtado",
+      "quantidade_seguidores": "8271",
+      "tipo": "Ilustração / Murais",
+      "uf": "DF"
+    },
+    {
+      "nome": "Gactos & Nanquim",
+      "arroba": "@gactosenanquim",
+      "quantidade_seguidores": "7779",
+      "tipo": "Ilustração / Fanzines",
+      "uf": "DF"
+    },
+    {
+      "nome": "Carlos Alvarez Art",
+      "arroba": "@carlosalvarezart",
+      "quantidade_seguidores": "5140",
+      "tipo": "Ilustração / Quadrinhos",
+      "uf": "DF"
+    },
+    {
+      "nome": "Cripta Skateboards",
+      "arroba": "@criptaskateboards",
+      "quantidade_seguidores": "4634",
+      "tipo": "Streetwear / Shape Art / Gravura",
+      "uf": "DF"
+    },
+    {
+      "nome": "Camis Draws",
+      "arroba": "@camisdraws",
+      "quantidade_seguidores": "4620",
+      "tipo": "Ilustração / Fanart / Adesivos",
+      "uf": "DF"
+    },
+    {
+      "nome": "Chuva de Tinta",
+      "arroba": "@chuvadetinta",
+      "quantidade_seguidores": "4395",
+      "tipo": "Ilustração / Aquarela",
+      "uf": "DF"
+    },
+    {
+      "nome": "Flora Schneider",
+      "arroba": "@floraschneider",
+      "quantidade_seguidores": "4217",
+      "tipo": "Design Têxtil / Gravura",
+      "uf": "DF"
+    },
+    {
+      "nome": "Ani Ganzala",
+      "arroba": "@aniganzala",
+      "quantidade_seguidores": "2074",
+      "tipo": "Ilustração / Gravura / Aquarela",
+      "uf": "DF"
+    },
+    {
+      "nome": "Desenhista das Cavernas",
+      "arroba": "@desenhista_das_cavernas",
+      "quantidade_seguidores": "1579",
+      "tipo": "Ilustração / Tatuagem / Zines",
+      "uf": "DF"
+    },
+    {
+      "nome": "Erico Ilustra",
+      "arroba": "@ericoilustra",
+      "quantidade_seguidores": "1135",
+      "tipo": "Ilustração Infantil / Livros",
+      "uf": "DF"
+    },
+    {
+      "nome": "Alexandre Xixa",
+      "arroba": "@alexandrexixa",
+      "quantidade_seguidores": "1036",
+      "tipo": "Ilustração / Quadrinhos / Zines",
+      "uf": "DF"
+    },
+    {
+      "nome": "Acidente Cósmico",
+      "arroba": "@acidentecosmico",
+      "quantidade_seguidores": "1019",
+      "tipo": "Gravura / Tatuagem / Zines",
+      "uf": "DF"
+    },
+    {
+      "nome": "Ateliê Xinela",
+      "arroba": "@xinelarts",
+      "quantidade_seguidores": "936",
+      "tipo": "Jogos / Ilustração / Arte Urbana",
+      "uf": "DF"
+    },
+    {
+      "nome": "Risoflora",
+      "arroba": "@risoflora.art",
+      "quantidade_seguidores": "841",
+      "tipo": "Risografia / Pôsteres / Zines",
+      "uf": "DF"
+    },
+    {
+      "nome": "Herminio Ilustra",
+      "arroba": "@herminioilustra",
+      "quantidade_seguidores": "799",
+      "tipo": "Ilustração Digital e Manual",
+      "uf": "DF"
+    },
+    {
+      "nome": "Gravuroteca",
+      "arroba": "@gravuroteca",
+      "quantidade_seguidores": "626",
+      "tipo": "Gravura / Xilogravura / Ateliê",
+      "uf": "DF"
+    },
+    {
+      "nome": "Bunker Custom Goods",
+      "arroba": "@bunkercustomgoods",
+      "quantidade_seguidores": "503",
+      "tipo": "Couro Artesanal / Acessórios",
+      "uf": "DF"
+    },
+    {
+      "nome": "Ateliê Bukóliko",
+      "arroba": "@ateliebukoliko",
+      "quantidade_seguidores": "435",
+      "tipo": "Arte Impressa / Gravura",
+      "uf": "DF"
+    },
+    {
+      "nome": "Coletivo Begônia",
+      "arroba": "@coletivobegonia",
+      "quantidade_seguidores": "384",
+      "tipo": "Artes Visuais / Coletivo",
+      "uf": "DF"
+    },
+    {
+      "nome": "Cissa Victal",
+      "arroba": "@cissavictal",
+      "quantidade_seguidores": "378",
+      "tipo": "Gravura / Pintura",
+      "uf": "DF"
+    },
+    {
+      "nome": "Crocoxilo",
+      "arroba": "@crocoxilo",
+      "quantidade_seguidores": "367",
+      "tipo": "Xilogravura / Impressão Manual",
+      "uf": "DF"
+    },
+    {
+      "nome": "Bi Aguiart",
+      "arroba": "@biaguiart",
+      "quantidade_seguidores": "155",
+      "tipo": "Ilustração / Adesivos",
+      "uf": "DF"
+    },
+    {
+      "nome": "Argilume",
+      "arroba": "@argilume",
+      "quantidade_seguidores": "130",
+      "tipo": "Cerâmica / Modelagem",
+      "uf": "DF"
+    },
+    {
+      "nome": "Estúdio Trinca",
+      "arroba": "@estudiotrinca",
+      "quantidade_seguidores": "127",
+      "tipo": "Encadernação / Papelaria Autoral",
+      "uf": "DF"
+    },
+    {
+      "nome": "ClariArte",
+      "arroba": "@clariarte",
+      "quantidade_seguidores": "67",
+      "tipo": "Artesanato / Aquarela",
+      "uf": "DF"
+    },
+    {
+      "nome": "Fagulha",
+      "arroba": "@editorafagulha",
+      "quantidade_seguidores": "34",
+      "tipo": "Editora Independente / Literatura / Zines",
+      "uf": "DF"
+    },
+    {
+      "nome": "Casa Toró",
+      "arroba": "@casatoro",
+      "quantidade_seguidores": "26",
+      "tipo": "Cerâmica / Design Autoral",
+      "uf": "DF"
+    },
+    {
+      "nome": "Estúdio Vaca",
+      "arroba": "@estudiovaca",
+      "quantidade_seguidores": "3",
+      "tipo": "Design / Impressão Artesanal",
+      "uf": "DF"
+    },
+    {
+      "nome": "Argilisa",
+      "arroba": "@argilisa",
+      "quantidade_seguidores": "2",
+      "tipo": "Cerâmica Artística / Escultura",
+      "uf": "DF"
+    },
+    {
+      "nome": "Desce do Muro",
+      "arroba": "@descedomuro",
+      "quantidade_seguidores": "2",
+      "tipo": "Arte Urbana / Lambe-lambe",
+      "uf": "DF"
+    },
+    {
+      "nome": "Coletivo Suindara",
+      "arroba": "@coletivosuindara",
+      "quantidade_seguidores": "1",
+      "tipo": "Gravura / Cerâmica / Zines",
+      "uf": "DF"
+    }
+  ],
+  "influenciadores": [
+    {
+      "nome": "UnB Oficial",
+      "arroba": "@unb_oficial",
+      "quantidade_seguidores": "216031",
+      "tipo": "Universidade / Vida Acadêmica DF",
+      "uf": "DF"
+    },
+    {
+      "nome": "UDF Centro Universitário",
+      "arroba": "@udf_oficial",
+      "quantidade_seguidores": "48388",
+      "tipo": "Educação Superior / Brasília",
+      "uf": "DF"
+    },
+    {
+      "nome": "DCE UnB Honestino Guimarães",
+      "arroba": "@dceunb",
+      "quantidade_seguidores": "23554",
+      "tipo": "Representação Estudantil / UnB",
+      "uf": "DF"
+    },
+    {
+      "nome": "IFB - Instituto Federal de Brasília",
+      "arroba": "@ifboficial",
+      "quantidade_seguidores": "14283",
+      "tipo": "Instituição Federal / IFB",
+      "uf": "DF"
+    },
+    {
+      "nome": "Projeto Politeia UnB",
+      "arroba": "@projetopoliteia",
+      "quantidade_seguidores": "8239",
+      "tipo": "Educação Cívica / Política UnB",
+      "uf": "DF"
+    },
+    {
+      "nome": "Concentro DF",
+      "arroba": "@concentrodf",
+      "quantidade_seguidores": "4212",
+      "tipo": "Empreendedorismo Universitário / EJs",
+      "uf": "DF"
+    },
+    {
+      "nome": "Faculdade de Tecnologia UnB",
+      "arroba": "@ft.unb",
+      "quantidade_seguidores": "3417",
+      "tipo": "Vida Universitária / Engenharias UnB",
+      "uf": "DF"
+    },
+    {
+      "nome": "CJR UnB",
+      "arroba": "@cjr.unb",
+      "quantidade_seguidores": "2271",
+      "tipo": "Tecnologia / Empresa Júnior UnB",
+      "uf": "DF"
+    },
+    {
+      "nome": "Laboratório Aberto Brasília",
+      "arroba": "@laboratorioaberto",
+      "quantidade_seguidores": "2025",
+      "tipo": "Inovação / Educação e Pesquisa",
+      "uf": "DF"
+    },
+    {
+      "nome": "Faciplac Oficial",
+      "arroba": "@faciplac",
+      "quantidade_seguidores": "2",
+      "tipo": "Educação Superior / DF",
+      "uf": "DF"
+    },
+    {
+      "nome": "UFG Oficial",
+      "arroba": "@ufg_oficial",
+      "quantidade_seguidores": "185486",
+      "tipo": "Universidade / Vida Acadêmica GO",
+      "uf": "GO"
+    },
+    {
+      "nome": "PUC Goiás",
+      "arroba": "@pucgoias",
+      "quantidade_seguidores": "98437",
+      "tipo": "Universidade Católica de Goiás",
+      "uf": "GO"
+    },
+    {
+      "nome": "IF Goiano",
+      "arroba": "@ifgoiano",
+      "quantidade_seguidores": "72497",
+      "tipo": "Instituto Federal Goiano / Ensino Técnico e Superior",
+      "uf": "GO"
+    },
+    {
+      "nome": "Medicina UFG",
+      "arroba": "@medicinaufg",
+      "quantidade_seguidores": "1",
+      "tipo": "Comunidade Acadêmica UFG",
+      "uf": "GO"
+    },
+    {
+      "nome": "UFPE Oficial",
+      "arroba": "@ufpe.oficial",
+      "quantidade_seguidores": "272068",
+      "tipo": "Universidade / Vida Acadêmica PE",
+      "uf": "PE"
+    },
+    {
+      "nome": "Porto Digital",
+      "arroba": "@portodigital",
+      "quantidade_seguidores": "131599",
+      "tipo": "Tecnologia / Educação e Carreiras PE",
+      "uf": "PE"
+    },
+    {
+      "nome": "UFRPE Oficial",
+      "arroba": "@ufrpe",
+      "quantidade_seguidores": "107487",
+      "tipo": "Universidade Federal Rural de Pernambuco",
+      "uf": "PE"
+    },
+    {
+      "nome": "IFPE Oficial",
+      "arroba": "@ifpeoficial",
+      "quantidade_seguidores": "103597",
+      "tipo": "Instituto Federal de Pernambuco",
+      "uf": "PE"
+    },
+    {
+      "nome": "Recife Criativo",
+      "arroba": "@recifecriativo",
+      "quantidade_seguidores": "1484",
+      "tipo": "Hub Criativo e Cultural / Porto Digital",
+      "uf": "PE"
+    },
+    {
+      "nome": "DCE UFPE",
+      "arroba": "@dceufpe",
+      "quantidade_seguidores": "218",
+      "tipo": "Representação Estudantil / UFPE",
+      "uf": "PE"
+    },
+    {
+      "nome": "Embarque Digital",
+      "arroba": "@embarquedigital",
+      "quantidade_seguidores": "122",
+      "tipo": "Bolsas Universitárias / Tech Recife",
+      "uf": "PE"
+    },
+    {
+      "nome": "UNICAP Recife",
+      "arroba": "@unicap",
+      "quantidade_seguidores": "5",
+      "tipo": "Universidade Católica de Pernambuco",
+      "uf": "PE"
+    }
+  ],
   "midias": [
     {
       "nome": "Olhar Direto",

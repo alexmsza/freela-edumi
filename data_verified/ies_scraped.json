@@ -1,12 +1,21 @@
 [
   {
+    "nome_faculdade": "Instituto Federal do Ceará (IFCE)",
+    "nome_departamento": "Instituto Federal de Educação, Ciência e Tecnologia do Estado do Ceará",
+    "email": "reitoria@ifce.edu.br",
+    "uf": "CE",
+    "source_url": "https://portal.ifce.edu.br/",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:12.131632+00:00"
+  },
+  {
     "nome_faculdade": "Centro Universitário Apparecido dos Santos (UNICEPLAC)",
     "nome_departamento": "Secretaria Acadêmica Geral (Campus Gama)",
     "email": "secretaria.academica@uniceplac.edu.br",
     "uf": "DF",
     "source_url": "https://www.uniceplac.edu.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Centro Universitário Euro-Americano (UNIEURO)",
@@ -15,7 +24,7 @@
     "uf": "DF",
     "source_url": "https://www.unieuro.edu.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Centro Universitário IESB",
@@ -24,7 +33,7 @@
     "uf": "DF",
     "source_url": "https://www.iesb.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Centro Universitário IESB",
@@ -33,7 +42,7 @@
     "uf": "DF",
     "source_url": "https://www.iesb.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Centro Universitário LS (UniLS)",
@@ -42,7 +51,7 @@
     "uf": "DF",
     "source_url": "https://www.unils.edu.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Centro Universitário Processus (UniProcessus)",
@@ -51,7 +60,7 @@
     "uf": "DF",
     "source_url": "https://institutoprocessus.com.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Centro Universitário Projeção (UniProjeção)",
@@ -60,7 +69,7 @@
     "uf": "DF",
     "source_url": "https://projecao.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Centro Universitário Projeção (UniProjeção)",
@@ -69,7 +78,7 @@
     "uf": "DF",
     "source_url": "https://projecao.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Centro Universitário Projeção (UniProjeção)",
@@ -78,7 +87,7 @@
     "uf": "DF",
     "source_url": "https://projecao.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Centro Universitário Projeção (UniProjeção)",
@@ -87,7 +96,7 @@
     "uf": "DF",
     "source_url": "https://projecao.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Centro Universitário Projeção (UniProjeção)",
@@ -96,7 +105,7 @@
     "uf": "DF",
     "source_url": "https://projecao.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Centro Universitário Projeção (UniProjeção)",
@@ -105,7 +114,7 @@
     "uf": "DF",
     "source_url": "https://projecao.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Centro Universitário de Brasília (CEUB / UniCEUB)",
@@ -114,7 +123,7 @@
     "uf": "DF",
     "source_url": "https://www.uniceub.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Centro Universitário de Brasília (CEUB / UniCEUB)",
@@ -123,7 +132,7 @@
     "uf": "DF",
     "source_url": "https://www.uniceub.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Centro Universitário de Brasília (CEUB / UniCEUB)",
@@ -132,7 +141,7 @@
     "uf": "DF",
     "source_url": "https://www.uniceub.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Centro Universitário de Brasília (CEUB / UniCEUB)",
@@ -141,7 +150,7 @@
     "uf": "DF",
     "source_url": "https://www.uniceub.br/ouvidoria",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Centro Universitário de Brasília (CEUB / UniCEUB)",
@@ -150,7 +159,7 @@
     "uf": "DF",
     "source_url": "https://www.uniceub.br/ouvidoria",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Centro Universitário do Distrito Federal (UDF)",
@@ -159,7 +168,7 @@
     "uf": "DF",
     "source_url": "https://www.udf.edu.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Escola Nacional de Administração Pública (ENAP)",
@@ -168,7 +177,7 @@
     "uf": "DF",
     "source_url": "https://www.enap.gov.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
@@ -177,7 +186,7 @@
     "uf": "DF",
     "source_url": "https://www.escs.edu.br/institucional/contatos/",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
@@ -186,7 +195,7 @@
     "uf": "DF",
     "source_url": "https://www.escs.edu.br/institucional/contatos/",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
@@ -195,7 +204,7 @@
     "uf": "DF",
     "source_url": "https://www.escs.edu.br/institucional/contatos/",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
@@ -204,7 +213,7 @@
     "uf": "DF",
     "source_url": "https://www.escs.edu.br/institucional/contatos/",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
@@ -213,7 +222,7 @@
     "uf": "DF",
     "source_url": "https://www.escs.edu.br/institucional/contatos/",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
@@ -222,7 +231,7 @@
     "uf": "DF",
     "source_url": "https://www.escs.edu.br/institucional/contatos/",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
@@ -231,7 +240,7 @@
     "uf": "DF",
     "source_url": "https://www.escs.edu.br/institucional/contatos/",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
@@ -240,7 +249,7 @@
     "uf": "DF",
     "source_url": "https://www.escs.edu.br/institucional/contatos/",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
@@ -249,7 +258,7 @@
     "uf": "DF",
     "source_url": "https://www.escs.edu.br/institucional/contatos/",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
@@ -258,7 +267,7 @@
     "uf": "DF",
     "source_url": "https://www.escs.edu.br/institucional/contatos/",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
@@ -267,7 +276,7 @@
     "uf": "DF",
     "source_url": "https://www.escs.edu.br/institucional/contatos/",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
@@ -276,7 +285,7 @@
     "uf": "DF",
     "source_url": "https://www.escs.edu.br/institucional/contatos/",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
@@ -285,7 +294,7 @@
     "uf": "DF",
     "source_url": "https://www.escs.edu.br/institucional/contatos/",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
@@ -294,7 +303,7 @@
     "uf": "DF",
     "source_url": "https://www.escs.edu.br/institucional/contatos/",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
@@ -303,7 +312,7 @@
     "uf": "DF",
     "source_url": "https://www.escs.edu.br/institucional/contatos/",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
@@ -312,7 +321,7 @@
     "uf": "DF",
     "source_url": "https://www.escs.edu.br/institucional/contatos/",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Escola de Governo Fiocruz Brasília (EGF-Brasília)",
@@ -321,7 +330,7 @@
     "uf": "DF",
     "source_url": "https://www.fiocruzbrasilia.fiocruz.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Faculdade CNA (Brasília)",
@@ -330,7 +339,7 @@
     "uf": "DF",
     "source_url": "https://faculdadecna.com.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Faculdade Presbiteriana Mackenzie Brasília (FPMB)",
@@ -339,7 +348,7 @@
     "uf": "DF",
     "source_url": "https://www.mackenzie.br/faculdade-brasilia",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Faculdade Republicana (Brasília)",
@@ -348,7 +357,7 @@
     "uf": "DF",
     "source_url": "https://faculdaderepublicana.org.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Faculdade Republicana (Brasília)",
@@ -357,7 +366,7 @@
     "uf": "DF",
     "source_url": "https://faculdaderepublicana.org.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Faculdade Republicana (Brasília)",
@@ -366,7 +375,7 @@
     "uf": "DF",
     "source_url": "https://faculdaderepublicana.org.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Faculdade Republicana (Brasília)",
@@ -375,7 +384,7 @@
     "uf": "DF",
     "source_url": "https://faculdaderepublicana.org.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Faculdade de Tecnologia e Inovação Senac Distrito Federal",
@@ -384,7 +393,7 @@
     "uf": "DF",
     "source_url": "https://www.df.senac.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Faculdade de Tecnologia e Inovação Senac Distrito Federal",
@@ -393,7 +402,7 @@
     "uf": "DF",
     "source_url": "https://www.df.senac.br/faculdade/",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Faculdade de Tecnologia e Inovação Senac Distrito Federal",
@@ -402,7 +411,7 @@
     "uf": "DF",
     "source_url": "https://www.df.senac.br/faculdade/",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Fundação Getulio Vargas — Escola de Políticas Públicas e Governo (FGV EPPG Brasília)",
@@ -411,7 +420,7 @@
     "uf": "DF",
     "source_url": "https://eppg.fgv.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Fundação Getulio Vargas — Polo Brasília (FGV)",
@@ -420,7 +429,7 @@
     "uf": "DF",
     "source_url": "https://educacao-executiva.fgv.br/df/brasilia",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS)",
@@ -429,7 +438,7 @@
     "uf": "DF",
     "source_url": "https://www.fepecs.edu.br/contatos",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS)",
@@ -438,7 +447,7 @@
     "uf": "DF",
     "source_url": "https://www.fepecs.edu.br/contatos",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS)",
@@ -447,7 +456,7 @@
     "uf": "DF",
     "source_url": "https://www.fepecs.edu.br/contatos",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS)",
@@ -456,7 +465,7 @@
     "uf": "DF",
     "source_url": "https://www.fepecs.edu.br/contatos",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS)",
@@ -465,7 +474,7 @@
     "uf": "DF",
     "source_url": "https://www.fepecs.edu.br/contatos",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS)",
@@ -474,7 +483,7 @@
     "uf": "DF",
     "source_url": "https://www.fepecs.edu.br/contatos",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS)",
@@ -483,7 +492,7 @@
     "uf": "DF",
     "source_url": "https://www.fepecs.edu.br/contatos",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa (IDP)",
@@ -492,7 +501,7 @@
     "uf": "DF",
     "source_url": "https://www.idp.edu.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa (IDP)",
@@ -501,7 +510,7 @@
     "uf": "DF",
     "source_url": "https://www.idp.edu.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Brasília",
@@ -510,7 +519,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/brasilia",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Brasília",
@@ -519,7 +528,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/brasilia",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Brasília",
@@ -528,7 +537,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/brasilia",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Ceilândia",
@@ -537,7 +546,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/ceilandia",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Ceilândia",
@@ -546,7 +555,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/ceilandia",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Ceilândia",
@@ -555,7 +564,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/ceilandia",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Ceilândia",
@@ -564,7 +573,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/ceilandia",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Ceilândia",
@@ -573,7 +582,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/ceilandia",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Ceilândia",
@@ -582,7 +591,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/ceilandia",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Estrutural",
@@ -591,7 +600,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/estrutural",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Estrutural",
@@ -600,7 +609,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/estrutural",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Estrutural",
@@ -609,7 +618,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/estrutural",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Estrutural",
@@ -618,7 +627,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/estrutural",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Estrutural",
@@ -627,7 +636,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/estrutural",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Gama",
@@ -636,7 +645,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/gama",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Gama",
@@ -645,7 +654,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/gama",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Gama",
@@ -654,7 +663,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/gama",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Gama",
@@ -663,7 +672,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/gama",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Gama",
@@ -672,7 +681,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/gama",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Planaltina",
@@ -681,7 +690,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/planaltina",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Planaltina",
@@ -690,7 +699,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/planaltina",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Planaltina",
@@ -699,7 +708,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/planaltina",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Planaltina",
@@ -708,7 +717,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/planaltina",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Planaltina",
@@ -717,7 +726,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/planaltina",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Planaltina",
@@ -726,7 +735,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/planaltina",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Recanto das Emas",
@@ -735,7 +744,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/recantodasemas",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Recanto das Emas",
@@ -744,7 +753,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/recantodasemas",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Recanto das Emas",
@@ -753,7 +762,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/recantodasemas",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Recanto das Emas",
@@ -762,7 +771,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/recantodasemas",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Recanto das Emas",
@@ -771,7 +780,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/recantodasemas",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Recanto das Emas",
@@ -780,7 +789,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/recantodasemas",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Riacho Fundo",
@@ -789,7 +798,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/riachofundo",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Riacho Fundo",
@@ -798,7 +807,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/riachofundo",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Riacho Fundo",
@@ -807,7 +816,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/riachofundo",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Riacho Fundo",
@@ -816,7 +825,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/riachofundo",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Samambaia",
@@ -825,7 +834,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/samambaia",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Samambaia",
@@ -834,7 +843,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/samambaia",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Samambaia",
@@ -843,7 +852,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/samambaia",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Samambaia",
@@ -852,7 +861,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/samambaia",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus São Sebastião",
@@ -861,7 +870,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/sao-sebastiao",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus São Sebastião",
@@ -870,7 +879,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/sao-sebastiao",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus São Sebastião",
@@ -879,7 +888,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/sao-sebastiao",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus São Sebastião",
@@ -888,7 +897,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/sao-sebastiao",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus São Sebastião",
@@ -897,7 +906,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/sao-sebastiao",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Taguatinga",
@@ -906,7 +915,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/taguatinga",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Taguatinga",
@@ -915,7 +924,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/taguatinga",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Taguatinga",
@@ -924,7 +933,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/taguatinga",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Taguatinga",
@@ -933,7 +942,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/taguatinga",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Taguatinga",
@@ -942,7 +951,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/taguatinga",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Taguatinga",
@@ -951,7 +960,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/taguatinga",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
@@ -960,7 +969,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/reitoria",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
@@ -969,7 +978,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/reitoria",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
@@ -978,7 +987,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/reitoria",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
@@ -987,7 +996,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/reitoria",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
@@ -996,7 +1005,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/reitoria",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
@@ -1005,7 +1014,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/reitoria",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
@@ -1014,7 +1023,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/reitoria",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
@@ -1023,7 +1032,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/reitoria",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
@@ -1032,7 +1041,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/reitoria",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
@@ -1041,7 +1050,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/estude-no-ifb",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
@@ -1050,7 +1059,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/reitoria",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
@@ -1059,7 +1068,7 @@
     "uf": "DF",
     "source_url": "https://www.ifb.edu.br/reitoria",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "SENAI Distrito Federal — Sistema FIBRA",
@@ -1068,7 +1077,7 @@
     "uf": "DF",
     "source_url": "https://www.sistemafibra.org.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "SENAI Distrito Federal — Sistema FIBRA",
@@ -1077,7 +1086,7 @@
     "uf": "DF",
     "source_url": "https://www.sistemafibra.org.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "SENAI Distrito Federal — Sistema FIBRA",
@@ -1086,7 +1095,7 @@
     "uf": "DF",
     "source_url": "https://www.sistemafibra.org.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "SENAI Distrito Federal — Sistema FIBRA",
@@ -1095,7 +1104,7 @@
     "uf": "DF",
     "source_url": "https://www.sistemafibra.org.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Universidade Católica de Brasília (UCB)",
@@ -1104,7 +1113,7 @@
     "uf": "DF",
     "source_url": "https://ucb.catolica.edu.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Universidade Católica de Brasília (UCB)",
@@ -1113,7 +1122,7 @@
     "uf": "DF",
     "source_url": "https://www.ubec.edu.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Universidade Católica de Brasília (UCB)",
@@ -1122,7 +1131,7 @@
     "uf": "DF",
     "source_url": "https://ucb.catolica.edu.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Universidade de Brasília (UnB)",
@@ -1131,7 +1140,7 @@
     "uf": "DF",
     "source_url": "https://fe.unb.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Universidade de Brasília (UnB)",
@@ -1140,7 +1149,7 @@
     "uf": "DF",
     "source_url": "https://il.unb.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Universidade de Brasília (UnB)",
@@ -1149,7 +1158,7 @@
     "uf": "DF",
     "source_url": "https://dac.unb.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Universidade de Brasília (UnB)",
@@ -1158,7 +1167,7 @@
     "uf": "DF",
     "source_url": "https://fd.unb.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Universidade de Brasília (UnB)",
@@ -1167,7 +1176,7 @@
     "uf": "DF",
     "source_url": "https://daf.unb.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Universidade de Brasília (UnB)",
@@ -1176,7 +1185,7 @@
     "uf": "DF",
     "source_url": "https://deg.unb.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Universidade de Brasília (UnB)",
@@ -1185,7 +1194,7 @@
     "uf": "DF",
     "source_url": "https://dgp.unb.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Universidade de Brasília (UnB)",
@@ -1194,7 +1203,7 @@
     "uf": "DF",
     "source_url": "https://ceam.unb.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Universidade de Brasília (UnB)",
@@ -1203,7 +1212,7 @@
     "uf": "DF",
     "source_url": "https://dpg.unb.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Universidade de Brasília (UnB)",
@@ -1212,7 +1221,7 @@
     "uf": "DF",
     "source_url": "https://dpi.unb.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Universidade de Brasília (UnB)",
@@ -1221,7 +1230,7 @@
     "uf": "DF",
     "source_url": "https://dpo.unb.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Universidade de Brasília (UnB)",
@@ -1230,7 +1239,7 @@
     "uf": "DF",
     "source_url": "https://fce.unb.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Universidade de Brasília (UnB)",
@@ -1239,7 +1248,7 @@
     "uf": "DF",
     "source_url": "https://fm.unb.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Universidade de Brasília (UnB)",
@@ -1248,7 +1257,7 @@
     "uf": "DF",
     "source_url": "https://unb.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Universidade de Brasília (UnB)",
@@ -1257,7 +1266,7 @@
     "uf": "DF",
     "source_url": "https://ouvidoria.unb.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Universidade de Brasília (UnB)",
@@ -1266,7 +1275,7 @@
     "uf": "DF",
     "source_url": "https://ceam.unb.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Universidade de Brasília (UnB)",
@@ -1275,7 +1284,7 @@
     "uf": "DF",
     "source_url": "https://ceam.unb.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Universidade de Brasília (UnB)",
@@ -1284,7 +1293,7 @@
     "uf": "DF",
     "source_url": "https://unb.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Universidade de Brasília (UnB)",
@@ -1293,7 +1302,7 @@
     "uf": "DF",
     "source_url": "https://saa.unb.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
     "nome_faculdade": "Universidade de Brasília (UnB)",
@@ -1302,6 +1311,258 @@
     "uf": "DF",
     "source_url": "https://secom.unb.br",
     "http_status": 200,
-    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+    "scraped_at": "2026-10-27T21:04:56.729549+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Rio de Janeiro (UFRJ)",
+    "nome_departamento": "Atendimento Institucional / Secretaria Geral",
+    "email": "claudiamendes@reitoria.ufrj.br",
+    "uf": "RJ",
+    "source_url": "https://ufrj.br/a-ufrj/contatos/",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:00.131986+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Rio de Janeiro (UFRJ)",
+    "nome_departamento": "Atendimento Institucional / Secretaria Geral",
+    "email": "portal@ufrj.br",
+    "uf": "RJ",
+    "source_url": "https://ufrj.br/a-ufrj/contatos/",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:00.131986+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal do Rio Grande do Sul (IFRS)",
+    "nome_departamento": "Assessoria de Ações Afirmativas, Inclusivas e de Diversidade",
+    "email": "acoes.inclusivas@ifrs.edu.br",
+    "uf": "RS",
+    "source_url": "https://ifrs.edu.br/contato/",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:01.665516+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal do Rio Grande do Sul (IFRS)",
+    "nome_departamento": "Comunicação / Imprensa",
+    "email": "comunicacao@ifrs.edu.br",
+    "uf": "RS",
+    "source_url": "https://ifrs.edu.br/contato/",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:01.665516+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal do Rio Grande do Sul (IFRS)",
+    "nome_departamento": "Reitoria",
+    "email": "gabinete@ifrs.edu.br",
+    "uf": "RS",
+    "source_url": "https://ifrs.edu.br/contato/",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:01.665516+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal do Rio Grande do Sul (IFRS)",
+    "nome_departamento": "Processo Seletivo do IFRS (dúvidas)",
+    "email": "processoseletivo@ifrs.edu.br",
+    "uf": "RS",
+    "source_url": "https://ifrs.edu.br/contato/",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:01.665516+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+    "nome_departamento": "Câmpus Araranguá",
+    "email": "assessoria.ararangua@ifsc.edu.br",
+    "uf": "SC",
+    "source_url": "https://www.ifsc.edu.br/fale-conosco",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:01.487811+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+    "nome_departamento": "Câmpus Canoinhas",
+    "email": "assessoria.canoinhas@ifsc.edu.br",
+    "uf": "SC",
+    "source_url": "https://www.ifsc.edu.br/fale-conosco",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:01.487811+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+    "nome_departamento": "Câmpus Chapecó",
+    "email": "assessoria.chapeco@ifsc.edu.br",
+    "uf": "SC",
+    "source_url": "https://www.ifsc.edu.br/fale-conosco",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:01.487811+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+    "nome_departamento": "Câmpus Florianópolis-Continente",
+    "email": "assessoria.continente@ifsc.edu.br",
+    "uf": "SC",
+    "source_url": "https://www.ifsc.edu.br/fale-conosco",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:01.487811+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+    "nome_departamento": "Câmpus Criciúma",
+    "email": "assessoria.criciuma@ifsc.edu.br",
+    "uf": "SC",
+    "source_url": "https://www.ifsc.edu.br/fale-conosco",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:01.487811+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+    "nome_departamento": "Câmpus Gaspar",
+    "email": "assessoria.gaspar@ifsc.edu.br",
+    "uf": "SC",
+    "source_url": "https://www.ifsc.edu.br/fale-conosco",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:01.487811+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+    "nome_departamento": "Câmpus Lages",
+    "email": "assessoria.lages@ifsc.edu.br",
+    "uf": "SC",
+    "source_url": "https://www.ifsc.edu.br/fale-conosco",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:01.487811+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+    "nome_departamento": "Câmpus Jaraguá do Sul - Rau",
+    "email": "assessoria.rau@ifsc.edu.br",
+    "uf": "SC",
+    "source_url": "https://www.ifsc.edu.br/fale-conosco",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:01.487811+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+    "nome_departamento": "Câmpus São Carlos",
+    "email": "assessoria.saocarlos@ifsc.edu.br",
+    "uf": "SC",
+    "source_url": "https://www.ifsc.edu.br/fale-conosco",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:01.487811+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+    "nome_departamento": "Câmpus Avançado São Lourenço do Oeste",
+    "email": "assessoria.slo@ifsc.edu.br",
+    "uf": "SC",
+    "source_url": "https://www.ifsc.edu.br/fale-conosco",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:01.487811+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+    "nome_departamento": "Câmpus São Miguel do Oeste",
+    "email": "assessoria.smo@ifsc.edu.br",
+    "uf": "SC",
+    "source_url": "https://www.ifsc.edu.br/fale-conosco",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:01.487811+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+    "nome_departamento": "Câmpus Urupema",
+    "email": "assessoria.urupema@ifsc.edu.br",
+    "uf": "SC",
+    "source_url": "https://www.ifsc.edu.br/fale-conosco",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:01.487811+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+    "nome_departamento": "Câmpus Xanxerê",
+    "email": "assessoria.xanxere@ifsc.edu.br",
+    "uf": "SC",
+    "source_url": "https://www.ifsc.edu.br/fale-conosco",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:01.487811+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+    "nome_departamento": "Câmpus Caçador",
+    "email": "atendimento.cdr@ifsc.edu.br",
+    "uf": "SC",
+    "source_url": "https://www.ifsc.edu.br/fale-conosco",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:01.487811+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+    "nome_departamento": "Câmpus Garopaba",
+    "email": "cere.garopaba@ifsc.edu.br",
+    "uf": "SC",
+    "source_url": "https://www.ifsc.edu.br/fale-conosco",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:01.487811+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+    "nome_departamento": "Câmpus Palhoça Bilíngue",
+    "email": "contato.palhoca@ifsc.edu.br",
+    "uf": "SC",
+    "source_url": "https://www.ifsc.edu.br/fale-conosco",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:01.487811+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+    "nome_departamento": "Câmpus Itajaí",
+    "email": "direcao.itajai@ifsc.edu.br",
+    "uf": "SC",
+    "source_url": "https://www.ifsc.edu.br/fale-conosco",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:01.487811+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+    "nome_departamento": "Câmpus Jaraguá do Sul - Centro",
+    "email": "direcao.jaragua@ifsc.edu.br",
+    "uf": "SC",
+    "source_url": "https://www.ifsc.edu.br/fale-conosco",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:01.487811+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+    "nome_departamento": "Câmpus Joinville",
+    "email": "direcao.joinville@ifsc.edu.br",
+    "uf": "SC",
+    "source_url": "https://www.ifsc.edu.br/fale-conosco",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:01.487811+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+    "nome_departamento": "Câmpus São José",
+    "email": "gabinete.sje@ifsc.edu.br",
+    "uf": "SC",
+    "source_url": "https://www.ifsc.edu.br/fale-conosco",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:01.487811+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+    "nome_departamento": "Câmpus Tubarão",
+    "email": "gabinete.tub@ifsc.edu.br",
+    "uf": "SC",
+    "source_url": "https://www.ifsc.edu.br/fale-conosco",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:01.487811+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
+    "nome_departamento": "Câmpus Joinville",
+    "email": "secretariaacademica.joinville@ifsc.edu.br",
+    "uf": "SC",
+    "source_url": "https://www.ifsc.edu.br/fale-conosco",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T21:05:01.487811+00:00"
   }
 ]

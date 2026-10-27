@@ -303,6 +303,7 @@ Instituição Acadêmica,STEM,computacao.cct@ufca.edu.br,CE
 Instituição Acadêmica,STEM,computacao@crateus.ufc.br,CE
 Instituição Acadêmica,Setor de Técnologia ou Matématica,carlaoliveira@unilab.edu.br,CE
 Instituição Acadêmica,Universidade Federal do Ceará,ouvidoria@ufc.br,CE
+Instituto Federal do Ceará (IFCE),"Instituto Federal de Educação, Ciência e Tecnologia do Estado do Ceará",reitoria@ifce.edu.br,CE
 UFC,Departamento / Coordenação de Psicologia,ericaatem@ufc.br,CE
 UFC,Secretaria Acadêmica / Registro Escolar,secretariaquixada@ufc.br,CE
 UFCA,Reitoria / Gabinete,reitor@ufca.edu.br,CE
@@ -972,6 +973,8 @@ UNIRIO,Setor de Técnologia ou Matématica,eia@uniriotec.br,RJ
 UNIRIO,Universidade Federal do Estado do Rio de Janeiro,faleconosco@unirio.br,RJ
 UNISUAM,Assessoria de Comunicação (ASCOM),imprensa@unisuam.edu.br,RJ
 USU,Universidade Santa Úrsula,usu@usu.br,RJ
+Universidade Federal do Rio de Janeiro (UFRJ),Atendimento Institucional / Secretaria Geral,claudiamendes@reitoria.ufrj.br,RJ
+Universidade Federal do Rio de Janeiro (UFRJ),Atendimento Institucional / Secretaria Geral,portal@ufrj.br,RJ
 IFRN,Atendimento Institucional / Secretaria Geral,joao.costa@ifrn.edu.br,RN
 IFRN,Atendimento Institucional / Secretaria Geral,luciano.alexandre@ifrn.edu.br,RN
 IFRN,Atendimento Institucional / Secretaria Geral,demostenes.sena@ifrn.edu.br,RN
@@ -1013,7 +1016,6 @@ IFFarroupilha,Atendimento Institucional / Secretaria Geral,coordads.svs@iffarrou
 IFFarroupilha,Atendimento Institucional / Secretaria Geral,gleizer.voss@iffarroupilha.edu.br,RS
 IFFarroupilha,Atendimento Institucional / Secretaria Geral,rosana.wagner@iffarroupilha.edu.br,RS
 IFFarroupilha - cads,Atendimento Institucional / Secretaria Geral,cads.al@iffarroupilha.edu.br,RS
-IFRS,Assessoria de Comunicação (ASCOM),comunicacao@ifrs.edu.br,RS
 IFRS,Assessoria de Comunicação (ASCOM),comunicacao@bento.ifrs.edu.br,RS
 IFRS,Assessoria de Comunicação (ASCOM),comunicacao@canoas.ifrs.edu.br,RS
 IFRS,Assessoria de Comunicação (ASCOM),comunicacao@caxias.ifrs.edu.br,RS
@@ -1037,6 +1039,10 @@ Instituição Acadêmica,Setor de Técnologia ou Matématica,ccmatematicaaplicad
 Instituição Acadêmica,Universidade Federal de Santa Maria,protocolo@ufsm.br,RS
 Instituição Acadêmica,Universidade Federal do Rio Grande do Sul,acessoinformacao@ufrgs.br,RS
 Instituição Acadêmica,Universidade do Vale do Rio dos Sinos,secretaria-geral@unisinos.br,RS
+Instituto Federal do Rio Grande do Sul (IFRS),"Assessoria de Ações Afirmativas, Inclusivas e de Diversidade",acoes.inclusivas@ifrs.edu.br,RS
+Instituto Federal do Rio Grande do Sul (IFRS),Comunicação / Imprensa,comunicacao@ifrs.edu.br,RS
+Instituto Federal do Rio Grande do Sul (IFRS),Processo Seletivo do IFRS (dúvidas),processoseletivo@ifrs.edu.br,RS
+Instituto Federal do Rio Grande do Sul (IFRS),Reitoria,gabinete@ifrs.edu.br,RS
 UFCSPA,Departamento / Coordenação de Psicologia,psicologia@ufcspa.edu.br,RS
 UFCSPA,Reitoria / Gabinete,reitoria@ufcspa.edu.br,RS
 UFPEL,Departamento / Coordenação de Psicologia,psicologia.ufpel@gmail.com,RS
@@ -1072,6 +1078,28 @@ Instituição Acadêmica,STEM,vestibularunificado2020@coperve.ufsc.br,SC
 Instituição Acadêmica,Setor de Técnologia ou Matématica,agiitec@uffs.edu.br,SC
 Instituição Acadêmica,Universidade Federal de Santa Catarina,contato@contato.ufsc.br,SC
 Instituição Acadêmica,Universidade do Estado de Santa Catarina,gabinetereitoria@udesc.br,SC
+Instituto Federal de Santa Catarina (IFSC),Câmpus Araranguá,assessoria.ararangua@ifsc.edu.br,SC
+Instituto Federal de Santa Catarina (IFSC),Câmpus Avançado São Lourenço do Oeste,assessoria.slo@ifsc.edu.br,SC
+Instituto Federal de Santa Catarina (IFSC),Câmpus Canoinhas,assessoria.canoinhas@ifsc.edu.br,SC
+Instituto Federal de Santa Catarina (IFSC),Câmpus Caçador,atendimento.cdr@ifsc.edu.br,SC
+Instituto Federal de Santa Catarina (IFSC),Câmpus Chapecó,assessoria.chapeco@ifsc.edu.br,SC
+Instituto Federal de Santa Catarina (IFSC),Câmpus Criciúma,assessoria.criciuma@ifsc.edu.br,SC
+Instituto Federal de Santa Catarina (IFSC),Câmpus Florianópolis-Continente,assessoria.continente@ifsc.edu.br,SC
+Instituto Federal de Santa Catarina (IFSC),Câmpus Garopaba,cere.garopaba@ifsc.edu.br,SC
+Instituto Federal de Santa Catarina (IFSC),Câmpus Gaspar,assessoria.gaspar@ifsc.edu.br,SC
+Instituto Federal de Santa Catarina (IFSC),Câmpus Itajaí,direcao.itajai@ifsc.edu.br,SC
+Instituto Federal de Santa Catarina (IFSC),Câmpus Jaraguá do Sul - Centro,direcao.jaragua@ifsc.edu.br,SC
+Instituto Federal de Santa Catarina (IFSC),Câmpus Jaraguá do Sul - Rau,assessoria.rau@ifsc.edu.br,SC
+Instituto Federal de Santa Catarina (IFSC),Câmpus Joinville,direcao.joinville@ifsc.edu.br,SC
+Instituto Federal de Santa Catarina (IFSC),Câmpus Joinville,secretariaacademica.joinville@ifsc.edu.br,SC
+Instituto Federal de Santa Catarina (IFSC),Câmpus Lages,assessoria.lages@ifsc.edu.br,SC
+Instituto Federal de Santa Catarina (IFSC),Câmpus Palhoça Bilíngue,contato.palhoca@ifsc.edu.br,SC
+Instituto Federal de Santa Catarina (IFSC),Câmpus São Carlos,assessoria.saocarlos@ifsc.edu.br,SC
+Instituto Federal de Santa Catarina (IFSC),Câmpus São José,gabinete.sje@ifsc.edu.br,SC
+Instituto Federal de Santa Catarina (IFSC),Câmpus São Miguel do Oeste,assessoria.smo@ifsc.edu.br,SC
+Instituto Federal de Santa Catarina (IFSC),Câmpus Tubarão,gabinete.tub@ifsc.edu.br,SC
+Instituto Federal de Santa Catarina (IFSC),Câmpus Urupema,assessoria.urupema@ifsc.edu.br,SC
+Instituto Federal de Santa Catarina (IFSC),Câmpus Xanxerê,assessoria.xanxere@ifsc.edu.br,SC
 UFFS,Atendimento Institucional / Secretaria Geral,recktenvald@uffs.edu.br,SC
 UFSC,Atendimento Institucional / Secretaria Geral,gr@contato.ufsc.br,SC
 UFSC,Departamento / Coordenação de Psicologia,depto.psicologia@contato.ufsc.br,SC

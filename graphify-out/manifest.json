@@ -1,9 +1,9 @@
 {
   "data_payload.js": {
-    "mtime": 1793134102.292035,
-    "seen": 1793134104.8269498,
-    "ast_hash": "31034fd798cb0d905ede52f8e35b1fe9",
-    "semantic_hash": "31034fd798cb0d905ede52f8e35b1fe9"
+    "mtime": 1793136300.101624,
+    "seen": 1793136471.1899507,
+    "ast_hash": "7b6023f11f8179e0d2450928543de6fd",
+    "semantic_hash": ""
   },
   "data_staged/provenance_legacy.json": {
     "mtime": 1793133609.355902,
@@ -13,24 +13,22 @@
     "ast_empty": true
   },
   "data_verified/dns_cache.json": {
-    "mtime": 1793133609.3302314,
-    "seen": 1793133887.4317217,
-    "ast_hash": "a9fa2d33447899160de83b4a2813d648",
-    "semantic_hash": "a9fa2d33447899160de83b4a2813d648",
-    "ast_empty": true
+    "mtime": 1793135131.9113965,
+    "seen": 1793136471.1899507,
+    "ast_hash": "32acaa7d95f83896b287fb790aee9fcc",
+    "semantic_hash": ""
   },
   "pyproject.toml": {
-    "mtime": 1793130168.280198,
-    "seen": 1793131151.2268782,
-    "ast_hash": "6043698fa0ac0563957a36d10df38bbd",
-    "semantic_hash": "6043698fa0ac0563957a36d10df38bbd"
+    "mtime": 1793135065.3562016,
+    "seen": 1793136471.1899507,
+    "ast_hash": "718d91b0b41110ca2b4113ce6c7b26ad",
+    "semantic_hash": ""
   },
   "reports/audit_summary.json": {
-    "mtime": 1793134101.959665,
-    "seen": 1793134104.8316145,
-    "ast_hash": "dc4f74eebafa1a698078aa5031252684",
-    "semantic_hash": "dc4f74eebafa1a698078aa5031252684",
-    "ast_empty": true
+    "mtime": 1793136309.2268114,
+    "seen": 1793136471.1899507,
+    "ast_hash": "974e0e80961e4177cae61180bfd60800",
+    "semantic_hash": ""
   },
   "tools/__init__.py": {
     "mtime": 1793130170.341239,
@@ -69,10 +67,10 @@
     "semantic_hash": "7633723199e918902446d86cef815b5a"
   },
   "tools/scraper_social.py": {
-    "mtime": 1793130525.1803832,
-    "seen": 1793131151.227885,
-    "ast_hash": "424418a396e29e1208f4116285914cb8",
-    "semantic_hash": "424418a396e29e1208f4116285914cb8"
+    "mtime": 1793134706.2799466,
+    "seen": 1793136471.190474,
+    "ast_hash": "85ea55118d3628fb5953714b8660be91",
+    "semantic_hash": ""
   },
   "tools/uf_catalog.py": {
     "mtime": 1793130173.2851036,
@@ -81,11 +79,10 @@
     "semantic_hash": "c77b8929104c7f36e4ef906745fe3070"
   },
   "data_verified/ies_scraped.json": {
-    "mtime": 1793133615.1427472,
-    "seen": 1793133887.4317217,
-    "ast_hash": "8bdfd4fba233778558de7313983f8ed4",
-    "semantic_hash": "8bdfd4fba233778558de7313983f8ed4",
-    "ast_empty": true
+    "mtime": 1793135131.9134107,
+    "seen": 1793136471.1899507,
+    "ast_hash": "2f3273629a67e7da7dbbca36855bd1c6",
+    "semantic_hash": ""
   },
   "reports/quarantined_dead_domains.json": {
     "mtime": 1793133609.3317509,
@@ -99,5 +96,197 @@
     "seen": 1793133887.4347522,
     "ast_hash": "1a819dd4a6ca664d4ed6adf6d9a0765e",
     "semantic_hash": "1a819dd4a6ca664d4ed6adf6d9a0765e"
+  },
+  "data_verified/influencers_batch_tested.json": {
+    "mtime": 1793135432.3176703,
+    "seen": 1793136471.1899507,
+    "ast_hash": "cc8699f6484962bb149965fee96fa42b",
+    "semantic_hash": ""
+  },
+  "data_verified/motim_batch_tested.json": {
+    "mtime": 1793135328.7534108,
+    "seen": 1793136471.1899507,
+    "ast_hash": "5b18bed384bc7b4c10aa1fde9f261b12",
+    "semantic_hash": ""
+  },
+  "data_verified/national_seeds.json": {
+    "mtime": 1793134966.1307452,
+    "seen": 1793136471.1899507,
+    "ast_hash": "641fcb12fbfc3470b9dc34680a15b03f",
+    "semantic_hash": ""
+  },
+  "data_verified/social_verified.json": {
+    "mtime": 1793136284.9842677,
+    "seen": 1793136471.1899507,
+    "ast_hash": "ed928a3d65cac86b6993f5402d8e0497",
+    "semantic_hash": ""
+  },
+  "scratch/batch_append_new.json": {
+    "mtime": 1793136321.1156425,
+    "seen": 1793136471.190474,
+    "ast_hash": "7ed9713c1ec41d3257b775be237cff3e",
+    "semantic_hash": ""
+  },
+  "scratch/create_national_seeds.py": {
+    "mtime": 1793134958.874691,
+    "seen": 1793136471.190474,
+    "ast_hash": "18001762758610b24945d6c5c0b13515",
+    "semantic_hash": ""
+  },
+  "scratch/merge_all_social.py": {
+    "mtime": 1793136281.1708033,
+    "seen": 1793136471.190474,
+    "ast_hash": "b71e037a06897f799eaed6cc839dfede",
+    "semantic_hash": ""
+  },
+  "scratch/probe_expanded_social.py": {
+    "mtime": 1793135911.7368727,
+    "seen": 1793136471.190474,
+    "ast_hash": "f899beceba6cbffafbe98244dce81cb1",
+    "semantic_hash": ""
+  },
+  "scratch/probe_influencers_batch.py": {
+    "mtime": 1793135363.748885,
+    "seen": 1793136471.190474,
+    "ast_hash": "0ea3b1586f2a7d8c6efd013219798f08",
+    "semantic_hash": ""
+  },
+  "scratch/probe_motim_batch.py": {
+    "mtime": 1793135234.4554012,
+    "seen": 1793136471.190474,
+    "ast_hash": "92537046652f1ce42588a4aae3a19539",
+    "semantic_hash": ""
+  },
+  "scratch/probed_new_artists.json": {
+    "mtime": 1793136182.6532378,
+    "seen": 1793136471.190474,
+    "ast_hash": "dcdc99ce73c953bd305501b94db2d468",
+    "semantic_hash": ""
+  },
+  "scratch/probed_new_influencers.json": {
+    "mtime": 1793136182.6532378,
+    "seen": 1793136471.190474,
+    "ast_hash": "39989d1a424e4eb26fa348e0709f7944",
+    "semantic_hash": ""
+  },
+  "scratch/probed_quarantined.json": {
+    "mtime": 1793136373.374274,
+    "seen": 1793136471.190474,
+    "ast_hash": "a6c54c3c92b77d97027637f47d31ebbc",
+    "semantic_hash": ""
+  },
+  "scratch/retry_artists.json": {
+    "mtime": 1793136263.9963784,
+    "seen": 1793136471.190474,
+    "ast_hash": "2fe4b9ae61cee54f96f7dc7368c4f3b7",
+    "semantic_hash": ""
+  },
+  "scratch/retry_emoji_profiles.py": {
+    "mtime": 1793136204.774837,
+    "seen": 1793136471.190474,
+    "ast_hash": "74bf8252797d1854d0e7311a26fb8a7b",
+    "semantic_hash": ""
+  },
+  "scratch/retry_influencers.json": {
+    "mtime": 1793136263.997551,
+    "seen": 1793136471.190474,
+    "ast_hash": "181825832a0a4401a06d602727d9e8cd",
+    "semantic_hash": ""
+  },
+  "scratch/retry_quarantined.json": {
+    "mtime": 1793136263.9984293,
+    "seen": 1793136471.190474,
+    "ast_hash": "d751713988987e9331980363e24189ce",
+    "semantic_hash": ""
+  },
+  "scratch/sync_new_to_gsheets.py": {
+    "mtime": 1793136059.0142543,
+    "seen": 1793136471.190474,
+    "ast_hash": "7fb90cef235b6a16bbbe4316653af6fd",
+    "semantic_hash": ""
+  },
+  "scratch/verify_live_counts.py": {
+    "mtime": 1793136343.414046,
+    "seen": 1793136471.190474,
+    "ast_hash": "e5f30d23772d22370837d8a89240d94e",
+    "semantic_hash": ""
+  },
+  "tools/generate_expurgation_list.py": {
+    "mtime": 1793136009.225976,
+    "seen": 1793136471.190474,
+    "ast_hash": "2e31b80b8965bfc25394feb1cce173f7",
+    "semantic_hash": ""
+  },
+  "LISTA_DE_ITENS_EXPURGADOS_E_QUARENTENA.md": {
+    "mtime": 1793136378.5782254,
+    "seen": 1793136471.190474,
+    "ast_hash": "232f015f11e2a350e308aecb63ad4ccf",
+    "semantic_hash": ""
+  },
+  "PLANO_DE_EXECUCAO.md": {
+    "mtime": 1793136427.1424632,
+    "seen": 1793136471.190474,
+    "ast_hash": "5ee975c44bb0bd3b7f5e35db20ec2a57",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1793136445.3956835,
+    "seen": 1793136471.190474,
+    "ast_hash": "c2d5f35e79b85cddd032d589616ae464",
+    "semantic_hash": ""
+  },
+  "app.html": {
+    "mtime": 1793133878.8971052,
+    "seen": 1793136471.190474,
+    "ast_hash": "884f6e9adc352c3d4262bf297bc19642",
+    "semantic_hash": ""
+  },
+  "dashboard.html": {
+    "mtime": 1793133878.9002132,
+    "seen": 1793136471.190474,
+    "ast_hash": "8c2c11a30ed89dd83d31409495d54cdf",
+    "semantic_hash": ""
+  },
+  "data_raw/artistas_motim_brutos.txt": {
+    "mtime": 1793069052.8721714,
+    "seen": 1793136471.190474,
+    "ast_hash": "bfde18810b213614a8ba800561c047d5",
+    "semantic_hash": ""
+  },
+  "data_raw/pre-selecionados-n22.txt": {
+    "mtime": 1793068966.682484,
+    "seen": 1793136471.190474,
+    "ast_hash": "67076e2c1162245d8b54d07729b2a644",
+    "semantic_hash": ""
+  },
+  "data_raw/pre-selecionados-n23.txt": {
+    "mtime": 1793068977.4216506,
+    "seen": 1793136471.190474,
+    "ast_hash": "da796a20238af397915f3e8ee68293d8",
+    "semantic_hash": ""
+  },
+  "index.html": {
+    "mtime": 1793133878.8971052,
+    "seen": 1793136471.190474,
+    "ast_hash": "884f6e9adc352c3d4262bf297bc19642",
+    "semantic_hash": ""
+  },
+  "oquefazer.txt": {
+    "mtime": 1793064014.7423294,
+    "seen": 1793136471.190474,
+    "ast_hash": "6ad159930224c156b9800175b6375001",
+    "semantic_hash": ""
+  },
+  "reports/AUDITORIA_QUALIDADE.md": {
+    "mtime": 1793136309.2268114,
+    "seen": 1793136471.190474,
+    "ast_hash": "11e809eeb0fdec7f191d4b4d86d01599",
+    "semantic_hash": ""
+  },
+  "reports/RELATORIO_ITENS_EXPURGADOS_E_QUARENTENA.md": {
+    "mtime": 1793136378.5792263,
+    "seen": 1793136471.190474,
+    "ast_hash": "232f015f11e2a350e308aecb63ad4ccf",
+    "semantic_hash": ""
   }
 }

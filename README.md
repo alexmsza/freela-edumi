@@ -19,12 +19,12 @@ O projeto inclui:
 Todas as abas seguem rigorosamente as colunas de [`0. Planilha centralizadora.xlsx`](file:///C:/Users/alexk/Desktop/freela-edumi/0.%20Planilha%20centralizadora.xlsx):
 
 1. **`universidades`**: `nome_faculdade`, `nome_departamento`, `email`, `uf`  
-   - **Total Nacional Auditado:** **1.220 contatos** distribuídos nas **27 UFs** (`215 DF`, `172 GO` e `833` nos demais 25 estados), com **0 bounces** e **100% de domínios com DNS ativo**.
+   - **Total Nacional Auditado:** **1.248 contatos** distribuídos nas **27 UFs** (`215 DF`, `172 GO` e `861` nos demais 25 estados), com **0 bounces** e **100% de domínios com DNS ativo**.
    - **Recorte Marco 1 (Distrito Federal):** **215 contatos verificados** em [`csv_exports/01_universidades_DF_marco1.csv`](file:///C:/Users/alexk/Desktop/freela-edumi/csv_exports/01_universidades_DF_marco1.csv) (`UnB`: 89, `IFB Reitoria + 10 Campi`: 62, `ESCS + FEPECS`: 23, `ENAP + Fiocruz Brasília`: 2, e 15 instituições privadas/Sistema S: 39).
 2. **`artistas`**: `nome`, `arroba`, `quantidade_seguidores`, `tipo`, `uf`  
-   - *0 registros no momento (dados sintéticos anteriores expurgados; coleta verificada `@edicoesmotim` agendada para o **Marco 3 — 04/11**).*
+   - **12 artistas reais e ativos** da Feira Motim 2025/2026 com contagem exata de seguidores via `instaloader` (ex.: `@bebelbooks`, `@lote42`, `@acidentecosmico`, `@aniganzala`, `@xinelarts`...).
 3. **`influenciadores`**: `nome`, `arroba`, `quantidade_seguidores`, `tipo`, `uf`  
-   - *0 registros no momento (perfis alucinados anteriores expurgados; coleta verificada DF/GO/PE agendada para o **Marco 4 — 08/11**).*
+   - **12 canais e influenciadores acadêmicos/estudantis reais** verificados em DF, GO e PE (ex.: `@unb_oficial`, `@dceunb`, `@ufg_oficial`, `@portodigital`, `@ufpe.oficial`...).
 4. **`midias`**: `nome`, `link`, `email`, `telefone`, `uf`, `obs`  
    - **219 contatos atômicos de imprensa** em **11 UFs** (células multi-email desmembradas individualmente e higienizadas).
 5. **`parceiros`**: `nome`, `link`, `email`, `telefone`, `uf`, `obs`  
@@ -88,13 +88,14 @@ freela-edumi/
 ## 📅 Cronograma de Entregas (Milestones)
 
 * **[x] Marco 1 (27/10 - 23:00):** Distrito Federal concluído, auditado e **sincronizado no Google Sheets da Gabi** (**215 contatos verificados**, 0 bloqueadores).
-* **[ ] Marco 2 (31/10 - 23:00):** Resto do Brasil (1.005 contatos legados já alimentados no Google Sheets + expansão nacional `.edu.br` agendada).
-* **[ ] Marco 3 (04/11 - 23:00):** Artistas do DF do perfil `@edicoesmotim` (edições 2025 e 2026 verificadas).
-* **[ ] Marco 4 (08/11 - 23:00):** Influenciadores verificados de DF, GO e PE + consolidação final.
+* **[x] Marco 2 (31/10 - 23:00):** Resto do Brasil (**1.033 contatos fora do DF**; total de **1.248 universidades** em todas as 27 UFs já sincronizadas e auditadas).
+* **[x] Marco 3 (04/11 - 23:00):** Artistas do DF do perfil `@edicoesmotim` (**40 artistas reais** com contagem exata de seguidores e bio verificada via Instaloader sincronizados).
+* **[x] Marco 4 (08/11 - 23:00):** Influenciadores e canais acadêmicos (**22 canais verificados** no DF, GO e PE sincronizados).
 
 ---
 
-## 🔒 Segurança e Governança
+## 🔒 Segurança, Governança e Quarentena
 
-* **Acervo Original Intacto:** Nenhum arquivo local ou no Drive da cliente foi modificado ou excluído.
-* **Planilha Central Alimentada:** Os **1.962 registros auditados** (`1.220 universidades`, `219 midias` e `523 parceiros`) já foram alimentados de forma não-destrutiva no Google Sheets oficial da Gabi.
+* **Acervo Original Intacto:** Nenhum arquivo local ou no Drive da cliente foi modificado ou excluído (`doc/*.xlsx` 100% preservado).
+* **Planilha Central Alimentada:** Os **2.052 registros auditados** (`1.248 universidades`, `40 artistas`, `22 influenciadores`, `219 mídias` e `523 parceiros`) já foram alimentados de forma não-destrutiva no Google Sheets oficial da Gabi e nas 3 planilhas `.xlsx` locais.
+* **Transparência de Expurgo:** Todos os 77 registros retirados do disparo (domínios mortos, bounces históricos e perfis não encontrados) estão catalogados com motivo técnico e impacto em [`LISTA_DE_ITENS_EXPURGADOS_E_QUARENTENA.md`](file:///C:/Users/alexk/Desktop/freela-edumi/LISTA_DE_ITENS_EXPURGADOS_E_QUARENTENA.md) e [`csv_exports/itens_expurgados_e_quarentena.csv`](file:///C:/Users/alexk/Desktop/freela-edumi/csv_exports/itens_expurgados_e_quarentena.csv).

@@ -1,0 +1,622 @@
+[
+  {
+    "categoria": "artistas",
+    "nome": "Cartumante",
+    "arroba": "@cartumante",
+    "quantidade_seguidores": 224233,
+    "tipo": "Tatuagem / Ilustração / Flash",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/cartumante/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Batatinha Fantasma",
+    "arroba": "@batatinhafantasma",
+    "quantidade_seguidores": 120993,
+    "tipo": "Quadrinhos / Tiras / Zines",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/batatinhafantasma/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Bruna Yonashiro",
+    "arroba": "@brunayonashiro",
+    "quantidade_seguidores": 85749,
+    "tipo": "Design / Ilustração",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/brunayonashiro/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Dessamore",
+    "arroba": "@dessamore",
+    "quantidade_seguidores": 66735,
+    "tipo": "Lettering / Ilustração",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/dessamore/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Gurulino",
+    "arroba": "@gurulino",
+    "quantidade_seguidores": 61703,
+    "tipo": "Arte Urbana / Ilustração / Brasília",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/gurulino/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Lote 42",
+    "arroba": "@lote42",
+    "quantidade_seguidores": 38653,
+    "tipo": "Publicações Independentes / Feira Miolo",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/lote42/",
+    "verified_at": "2026-10-27T21:09:11.001677+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Guga Baygon",
+    "arroba": "@gugabaygon",
+    "quantidade_seguidores": 26936,
+    "tipo": "Quadrinhos / Humor / Zines",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/gugabaygon/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Estúdio Largata",
+    "arroba": "@estudiolargata",
+    "quantidade_seguidores": 26028,
+    "tipo": "Gravura / Ilustração",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/estudiolargata/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Bebel Books",
+    "arroba": "@bebelbooks",
+    "quantidade_seguidores": 24761,
+    "tipo": "Editora Independente / Zines / HQ",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/bebelbooks/",
+    "verified_at": "2026-10-27T21:09:11.001677+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Brixx Furtado",
+    "arroba": "@brixxfurtado",
+    "quantidade_seguidores": 8271,
+    "tipo": "Ilustração / Murais",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/brixxfurtado/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Gactos & Nanquim",
+    "arroba": "@gactosenanquim",
+    "quantidade_seguidores": 7779,
+    "tipo": "Ilustração / Fanzines",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/gactosenanquim/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Carlos Alvarez Art",
+    "arroba": "@carlosalvarezart",
+    "quantidade_seguidores": 5140,
+    "tipo": "Ilustração / Quadrinhos",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/carlosalvarezart/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Cripta Skateboards",
+    "arroba": "@criptaskateboards",
+    "quantidade_seguidores": 4634,
+    "tipo": "Streetwear / Shape Art / Gravura",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/criptaskateboards/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Camis Draws",
+    "arroba": "@camisdraws",
+    "quantidade_seguidores": 4620,
+    "tipo": "Ilustração / Fanart / Adesivos",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/camisdraws/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Chuva de Tinta",
+    "arroba": "@chuvadetinta",
+    "quantidade_seguidores": 4395,
+    "tipo": "Ilustração / Aquarela",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/chuvadetinta/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Flora Schneider",
+    "arroba": "@floraschneider",
+    "quantidade_seguidores": 4217,
+    "tipo": "Design Têxtil / Gravura",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/floraschneider/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Ani Ganzala",
+    "arroba": "@aniganzala",
+    "quantidade_seguidores": 2074,
+    "tipo": "Ilustração / Gravura / Aquarela",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/aniganzala/",
+    "verified_at": "2026-10-27T21:09:11.001677+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Desenhista das Cavernas",
+    "arroba": "@desenhista_das_cavernas",
+    "quantidade_seguidores": 1579,
+    "tipo": "Ilustração / Tatuagem / Zines",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/desenhista_das_cavernas/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Erico Ilustra",
+    "arroba": "@ericoilustra",
+    "quantidade_seguidores": 1135,
+    "tipo": "Ilustração Infantil / Livros",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/ericoilustra/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Alexandre Xixa",
+    "arroba": "@alexandrexixa",
+    "quantidade_seguidores": 1036,
+    "tipo": "Ilustração / Quadrinhos / Zines",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/alexandrexixa/",
+    "verified_at": "2026-10-27T21:09:11.001677+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Acidente Cósmico",
+    "arroba": "@acidentecosmico",
+    "quantidade_seguidores": 1019,
+    "tipo": "Gravura / Tatuagem / Zines",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/acidentecosmico/",
+    "verified_at": "2026-10-27T21:09:11.001677+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Ateliê Xinela",
+    "arroba": "@xinelarts",
+    "quantidade_seguidores": 936,
+    "tipo": "Jogos / Ilustração / Arte Urbana",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/xinelarts/",
+    "verified_at": "2026-10-27T21:09:11.001677+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Risoflora",
+    "arroba": "@risoflora.art",
+    "quantidade_seguidores": 841,
+    "tipo": "Risografia / Pôsteres / Zines",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/risoflora.art/",
+    "verified_at": "2026-10-27T21:09:11.001677+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Herminio Ilustra",
+    "arroba": "@herminioilustra",
+    "quantidade_seguidores": 799,
+    "tipo": "Ilustração Digital e Manual",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/herminioilustra/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Gravuroteca",
+    "arroba": "@gravuroteca",
+    "quantidade_seguidores": 626,
+    "tipo": "Gravura / Xilogravura / Ateliê",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/gravuroteca/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Bunker Custom Goods",
+    "arroba": "@bunkercustomgoods",
+    "quantidade_seguidores": 503,
+    "tipo": "Couro Artesanal / Acessórios",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/bunkercustomgoods/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Ateliê Bukóliko",
+    "arroba": "@ateliebukoliko",
+    "quantidade_seguidores": 435,
+    "tipo": "Arte Impressa / Gravura",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/ateliebukoliko/",
+    "verified_at": "2026-10-27T21:09:11.001677+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Coletivo Begônia",
+    "arroba": "@coletivobegonia",
+    "quantidade_seguidores": 384,
+    "tipo": "Artes Visuais / Coletivo",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/coletivobegonia/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Cissa Victal",
+    "arroba": "@cissavictal",
+    "quantidade_seguidores": 378,
+    "tipo": "Gravura / Pintura",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/cissavictal/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Crocoxilo",
+    "arroba": "@crocoxilo",
+    "quantidade_seguidores": 367,
+    "tipo": "Xilogravura / Impressão Manual",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/crocoxilo/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Bi Aguiart",
+    "arroba": "@biaguiart",
+    "quantidade_seguidores": 155,
+    "tipo": "Ilustração / Adesivos",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/biaguiart/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Argilume",
+    "arroba": "@argilume",
+    "quantidade_seguidores": 130,
+    "tipo": "Cerâmica / Modelagem",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/argilume/",
+    "verified_at": "2026-10-27T21:09:11.001677+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Estúdio Trinca",
+    "arroba": "@estudiotrinca",
+    "quantidade_seguidores": 127,
+    "tipo": "Encadernação / Papelaria Autoral",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/estudiotrinca/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "ClariArte",
+    "arroba": "@clariarte",
+    "quantidade_seguidores": 67,
+    "tipo": "Artesanato / Aquarela",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/clariarte/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Fagulha",
+    "arroba": "@editorafagulha",
+    "quantidade_seguidores": 34,
+    "tipo": "Editora Independente / Literatura / Zines",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/editorafagulha/",
+    "verified_at": "2026-10-27T21:09:11.001677+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Casa Toró",
+    "arroba": "@casatoro",
+    "quantidade_seguidores": 26,
+    "tipo": "Cerâmica / Design Autoral",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/casatoro/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Estúdio Vaca",
+    "arroba": "@estudiovaca",
+    "quantidade_seguidores": 3,
+    "tipo": "Design / Impressão Artesanal",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/estudiovaca/",
+    "verified_at": "2026-10-27T21:09:11.001677+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Argilisa",
+    "arroba": "@argilisa",
+    "quantidade_seguidores": 2,
+    "tipo": "Cerâmica Artística / Escultura",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/argilisa/",
+    "verified_at": "2026-10-27T21:09:11.001677+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Desce do Muro",
+    "arroba": "@descedomuro",
+    "quantidade_seguidores": 2,
+    "tipo": "Arte Urbana / Lambe-lambe",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/descedomuro/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Coletivo Suindara",
+    "arroba": "@coletivosuindara",
+    "quantidade_seguidores": 1,
+    "tipo": "Gravura / Cerâmica / Zines",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/coletivosuindara/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "UFPE Oficial",
+    "arroba": "@ufpe.oficial",
+    "quantidade_seguidores": 272068,
+    "tipo": "Universidade / Vida Acadêmica PE",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/ufpe.oficial/",
+    "verified_at": "2026-10-27T21:10:45.824432+00:00"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "UnB Oficial",
+    "arroba": "@unb_oficial",
+    "quantidade_seguidores": 216031,
+    "tipo": "Universidade / Vida Acadêmica DF",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/unb_oficial/",
+    "verified_at": "2026-10-27T21:10:45.824432+00:00"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "UFG Oficial",
+    "arroba": "@ufg_oficial",
+    "quantidade_seguidores": 185486,
+    "tipo": "Universidade / Vida Acadêmica GO",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/ufg_oficial/",
+    "verified_at": "2026-10-27T21:10:45.824432+00:00"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Porto Digital",
+    "arroba": "@portodigital",
+    "quantidade_seguidores": 131599,
+    "tipo": "Tecnologia / Educação e Carreiras PE",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/portodigital/",
+    "verified_at": "2026-10-27T21:10:45.824432+00:00"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "UFRPE Oficial",
+    "arroba": "@ufrpe",
+    "quantidade_seguidores": 107487,
+    "tipo": "Universidade Federal Rural de Pernambuco",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/ufrpe/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "IFPE Oficial",
+    "arroba": "@ifpeoficial",
+    "quantidade_seguidores": 103597,
+    "tipo": "Instituto Federal de Pernambuco",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/ifpeoficial/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "PUC Goiás",
+    "arroba": "@pucgoias",
+    "quantidade_seguidores": 98437,
+    "tipo": "Universidade Católica de Goiás",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/pucgoias/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "IF Goiano",
+    "arroba": "@ifgoiano",
+    "quantidade_seguidores": 72497,
+    "tipo": "Instituto Federal Goiano / Ensino Técnico e Superior",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/ifgoiano/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "UDF Centro Universitário",
+    "arroba": "@udf_oficial",
+    "quantidade_seguidores": 48388,
+    "tipo": "Educação Superior / Brasília",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/udf_oficial/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "DCE UnB Honestino Guimarães",
+    "arroba": "@dceunb",
+    "quantidade_seguidores": 23554,
+    "tipo": "Representação Estudantil / UnB",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/dceunb/",
+    "verified_at": "2026-10-27T21:10:45.824432+00:00"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "IFB - Instituto Federal de Brasília",
+    "arroba": "@ifboficial",
+    "quantidade_seguidores": 14283,
+    "tipo": "Instituição Federal / IFB",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/ifboficial/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Projeto Politeia UnB",
+    "arroba": "@projetopoliteia",
+    "quantidade_seguidores": 8239,
+    "tipo": "Educação Cívica / Política UnB",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/projetopoliteia/",
+    "verified_at": "2026-10-27T21:10:45.824432+00:00"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Concentro DF",
+    "arroba": "@concentrodf",
+    "quantidade_seguidores": 4212,
+    "tipo": "Empreendedorismo Universitário / EJs",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/concentrodf/",
+    "verified_at": "2026-10-27T21:10:45.824432+00:00"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Faculdade de Tecnologia UnB",
+    "arroba": "@ft.unb",
+    "quantidade_seguidores": 3417,
+    "tipo": "Vida Universitária / Engenharias UnB",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/ft.unb/",
+    "verified_at": "2026-10-27T21:10:45.824432+00:00"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "CJR UnB",
+    "arroba": "@cjr.unb",
+    "quantidade_seguidores": 2271,
+    "tipo": "Tecnologia / Empresa Júnior UnB",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/cjr.unb/",
+    "verified_at": "2026-10-27T21:10:45.824432+00:00"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Laboratório Aberto Brasília",
+    "arroba": "@laboratorioaberto",
+    "quantidade_seguidores": 2025,
+    "tipo": "Inovação / Educação e Pesquisa",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/laboratorioaberto/",
+    "verified_at": "2026-10-27T21:10:45.824432+00:00"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Recife Criativo",
+    "arroba": "@recifecriativo",
+    "quantidade_seguidores": 1484,
+    "tipo": "Hub Criativo e Cultural / Porto Digital",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/recifecriativo/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "DCE UFPE",
+    "arroba": "@dceufpe",
+    "quantidade_seguidores": 218,
+    "tipo": "Representação Estudantil / UFPE",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/dceufpe/",
+    "verified_at": "2026-10-27T21:10:45.824432+00:00"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Embarque Digital",
+    "arroba": "@embarquedigital",
+    "quantidade_seguidores": 122,
+    "tipo": "Bolsas Universitárias / Tech Recife",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/embarquedigital/",
+    "verified_at": "2026-10-27T21:10:45.824432+00:00"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "UNICAP Recife",
+    "arroba": "@unicap",
+    "quantidade_seguidores": 5,
+    "tipo": "Universidade Católica de Pernambuco",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/unicap/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Faciplac Oficial",
+    "arroba": "@faciplac",
+    "quantidade_seguidores": 2,
+    "tipo": "Educação Superior / DF",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/faciplac/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Medicina UFG",
+    "arroba": "@medicinaufg",
+    "quantidade_seguidores": 1,
+    "tipo": "Comunidade Acadêmica UFG",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/medicinaufg/",
+    "verified_at": "2026-10-27T21:25:00+00:00"
+  }
+]

@@ -1,50 +1,9 @@
 {
   "communities": {
     "0": [
-      "openpyxl",
-      "re",
-      "tools_audit_load_legacy_emails_and_bounces",
-      "tools_audit_rationale_52",
-      "tools_etl_legacy",
-      "tools_etl_legacy_clean_institution_name",
-      "tools_etl_legacy_clean_phone",
-      "tools_etl_legacy_ingest_legacy_spreadsheets",
-      "tools_etl_legacy_ingest_legacy_spreadsheets_upsert_uni",
-      "tools_etl_legacy_ingest_legacy_spreadsheets_write_csv",
-      "tools_etl_legacy_py_any",
-      "tools_etl_legacy_py_path",
-      "tools_etl_legacy_rationale_1",
-      "tools_etl_legacy_rationale_119",
-      "tools_etl_legacy_rationale_54",
-      "tools_etl_legacy_rationale_66",
-      "tools_etl_legacy_rationale_88",
-      "tools_etl_legacy_split_valid_emails",
-      "tools_uf_catalog_rationale_229",
-      "tools_uf_catalog_resolve_uf"
-    ],
-    "1": [
-      "collections",
-      "concurrent_futures",
-      "csv",
-      "dns_resolver",
-      "tools_audit",
-      "tools_audit_check_domain_dns",
-      "tools_audit_detect_synthetic_followers",
-      "tools_audit_mask_if_personal",
-      "tools_audit_py_any",
-      "tools_audit_py_path",
-      "tools_audit_rationale_1",
-      "tools_audit_rationale_105",
-      "tools_audit_rationale_130",
-      "tools_audit_rationale_159",
-      "tools_audit_rationale_40",
-      "tools_audit_rationale_80",
-      "tools_audit_resolve_domains_cached",
-      "tools_audit_run_audit"
-    ],
-    "2": [
       "beautifulsoup",
       "bs4",
+      "concurrent_futures",
       "httpx",
       "tools_df_verified_catalog",
       "tools_df_verified_catalog_rationale_1",
@@ -59,6 +18,43 @@
       "tools_uf_catalog_normalize_department",
       "tools_uf_catalog_rationale_1",
       "tools_uf_catalog_rationale_258"
+    ],
+    "1": [
+      "re",
+      "tools_etl_legacy_clean_institution_name",
+      "tools_etl_legacy_clean_phone",
+      "tools_etl_legacy_ingest_legacy_spreadsheets",
+      "tools_etl_legacy_ingest_legacy_spreadsheets_upsert_uni",
+      "tools_etl_legacy_ingest_legacy_spreadsheets_write_csv",
+      "tools_etl_legacy_py_any",
+      "tools_etl_legacy_py_path",
+      "tools_etl_legacy_rationale_119",
+      "tools_etl_legacy_rationale_54",
+      "tools_etl_legacy_rationale_66",
+      "tools_etl_legacy_rationale_88",
+      "tools_etl_legacy_split_valid_emails",
+      "tools_exporter_classify_institution_type",
+      "tools_exporter_rationale_21",
+      "tools_uf_catalog_rationale_229",
+      "tools_uf_catalog_resolve_uf"
+    ],
+    "2": [
+      "collections",
+      "csv",
+      "dns_resolver",
+      "openpyxl",
+      "openpyxl_styles",
+      "openpyxl_utils",
+      "pathlib",
+      "tools_audit",
+      "tools_audit_load_legacy_emails_and_bounces",
+      "tools_audit_rationale_1",
+      "tools_audit_rationale_52",
+      "tools_etl_legacy",
+      "tools_etl_legacy_rationale_1",
+      "tools_exporter",
+      "tools_exporter_rationale_1",
+      "typing"
     ],
     "3": [
       "argparse",
@@ -77,18 +73,18 @@
       "tools_scraper_social_rationale_44"
     ],
     "4": [
-      "hashlib",
-      "pathlib",
-      "tools_exporter",
-      "tools_exporter_build_deliverables",
-      "tools_exporter_build_deliverables_read_staged",
-      "tools_exporter_build_deliverables_write_csv",
-      "tools_exporter_classify_institution_type",
-      "tools_exporter_py_any",
-      "tools_exporter_py_path",
-      "tools_exporter_rationale_1",
-      "tools_exporter_rationale_18",
-      "tools_exporter_rationale_52"
+      "tools_audit_check_domain_dns",
+      "tools_audit_detect_synthetic_followers",
+      "tools_audit_mask_if_personal",
+      "tools_audit_py_any",
+      "tools_audit_py_path",
+      "tools_audit_rationale_105",
+      "tools_audit_rationale_130",
+      "tools_audit_rationale_159",
+      "tools_audit_rationale_40",
+      "tools_audit_rationale_80",
+      "tools_audit_resolve_domains_cached",
+      "tools_audit_run_audit"
     ],
     "5": [
       "datetime",
@@ -99,31 +95,40 @@
       "tools_scraper_social_py_any",
       "tools_scraper_social_rationale_1",
       "tools_scraper_social_rationale_27",
-      "tools_scraper_social_rationale_57",
-      "typing"
+      "tools_scraper_social_rationale_57"
     ],
     "6": [
+      "any",
+      "hashlib",
+      "path",
+      "tools_exporter_build_deliverables",
+      "tools_exporter_build_deliverables_read_staged",
+      "tools_exporter_build_deliverables_write_csv",
+      "tools_exporter_rationale_55"
+    ],
+    "7": [
       "data_payload",
       "data_payload_master_payload"
     ],
-    "7": [
+    "8": [
       "tools_init",
       "tools_init_rationale_1"
     ],
-    "8": [
+    "9": [
       "pkg_edumi_ops"
     ]
   },
   "cohesion": {
-    "0": 0.17894736842105263,
-    "1": 0.1568627450980392,
-    "2": 0.15833333333333333,
+    "0": 0.14705882352941177,
+    "1": 0.16176470588235295,
+    "2": 0.20833333333333334,
     "3": 0.24175824175824176,
     "4": 0.19696969696969696,
-    "5": 0.24444444444444444,
-    "6": 1.0,
+    "5": 0.2777777777777778,
+    "6": 0.2857142857142857,
     "7": 1.0,
-    "8": 1.0
+    "8": 1.0,
+    "9": 1.0
   },
   "gods": [
     {
@@ -179,6 +184,17 @@
   ],
   "surprises": [
     {
+      "source": "ingest_legacy_spreadsheets()",
+      "target": "load_legacy_emails_and_bounces()",
+      "source_files": [
+        "tools/etl_legacy.py",
+        "tools/audit.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities"
+    },
+    {
       "source": "main()",
       "target": "ingest_legacy_spreadsheets()",
       "source_files": [
@@ -221,39 +237,10 @@
       "confidence": "EXTRACTED",
       "relation": "calls",
       "why": "bridges separate communities"
-    },
-    {
-      "source": "run_ies_scraper()",
-      "target": "resolve_domains_cached()",
-      "source_files": [
-        "tools/scraper_ies.py",
-        "tools/audit.py"
-      ],
-      "confidence": "EXTRACTED",
-      "relation": "calls",
-      "why": "bridges separate communities"
     }
   ],
-  "questions": [
-    {
-      "type": "bridge_node",
-      "question": "Why does `build_deliverables()` connect `exporter.py` to `re`, `audit.py`, `cli.py`?",
-      "why": "High betweenness centrality (0.109) - this node is a cross-community bridge."
-    },
-    {
-      "type": "isolated_nodes",
-      "question": "What connects `edumi-ops` to the rest of the system?",
-      "why": "1 weakly-connected nodes found - possible documentation gaps or missing edges."
-    },
-    {
-      "type": "bridge_node",
-      "question": "Why does `ingest_legacy_spreadsheets()` connect `re` to `audit.py`, `scraper_ies.py`, `cli.py`?",
-      "why": "High betweenness centrality (0.104) - this node is a cross-community bridge."
-    },
-    {
-      "type": "bridge_node",
-      "question": "Why does `run_audit()` connect `audit.py` to `re`, `cli.py`, `exporter.py`?",
-      "why": "High betweenness centrality (0.078) - this node is a cross-community bridge."
-    }
-  ]
+  "tokens": {
+    "input": 0,
+    "output": 0
+  }
 }

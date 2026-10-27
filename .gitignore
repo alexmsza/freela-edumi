@@ -22,3 +22,5 @@ Thumbs.db
 
 # Temporary / Scratch files
 .system_generated/
+scratch/
+graphify-out/cache/
