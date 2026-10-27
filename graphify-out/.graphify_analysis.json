@@ -1,0 +1,246 @@
+{
+  "communities": {
+    "0": [
+      "beautifulsoup",
+      "bs4",
+      "concurrent_futures",
+      "httpx",
+      "tools_df_verified_catalog",
+      "tools_df_verified_catalog_rationale_1",
+      "tools_scraper_ies",
+      "tools_scraper_ies_extract_context_for_email",
+      "tools_scraper_ies_py_any",
+      "tools_scraper_ies_rationale_1",
+      "tools_scraper_ies_rationale_49",
+      "tools_scraper_ies_rationale_69",
+      "tools_scraper_ies_scrape_single_seed",
+      "tools_uf_catalog",
+      "tools_uf_catalog_normalize_department",
+      "tools_uf_catalog_rationale_1",
+      "tools_uf_catalog_rationale_258"
+    ],
+    "1": [
+      "re",
+      "tools_etl_legacy_clean_institution_name",
+      "tools_etl_legacy_clean_phone",
+      "tools_etl_legacy_ingest_legacy_spreadsheets",
+      "tools_etl_legacy_ingest_legacy_spreadsheets_upsert_uni",
+      "tools_etl_legacy_ingest_legacy_spreadsheets_write_csv",
+      "tools_etl_legacy_py_any",
+      "tools_etl_legacy_py_path",
+      "tools_etl_legacy_rationale_119",
+      "tools_etl_legacy_rationale_54",
+      "tools_etl_legacy_rationale_66",
+      "tools_etl_legacy_rationale_88",
+      "tools_etl_legacy_split_valid_emails",
+      "tools_exporter_classify_institution_type",
+      "tools_exporter_rationale_21",
+      "tools_uf_catalog_rationale_229",
+      "tools_uf_catalog_resolve_uf"
+    ],
+    "2": [
+      "collections",
+      "csv",
+      "dns_resolver",
+      "openpyxl",
+      "openpyxl_styles",
+      "openpyxl_utils",
+      "pathlib",
+      "tools_audit",
+      "tools_audit_load_legacy_emails_and_bounces",
+      "tools_audit_rationale_1",
+      "tools_audit_rationale_52",
+      "tools_etl_legacy",
+      "tools_etl_legacy_rationale_1",
+      "tools_exporter",
+      "tools_exporter_rationale_1",
+      "typing"
+    ],
+    "3": [
+      "argparse",
+      "json",
+      "sys",
+      "tools_cli",
+      "tools_cli_main",
+      "tools_cli_rationale_1",
+      "tools_scraper_ies_py_path",
+      "tools_scraper_ies_rationale_106",
+      "tools_scraper_ies_run_ies_scraper",
+      "tools_scraper_social_extract_motim_candidates",
+      "tools_scraper_social_import_verified_social_batch",
+      "tools_scraper_social_py_path",
+      "tools_scraper_social_rationale_103",
+      "tools_scraper_social_rationale_44"
+    ],
+    "4": [
+      "tools_audit_check_domain_dns",
+      "tools_audit_detect_synthetic_followers",
+      "tools_audit_mask_if_personal",
+      "tools_audit_py_any",
+      "tools_audit_py_path",
+      "tools_audit_rationale_105",
+      "tools_audit_rationale_130",
+      "tools_audit_rationale_159",
+      "tools_audit_rationale_40",
+      "tools_audit_rationale_80",
+      "tools_audit_resolve_domains_cached",
+      "tools_audit_run_audit"
+    ],
+    "5": [
+      "datetime",
+      "html",
+      "tools_scraper_social",
+      "tools_scraper_social_parse_follower_string",
+      "tools_scraper_social_probe_instagram_public_meta",
+      "tools_scraper_social_py_any",
+      "tools_scraper_social_rationale_1",
+      "tools_scraper_social_rationale_27",
+      "tools_scraper_social_rationale_57"
+    ],
+    "6": [
+      "any",
+      "hashlib",
+      "path",
+      "tools_exporter_build_deliverables",
+      "tools_exporter_build_deliverables_read_staged",
+      "tools_exporter_build_deliverables_write_csv",
+      "tools_exporter_rationale_55"
+    ],
+    "7": [
+      "data_payload",
+      "data_payload_master_payload"
+    ],
+    "8": [
+      "tools_init",
+      "tools_init_rationale_1"
+    ],
+    "9": [
+      "pkg_edumi_ops"
+    ]
+  },
+  "cohesion": {
+    "0": 0.14705882352941177,
+    "1": 0.16176470588235295,
+    "2": 0.20833333333333334,
+    "3": 0.24175824175824176,
+    "4": 0.19696969696969696,
+    "5": 0.2777777777777778,
+    "6": 0.2857142857142857,
+    "7": 1.0,
+    "8": 1.0,
+    "9": 1.0
+  },
+  "gods": [
+    {
+      "id": "tools_etl_legacy_ingest_legacy_spreadsheets",
+      "label": "ingest_legacy_spreadsheets()",
+      "degree": 16
+    },
+    {
+      "id": "tools_audit_run_audit",
+      "label": "run_audit()",
+      "degree": 14
+    },
+    {
+      "id": "tools_exporter_build_deliverables",
+      "label": "build_deliverables()",
+      "degree": 13
+    },
+    {
+      "id": "tools_cli_main",
+      "label": "main()",
+      "degree": 11
+    },
+    {
+      "id": "tools_audit_resolve_domains_cached",
+      "label": "resolve_domains_cached()",
+      "degree": 10
+    },
+    {
+      "id": "tools_scraper_ies_run_ies_scraper",
+      "label": "run_ies_scraper()",
+      "degree": 9
+    },
+    {
+      "id": "tools_scraper_social_probe_instagram_public_meta",
+      "label": "probe_instagram_public_meta()",
+      "degree": 9
+    },
+    {
+      "id": "tools_audit_load_legacy_emails_and_bounces",
+      "label": "load_legacy_emails_and_bounces()",
+      "degree": 8
+    },
+    {
+      "id": "tools_uf_catalog_normalize_department",
+      "label": "normalize_department()",
+      "degree": 8
+    },
+    {
+      "id": "tools_scraper_ies_scrape_single_seed",
+      "label": "scrape_single_seed()",
+      "degree": 7
+    }
+  ],
+  "surprises": [
+    {
+      "source": "ingest_legacy_spreadsheets()",
+      "target": "load_legacy_emails_and_bounces()",
+      "source_files": [
+        "tools/etl_legacy.py",
+        "tools/audit.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "main()",
+      "target": "ingest_legacy_spreadsheets()",
+      "source_files": [
+        "tools/cli.py",
+        "tools/etl_legacy.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "ingest_legacy_spreadsheets()",
+      "target": "resolve_domains_cached()",
+      "source_files": [
+        "tools/etl_legacy.py",
+        "tools/audit.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "ingest_legacy_spreadsheets()",
+      "target": "normalize_department()",
+      "source_files": [
+        "tools/etl_legacy.py",
+        "tools/uf_catalog.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "upsert_uni()",
+      "target": "normalize_department()",
+      "source_files": [
+        "tools/etl_legacy.py",
+        "tools/uf_catalog.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities"
+    }
+  ],
+  "tokens": {
+    "input": 0,
+    "output": 0
+  }
+}

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Edumi//Prospeccao Outreach//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+SUMMARY:Edumi — Upload da Planilha Centralizadora & Entrega Marco 1
+DESCRIPTION:Continuar e finalizar o projeto Edumi:\n- Subir as 5 abas (1.542 registros) para o Google Sheets da Gabi\n- Validar links e contatos\n- Apresentar entrega e arquivar planilhas antigas no Drive.\nRepositório: https://github.com/alexmsza/freela-edumi
+DTSTART:20261027T130000Z
+DTEND:20261027T143000Z
+STATUS:CONFIRMED
+LOCATION:Google Sheets Edumi / Home Office
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Continuar projeto Edumi (Upload Google Sheets)
+END:VALARM
+END:VEVENT
+END:VCALENDAR

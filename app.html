@@ -546,42 +546,42 @@
     <div class="stats-grid">
       <div class="stat-card">
         <div class="label">Total de Faculdades / IFs</div>
-        <div class="value" id="statUniCount">1.124</div>
-        <div class="sub">188 DF • 170 GO • 766 Brasil</div>
+        <div class="value" id="statUniCount">1.220</div>
+        <div class="sub" id="statUniSub">215 DF • 172 GO • 833 Brasil</div>
       </div>
       <div class="stat-card success">
         <div class="label">Veículos de Mídia</div>
-        <div class="value" id="statMidiasCount">194</div>
-        <div class="sub">13 Estados Mapeados</div>
+        <div class="value" id="statMidiasCount">219</div>
+        <div class="sub" id="statMidiasSub">11 Estados Mapeados</div>
       </div>
       <div class="stat-card warning">
         <div class="label">Parceiros & Divulgação</div>
-        <div class="value" id="statParcCount">104</div>
-        <div class="sub">Perfis & WhatsApp Triados</div>
+        <div class="value" id="statParcCount">523</div>
+        <div class="sub">Perfis, EJs & WhatsApp Triados</div>
       </div>
       <div class="stat-card accent">
         <div class="label">Status das Entregas</div>
         <div class="value" style="color: #10B981;">Marco 1 OK</div>
-        <div class="sub">DF Concluído (188 Contatos)</div>
+        <div class="sub" id="statMarcoSub">DF Auditado (215 Contatos • 0 Bounces)</div>
       </div>
     </div>
 
     <!-- TABS -->
     <nav class="tabs-nav" id="tabsNav">
       <button class="tab-btn active" onclick="switchTab('universidades')">
-        🎓 Universidades & Faculdades <span class="tab-badge" id="badgeUni">1.124</span>
+        🎓 Universidades & Faculdades <span class="tab-badge" id="badgeUni">1.220</span>
       </button>
       <button class="tab-btn" onclick="switchTab('midias')">
-        📰 Mídias & Imprensa <span class="tab-badge" id="badgeMid">194</span>
+        📰 Mídias & Imprensa <span class="tab-badge" id="badgeMid">219</span>
       </button>
       <button class="tab-btn" onclick="switchTab('parceiros')">
-        🤝 Parceiros & Redes <span class="tab-badge" id="badgeParc">104</span>
+        🤝 Parceiros & Redes <span class="tab-badge" id="badgeParc">523</span>
       </button>
       <button class="tab-btn" onclick="switchTab('artistas')">
-        🎨 Artistas Motim DF <span class="tab-badge" id="badgeArt">7</span>
+        🎨 Artistas Motim DF <span class="tab-badge" id="badgeArt">0</span>
       </button>
       <button class="tab-btn" onclick="switchTab('influenciadores')">
-        📱 Influenciadores DF/GO/PE <span class="tab-badge" id="badgeInf">6</span>
+        📱 Influenciadores DF/GO/PE <span class="tab-badge" id="badgeInf">0</span>
       </button>
     </nav>
 
@@ -595,8 +595,8 @@
       <div class="filter-group">
         <div class="quick-chips" id="quickChips">
           <button class="chip active" onclick="setUfFilter('')">Todos</button>
-          <button class="chip" onclick="setUfFilter('DF')">Só DF (188)</button>
-          <button class="chip" onclick="setUfFilter('GO')">Só GO (170)</button>
+          <button class="chip" id="chipDf" onclick="setUfFilter('DF')">Só DF (215)</button>
+          <button class="chip" id="chipGo" onclick="setUfFilter('GO')">Só GO (172)</button>
           <button class="chip" onclick="setUfFilter('SP')">SP</button>
           <button class="chip" onclick="setUfFilter('RJ')">RJ</button>
           <button class="chip" onclick="setUfFilter('MG')">MG</button>
@@ -692,18 +692,16 @@
   <script src="data_payload.js"></script>
   <script>
     let LOCAL_DATA = {};
+    const CURRENT_PAYLOAD_VER = typeof MASTER_PAYLOAD_VERSION !== 'undefined' ? MASTER_PAYLOAD_VERSION : 'v1';
     try {
+      const savedVer = localStorage.getItem('EDUMI_PAYLOAD_VERSION');
       const saved = localStorage.getItem('EDUMI_MASTER_DATA');
-      if (saved) {
+      if (saved && savedVer === CURRENT_PAYLOAD_VER) {
         LOCAL_DATA = JSON.parse(saved);
-        ['universidades', 'artistas', 'influenciadores', 'midias', 'parceiros'].forEach(key => {
-          if (!LOCAL_DATA[key] || (MASTER_PAYLOAD[key] && LOCAL_DATA[key].length < MASTER_PAYLOAD[key].length)) {
-            LOCAL_DATA[key] = MASTER_PAYLOAD[key];
-          }
-        });
       } else {
-        LOCAL_DATA = MASTER_PAYLOAD;
+        LOCAL_DATA = JSON.parse(JSON.stringify(MASTER_PAYLOAD));
         localStorage.setItem('EDUMI_MASTER_DATA', JSON.stringify(LOCAL_DATA));
+        localStorage.setItem('EDUMI_PAYLOAD_VERSION', CURRENT_PAYLOAD_VER);
       }
     } catch(e) {
       LOCAL_DATA = MASTER_PAYLOAD;
@@ -727,20 +725,36 @@
     function saveState() {
       try {
         localStorage.setItem('EDUMI_MASTER_DATA', JSON.stringify(LOCAL_DATA));
+        localStorage.setItem('EDUMI_PAYLOAD_VERSION', CURRENT_PAYLOAD_VER);
       } catch(e) { console.error("Storage error:", e); }
       updateStats();
     }
 
     function updateStats() {
-      const uCount = (LOCAL_DATA['universidades'] || []).length;
-      const mCount = (LOCAL_DATA['midias'] || []).length;
+      const uniArr = LOCAL_DATA['universidades'] || [];
+      const midArr = LOCAL_DATA['midias'] || [];
+      const uCount = uniArr.length;
+      const mCount = midArr.length;
       const pCount = (LOCAL_DATA['parceiros'] || []).length;
       const aCount = (LOCAL_DATA['artistas'] || []).length;
       const iCount = (LOCAL_DATA['influenciadores'] || []).length;
 
+      const dfCount = uniArr.filter(r => (r.uf || '').toUpperCase() === 'DF').length;
+      const goCount = uniArr.filter(r => (r.uf || '').toUpperCase() === 'GO').length;
+      const brRest = Math.max(0, uCount - dfCount - goCount);
+      const midUfs = new Set(midArr.map(r => (r.uf || '').toUpperCase()).filter(Boolean)).size;
+
       document.getElementById('statUniCount').textContent = uCount.toLocaleString('pt-BR');
+      document.getElementById('statUniSub').textContent = `${dfCount} DF • ${goCount} GO • ${brRest} Brasil`;
       document.getElementById('statMidiasCount').textContent = mCount.toLocaleString('pt-BR');
+      document.getElementById('statMidiasSub').textContent = `${midUfs} Estados Mapeados`;
       document.getElementById('statParcCount').textContent = pCount.toLocaleString('pt-BR');
+      document.getElementById('statMarcoSub').textContent = `DF Auditado (${dfCount} Contatos • 0 Bounces)`;
+
+      const chipDf = document.getElementById('chipDf');
+      const chipGo = document.getElementById('chipGo');
+      if (chipDf) chipDf.textContent = `Só DF (${dfCount})`;
+      if (chipGo) chipGo.textContent = `Só GO (${goCount})`;
 
       document.getElementById('badgeUni').textContent = uCount.toLocaleString('pt-BR');
       document.getElementById('badgeMid').textContent = mCount.toLocaleString('pt-BR');
@@ -895,11 +909,12 @@
       tbody.innerHTML = '';
 
       if (filteredData.length === 0) {
+        const isPendingSocial = (currentTab === 'artistas' || currentTab === 'influenciadores') && (LOCAL_DATA[currentTab] || []).length === 0;
         tbody.innerHTML = `
           <tr>
             <td colspan="7" class="empty-state">
-              <h3>Nenhum registro encontrado</h3>
-              <p>Tente ajustar a busca ou limpar os filtros de UF.</p>
+              <h3>${isPendingSocial ? 'Coleta agendada no cronograma oficial' : 'Nenhum registro encontrado'}</h3>
+              <p>${isPendingSocial ? 'Os dados sintéticos/não verificados anteriores foram higienizados. Esta aba será populada com perfis 100% verificados nos Marcos 3 e 4.' : 'Tente ajustar a busca ou limpar os filtros de UF.'}</p>
             </td>
           </tr>
         `;
@@ -1164,11 +1179,11 @@
         return;
       }
 
-      const keys = Object.keys(filteredData[0]);
-      let csvContent = '\uFEFF' + keys.join(';') + '\n';
+      const keys = getTabColumns(currentTab).map(c => c.key);
+      let csvContent = '\uFEFF' + keys.join(',') + '\n';
 
       filteredData.forEach(row => {
-        const line = keys.map(k => `"${(row[k] || '').toString().replace(/"/g, '""')}"`).join(';');
+        const line = keys.map(k => `"${(row[k] || '').toString().replace(/"/g, '""')}"`).join(',');
         csvContent += line + '\n';
       });
 

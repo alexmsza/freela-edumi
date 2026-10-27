@@ -492,11 +492,11 @@
         <label>Tipo de Instituição:</label>
         <select id="selectTipo" class="filter-select" onchange="applyFilters()">
           <option value="">Todos os Tipos</option>
-          <option value="Instituto Federal (IF)">🏛️ Institutos Federais (IF) (212)</option>
-          <option value="Universidade Federal">🎓 Universidades Federais (345)</option>
-          <option value="Privada / Particular">🏢 Privadas / Particulares (507)</option>
-          <option value="Universidade Estadual">🏫 Universidades Estaduais (56)</option>
-          <option value="Pública Distrital (DF)">🏥 Pública Distrital (DF) (4)</option>
+          <option value="Universidade Federal">🎓 Universidades Federais (443)</option>
+          <option value="Instituto Federal (IF)">🏛️ Institutos Federais (IF) (345)</option>
+          <option value="Privada / Particular">🏢 Privadas / Particulares (342)</option>
+          <option value="Universidade Estadual">🏫 Universidades Estaduais (67)</option>
+          <option value="Pública Distrital (DF)">🏥 Pública Distrital (DF) (23)</option>
         </select>
       </div>
 
@@ -526,7 +526,7 @@
       <div class="kpi-card">
         <div class="label">Registros Filtrados</div>
         <div class="value" id="kpiTotal">0</div>
-        <div class="sub" id="kpiTotalSub">De 1.124 registros</div>
+        <div class="sub" id="kpiTotalSub">De 1.220 registros</div>
       </div>
       <div class="kpi-card success" id="kpiCard2">
         <div class="label" id="kpiLabel2">Institutos Federais (IF)</div>
@@ -581,22 +581,18 @@
 
   <script src="data_payload.js"></script>
   <script>
-    // Load local storage if available
+    // Load local storage only if payload version matches
     let DATA = {};
+    const CURRENT_PAYLOAD_VER = typeof MASTER_PAYLOAD_VERSION !== 'undefined' ? MASTER_PAYLOAD_VERSION : 'v1';
     try {
+      const savedVer = localStorage.getItem('EDUMI_PAYLOAD_VERSION');
       const saved = localStorage.getItem('EDUMI_MASTER_DATA');
-      if (saved) {
+      if (saved && savedVer === CURRENT_PAYLOAD_VER) {
         DATA = JSON.parse(saved);
-        ['universidades', 'artistas', 'influenciadores', 'midias', 'parceiros'].forEach(key => {
-          if (!DATA[key] || (MASTER_PAYLOAD[key] && DATA[key].length < MASTER_PAYLOAD[key].length)) {
-            DATA[key] = MASTER_PAYLOAD[key];
-          }
-        });
-        if (DATA['universidades'] && !DATA['universidades'][0].tipo_instituicao && MASTER_PAYLOAD['universidades']) {
-          DATA['universidades'] = MASTER_PAYLOAD['universidades'];
-        }
       } else {
-        DATA = MASTER_PAYLOAD;
+        DATA = JSON.parse(JSON.stringify(MASTER_PAYLOAD));
+        localStorage.setItem('EDUMI_MASTER_DATA', JSON.stringify(DATA));
+        localStorage.setItem('EDUMI_PAYLOAD_VERSION', CURRENT_PAYLOAD_VER);
       }
     } catch(e) {
       DATA = MASTER_PAYLOAD;
@@ -681,7 +677,9 @@
 
     function updateKpis() {
       const total = filteredRecords.length;
+      const baseTotal = (DATA[activeSubject] || []).length;
       document.getElementById('kpiTotal').textContent = total.toLocaleString('pt-BR');
+      document.getElementById('kpiTotalSub').textContent = `De ${baseTotal.toLocaleString('pt-BR')} registros`;
 
       if (activeSubject === 'universidades') {
         document.getElementById('kpiLabel2').textContent = 'Institutos Federais (IF)';
@@ -849,7 +847,11 @@
       counter.textContent = `Exibindo ${Math.min(50, filteredRecords.length)} de ${filteredRecords.length} registros`;
 
       if (filteredRecords.length === 0) {
-        tbody.innerHTML = '<tr><td colspan="5" style="text-align:center; padding:30px; color:#64748B;">Nenhum registro para os filtros selecionados.</td></tr>';
+        const isPendingSocial = (activeSubject === 'artistas' || activeSubject === 'influenciadores') && (DATA[activeSubject] || []).length === 0;
+        const msg = isPendingSocial
+          ? 'Coleta agendada para os Marcos 3 e 4 (registros sintéticos/não verificados anteriores foram removidos pela auditoria).'
+          : 'Nenhum registro para os filtros selecionados.';
+        tbody.innerHTML = `<tr><td colspan="5" style="text-align:center; padding:30px; color:#64748B;">${msg}</td></tr>`;
         return;
       }
 
@@ -896,7 +898,7 @@
             let cls = 'priv';
             if (val.includes('IF')) cls = 'if';
             else if (val.includes('Federal')) cls = 'fed';
-            else if (val.includes('Estadual')) cls = 'est';
+            else if (val.includes('Estadual') || val.includes('Distrital')) cls = 'est';
             rHtml += `<td><span class="badge-tipo ${cls}">${val}</span></td>`;
           } else {
             rHtml += `<td>${val}</td>`;

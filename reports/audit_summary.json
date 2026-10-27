@@ -1,0 +1,181 @@
+{
+  "generated_at": "2026-10-27T20:48:21.954691+00:00",
+  "target_dir": "C:\\Users\\alexk\\Desktop\\freela-edumi\\data_staged",
+  "legacy_unique_emails_count": 2242,
+  "bounce_blocklist_count": 41,
+  "tables": {
+    "universidades_df": {
+      "file": "01_universidades_DF_marco1.csv",
+      "rows": 215,
+      "columns": [
+        "nome_faculdade",
+        "nome_departamento",
+        "email",
+        "uf"
+      ],
+      "schema_ok": true,
+      "bad_syntax_or_multi_emails": 0,
+      "bad_emails_sample": [],
+      "dead_dns_emails": 0,
+      "dead_dns_sample": [],
+      "bounced_emails_leaked": 0,
+      "bounced_sample": [],
+      "unverified_or_synthetic_emails": 0,
+      "unverified_emails_sample": [],
+      "dirty_departments_count": 0,
+      "invalid_ufs": {},
+      "float_phones_count": 0,
+      "unverified_social_handles": 0,
+      "synthetic_followers_check": {
+        "suspicious": false
+      },
+      "blockers_count": 0
+    },
+    "universidades": {
+      "file": "01_universidades.csv",
+      "rows": 1220,
+      "columns": [
+        "nome_faculdade",
+        "nome_departamento",
+        "email",
+        "uf"
+      ],
+      "schema_ok": true,
+      "bad_syntax_or_multi_emails": 0,
+      "bad_emails_sample": [],
+      "dead_dns_emails": 0,
+      "dead_dns_sample": [],
+      "bounced_emails_leaked": 0,
+      "bounced_sample": [],
+      "unverified_or_synthetic_emails": 0,
+      "unverified_emails_sample": [],
+      "dirty_departments_count": 0,
+      "invalid_ufs": {},
+      "float_phones_count": 0,
+      "unverified_social_handles": 0,
+      "synthetic_followers_check": {
+        "suspicious": false
+      },
+      "blockers_count": 0
+    },
+    "artistas": {
+      "file": "02_artistas.csv",
+      "rows": 0,
+      "columns": [
+        "nome",
+        "arroba",
+        "quantidade_seguidores",
+        "tipo",
+        "uf"
+      ],
+      "schema_ok": true,
+      "bad_syntax_or_multi_emails": 0,
+      "bad_emails_sample": [],
+      "dead_dns_emails": 0,
+      "dead_dns_sample": [],
+      "bounced_emails_leaked": 0,
+      "bounced_sample": [],
+      "unverified_or_synthetic_emails": 0,
+      "unverified_emails_sample": [],
+      "dirty_departments_count": 0,
+      "invalid_ufs": {},
+      "float_phones_count": 0,
+      "unverified_social_handles": 0,
+      "synthetic_followers_check": {
+        "suspicious": false,
+        "max_arithmetic_streak": 0,
+        "round_hundred_ratio": 0.0
+      },
+      "blockers_count": 0
+    },
+    "influenciadores": {
+      "file": "03_influenciadores.csv",
+      "rows": 0,
+      "columns": [
+        "nome",
+        "arroba",
+        "quantidade_seguidores",
+        "tipo",
+        "uf"
+      ],
+      "schema_ok": true,
+      "bad_syntax_or_multi_emails": 0,
+      "bad_emails_sample": [],
+      "dead_dns_emails": 0,
+      "dead_dns_sample": [],
+      "bounced_emails_leaked": 0,
+      "bounced_sample": [],
+      "unverified_or_synthetic_emails": 0,
+      "unverified_emails_sample": [],
+      "dirty_departments_count": 0,
+      "invalid_ufs": {},
+      "float_phones_count": 0,
+      "unverified_social_handles": 0,
+      "synthetic_followers_check": {
+        "suspicious": false,
+        "max_arithmetic_streak": 0,
+        "round_hundred_ratio": 0.0
+      },
+      "blockers_count": 0
+    },
+    "midias": {
+      "file": "04_midias.csv",
+      "rows": 219,
+      "columns": [
+        "nome",
+        "link",
+        "email",
+        "telefone",
+        "uf",
+        "obs"
+      ],
+      "schema_ok": true,
+      "bad_syntax_or_multi_emails": 0,
+      "bad_emails_sample": [],
+      "dead_dns_emails": 0,
+      "dead_dns_sample": [],
+      "bounced_emails_leaked": 0,
+      "bounced_sample": [],
+      "unverified_or_synthetic_emails": 0,
+      "unverified_emails_sample": [],
+      "dirty_departments_count": 0,
+      "invalid_ufs": {},
+      "float_phones_count": 0,
+      "unverified_social_handles": 0,
+      "synthetic_followers_check": {
+        "suspicious": false
+      },
+      "blockers_count": 0
+    },
+    "parceiros": {
+      "file": "05_parceiros.csv",
+      "rows": 523,
+      "columns": [
+        "nome",
+        "link",
+        "email",
+        "telefone",
+        "uf",
+        "obs"
+      ],
+      "schema_ok": true,
+      "bad_syntax_or_multi_emails": 0,
+      "bad_emails_sample": [],
+      "dead_dns_emails": 0,
+      "dead_dns_sample": [],
+      "bounced_emails_leaked": 0,
+      "bounced_sample": [],
+      "unverified_or_synthetic_emails": 0,
+      "unverified_emails_sample": [],
+      "dirty_departments_count": 0,
+      "invalid_ufs": {},
+      "float_phones_count": 0,
+      "unverified_social_handles": 0,
+      "synthetic_followers_check": {
+        "suspicious": false
+      },
+      "blockers_count": 0
+    }
+  },
+  "total_blockers": 0
+}

@@ -1,0 +1,1307 @@
+[
+  {
+    "nome_faculdade": "Centro Universitário Apparecido dos Santos (UNICEPLAC)",
+    "nome_departamento": "Secretaria Acadêmica Geral (Campus Gama)",
+    "email": "secretaria.academica@uniceplac.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.uniceplac.edu.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Centro Universitário Euro-Americano (UNIEURO)",
+    "nome_departamento": "Secretaria e Serviços Acadêmicos Online",
+    "email": "servicosonline@grupoceuma.com.br",
+    "uf": "DF",
+    "source_url": "https://www.unieuro.edu.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Centro Universitário IESB",
+    "nome_departamento": "Controladoria e Gestão Institucional",
+    "email": "controladoria@iesb.br",
+    "uf": "DF",
+    "source_url": "https://www.iesb.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Centro Universitário IESB",
+    "nome_departamento": "Secretaria de Pós-Graduação e Pesquisa",
+    "email": "secretariadaposgraduacao@iesb.br",
+    "uf": "DF",
+    "source_url": "https://www.iesb.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Centro Universitário LS (UniLS)",
+    "nome_departamento": "Coordenação Acadêmica e Pedagógica (Taguatinga)",
+    "email": "rosimeire.carmo@unils.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.unils.edu.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Centro Universitário Processus (UniProcessus)",
+    "nome_departamento": "Editoria Científica e Pesquisa Acadêmica (Asa Sul / Águas Claras)",
+    "email": "revistaap@institutoprocessus.com.br",
+    "uf": "DF",
+    "source_url": "https://institutoprocessus.com.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Centro Universitário Projeção (UniProjeção)",
+    "nome_departamento": "Coordenação de Atendimento EAD — Asa Norte",
+    "email": "atendimentoead@projecao.br",
+    "uf": "DF",
+    "source_url": "https://projecao.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Centro Universitário Projeção (UniProjeção)",
+    "nome_departamento": "Núcleo de Integração — Unidade Guará",
+    "email": "integra.guara@projecao.br",
+    "uf": "DF",
+    "source_url": "https://projecao.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Centro Universitário Projeção (UniProjeção)",
+    "nome_departamento": "Núcleo de Integração — Unidade Sobradinho",
+    "email": "integra.sobradinho@projecao.br",
+    "uf": "DF",
+    "source_url": "https://projecao.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Centro Universitário Projeção (UniProjeção)",
+    "nome_departamento": "Núcleo de Integração e Estágios — Taguatinga",
+    "email": "integra.taguatinga@projecao.br",
+    "uf": "DF",
+    "source_url": "https://projecao.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Centro Universitário Projeção (UniProjeção)",
+    "nome_departamento": "Suporte da Central de Serviços Compartilhados",
+    "email": "suportessc@projecao.br",
+    "uf": "DF",
+    "source_url": "https://projecao.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Centro Universitário Projeção (UniProjeção)",
+    "nome_departamento": "Atendimento Acadêmico — Campus Taguatinga",
+    "email": "uniprojecaocampus1@projecao.br",
+    "uf": "DF",
+    "source_url": "https://projecao.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Centro Universitário de Brasília (CEUB / UniCEUB)",
+    "nome_departamento": "Assessoria de Imprensa e Comunicação",
+    "email": "assessoriadeimprensa@uniceub.br",
+    "uf": "DF",
+    "source_url": "https://www.uniceub.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Centro Universitário de Brasília (CEUB / UniCEUB)",
+    "nome_departamento": "Central de Atendimento e Relacionamento Acadêmico",
+    "email": "central.atendimento@uniceub.br",
+    "uf": "DF",
+    "source_url": "https://www.uniceub.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Centro Universitário de Brasília (CEUB / UniCEUB)",
+    "nome_departamento": "Coordenação de Estágios e Carreiras",
+    "email": "estagio@uniceub.br",
+    "uf": "DF",
+    "source_url": "https://www.uniceub.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Centro Universitário de Brasília (CEUB / UniCEUB)",
+    "nome_departamento": "Ouvidoria — Campus Taguatinga",
+    "email": "ouvidoria.taguatinga@uniceub.br",
+    "uf": "DF",
+    "source_url": "https://www.uniceub.br/ouvidoria",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Centro Universitário de Brasília (CEUB / UniCEUB)",
+    "nome_departamento": "Ouvidoria — Campus Asa Norte",
+    "email": "ouvidoria@uniceub.br",
+    "uf": "DF",
+    "source_url": "https://www.uniceub.br/ouvidoria",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Centro Universitário do Distrito Federal (UDF)",
+    "nome_departamento": "Central de Atendimento ao Aluno (CAA)",
+    "email": "central.aluno@udf.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.udf.edu.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Escola Nacional de Administração Pública (ENAP)",
+    "nome_departamento": "Secretaria Escolar (Pós-Graduação e Mestrado)",
+    "email": "secretariaescolar@enap.gov.br",
+    "uf": "DF",
+    "source_url": "https://www.enap.gov.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
+    "nome_departamento": "Núcleo de Biblioteca — Campus Samambaia (CCE)",
+    "email": "biblioteca.cce@escs.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.escs.edu.br/institucional/contatos/",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
+    "nome_departamento": "Coordenação do Curso de Enfermagem (CCE)",
+    "email": "cce@escs.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.escs.edu.br/institucional/contatos/",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
+    "nome_departamento": "Coordenação do Curso de Medicina (CCM)",
+    "email": "ccm@escs.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.escs.edu.br/institucional/contatos/",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
+    "nome_departamento": "Direção-Geral da ESCS",
+    "email": "direcaogeral@escs.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.escs.edu.br/institucional/contatos/",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
+    "nome_departamento": "Atendimento Institucional Geral",
+    "email": "escs@escs.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.escs.edu.br/institucional/contatos/",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
+    "nome_departamento": "Gerência de Avaliação — Medicina (GaM/CCM)",
+    "email": "ga.ccm@escs.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.escs.edu.br/institucional/contatos/",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
+    "nome_departamento": "Gerência de Avaliação — Enfermagem (GaE/CCE)",
+    "email": "gae.cce@escs.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.escs.edu.br/institucional/contatos/",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
+    "nome_departamento": "Gerência de Desenvolvimento Docente e Discente — Enfermagem (GDD/CCE)",
+    "email": "gdd.cce@escs.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.escs.edu.br/institucional/contatos/",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
+    "nome_departamento": "Gerência de Desenvolvimento Docente e Discente — Medicina (GDDD/CCM)",
+    "email": "gddd.ccm@escs.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.escs.edu.br/institucional/contatos/",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
+    "nome_departamento": "Gerência de Educação — Enfermagem (GEE/CCE)",
+    "email": "gee.cce@escs.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.escs.edu.br/institucional/contatos/",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
+    "nome_departamento": "Gerência de Educação Médica (GEM)",
+    "email": "gem@escs.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.escs.edu.br/institucional/contatos/",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
+    "nome_departamento": "Laboratório Morfofuncional (MORFO/CCM)",
+    "email": "morfofuncional@escs.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.escs.edu.br/institucional/contatos/",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
+    "nome_departamento": "Núcleo de Apoio Operacional — Enfermagem (NAO/CCE)",
+    "email": "nao.cce@escs.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.escs.edu.br/institucional/contatos/",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
+    "nome_departamento": "Secretaria de Assuntos Acadêmicos (SAA)",
+    "email": "saa@escs.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.escs.edu.br/institucional/contatos/",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
+    "nome_departamento": "Serviço de Apoio ao Discente (SAD)",
+    "email": "sad@escs.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.escs.edu.br/institucional/contatos/",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
+    "nome_departamento": "Secretaria do Curso de Medicina (SC/CCM)",
+    "email": "secretariamedicina@escs.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.escs.edu.br/institucional/contatos/",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Escola de Governo Fiocruz Brasília (EGF-Brasília)",
+    "nome_departamento": "Secretaria Acadêmica (SECAD)",
+    "email": "secad@fiocruz.br",
+    "uf": "DF",
+    "source_url": "https://www.fiocruzbrasilia.fiocruz.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Faculdade CNA (Brasília)",
+    "nome_departamento": "Secretaria Acadêmica Geral",
+    "email": "secretaria@faculdadecna.edu.br",
+    "uf": "DF",
+    "source_url": "https://faculdadecna.com.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Faculdade Presbiteriana Mackenzie Brasília (FPMB)",
+    "nome_departamento": "Atendimento Acadêmico-Financeiro Brasília (AFA-DF)",
+    "email": "afa.df@mackenzie.br",
+    "uf": "DF",
+    "source_url": "https://www.mackenzie.br/faculdade-brasilia",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Faculdade Republicana (Brasília)",
+    "nome_departamento": "Secretaria de Atendimento ao Estudante",
+    "email": "atendimento@faculdaderepublicana.org.br",
+    "uf": "DF",
+    "source_url": "https://faculdaderepublicana.org.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Faculdade Republicana (Brasília)",
+    "nome_departamento": "Biblioteca Acadêmica",
+    "email": "biblioteca@faculdaderepublicana.org.br",
+    "uf": "DF",
+    "source_url": "https://faculdaderepublicana.org.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Faculdade Republicana (Brasília)",
+    "nome_departamento": "Assessoria de Comunicação",
+    "email": "comunicacao@faculdaderepublicana.org.br",
+    "uf": "DF",
+    "source_url": "https://faculdaderepublicana.org.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Faculdade Republicana (Brasília)",
+    "nome_departamento": "Central de Atendimento Institucional",
+    "email": "contato@faculdaderepublicana.org.br",
+    "uf": "DF",
+    "source_url": "https://faculdaderepublicana.org.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Faculdade de Tecnologia e Inovação Senac Distrito Federal",
+    "nome_departamento": "Ouvidoria Senac-DF",
+    "email": "ouvidoria@df.senac.br",
+    "uf": "DF",
+    "source_url": "https://www.df.senac.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Faculdade de Tecnologia e Inovação Senac Distrito Federal",
+    "nome_departamento": "Coordenação de Programas Educacionais",
+    "email": "programaseducacionais@df.senac.br",
+    "uf": "DF",
+    "source_url": "https://www.df.senac.br/faculdade/",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Faculdade de Tecnologia e Inovação Senac Distrito Federal",
+    "nome_departamento": "Secretaria Acadêmica da Faculdade Senac-DF",
+    "email": "secretariaacademica@df.senac.br",
+    "uf": "DF",
+    "source_url": "https://www.df.senac.br/faculdade/",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Fundação Getulio Vargas — Escola de Políticas Públicas e Governo (FGV EPPG Brasília)",
+    "nome_departamento": "Secretaria da Escola de Políticas Públicas e Governo (EPPG)",
+    "email": "eppg@fgv.br",
+    "uf": "DF",
+    "source_url": "https://eppg.fgv.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Fundação Getulio Vargas — Polo Brasília (FGV)",
+    "nome_departamento": "Coordenação de Educação Executiva e Cursos em Brasília",
+    "email": "cursos.bsb@fgv.br",
+    "uf": "DF",
+    "source_url": "https://educacao-executiva.fgv.br/df/brasilia",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS)",
+    "nome_departamento": "Assessoria de Comunicação (ASCOM)",
+    "email": "ascom@fepecs.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.fepecs.edu.br/contatos",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS)",
+    "nome_departamento": "Biblioteca Central FEPECS",
+    "email": "biblioteca@fepecs.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.fepecs.edu.br/contatos",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS)",
+    "nome_departamento": "Comitê de Ética em Pesquisa (CEP)",
+    "email": "cep@fepecs.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.fepecs.edu.br/contatos",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS)",
+    "nome_departamento": "Coordenação de Planejamento e Gestão Estratégica (CPLAGE)",
+    "email": "cplage@fepecs.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.fepecs.edu.br/contatos",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS)",
+    "nome_departamento": "Coordenação de Processos Seletivos (CPS)",
+    "email": "cps@fepecs.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.fepecs.edu.br/contatos",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS)",
+    "nome_departamento": "Diretoria Executiva (DE)",
+    "email": "de@fepecs.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.fepecs.edu.br/contatos",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS)",
+    "nome_departamento": "Ouvidoria FEPECS",
+    "email": "ouvidoria@fepecs.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.fepecs.edu.br/contatos",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa (IDP)",
+    "nome_departamento": "Central de Relacionamento e Secretaria Acadêmica",
+    "email": "central@idp.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.idp.edu.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa (IDP)",
+    "nome_departamento": "Ouvidoria Institucional",
+    "email": "ouvidoria@idp.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.idp.edu.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Brasília",
+    "nome_departamento": "Diretoria de Ensino, Pesquisa e Extensão (DREP)",
+    "email": "drep.cbra@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/brasilia",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Brasília",
+    "nome_departamento": "Chefia de Gabinete da Direção-Geral",
+    "email": "gabinete.cbra@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/brasilia",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Brasília",
+    "nome_departamento": "Coordenação de Registro Acadêmico (CDRA)",
+    "email": "registroacademicobrasilia@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/brasilia",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Ceilândia",
+    "nome_departamento": "Coordenação de Assistência Estudantil e Inclusão Social (CDAE)",
+    "email": "cdae.ccei@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/ceilandia",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Ceilândia",
+    "nome_departamento": "Coordenação de Registro Acadêmico (CDRA)",
+    "email": "cdra.ccei@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/ceilandia",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Ceilândia",
+    "nome_departamento": "Direção-Geral do Campus Ceilândia",
+    "email": "direcao.ceilandia@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/ceilandia",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Ceilândia",
+    "nome_departamento": "Diretoria de Ensino, Pesquisa e Extensão (DREP)",
+    "email": "drep.ccei@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/ceilandia",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Ceilândia",
+    "nome_departamento": "Chefia de Gabinete da Direção-Geral",
+    "email": "gabinete.ccei@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/ceilandia",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Ceilândia",
+    "nome_departamento": "Comissão de Processo Seletivo e Matrícula",
+    "email": "processoseletivo.ceilandia@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/ceilandia",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Estrutural",
+    "nome_departamento": "Coordenação de Assistência Estudantil e Inclusão Social (CDAE)",
+    "email": "cdae.cest@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/estrutural",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Estrutural",
+    "nome_departamento": "Coordenação de Registro Acadêmico (CDRA)",
+    "email": "cdra.cest@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/estrutural",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Estrutural",
+    "nome_departamento": "Diretoria de Ensino, Pesquisa e Extensão (DREP)",
+    "email": "drep.cest@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/estrutural",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Estrutural",
+    "nome_departamento": "Chefia de Gabinete da Direção-Geral",
+    "email": "gabinete.cest@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/estrutural",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Estrutural",
+    "nome_departamento": "Comissão de Processo Seletivo e Matrícula",
+    "email": "processoseletivo.estrutural@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/estrutural",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Gama",
+    "nome_departamento": "Coordenação de Registro Acadêmico (CDRA)",
+    "email": "cdra.cgam@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/gama",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Gama",
+    "nome_departamento": "Coordenação de Assistência Estudantil e Inclusão Social (CDAE)",
+    "email": "cgam.cdae@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/gama",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Gama",
+    "nome_departamento": "Diretoria de Ensino, Pesquisa e Extensão (DREP)",
+    "email": "drep.cgam@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/gama",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Gama",
+    "nome_departamento": "Chefia de Gabinete da Direção-Geral",
+    "email": "gabinete.cgam@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/gama",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Gama",
+    "nome_departamento": "Comissão de Processo Seletivo e Matrícula",
+    "email": "processoseletivo.gama@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/gama",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Planaltina",
+    "nome_departamento": "Coordenação de Assistência Estudantil e Inclusão Social (CDAE)",
+    "email": "cdae.cpla@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/planaltina",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Planaltina",
+    "nome_departamento": "Coordenação de Registro Acadêmico (CDRA)",
+    "email": "cdra.cpla@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/planaltina",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Planaltina",
+    "nome_departamento": "Diretoria de Ensino, Pesquisa e Extensão (DREP)",
+    "email": "drep.cpla@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/planaltina",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Planaltina",
+    "nome_departamento": "Chefia de Gabinete da Direção-Geral",
+    "email": "gabinete.cpla@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/planaltina",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Planaltina",
+    "nome_departamento": "Setor de Matrículas",
+    "email": "matricula.planaltina@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/planaltina",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Planaltina",
+    "nome_departamento": "Comissão de Processo Seletivo",
+    "email": "processoseletivo.planaltina@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/planaltina",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Recanto das Emas",
+    "nome_departamento": "Atendimento Institucional do Campus",
+    "email": "campusrecantodasemas@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/recantodasemas",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Recanto das Emas",
+    "nome_departamento": "Coordenação de Assistência Estudantil e Inclusão Social (CDAE)",
+    "email": "cdae.crem@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/recantodasemas",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Recanto das Emas",
+    "nome_departamento": "Coordenação de Registro Acadêmico (CDRA)",
+    "email": "cdra.crem@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/recantodasemas",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Recanto das Emas",
+    "nome_departamento": "Diretoria de Ensino, Pesquisa e Extensão (DREP)",
+    "email": "drep.crem@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/recantodasemas",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Recanto das Emas",
+    "nome_departamento": "Chefia de Gabinete da Direção-Geral",
+    "email": "gabinete.crem@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/recantodasemas",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Recanto das Emas",
+    "nome_departamento": "Comissão de Processo Seletivo e Matrícula",
+    "email": "processoseletivo.recantodasemas@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/recantodasemas",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Riacho Fundo",
+    "nome_departamento": "Coordenação de Registro Acadêmico (CDRA)",
+    "email": "cdra.crfi@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/riachofundo",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Riacho Fundo",
+    "nome_departamento": "Diretoria de Ensino, Pesquisa e Extensão (DREP)",
+    "email": "drep.crfi@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/riachofundo",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Riacho Fundo",
+    "nome_departamento": "Chefia de Gabinete da Direção-Geral",
+    "email": "gabinete.crfi@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/riachofundo",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Riacho Fundo",
+    "nome_departamento": "Comissão de Processo Seletivo e Matrícula",
+    "email": "processoseletivo.riachofundo@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/riachofundo",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Samambaia",
+    "nome_departamento": "Coordenação de Registro Acadêmico (CDRA)",
+    "email": "cdra.csam@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/samambaia",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Samambaia",
+    "nome_departamento": "Diretoria de Ensino, Pesquisa e Extensão (DREP)",
+    "email": "drep.csam@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/samambaia",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Samambaia",
+    "nome_departamento": "Chefia de Gabinete da Direção-Geral",
+    "email": "gabinete.csam@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/samambaia",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Samambaia",
+    "nome_departamento": "Comissão de Processo Seletivo e Matrícula",
+    "email": "processoseletivo.samambaia@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/samambaia",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus São Sebastião",
+    "nome_departamento": "Coordenação de Registro Acadêmico (CDRA)",
+    "email": "cdra.cssb@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/sao-sebastiao",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus São Sebastião",
+    "nome_departamento": "Diretoria de Ensino, Pesquisa e Extensão (DREP)",
+    "email": "drep.cssb@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/sao-sebastiao",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus São Sebastião",
+    "nome_departamento": "Chefia de Gabinete da Direção-Geral",
+    "email": "gabinete.cssb@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/sao-sebastiao",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus São Sebastião",
+    "nome_departamento": "Setor de Matrículas",
+    "email": "matricula.saosebastiao@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/sao-sebastiao",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus São Sebastião",
+    "nome_departamento": "Comissão de Processo Seletivo",
+    "email": "processoseletivo.saosebastiao@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/sao-sebastiao",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Taguatinga",
+    "nome_departamento": "Coordenação de Registro Acadêmico (CDRA)",
+    "email": "cdra.ctag@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/taguatinga",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Taguatinga",
+    "nome_departamento": "Setor de Protocolo",
+    "email": "ctag.protocolo@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/taguatinga",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Taguatinga",
+    "nome_departamento": "Direção-Geral (DG)",
+    "email": "dg.ctag@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/taguatinga",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Taguatinga",
+    "nome_departamento": "Diretoria de Ensino, Pesquisa e Extensão (DREP)",
+    "email": "drep.ctag@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/taguatinga",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Taguatinga",
+    "nome_departamento": "Chefia de Gabinete da Direção-Geral",
+    "email": "gabinete.ctag@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/taguatinga",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Taguatinga",
+    "nome_departamento": "Comissão de Processo Seletivo e Matrícula",
+    "email": "processoseletivo.taguatinga@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/taguatinga",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
+    "nome_departamento": "Diretoria de Comunicação Social (DICOM)",
+    "email": "comunicacao@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/reitoria",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
+    "nome_departamento": "Coordenação de Políticas de Assistência Estudantil (CPAPE)",
+    "email": "cpape@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/reitoria",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
+    "nome_departamento": "Diretoria de Registro e Acompanhamento dos Processos Educacionais (DRPE)",
+    "email": "drpe@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/reitoria",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
+    "nome_departamento": "Diretoria de Tecnologia da Informação e Comunicação (DTIC)",
+    "email": "dtic@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/reitoria",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
+    "nome_departamento": "Gabinete da Reitoria / Gabinete Digital",
+    "email": "gabinetedigital@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/reitoria",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
+    "nome_departamento": "Ouvidoria Institucional",
+    "email": "ouvidoria@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/reitoria",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
+    "nome_departamento": "Pró-Reitoria de Administração (PRAF)",
+    "email": "praf@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/reitoria",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
+    "nome_departamento": "Pró-Reitoria de Ensino (PREN)",
+    "email": "pren@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/reitoria",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
+    "nome_departamento": "Pró-Reitoria de Extensão e Cultura (PREX)",
+    "email": "prex@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/reitoria",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
+    "nome_departamento": "Coordenação Geral de Processo Seletivo e Ingresso",
+    "email": "processoseletivo@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/estude-no-ifb",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
+    "nome_departamento": "Protocolo Central da Reitoria",
+    "email": "protocolo.reitoria@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/reitoria",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
+    "nome_departamento": "Pró-Reitoria de Pesquisa e Inovação (PRPI)",
+    "email": "prpi@ifb.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ifb.edu.br/reitoria",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "SENAI Distrito Federal — Sistema FIBRA",
+    "nome_departamento": "Secretaria Escolar — Unidade Gama",
+    "email": "secretaria.sesigama@sistemafibra.org.br",
+    "uf": "DF",
+    "source_url": "https://www.sistemafibra.org.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "SENAI Distrito Federal — Sistema FIBRA",
+    "nome_departamento": "Secretaria Escolar — Unidade SIG Brasília",
+    "email": "secretaria.sesisig@sistemafibra.org.br",
+    "uf": "DF",
+    "source_url": "https://www.sistemafibra.org.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "SENAI Distrito Federal — Sistema FIBRA",
+    "nome_departamento": "Secretaria Escolar — Unidade Taguatinga",
+    "email": "secretaria.sesitaguatinga@sistemafibra.org.br",
+    "uf": "DF",
+    "source_url": "https://www.sistemafibra.org.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "SENAI Distrito Federal — Sistema FIBRA",
+    "nome_departamento": "Secretaria Escolar — Unidade Sobradinho",
+    "email": "secretariasobradinho@sistemafibra.org.br",
+    "uf": "DF",
+    "source_url": "https://www.sistemafibra.org.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Católica de Brasília (UCB)",
+    "nome_departamento": "Central de Atendimento ao Estudante — Graduação (ATENDE)",
+    "email": "atende@ucb.br",
+    "uf": "DF",
+    "source_url": "https://ucb.catolica.edu.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Católica de Brasília (UCB)",
+    "nome_departamento": "Ouvidoria Institucional (Grupo UBEC / UCB)",
+    "email": "ouvidoria@ubec.edu.br",
+    "uf": "DF",
+    "source_url": "https://www.ubec.edu.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Católica de Brasília (UCB)",
+    "nome_departamento": "Gestão Estratégica de Pesquisa e Extensão (PAGE)",
+    "email": "page@ucb.br",
+    "uf": "DF",
+    "source_url": "https://ucb.catolica.edu.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade de Brasília (UnB)",
+    "nome_departamento": "Faculdade de Educação — Centro de Extensão e Relações Internacionais (FE)",
+    "email": "ceri@unb.br",
+    "uf": "DF",
+    "source_url": "https://fe.unb.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade de Brasília (UnB)",
+    "nome_departamento": "Instituto de Letras — Coordenação de Licenciatura (IL)",
+    "email": "coord.lic.ingles@unb.br",
+    "uf": "DF",
+    "source_url": "https://il.unb.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade de Brasília (UnB)",
+    "nome_departamento": "Decanato de Assuntos Comunitários (DAC)",
+    "email": "dac@unb.br",
+    "uf": "DF",
+    "source_url": "https://dac.unb.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade de Brasília (UnB)",
+    "nome_departamento": "Faculdade de Direito — Secretaria / Atendimento (FD)",
+    "email": "daces@unb.br",
+    "uf": "DF",
+    "source_url": "https://fd.unb.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade de Brasília (UnB)",
+    "nome_departamento": "Decanato de Administração (DAF)",
+    "email": "daf@unb.br",
+    "uf": "DF",
+    "source_url": "https://daf.unb.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade de Brasília (UnB)",
+    "nome_departamento": "Decanato de Ensino de Graduação (DEG)",
+    "email": "deg@unb.br",
+    "uf": "DF",
+    "source_url": "https://deg.unb.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade de Brasília (UnB)",
+    "nome_departamento": "Decanato de Gestão de Pessoas (DGP)",
+    "email": "dgp@unb.br",
+    "uf": "DF",
+    "source_url": "https://dgp.unb.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade de Brasília (UnB)",
+    "nome_departamento": "Direção do Centro de Estudos Avançados Multidisciplinares (CEAM)",
+    "email": "direcaoceam@unb.br",
+    "uf": "DF",
+    "source_url": "https://ceam.unb.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade de Brasília (UnB)",
+    "nome_departamento": "Decanato de Pós-Graduação (DPG)",
+    "email": "dpg@unb.br",
+    "uf": "DF",
+    "source_url": "https://dpg.unb.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade de Brasília (UnB)",
+    "nome_departamento": "Decanato de Pesquisa e Inovação (DPI)",
+    "email": "dpi@unb.br",
+    "uf": "DF",
+    "source_url": "https://dpi.unb.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade de Brasília (UnB)",
+    "nome_departamento": "Decanato de Planejamento, Orçamento e Avaliação Institucional (DPO)",
+    "email": "dpo@unb.br",
+    "uf": "DF",
+    "source_url": "https://dpo.unb.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade de Brasília (UnB)",
+    "nome_departamento": "Faculdade UnB Ceilândia (FCE)",
+    "email": "fce@unb.br",
+    "uf": "DF",
+    "source_url": "https://fce.unb.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade de Brasília (UnB)",
+    "nome_departamento": "Direção da Faculdade de Medicina (FM)",
+    "email": "fmd@unb.br",
+    "uf": "DF",
+    "source_url": "https://fm.unb.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade de Brasília (UnB)",
+    "nome_departamento": "Gabinete da Reitoria — Atendimento Institucional (GRE)",
+    "email": "gre@unb.br",
+    "uf": "DF",
+    "source_url": "https://unb.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade de Brasília (UnB)",
+    "nome_departamento": "Ouvidoria da UnB",
+    "email": "ouvidoria@unb.br",
+    "uf": "DF",
+    "source_url": "https://ouvidoria.unb.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade de Brasília (UnB)",
+    "nome_departamento": "Programa de Pós-Graduação em Direitos Humanos e Cidadania (PPGDH/CEAM)",
+    "email": "ppgdh@unb.br",
+    "uf": "DF",
+    "source_url": "https://ceam.unb.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade de Brasília (UnB)",
+    "nome_departamento": "Programa de Pós-Graduação em Desenvolvimento, Sociedade e Cooperação Internacional (PPGDSCI/CEAM)",
+    "email": "ppgdsci@unb.br",
+    "uf": "DF",
+    "source_url": "https://ceam.unb.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade de Brasília (UnB)",
+    "nome_departamento": "Gabinete da Reitoria (GRE)",
+    "email": "reitoria@unb.br",
+    "uf": "DF",
+    "source_url": "https://unb.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade de Brasília (UnB)",
+    "nome_departamento": "Secretaria de Administração Acadêmica (SAA)",
+    "email": "saaatendimento@unb.br",
+    "uf": "DF",
+    "source_url": "https://saa.unb.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade de Brasília (UnB)",
+    "nome_departamento": "Secretaria de Comunicação (SECOM)",
+    "email": "secom@unb.br",
+    "uf": "DF",
+    "source_url": "https://secom.unb.br",
+    "http_status": 200,
+    "scraped_at": "2026-10-27T20:40:10.092777+00:00"
+  }
+]

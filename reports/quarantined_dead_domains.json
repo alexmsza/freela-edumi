@@ -1,0 +1,256 @@
+[
+  {
+    "tab": "universidades",
+    "nome_faculdade": "UFJF",
+    "nome_departamento": "Atendimento Institucional / Secretaria Geral",
+    "email": "coord.si@ice.ufjf.br",
+    "uf": "MG",
+    "dns_status": "TIMEOUT_OR_DEAD"
+  },
+  {
+    "tab": "universidades",
+    "nome_faculdade": "Instituição Acadêmica",
+    "nome_departamento": "STEM",
+    "email": "coord.computacao@ice.ufjf.br",
+    "uf": "MG",
+    "dns_status": "TIMEOUT_OR_DEAD"
+  },
+  {
+    "tab": "universidades",
+    "nome_faculdade": "Instituição Acadêmica",
+    "nome_departamento": "STEM",
+    "email": "secretaria.decsi@ufop.ufop.br",
+    "uf": "MG",
+    "dns_status": "NXDOMAIN"
+  },
+  {
+    "tab": "universidades",
+    "nome_faculdade": "UFRR",
+    "nome_departamento": "Engenharias",
+    "email": "silvia@univirr.rr.gov.br",
+    "uf": "RR",
+    "dns_status": "NXDOMAIN"
+  },
+  {
+    "tab": "universidades",
+    "nome_faculdade": "Instituição Acadêmica",
+    "nome_departamento": "Engenharias",
+    "email": "coordenacao.producao@engenharia.ufjf.br",
+    "uf": "MG",
+    "dns_status": "TIMEOUT_OR_DEAD"
+  },
+  {
+    "tab": "universidades",
+    "nome_faculdade": "UFRGS",
+    "nome_departamento": "Engenharias",
+    "email": "comgrad-cic-l@inf.ufrs.br",
+    "uf": "RS",
+    "dns_status": "NXDOMAIN"
+  },
+  {
+    "tab": "universidades",
+    "nome_faculdade": "Instituição Acadêmica",
+    "nome_departamento": "Universidade Federal do Rio de Janeiro",
+    "email": "sri@sri.ufrj.br",
+    "uf": "RJ",
+    "dns_status": "NXDOMAIN"
+  },
+  {
+    "tab": "universidades",
+    "nome_faculdade": "Instituição Acadêmica",
+    "nome_departamento": "Universidade Federal de Juiz de Fora",
+    "email": "acesso@acesso.ufjf.br",
+    "uf": "MG",
+    "dns_status": "NXDOMAIN"
+  },
+  {
+    "tab": "universidades",
+    "nome_faculdade": "Faculdade de Ciências e Educação de Rubiataba (FACER)",
+    "nome_departamento": "Ensino superior regional relevante.",
+    "email": "contato@facer.edu.br",
+    "uf": "GO",
+    "dns_status": "TIMEOUT_OR_DEAD"
+  },
+  {
+    "tab": "universidades",
+    "nome_faculdade": "Faculdade de Ciências e Educação Sena Aires (FACESA)",
+    "nome_departamento": "Forte atuação no entorno de Brasília.",
+    "email": "secretaria@facesa.edu.br",
+    "uf": "GO",
+    "dns_status": "TIMEOUT_OR_DEAD"
+  },
+  {
+    "tab": "universidades",
+    "nome_faculdade": "Faculdade de Ciências e Educação Sena Aires (FACESA)",
+    "nome_departamento": "Forte atuação no entorno de Brasília.",
+    "email": "ouvidoria@facesa.edu.br",
+    "uf": "GO",
+    "dns_status": "TIMEOUT_OR_DEAD"
+  },
+  {
+    "tab": "universidades",
+    "nome_faculdade": "Faculdade de Ciências e Educação Sena Aires (FACESA)",
+    "nome_departamento": "Forte atuação no entorno de Brasília.",
+    "email": "facesa@facesa.edu.br",
+    "uf": "GO",
+    "dns_status": "TIMEOUT_OR_DEAD"
+  },
+  {
+    "tab": "universidades",
+    "nome_faculdade": "Faculdade Lions (FACLions)",
+    "nome_departamento": "Cursos de graduação variados.",
+    "email": "contato@faclions.edu.br",
+    "uf": "GO",
+    "dns_status": "NXDOMAIN"
+  },
+  {
+    "tab": "universidades",
+    "nome_faculdade": "Faculdade Mauá Goiânia",
+    "nome_departamento": "Registro e atendimento estudantil.",
+    "email": "contato@faculdademaua.edu.br",
+    "uf": "GO",
+    "dns_status": "NXDOMAIN"
+  },
+  {
+    "tab": "universidades",
+    "nome_faculdade": "Faculdade Mauá Goiânia",
+    "nome_departamento": "Registro e atendimento estudantil.",
+    "email": "ouvidoria@faculdademaua.edu.br",
+    "uf": "GO",
+    "dns_status": "NXDOMAIN"
+  },
+  {
+    "tab": "universidades",
+    "nome_faculdade": "Faculdade Mauá Goiânia",
+    "nome_departamento": "Registro e atendimento estudantil.",
+    "email": "secretaria@faculdademaua.edu.br",
+    "uf": "GO",
+    "dns_status": "NXDOMAIN"
+  },
+  {
+    "tab": "universidades",
+    "nome_faculdade": "Faculdade Padrão / Fan Padrão",
+    "nome_departamento": "Cursos diversos em Goiânia.",
+    "email": "ouvidoria@faculdadepadrao.edu.br",
+    "uf": "GO",
+    "dns_status": "NXDOMAIN"
+  },
+  {
+    "tab": "universidades",
+    "nome_faculdade": "Faculdade Sul-América",
+    "nome_departamento": "Suporte EAD e registros acadêmicos.",
+    "email": "contato@faculdadesulamerica.edu.br",
+    "uf": "GO",
+    "dns_status": "NXDOMAIN"
+  },
+  {
+    "tab": "universidades",
+    "nome_faculdade": "Faculdade Sul-América",
+    "nome_departamento": "Suporte EAD e registros acadêmicos.",
+    "email": "secretaria@faculdadesulamerica.edu.br",
+    "uf": "GO",
+    "dns_status": "NXDOMAIN"
+  },
+  {
+    "tab": "universidades",
+    "nome_faculdade": "Faculdade Sul-América",
+    "nome_departamento": "Suporte EAD e registros acadêmicos.",
+    "email": "suporte@faculdadesulamerica.edu.br",
+    "uf": "GO",
+    "dns_status": "NXDOMAIN"
+  },
+  {
+    "tab": "universidades",
+    "nome_faculdade": "Faculdade CGESP",
+    "nome_departamento": "Pós-graduação e graduação executiva.",
+    "email": "cgesp@cgesp.com.br",
+    "uf": "GO",
+    "dns_status": "NXDOMAIN"
+  },
+  {
+    "tab": "universidades",
+    "nome_faculdade": "Faculdade Inhumas (FACI)",
+    "nome_departamento": "Atuação regional técnica e superior.",
+    "email": "secretaria@facinhumas.edu.br",
+    "uf": "GO",
+    "dns_status": "NXDOMAIN"
+  },
+  {
+    "tab": "universidades",
+    "nome_faculdade": "Instituto de Filosofia e Teologia de Goiás (IFITEG)",
+    "nome_departamento": "Confessional.",
+    "email": "secretaria@ifiteg.org.br",
+    "uf": "GO",
+    "dns_status": "NXDOMAIN"
+  },
+  {
+    "tab": "universidades",
+    "nome_faculdade": "Faculdade Norte Goiano (UniBras)",
+    "nome_departamento": "Atuação no vale de São Patrício.",
+    "email": "secretaria.goianesia@unibras.edu.br",
+    "uf": "GO",
+    "dns_status": "TIMEOUT_OR_DEAD"
+  },
+  {
+    "tab": "universidades",
+    "nome_faculdade": "ISCA",
+    "nome_departamento": "Instituto Superior de Ciências Aplicadas",
+    "email": "faleconosco@iscafaculdades.com.br",
+    "uf": "SP",
+    "dns_status": "NXDOMAIN"
+  },
+  {
+    "tab": "universidades",
+    "nome_faculdade": "Instituição Acadêmica",
+    "nome_departamento": "Engenharias",
+    "email": "marcelo.lobosco@ice.ufjf.br",
+    "uf": "MG",
+    "dns_status": "TIMEOUT_OR_DEAD"
+  },
+  {
+    "tab": "universidades",
+    "nome_faculdade": "UFRGS",
+    "nome_departamento": "Setor de Técnologia ou Matématica",
+    "email": "mat-comgradmat@ufgrs.br",
+    "uf": "RS",
+    "dns_status": "NXDOMAIN"
+  },
+  {
+    "tab": "universidades",
+    "nome_faculdade": "UFRGS",
+    "nome_departamento": "Engenharias",
+    "email": "comgrad-ecp@ufgrs.br",
+    "uf": "RS",
+    "dns_status": "NXDOMAIN"
+  },
+  {
+    "tab": "midias",
+    "nome": "Página News",
+    "link": "http://paginanews.com.br",
+    "email": "comercial@paginanews.com.br",
+    "telefone": "(65) 99956-3181",
+    "uf": "MT",
+    "obs": "Imprensa / Portal (Mato Grosso)",
+    "dns_status": "TIMEOUT_OR_DEAD"
+  },
+  {
+    "tab": "midias",
+    "nome": "Diario Online",
+    "link": "https://diarionline.com.br/",
+    "email": "rosana@diariocorumbaense.com.br",
+    "telefone": "(67) 3232-4690",
+    "uf": "MS",
+    "obs": "Imprensa / Portal (Mato Grosso do Sul)",
+    "dns_status": "NXDOMAIN"
+  },
+  {
+    "tab": "midias",
+    "nome": "NTO Tocantins",
+    "link": "https://ntocantins.com.br/",
+    "email": "redacao@ntocantins.com.br",
+    "telefone": "63 99297-2766",
+    "uf": "TO",
+    "obs": "Imprensa / Portal (Tocantins)",
+    "dns_status": "NXDOMAIN"
+  }
+]

@@ -1,0 +1,103 @@
+{
+  "data_payload.js": {
+    "mtime": 1793134102.292035,
+    "seen": 1793134104.8269498,
+    "ast_hash": "31034fd798cb0d905ede52f8e35b1fe9",
+    "semantic_hash": "31034fd798cb0d905ede52f8e35b1fe9"
+  },
+  "data_staged/provenance_legacy.json": {
+    "mtime": 1793133609.355902,
+    "seen": 1793133887.4317217,
+    "ast_hash": "14ce60a4747042bbaae04975d5578136",
+    "semantic_hash": "14ce60a4747042bbaae04975d5578136",
+    "ast_empty": true
+  },
+  "data_verified/dns_cache.json": {
+    "mtime": 1793133609.3302314,
+    "seen": 1793133887.4317217,
+    "ast_hash": "a9fa2d33447899160de83b4a2813d648",
+    "semantic_hash": "a9fa2d33447899160de83b4a2813d648",
+    "ast_empty": true
+  },
+  "pyproject.toml": {
+    "mtime": 1793130168.280198,
+    "seen": 1793131151.2268782,
+    "ast_hash": "6043698fa0ac0563957a36d10df38bbd",
+    "semantic_hash": "6043698fa0ac0563957a36d10df38bbd"
+  },
+  "reports/audit_summary.json": {
+    "mtime": 1793134101.959665,
+    "seen": 1793134104.8316145,
+    "ast_hash": "dc4f74eebafa1a698078aa5031252684",
+    "semantic_hash": "dc4f74eebafa1a698078aa5031252684",
+    "ast_empty": true
+  },
+  "tools/__init__.py": {
+    "mtime": 1793130170.341239,
+    "seen": 1793131151.2268782,
+    "ast_hash": "5bab92111ab0339d5fb5b4199283022c",
+    "semantic_hash": "5bab92111ab0339d5fb5b4199283022c"
+  },
+  "tools/audit.py": {
+    "mtime": 1793132985.7401247,
+    "seen": 1793133887.4337564,
+    "ast_hash": "a6320289f7f7d1fc79743932f6383a29",
+    "semantic_hash": "a6320289f7f7d1fc79743932f6383a29"
+  },
+  "tools/cli.py": {
+    "mtime": 1793130531.1151211,
+    "seen": 1793131151.227885,
+    "ast_hash": "461b1b40435816f8813a262a30bafe0a",
+    "semantic_hash": "461b1b40435816f8813a262a30bafe0a"
+  },
+  "tools/etl_legacy.py": {
+    "mtime": 1793133531.5244195,
+    "seen": 1793133887.4357514,
+    "ast_hash": "4771f6bbca5c63d2d6ecd745f1ecd76b",
+    "semantic_hash": "4771f6bbca5c63d2d6ecd745f1ecd76b"
+  },
+  "tools/exporter.py": {
+    "mtime": 1793134087.4903138,
+    "seen": 1793134104.833721,
+    "ast_hash": "e46d28b0dc9e040b506d676fe0d5dc57",
+    "semantic_hash": "e46d28b0dc9e040b506d676fe0d5dc57"
+  },
+  "tools/scraper_ies.py": {
+    "mtime": 1793133542.0417955,
+    "seen": 1793133887.4357514,
+    "ast_hash": "7633723199e918902446d86cef815b5a",
+    "semantic_hash": "7633723199e918902446d86cef815b5a"
+  },
+  "tools/scraper_social.py": {
+    "mtime": 1793130525.1803832,
+    "seen": 1793131151.227885,
+    "ast_hash": "424418a396e29e1208f4116285914cb8",
+    "semantic_hash": "424418a396e29e1208f4116285914cb8"
+  },
+  "tools/uf_catalog.py": {
+    "mtime": 1793130173.2851036,
+    "seen": 1793131151.227885,
+    "ast_hash": "c77b8929104c7f36e4ef906745fe3070",
+    "semantic_hash": "c77b8929104c7f36e4ef906745fe3070"
+  },
+  "data_verified/ies_scraped.json": {
+    "mtime": 1793133615.1427472,
+    "seen": 1793133887.4317217,
+    "ast_hash": "8bdfd4fba233778558de7313983f8ed4",
+    "semantic_hash": "8bdfd4fba233778558de7313983f8ed4",
+    "ast_empty": true
+  },
+  "reports/quarantined_dead_domains.json": {
+    "mtime": 1793133609.3317509,
+    "seen": 1793133887.4327385,
+    "ast_hash": "894f092827ad83a3de430e4b0f59d433",
+    "semantic_hash": "894f092827ad83a3de430e4b0f59d433",
+    "ast_empty": true
+  },
+  "tools/df_verified_catalog.py": {
+    "mtime": 1793133576.5754154,
+    "seen": 1793133887.4347522,
+    "ast_hash": "1a819dd4a6ca664d4ed6adf6d9a0765e",
+    "semantic_hash": "1a819dd4a6ca664d4ed6adf6d9a0765e"
+  }
+}

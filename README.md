@@ -1,107 +1,100 @@
-# Edumi — Centralizador de Prospecção & Inteligência de Dados
+# Edumi — Centralizador de Prospecção & Engenharia de Dados
 
-Sistema de consolidação, higienização, visualização e exportação de dados para campanhas de prospecção acadêmica, parcerias culturais e influenciadores da **Edumi**.
+Esteira determinística de consolidação, higienização, auditoria DNS MX, visualização e exportação de dados para campanhas de prospecção acadêmica, imprensa, parcerias e influenciadores da **Edumi**.
 
 ---
 
 ## 🎯 Objetivo do Projeto
 
-Centralizar todo o acervo histórico disperso da Edumi em uma **única planilha centralizadora padronizada no Google Sheets**, eliminando a criação desordenada de múltiplos arquivos e garantindo uma base limpa para mala direta e parcerias.
+Unificar o acervo histórico disperso da Edumi (`doc/*.xlsx`) e enriquecê-lo com contatos institucionais verificados em uma **única planilha centralizadora padronizada (Flat Table)** compatível com o Google Sheets oficial da cliente ([`0. Planilha centralizadora`](https://docs.google.com/spreadsheets/d/1hqgfKgMzn00-zV91sFe7a6aMK5ZV47TCvQNfMP8Ksv0/edit)), com **zero bounces, zero domínios mortos e zero dados sintéticos**.
 
-O projeto conta também com uma **aplicação web local autônoma (`app.html` / `dashboard.html`)** com dashboard analítico interativo, busca em tempo real, filtros por estado (UF), gráficos dinâmicos, adição manual de registros e importação de novos dados via CSV.
-
----
-
-## 📊 Estrutura dos Dados (5 Abas Padronizadas)
-
-Todas as bases seguem o formato de tabela plana (*Flat Table*), conforme a estrutura oficial criada na planilha [`0. Planilha centralizadora`](https://docs.google.com/spreadsheets/d/1hqgfKgMzn00-zV91sFe7a6aMK5ZV47TCvQNfMP8Ksv0/edit):
-
-1. **`universidades`**: `nome_faculdade`, `nome_departamento`, `email`, `uf` *(1.158 contatos consolidados: 223 DF, 170 GO e 765 Brasil)*.
-2. **`artistas`**: `nome`, `arroba`, `quantidade_seguidores`, `tipo`, `uf` *(50 artistas e coletivos do DF da @edicoesmotim em 2025/2026)*.
-3. **`influenciadores`**: `nome`, `arroba`, `quantidade_seguidores`, `tipo`, `uf` *(36 criadores regionais categorizados por nicho em DF, GO e PE)*.
-4. **`midias`**: `nome`, `link`, `email`, `telefone`, `uf`, `obs` *(194 veículos de comunicação de 13 estados)*.
-5. **`parceiros`**: `nome`, `link`, `email`, `telefone`, `uf`, `obs` *(104 contatos de parcerias e WhatsApp)*.
+O projeto inclui:
+1. **CLI de Engenharia de Dados (`edumi-ops` via `uv`):** Extração determinística do acervo legado, raspagem institucional com rastreabilidade (`source_url`), resolução concorrente de DNS MX/A e trava de auditoria (`total_blockers == 0`).
+2. **Aplicações Web Locais Autônomas (`app.html`, `index.html` e `dashboard.html`):** Gestão tabular e dashboard analítico interativo consumindo `data_payload.js` versionado por hash SHA-256.
 
 ---
 
-## 🖥️ Aplicações Web Locais (Tabela & Dashboard Dedicado)
+## 📊 Estrutura Atual Auditada (5 Abas Oficiais)
 
-Não requer nenhuma instalação, servidor Node.js ou dependências externas. Basta dar um duplo clique para abrir no navegador:
+Todas as abas seguem rigorosamente as colunas de [`0. Planilha centralizadora.xlsx`](file:///C:/Users/alexk/Desktop/freela-edumi/0.%20Planilha%20centralizadora.xlsx):
 
-### 1. 📊 Dashboard Analítico & Métricas (`dashboard.html`)
-Tela dedicada com painel visual completo e segmentação dinâmica por assunto e categoria:
-* **Filtro por Assunto (Pills):** Alterna as análises entre `🎓 Universidades & IFs`, `📱 Influenciadores (DF, GO, PE)`, `🎨 Artistas Motim DF`, `📰 Mídias & Imprensa` e `🤝 Parceiros & Redes`.
-* **Filtro por Tipo de Instituição:** Segmenta instantaneamente entre:
-  - 🏛️ **Institutos Federais (IF)** (212 contatos e campi)
-  - 🎓 **Universidades Federais** (345 contatos)
-  - 🏢 **Faculdades Privadas / Particulares** (507 contatos)
-  - 🏫 **Universidades Estaduais** (56 contatos)
-  - 🏥 **Pública Distrital (DF)** (4 contatos)
-* **Filtro por UF:** Dropdown dinâmico com todas as unidades federativas (DF, GO, SP, RJ, MG, PE...).
-* **Gráficos Dinâmicos (Chart.js):**
-  - Gráfico Donut de Proporção por Tipo (IFs vs Federais vs Privadas vs Estaduais).
-  - Gráfico de Barras do Ranking das Top 10 UFs filtradas.
-* **KPIs Reativos:** Métricas calculadas instantaneamente conforme os filtros selecionados.
-* **Tabela de Prévia Analítica:** Visualização tabular direta dos dados filtrados com exportação em CSV com 1 clique.
-
-### 2. 📋 Centralizador & Gestão de Dados (`app.html` / `index.html`)
-Tela focada na operação, edição e alimentação das planilhas:
-* **🔍 Busca em Tempo Real:** Filtre instantaneamente por faculdade, departamento, e-mail, cidade ou palavras-chave.
-* **🏷️ Filtros Rápidos por UF:** Seletores de 1 clique para `Só DF (223)`, `Só GO (170)`, `SP`, `RJ`, `MG` e dropdown geral.
-* **➕ Adição Manual de Registros:** Cadastre novos contatos diretamente na interface com validação de colunas.
-* **📥 Importação de CSV:** Importe novas listas em formato `.csv` com prévia automática e mapeamento de campos.
-* **📋 Cópia Rápida:** Botão para copiar e-mail ou a linha inteira para a área de transferência.
-* **💾 Exportação de CSV:** Baixe um arquivo CSV com os dados exatamente como filtrados na tela.
-
-Ambas as telas possuem um **menu superior integrado (*Top Nav Switcher*)**, permitindo alternar livremente entre a visão analítica e a visão tabular.
+1. **`universidades`**: `nome_faculdade`, `nome_departamento`, `email`, `uf`  
+   - **Total Nacional Auditado:** **1.220 contatos** distribuídos nas **27 UFs** (`215 DF`, `172 GO` e `833` nos demais 25 estados), com **0 bounces** e **100% de domínios com DNS ativo**.
+   - **Recorte Marco 1 (Distrito Federal):** **215 contatos verificados** em [`csv_exports/01_universidades_DF_marco1.csv`](file:///C:/Users/alexk/Desktop/freela-edumi/csv_exports/01_universidades_DF_marco1.csv) (`UnB`: 89, `IFB Reitoria + 10 Campi`: 62, `ESCS + FEPECS`: 23, `ENAP + Fiocruz Brasília`: 2, e 15 instituições privadas/Sistema S: 39).
+2. **`artistas`**: `nome`, `arroba`, `quantidade_seguidores`, `tipo`, `uf`  
+   - *0 registros no momento (dados sintéticos anteriores expurgados; coleta verificada `@edicoesmotim` agendada para o **Marco 3 — 04/11**).*
+3. **`influenciadores`**: `nome`, `arroba`, `quantidade_seguidores`, `tipo`, `uf`  
+   - *0 registros no momento (perfis alucinados anteriores expurgados; coleta verificada DF/GO/PE agendada para o **Marco 4 — 08/11**).*
+4. **`midias`**: `nome`, `link`, `email`, `telefone`, `uf`, `obs`  
+   - **219 contatos atômicos de imprensa** em **11 UFs** (células multi-email desmembradas individualmente e higienizadas).
+5. **`parceiros`**: `nome`, `link`, `email`, `telefone`, `uf`, `obs`  
+   - **523 canais estudantis, empresas juniores e parceiros** recuperados e padronizados das planilhas legadas.
 
 ---
 
-## 📁 Estrutura de Diretórios do Repositório
+## 🛠️ CLI de Operação e Auditoria (`uv`)
 
+Requisitos: Python 3.11+ gerenciado via [`uv`](https://docs.astral.sh/uv/).
+
+```powershell
+# Instalar/sincronizar ambiente virtual (.venv) a partir do uv.lock
+uv sync
+
+# 1. Extrair e higienizar as 7 planilhas originais de doc/ -> data_staged/
+uv run edumi ingest-legacy
+
+# 2. Coletar e validar contatos institucionais (.edu.br / .br) -> data_verified/ies_scraped.json
+uv run edumi scrape-ies
+
+# 3. Compilar CSVs, planilhas .xlsx e data_payload.js (aborta se houver qualquer bloqueador)
+uv run edumi build
+
+# 4. Rodar auditoria de qualidade e gerar reports/AUDITORIA_QUALIDADE.md
+uv run edumi audit
 ```
+
+---
+
+## 🖥️ Aplicações Web Locais (`app.html` & `dashboard.html`)
+
+Basta abrir no navegador (sem necessidade de servidor backend):
+
+* **[`app.html`](file:///C:/Users/alexk/Desktop/freela-edumi/app.html) / [`index.html`](file:///C:/Users/alexk/Desktop/freela-edumi/index.html) (Gestão Tabular):** Busca instantânea, filtros rápidos (`Só DF (215)`, `Só GO (172)`, `SP`, `RJ`, `MG`), cópia rápida de e-mails, importação/exportação CSV compatível com o schema oficial da Gabi e invalidação automática de cache via `MASTER_PAYLOAD_VERSION`.
+* **[`dashboard.html`](file:///C:/Users/alexk/Desktop/freela-edumi/dashboard.html) (Dashboard Analítico):** Gráficos Chart.js e segmentação por Tipo de Instituição (`Universidades Federais: 443`, `Institutos Federais: 345`, `Privadas / Particulares: 342`, `Universidades Estaduais: 67`, `Pública Distrital DF: 23`) e por UF.
+
+---
+
+## 📁 Estrutura de Diretórios
+
+```text
 freela-edumi/
-│
-├── 0. Planilha centralizadora - Gabi.xlsx # Planilha oficial baixada do Google Sheets da Gabi e populada localmente
-├── Planilha_Centralizadora_Edumi.xlsx    # Planilha mestre de trabalho (5 abas oficiais)
-├── app.html                             # Aplicação Web de Gestão e Operação Tabular
-├── index.html                           # Ponto de entrada padrão
-├── dashboard.html                       # Dashboard Analítico Dedicado com Gráficos Chart.js
-├── data_payload.js                      # Base de dados estruturada consumida pelas aplicações
-├── PLANO_DE_EXECUCAO.md                 # Cronograma detalhado, prazos e critérios técnicos
-├── README.md                            # Documentação geral do projeto
-├── oquefazer.txt                        # Briefing original e requisitos da Edumi
-│
-├── csv_exports/                         # Arquivos CSV prontos para importação no Google Sheets
-│   ├── 01_universidades.csv             # 1.158 contatos com UF
-│   ├── 01_universidades_DF_marco1.csv   # 223 contatos exclusivos do DF (UnB, IFB, privadas)
-│   ├── 02_artistas.csv                  # 20 artistas da Feira Motim DF 2025/2026
-│   ├── 03_influenciadores.csv           # 36 criadores regionais (DF, GO, PE)
-│   ├── 04_midias.csv                    # 194 veículos de mídia de 13 UFs
-│   └── 05_parceiros.csv                 # 104 contatos de parceiros e canais de WhatsApp
-│
-└── doc/                                 # Acervo legado original preservado para auditoria
-    ├── Audiencias faculdades.xlsx
-    ├── Contas instagram parcerias para divulgação.xlsx
-    ├── Contatos de Universidades, Faculdades, SENAC e SENAI em Goiás V4.xlsx
-    ├── Lista de e-mails Universidades Brasil.xlsx
-    ├── Lista de Psicologia - Parcerias UFS Universidades, departamentos.xlsx
-    ├── Mídias (jornal).xlsx
-    └── arquivado.xlsx
+├── 0. Planilha centralizadora.xlsx        # Template original em branco da Gabi (referência de schema)
+├── 0. Planilha centralizadora - Gabi.xlsx # Planilha populada localmente (5 abas auditadas)
+├── Planilha_Centralizadora_Edumi.xlsx     # Cópia mestre de trabalho (5 abas auditadas)
+├── app.html / index.html                  # Interface Web de Gestão Tabular
+├── dashboard.html                         # Dashboard Analítico com Chart.js
+├── data_payload.js                        # Payload JSON + MASTER_PAYLOAD_VERSION
+├── pyproject.toml / uv.lock               # Configuração determinística Python (uv)
+├── tools/                                 # Pacote CLI edumi-ops (audit, etl_legacy, scraper_ies, exporter...)
+├── data_staged/                           # Camada intermediária extraída de doc/
+├── data_verified/                         # Contatos raspados com source_url + cache DNS MX
+├── reports/                               # AUDITORIA_QUALIDADE.md + domínios em quarentena
+├── csv_exports/                           # CSVs oficiais prontos para importação no Google Sheets
+└── doc/                                   # 7 planilhas legadas originais (intactas / somente leitura)
 ```
 
 ---
 
 ## 📅 Cronograma de Entregas (Milestones)
 
-* **[x] Marco 1 (27/10 - 23:00):** Mapeamento do Distrito Federal (223 contatos: UnB 95 setores, IFB Reitoria + 10 campi, ESCS, privadas e Sistema S).
-* **[x] Marco 2 (31/10 - 32:00):** Mapeamento do Resto do Brasil (Goiás V4 + Federais, Estaduais e 212 Institutos Federais de todo o país).
-* **[x] Marco 3 (04/11 - 23:00):** Mapeamento dos Artistas do DF do perfil `@edicoesmotim` (anos 2025 e 2026).
-* **[x] Marco 4 (08/11 - 23:00):** Mapeamento dos Influenciadores de DF, GO e PE por nicho.
+* **[x] Marco 1 (27/10 - 23:00):** Distrito Federal concluído, auditado e **sincronizado no Google Sheets da Gabi** (**215 contatos verificados**, 0 bloqueadores).
+* **[ ] Marco 2 (31/10 - 23:00):** Resto do Brasil (1.005 contatos legados já alimentados no Google Sheets + expansão nacional `.edu.br` agendada).
+* **[ ] Marco 3 (04/11 - 23:00):** Artistas do DF do perfil `@edicoesmotim` (edições 2025 e 2026 verificadas).
+* **[ ] Marco 4 (08/11 - 23:00):** Influenciadores verificados de DF, GO e PE + consolidação final.
 
 ---
 
-## 🔒 Segurança e Integridade dos Dados
+## 🔒 Segurança e Governança
 
-* **Nenhum arquivo do acervo legado (`/doc`) foi apagado**, permanecendo como fonte primária para auditoria.
-* **Nenhum dado foi enviado online para o Google Sheets ainda**, aguardando aprovação explícita do usuário.
+* **Acervo Original Intacto:** Nenhum arquivo local ou no Drive da cliente foi modificado ou excluído.
+* **Planilha Central Alimentada:** Os **1.962 registros auditados** (`1.220 universidades`, `219 midias` e `523 parceiros`) já foram alimentados de forma não-destrutiva no Google Sheets oficial da Gabi.
