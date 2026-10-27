@@ -1,0 +1,24 @@
+# Python & Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Large media files
+*.mp4
+*.mov
+*.avi
+*.wmv
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Temporary / Scratch files
+.system_generated/
