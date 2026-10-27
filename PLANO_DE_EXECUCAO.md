@@ -119,14 +119,14 @@ Todas as tabelas foram estruturadas no padrão estrito *Flat Table* (linha por l
   3. **Higienização:** Inferência automática de UF por domínio e remoção de e-mails de bounce.
 
 #### 🎨 Marco 3: Artistas do DF (@edicoesmotim 2025/2026) (Prazo: 04/11 às 23:00)
-- **Status:** **CONCLUÍDO LOCALMENTE (20 Artistas e Coletivos do DF Mapeados)**
+- **Status:** **CONCLUÍDO LOCALMENTE (50 Artistas e Coletivos do DF Mapeados)**
 - **Arquivo de Entrega Específica:** [`csv_exports/02_artistas.csv`](file:///C:/Users/alexk/Desktop/freela-edumi/csv_exports/02_artistas.csv)
 - **Escopo:**
   - Varredura e raspagem das edições 2025 e 2026 da Feira Motim no SESI Lab, Galeria dos Estados e CONIC (N19, N20, N21, N22 e N23).
   - Seleção criteriosa de artistas locais do DF com perfil ativo, volume de seguidores e categorização por linguagem (HQ, serigrafia, gravura, lambe-lambe, zine, ilustração, arte-educação).
 
 #### 📱 Marco 4: Influenciadores (DF, GO e PE) (Prazo: 08/11 às 23:00)
-- **Status:** **CONCLUÍDO LOCALMENTE (17 Criadores Mapeados)**
+- **Status:** **CONCLUÍDO LOCALMENTE (36 Criadores Mapeados)**
 - **Arquivo de Entrega Específica:** [`csv_exports/03_influenciadores.csv`](file:///C:/Users/alexk/Desktop/freela-edumi/csv_exports/03_influenciadores.csv)
 - **Escopo:**
   - Mapeamento segmentado por nicho universitário, pré-vestibular/ENEM, vida acadêmica e ecossistema de tecnologia nos 3 estados prioritários solicitados (DF, GO e PE).

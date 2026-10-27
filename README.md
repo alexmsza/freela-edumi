@@ -17,8 +17,8 @@ O projeto conta também com uma **aplicação web local autônoma (`app.html` / 
 Todas as bases seguem o formato de tabela plana (*Flat Table*), conforme a estrutura oficial criada na planilha [`0. Planilha centralizadora`](https://docs.google.com/spreadsheets/d/1hqgfKgMzn00-zV91sFe7a6aMK5ZV47TCvQNfMP8Ksv0/edit):
 
 1. **`universidades`**: `nome_faculdade`, `nome_departamento`, `email`, `uf` *(1.158 contatos consolidados: 223 DF, 170 GO e 765 Brasil)*.
-2. **`artistas`**: `nome`, `arroba`, `quantidade_seguidores`, `tipo`, `uf` *(20 artistas e coletivos do DF da @edicoesmotim em 2025/2026)*.
-3. **`influenciadores`**: `nome`, `arroba`, `quantidade_seguidores`, `tipo`, `uf` *(17 criadores regionais categorizados por nicho em DF, GO e PE)*.
+2. **`artistas`**: `nome`, `arroba`, `quantidade_seguidores`, `tipo`, `uf` *(50 artistas e coletivos do DF da @edicoesmotim em 2025/2026)*.
+3. **`influenciadores`**: `nome`, `arroba`, `quantidade_seguidores`, `tipo`, `uf` *(36 criadores regionais categorizados por nicho em DF, GO e PE)*.
 4. **`midias`**: `nome`, `link`, `email`, `telefone`, `uf`, `obs` *(194 veículos de comunicação de 13 estados)*.
 5. **`parceiros`**: `nome`, `link`, `email`, `telefone`, `uf`, `obs` *(104 contatos de parcerias e WhatsApp)*.
 
@@ -76,7 +76,7 @@ freela-edumi/
 │   ├── 01_universidades.csv             # 1.158 contatos com UF
 │   ├── 01_universidades_DF_marco1.csv   # 223 contatos exclusivos do DF (UnB, IFB, privadas)
 │   ├── 02_artistas.csv                  # 20 artistas da Feira Motim DF 2025/2026
-│   ├── 03_influenciadores.csv           # 17 criadores regionais (DF, GO, PE)
+│   ├── 03_influenciadores.csv           # 36 criadores regionais (DF, GO, PE)
 │   ├── 04_midias.csv                    # 194 veículos de mídia de 13 UFs
 │   └── 05_parceiros.csv                 # 104 contatos de parceiros e canais de WhatsApp
 │
