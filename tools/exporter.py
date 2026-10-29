@@ -15,6 +15,7 @@ from openpyxl.styles import Font, PatternFill
 from openpyxl.utils import get_column_letter
 
 from tools.audit import OFFICIAL_SCHEMAS, run_audit
+from tools.department_filter import is_clean_departmental_contact
 
 
 def classify_institution_type(nome_faculdade: str, email: str) -> str:
@@ -80,7 +81,8 @@ def build_deliverables(project_root: Path, strict: bool = True) -> dict[str, Any
                 "uf": item["uf"],
             }
 
-    uni_all = sorted(uni_by_email.values(), key=lambda x: (x["uf"] != "DF", x["uf"], x["nome_faculdade"], x["nome_departamento"]))
+    uni_all = [r for r in uni_by_email.values() if is_clean_departmental_contact(r)]
+    uni_all = sorted(uni_all, key=lambda x: (x["uf"] != "DF", x["uf"], x["nome_faculdade"], x["nome_departamento"]))
     uni_df = [r for r in uni_all if r["uf"] == "DF"]
 
     artistas: list[dict[str, Any]] = []

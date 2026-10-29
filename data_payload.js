@@ -1,14 +1,7 @@
-// Gerado automaticamente por tools/exporter.py — Hash: 0ef5fa6d24b0
-const MASTER_PAYLOAD_VERSION = "0ef5fa6d24b0";
+// Gerado automaticamente por tools/exporter.py — Hash: d401eed814fd
+const MASTER_PAYLOAD_VERSION = "d401eed814fd";
 const MASTER_PAYLOAD = {
   "universidades": [
-    {
-      "nome_faculdade": "Centro Universitário Apparecido dos Santos (UNICEPLAC)",
-      "nome_departamento": "Secretaria Acadêmica Geral (Campus Gama)",
-      "email": "secretaria.academica@uniceplac.edu.br",
-      "uf": "DF",
-      "tipo_instituicao": "Privada / Particular"
-    },
     {
       "nome_faculdade": "Centro Universitário Euro-Americano (UNIEURO)",
       "nome_departamento": "Secretaria e Serviços Acadêmicos Online",
@@ -87,20 +80,6 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "Centro Universitário Projeção (UniProjeção)",
-      "nome_departamento": "Suporte da Central de Serviços Compartilhados",
-      "email": "suportessc@projecao.br",
-      "uf": "DF",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Centro Universitário de Brasília (CEUB / UniCEUB)",
-      "nome_departamento": "Assessoria de Imprensa e Comunicação",
-      "email": "assessoriadeimprensa@uniceub.br",
-      "uf": "DF",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "Centro Universitário de Brasília (CEUB / UniCEUB)",
       "nome_departamento": "Central de Atendimento e Relacionamento Acadêmico",
       "email": "central.atendimento@uniceub.br",
@@ -111,20 +90,6 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "Centro Universitário de Brasília (CEUB / UniCEUB)",
       "nome_departamento": "Coordenação de Estágios e Carreiras",
       "email": "estagio@uniceub.br",
-      "uf": "DF",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Centro Universitário de Brasília (CEUB / UniCEUB)",
-      "nome_departamento": "Ouvidoria — Campus Asa Norte",
-      "email": "ouvidoria@uniceub.br",
-      "uf": "DF",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Centro Universitário de Brasília (CEUB / UniCEUB)",
-      "nome_departamento": "Ouvidoria — Campus Taguatinga",
-      "email": "ouvidoria.taguatinga@uniceub.br",
       "uf": "DF",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -141,13 +106,6 @@ const MASTER_PAYLOAD = {
       "email": "secretariaescolar@enap.gov.br",
       "uf": "DF",
       "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
-      "nome_departamento": "Atendimento Institucional Geral",
-      "email": "escs@escs.edu.br",
-      "uf": "DF",
-      "tipo_instituicao": "Pública Distrital (DF)"
     },
     {
       "nome_faculdade": "Escola Superior de Ciências da Saúde (ESCS)",
@@ -262,27 +220,6 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
-      "nome_faculdade": "Faculdade CNA (Brasília)",
-      "nome_departamento": "Secretaria Acadêmica Geral",
-      "email": "secretaria@faculdadecna.edu.br",
-      "uf": "DF",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade Presbiteriana Mackenzie Brasília (FPMB)",
-      "nome_departamento": "Atendimento Acadêmico-Financeiro Brasília (AFA-DF)",
-      "email": "afa.df@mackenzie.br",
-      "uf": "DF",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade Republicana (Brasília)",
-      "nome_departamento": "Assessoria de Comunicação",
-      "email": "comunicacao@faculdaderepublicana.org.br",
-      "uf": "DF",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "Faculdade Republicana (Brasília)",
       "nome_departamento": "Biblioteca Acadêmica",
       "email": "biblioteca@faculdaderepublicana.org.br",
@@ -290,30 +227,9 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "Faculdade Republicana (Brasília)",
-      "nome_departamento": "Central de Atendimento Institucional",
-      "email": "contato@faculdaderepublicana.org.br",
-      "uf": "DF",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade Republicana (Brasília)",
-      "nome_departamento": "Secretaria de Atendimento ao Estudante",
-      "email": "atendimento@faculdaderepublicana.org.br",
-      "uf": "DF",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "Faculdade de Tecnologia e Inovação Senac Distrito Federal",
       "nome_departamento": "Coordenação de Programas Educacionais",
       "email": "programaseducacionais@df.senac.br",
-      "uf": "DF",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade de Tecnologia e Inovação Senac Distrito Federal",
-      "nome_departamento": "Ouvidoria Senac-DF",
-      "email": "ouvidoria@df.senac.br",
       "uf": "DF",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -337,13 +253,6 @@ const MASTER_PAYLOAD = {
       "email": "cursos.bsb@fgv.br",
       "uf": "DF",
       "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS)",
-      "nome_departamento": "Assessoria de Comunicação (ASCOM)",
-      "email": "ascom@fepecs.edu.br",
-      "uf": "DF",
-      "tipo_instituicao": "Pública Distrital (DF)"
     },
     {
       "nome_faculdade": "Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS)",
@@ -381,27 +290,6 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Pública Distrital (DF)"
     },
     {
-      "nome_faculdade": "Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS)",
-      "nome_departamento": "Ouvidoria FEPECS",
-      "email": "ouvidoria@fepecs.edu.br",
-      "uf": "DF",
-      "tipo_instituicao": "Pública Distrital (DF)"
-    },
-    {
-      "nome_faculdade": "Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa (IDP)",
-      "nome_departamento": "Central de Relacionamento e Secretaria Acadêmica",
-      "email": "central@idp.edu.br",
-      "uf": "DF",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa (IDP)",
-      "nome_departamento": "Ouvidoria Institucional",
-      "email": "ouvidoria@idp.edu.br",
-      "uf": "DF",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Brasília",
       "nome_departamento": "Chefia de Gabinete da Direção-Geral",
       "email": "gabinete.cbra@ifb.edu.br",
@@ -426,13 +314,6 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Ceilândia",
       "nome_departamento": "Chefia de Gabinete da Direção-Geral",
       "email": "gabinete.ccei@ifb.edu.br",
-      "uf": "DF",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Ceilândia",
-      "nome_departamento": "Comissão de Processo Seletivo e Matrícula",
-      "email": "processoseletivo.ceilandia@ifb.edu.br",
       "uf": "DF",
       "tipo_instituicao": "Instituto Federal (IF)"
     },
@@ -473,13 +354,6 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Estrutural",
-      "nome_departamento": "Comissão de Processo Seletivo e Matrícula",
-      "email": "processoseletivo.estrutural@ifb.edu.br",
-      "uf": "DF",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Estrutural",
       "nome_departamento": "Coordenação de Assistência Estudantil e Inclusão Social (CDAE)",
       "email": "cdae.cest@ifb.edu.br",
       "uf": "DF",
@@ -503,13 +377,6 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Gama",
       "nome_departamento": "Chefia de Gabinete da Direção-Geral",
       "email": "gabinete.cgam@ifb.edu.br",
-      "uf": "DF",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Gama",
-      "nome_departamento": "Comissão de Processo Seletivo e Matrícula",
-      "email": "processoseletivo.gama@ifb.edu.br",
       "uf": "DF",
       "tipo_instituicao": "Instituto Federal (IF)"
     },
@@ -543,13 +410,6 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Planaltina",
-      "nome_departamento": "Comissão de Processo Seletivo",
-      "email": "processoseletivo.planaltina@ifb.edu.br",
-      "uf": "DF",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Planaltina",
       "nome_departamento": "Coordenação de Assistência Estudantil e Inclusão Social (CDAE)",
       "email": "cdae.cpla@ifb.edu.br",
       "uf": "DF",
@@ -578,22 +438,8 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Recanto das Emas",
-      "nome_departamento": "Atendimento Institucional do Campus",
-      "email": "campusrecantodasemas@ifb.edu.br",
-      "uf": "DF",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Recanto das Emas",
       "nome_departamento": "Chefia de Gabinete da Direção-Geral",
       "email": "gabinete.crem@ifb.edu.br",
-      "uf": "DF",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Recanto das Emas",
-      "nome_departamento": "Comissão de Processo Seletivo e Matrícula",
-      "email": "processoseletivo.recantodasemas@ifb.edu.br",
       "uf": "DF",
       "tipo_instituicao": "Instituto Federal (IF)"
     },
@@ -627,13 +473,6 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Riacho Fundo",
-      "nome_departamento": "Comissão de Processo Seletivo e Matrícula",
-      "email": "processoseletivo.riachofundo@ifb.edu.br",
-      "uf": "DF",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Riacho Fundo",
       "nome_departamento": "Coordenação de Registro Acadêmico (CDRA)",
       "email": "cdra.crfi@ifb.edu.br",
       "uf": "DF",
@@ -655,13 +494,6 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Samambaia",
-      "nome_departamento": "Comissão de Processo Seletivo e Matrícula",
-      "email": "processoseletivo.samambaia@ifb.edu.br",
-      "uf": "DF",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Samambaia",
       "nome_departamento": "Coordenação de Registro Acadêmico (CDRA)",
       "email": "cdra.csam@ifb.edu.br",
       "uf": "DF",
@@ -678,13 +510,6 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus São Sebastião",
       "nome_departamento": "Chefia de Gabinete da Direção-Geral",
       "email": "gabinete.cssb@ifb.edu.br",
-      "uf": "DF",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus São Sebastião",
-      "nome_departamento": "Comissão de Processo Seletivo",
-      "email": "processoseletivo.saosebastiao@ifb.edu.br",
       "uf": "DF",
       "tipo_instituicao": "Instituto Federal (IF)"
     },
@@ -718,13 +543,6 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Taguatinga",
-      "nome_departamento": "Comissão de Processo Seletivo e Matrícula",
-      "email": "processoseletivo.taguatinga@ifb.edu.br",
-      "uf": "DF",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Taguatinga",
       "nome_departamento": "Coordenação de Registro Acadêmico (CDRA)",
       "email": "cdra.ctag@ifb.edu.br",
       "uf": "DF",
@@ -745,30 +563,9 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
-      "nome_faculdade": "Instituto Federal de Brasília (IFB) - Campus Taguatinga",
-      "nome_departamento": "Setor de Protocolo",
-      "email": "ctag.protocolo@ifb.edu.br",
-      "uf": "DF",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
-      "nome_departamento": "Coordenação Geral de Processo Seletivo e Ingresso",
-      "email": "processoseletivo@ifb.edu.br",
-      "uf": "DF",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
       "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
       "nome_departamento": "Coordenação de Políticas de Assistência Estudantil (CPAPE)",
       "email": "cpape@ifb.edu.br",
-      "uf": "DF",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
-      "nome_departamento": "Diretoria de Comunicação Social (DICOM)",
-      "email": "comunicacao@ifb.edu.br",
       "uf": "DF",
       "tipo_instituicao": "Instituto Federal (IF)"
     },
@@ -783,55 +580,6 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
       "nome_departamento": "Diretoria de Tecnologia da Informação e Comunicação (DTIC)",
       "email": "dtic@ifb.edu.br",
-      "uf": "DF",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
-      "nome_departamento": "Gabinete da Reitoria / Gabinete Digital",
-      "email": "gabinetedigital@ifb.edu.br",
-      "uf": "DF",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
-      "nome_departamento": "Ouvidoria Institucional",
-      "email": "ouvidoria@ifb.edu.br",
-      "uf": "DF",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
-      "nome_departamento": "Protocolo Central da Reitoria",
-      "email": "protocolo.reitoria@ifb.edu.br",
-      "uf": "DF",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
-      "nome_departamento": "Pró-Reitoria de Administração (PRAF)",
-      "email": "praf@ifb.edu.br",
-      "uf": "DF",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
-      "nome_departamento": "Pró-Reitoria de Ensino (PREN)",
-      "email": "pren@ifb.edu.br",
-      "uf": "DF",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
-      "nome_departamento": "Pró-Reitoria de Extensão e Cultura (PREX)",
-      "email": "prex@ifb.edu.br",
-      "uf": "DF",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Brasília (IFB) - Reitoria",
-      "nome_departamento": "Pró-Reitoria de Pesquisa e Inovação (PRPI)",
-      "email": "prpi@ifb.edu.br",
       "uf": "DF",
       "tipo_instituicao": "Instituto Federal (IF)"
     },
@@ -874,13 +622,6 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "Universidade Católica de Brasília (UCB)",
       "nome_departamento": "Gestão Estratégica de Pesquisa e Extensão (PAGE)",
       "email": "page@ucb.br",
-      "uf": "DF",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Universidade Católica de Brasília (UCB)",
-      "nome_departamento": "Ouvidoria Institucional (Grupo UBEC / UCB)",
-      "email": "ouvidoria@ubec.edu.br",
       "uf": "DF",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -1021,62 +762,6 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "Universidade de Brasília (UnB)",
       "nome_departamento": "Coordenação e Reserva de Auditórios — Faculdade de Tecnologia (FT)",
       "email": "auditorioft@unb.br",
-      "uf": "DF",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Universidade de Brasília (UnB)",
-      "nome_departamento": "Decanato de Administração (DAF)",
-      "email": "daf@unb.br",
-      "uf": "DF",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Universidade de Brasília (UnB)",
-      "nome_departamento": "Decanato de Assuntos Comunitários (DAC)",
-      "email": "dac@unb.br",
-      "uf": "DF",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Universidade de Brasília (UnB)",
-      "nome_departamento": "Decanato de Ensino de Graduação (DEG)",
-      "email": "deg@unb.br",
-      "uf": "DF",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Universidade de Brasília (UnB)",
-      "nome_departamento": "Decanato de Extensão (DEX)",
-      "email": "redex@unb.br",
-      "uf": "DF",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Universidade de Brasília (UnB)",
-      "nome_departamento": "Decanato de Gestão de Pessoas (DGP)",
-      "email": "dgp@unb.br",
-      "uf": "DF",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Universidade de Brasília (UnB)",
-      "nome_departamento": "Decanato de Pesquisa e Inovação (DPI)",
-      "email": "dpi@unb.br",
-      "uf": "DF",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Universidade de Brasília (UnB)",
-      "nome_departamento": "Decanato de Planejamento, Orçamento e Avaliação Institucional (DPO)",
-      "email": "dpo@unb.br",
-      "uf": "DF",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Universidade de Brasília (UnB)",
-      "nome_departamento": "Decanato de Pós-Graduação (DPG)",
-      "email": "dpg@unb.br",
       "uf": "DF",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -1341,20 +1026,6 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "Universidade de Brasília (UnB)",
-      "nome_departamento": "Gabinete da Reitoria (GRE)",
-      "email": "reitoria@unb.br",
-      "uf": "DF",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Universidade de Brasília (UnB)",
-      "nome_departamento": "Gabinete da Reitoria — Atendimento Institucional (GRE)",
-      "email": "gre@unb.br",
-      "uf": "DF",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Universidade de Brasília (UnB)",
       "nome_departamento": "Instituto de Artes (IdA)",
       "email": "ida@unb.br",
       "uf": "DF",
@@ -1432,13 +1103,6 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "Universidade de Brasília (UnB)",
-      "nome_departamento": "Ouvidoria da UnB",
-      "email": "ouvidoria@unb.br",
-      "uf": "DF",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Universidade de Brasília (UnB)",
       "nome_departamento": "Programa de Pós-Graduação em Desenvolvimento, Sociedade e Cooperação Internacional (PPGDSCI/CEAM)",
       "email": "ppgdsci@unb.br",
       "uf": "DF",
@@ -1455,13 +1119,6 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "Universidade de Brasília (UnB)",
       "nome_departamento": "Secretaria Administrativa — Faculdade de Tecnologia (FT)",
       "email": "dasilva@unb.br",
-      "uf": "DF",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Universidade de Brasília (UnB)",
-      "nome_departamento": "Secretaria Geral / Atendimento Institucional",
-      "email": "secretaria@unb.br",
       "uf": "DF",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -1509,59 +1166,10 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "IFAC",
-      "nome_departamento": "Assessoria de Comunicação (ASCOM)",
-      "email": "comunicacao@ifac.edu.br",
-      "uf": "AC",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFAC",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "dscom.cogma@ifac.edu.br",
-      "uf": "AC",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFAC",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "cxa.dirge@ifac.edu.br",
-      "uf": "AC",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFAC",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@ifac.edu.br",
-      "uf": "AC",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFAC",
       "nome_departamento": "dscom",
       "email": "dscom.cocev@ifac.edu.br",
       "uf": "AC",
       "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "coordenacaosi@ufac.br",
-      "uf": "AC",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Federal do Acre",
-      "email": "gabinete@ufac.br",
-      "uf": "AC",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFAC",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "ccet.ufac@gmail.com",
-      "uf": "AC",
-      "tipo_instituicao": "Privada / Particular"
     },
     {
       "nome_faculdade": "UFAC",
@@ -1572,52 +1180,10 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "IFAL",
-      "nome_departamento": "Assessoria de Comunicação (ASCOM)",
-      "email": "comunicacao@ifal.edu.br",
-      "uf": "AL",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFAL",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "assessoria.executiva@ifal.edu.br",
-      "uf": "AL",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFAL",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "nit@ifal.edu.br",
-      "uf": "AL",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFAL",
       "nome_departamento": "prppi",
       "email": "prppi@ifal.edu.br",
       "uf": "AL",
       "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "secretaria@ic.ufal.br",
-      "uf": "AL",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFAL",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "pi@reitoria.ufal.br",
-      "uf": "AL",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFAL",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "gr@reitoria.ufal.br",
-      "uf": "AL",
-      "tipo_instituicao": "Universidade Federal"
     },
     {
       "nome_faculdade": "UFAL",
@@ -1649,73 +1215,10 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "IFAM",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "direc@ifam.edu.br",
-      "uf": "AM",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFAM",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "diren_cmc@ifam.edu.br",
-      "uf": "AM",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFAM",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "tads.cg.cmc@ifam.edu.br",
-      "uf": "AM",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFAM",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "gabinete_cmc@ifam.edu.br",
-      "uf": "AM",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFAM",
       "nome_departamento": "gabinete_cmdi",
       "email": "gabinete_cmdi@ifam.edu.br",
       "uf": "AM",
       "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "waltairmachado@ufam.edu.br",
-      "uf": "AM",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Federal do Amazonas",
-      "email": "ouvidoria@ufam.edu.br",
-      "uf": "AM",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFAM",
-      "nome_departamento": "Assessoria de Comunicação (ASCOM)",
-      "email": "ascom@ufam.edu.br",
-      "uf": "AM",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFAM",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "assessoriadaufam@gmail.com",
-      "uf": "AM",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "UFAM",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "repres_bsb@ufam.edu.br",
-      "uf": "AM",
-      "tipo_instituicao": "Universidade Federal"
     },
     {
       "nome_faculdade": "UFAM",
@@ -1732,242 +1235,11 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "IFAP",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "dti@ifap.edu.br",
-      "uf": "AP",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFAP",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "proeppi@ifap.edu.br",
-      "uf": "AP",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFAP",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "andre.ferreira@ifap.edu.br",
-      "uf": "AP",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFAP",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "jairo.barreto@ifap.edu.br",
-      "uf": "AP",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFAP",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "dirgeral_macapa@ifap.edu.br",
-      "uf": "AP",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFAP",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@ifap.edu.br",
-      "uf": "AP",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFAP",
-      "nome_departamento": "comunicacao",
-      "email": "comunicacao@ifap.edu.br",
-      "uf": "AP",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "assessoria.nti@unifap.br",
-      "uf": "AP",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UNIFAP",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "assessoria@unifap.br",
-      "uf": "AP",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UNIFAP",
-      "nome_departamento": "Gabinete da Direção-Geral — Campus Reitoria",
-      "email": "gabinete.reitoria@unifap.br",
-      "uf": "AP",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "IFBA",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "prpgi@ifba.edu.br",
-      "uf": "BA",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFBA",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "dpesq.rei@ifba.edu.br",
-      "uf": "BA",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFBA",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "dgti@ifba.edu.br",
-      "uf": "BA",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFBA",
-      "nome_departamento": "Pró-Reitoria / Coordenação de Pós-Graduação e Pesquisa",
-      "email": "pesquisaprpgi@ifba.edu.br",
-      "uf": "BA",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
       "nome_faculdade": "IFBA",
       "nome_departamento": "de",
       "email": "de.prpgi.rei@ifba.edu.br",
       "uf": "BA",
       "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFBaiano",
-      "nome_departamento": "Assessoria de Comunicação (ASCOM)",
-      "email": "comunicacao@ifbaiano.edu.br",
-      "uf": "BA",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFBaiano",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "dgti@ifbaiano.edu.br",
-      "uf": "BA",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFBaiano",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "gabinete@ifbaiano.edu.br",
-      "uf": "BA",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFBaiano - propes",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "propes@ifbaiano.edu.br",
-      "uf": "BA",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Beatriz",
-      "email": "beatriz.seidel@ufob.edu.br",
-      "uf": "BA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Dilerval",
-      "email": "dilerval.silva@ufob.edu.br",
-      "uf": "BA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Engenharias",
-      "email": "engsecretaria@ufba.br",
-      "uf": "BA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Engenharias",
-      "email": "carvalhomav@ufsb.edu.br",
-      "uf": "BA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Engenharias",
-      "email": "isaias.jesus@ufob.edu.br",
-      "uf": "BA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Engenharias",
-      "email": "fabioossamu@ufob.edu.br",
-      "uf": "BA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Livia",
-      "email": "liviamascarenhas@ufrb.edu.br",
-      "uf": "BA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "li.mct.cpf@ufsb.edu.br",
-      "uf": "BA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "cetec@ufrb.edu.br",
-      "uf": "BA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "assessoria@cetec.ufrb.edu.br",
-      "uf": "BA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "davidd@ufob.edu.br",
-      "uf": "BA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "uiliam.souza@ufob.edu.br",
-      "uf": "BA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Estadual do Sudoeste da Bahia",
-      "email": "gabinete@uesb.edu.br",
-      "uf": "BA",
-      "tipo_instituicao": "Universidade Estadual"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Federal da Bahia",
-      "email": "sic@ufba.br",
-      "uf": "BA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Federal do Recôncavo da Bahia",
-      "email": "ascom@ufrb.edu.br",
-      "uf": "BA",
-      "tipo_instituicao": "Universidade Federal"
     },
     {
       "nome_faculdade": "UEFS",
@@ -1985,36 +1257,8 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "UFBA",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "gabinete@ufba.br",
-      "uf": "BA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFBA",
       "nome_departamento": "STEM",
       "email": "ime@ufba.br",
-      "uf": "BA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFOB",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "vanessa.kinoshita@ufob.edu.br",
-      "uf": "BA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFRB",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "pei@reitoria.ufrb.edu.br",
-      "uf": "BA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFRB",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "gabi@ufrb.edu.br",
       "uf": "BA",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -2033,102 +1277,11 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
-      "nome_faculdade": "UFSB",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@ufsb.edu.br",
-      "uf": "BA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "IFCE",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "wally@ifce.edu.br",
-      "uf": "CE",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFCE",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "elias.figueiroa@ifce.edu.br",
-      "uf": "CE",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFCE",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "rebecacasemiro@ifce.edu.br",
-      "uf": "CE",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFCE",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "kamilla.karen@ifce.edu.br",
-      "uf": "CE",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFCE",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "joelia@ifce.edu.br",
-      "uf": "CE",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFCE",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "sarah.mesquita@ifce.edu.br",
-      "uf": "CE",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
       "nome_faculdade": "IFCE",
       "nome_departamento": "dowglas",
       "email": "dowglas.lima@ifce.edu.br",
       "uf": "CE",
       "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Engenharias",
-      "email": "matcomp.cct@ufca.edu.br",
-      "uf": "CE",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "ocuni@unilab.edu.br",
-      "uf": "CE",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "computacao.cct@ufca.edu.br",
-      "uf": "CE",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "computacao@crateus.ufc.br",
-      "uf": "CE",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "carlaoliveira@unilab.edu.br",
-      "uf": "CE",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Federal do Ceará",
-      "email": "ouvidoria@ufc.br",
-      "uf": "CE",
-      "tipo_instituicao": "Universidade Federal"
     },
     {
       "nome_faculdade": "Instituto Federal do Ceará (IFCE)",
@@ -2152,13 +1305,6 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
-      "nome_faculdade": "UFCA",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitor@ufca.edu.br",
-      "uf": "CE",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
       "nome_faculdade": "UNIFOR",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "coordenacaopsicologia@unifor.br",
@@ -2166,88 +1312,11 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "UNILAB",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "gabinete@unilab.edu.br",
-      "uf": "CE",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "IFES",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "tads.al@ifes.edu.br",
-      "uf": "ES",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFES",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "producao.ca@ifes.edu.br",
-      "uf": "ES",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFES",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "fisica.car@ifes.edu.br",
-      "uf": "ES",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFES",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "cocli.cai@ifes.edu.br",
-      "uf": "ES",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFES",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "cocsi.cai@ifes.edu.br",
-      "uf": "ES",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFES",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "bsi.col@ifes.edu.br",
-      "uf": "ES",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFES",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "csi.serra@ifes.edu.br",
-      "uf": "ES",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
       "nome_faculdade": "IFES",
       "nome_departamento": "tads",
       "email": "tads.st@ifes.edu.br",
       "uf": "ES",
       "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "secretaria.ct@ufes.br",
-      "uf": "ES",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "chefiadegabinete.reitoria@ufes.br",
-      "uf": "ES",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Federal do Espírito Santo",
-      "email": "faleconosco@ufes.br",
-      "uf": "ES",
-      "tipo_instituicao": "Universidade Federal"
     },
     {
       "nome_faculdade": "UFES",
@@ -2278,58 +1347,9 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "UFES",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitor@ufes.br",
-      "uf": "ES",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Centro Universitário Alfredo Nasser (UNIFAN)",
-      "nome_departamento": "Grande densidade de estudantes na região metropolitana.",
-      "email": "ouvidoria@unifan.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Centro Universitário Alfredo Nasser (UNIFAN)",
-      "nome_departamento": "Grande densidade de estudantes na região metropolitana.",
-      "email": "secretaria@unifan.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Centro Universitário Alfredo Nasser (UNIFAN)",
-      "nome_departamento": "Grande densidade de estudantes na região metropolitana.",
-      "email": "atendimento@unifan.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "Centro Universitário Alfredo Nasser (UNIFAN)",
       "nome_departamento": "Unidade Aparecida de Goiânia",
       "email": "unifan@unifan.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Centro Universitário Alves Faria (UNIALFA)",
-      "nome_departamento": "Forte aderência com jovens na área de negócios e T.I.",
-      "email": "ouvidoria@unialfa.com.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Centro Universitário Alves Faria (UNIALFA)",
-      "nome_departamento": "Forte aderência com jovens na área de negócios e T.I.",
-      "email": "secretaria@unialfa.com.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Centro Universitário Alves Faria (UNIALFA)",
-      "nome_departamento": "Forte aderência com jovens na área de negócios e T.I.",
-      "email": "atendimento@unialfa.com.br",
       "uf": "GO",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -2341,51 +1361,9 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "Centro Universitário Araguaia (UniAraguaia)",
-      "nome_departamento": "Foco em cursos de comunicação, tecnologia e humanas.",
-      "email": "faleconosco@uniaraguaia.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Centro Universitário Araguaia (UniAraguaia)",
-      "nome_departamento": "Foco em cursos de comunicação, tecnologia e humanas.",
-      "email": "secretaria@uniaraguaia.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Centro Universitário Araguaia (UniAraguaia)",
-      "nome_departamento": "Foco em cursos de comunicação, tecnologia e humanas.",
-      "email": "ouvidoria@uniaraguaia.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "Centro Universitário Araguaia - UNIARAGUAIA",
       "nome_departamento": "Unidade Goiânia",
       "email": "uniara@uniaraguaia.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Centro Universitário Cambury (UniCambury)",
-      "nome_departamento": "Também conhecida como Faculdade Cambury.",
-      "email": "atendimento@cambury.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Centro Universitário Cambury (UniCambury)",
-      "nome_departamento": "Também conhecida como Faculdade Cambury.",
-      "email": "secretaria@cambury.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Centro Universitário Cambury (UniCambury)",
-      "nome_departamento": "Também conhecida como Faculdade Cambury.",
-      "email": "financeiro@cambury.br",
       "uf": "GO",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -2397,114 +1375,9 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "Centro Universitário de Anápolis (UniEVANGÉLICA)",
-      "nome_departamento": "Foco na região sudeste.",
-      "email": "relacionamento@aee.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Centro Universitário de Anápolis (UniEVANGÉLICA)",
-      "nome_departamento": "Grande complexo educacional com forte apelo regional.",
-      "email": "ouvidoria@unievangelica.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Centro Universitário de Goiatuba (UniCerrado)",
-      "nome_departamento": "Forte atuação regional no sul do estado.",
-      "email": "reitoria@unicerrado.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Centro Universitário de Goiatuba (UniCerrado)",
-      "nome_departamento": "Forte atuação regional no sul do estado.",
-      "email": "secretaria@unicerrado.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Centro Universitário de Goiatuba (UniCerrado)",
-      "nome_departamento": "Forte atuação regional no sul do estado.",
-      "email": "financeiro@unicerrado.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Centro Universitário de Goiânia (UNICEUG)",
-      "nome_departamento": "Instituição de ensino superior privada.",
-      "email": "contato@uniceug.com.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Centro Universitário de Iporá (UNIPORÁ)",
-      "nome_departamento": "Ensino superior no oeste do estado.",
-      "email": "ouvidoria@unipora.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Centro Universitário de Mineiros (UNIFIMES)",
-      "nome_departamento": "Forte atuação no sudoeste goiano e Trindade.",
-      "email": "unifimes@unifimes.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Centro de Ensino Superior de Jataí (CESUT)",
-      "nome_departamento": "Ensino superior tradicional no sudoeste.",
-      "email": "cesut@cesut.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Centro de Ensino Superior de Jataí (CESUT)",
-      "nome_departamento": "Ensino superior tradicional no sudoeste.",
-      "email": "ouvidoria@cesut.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Centro de Ensino Superior de Jataí (CESUT)",
-      "nome_departamento": "Ensino superior tradicional no sudoeste.",
-      "email": "direcao@cesut.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Centro de Ensino Superior de Jataí (CESUT)",
-      "nome_departamento": "Ensino superior tradicional no sudoeste.",
-      "email": "financeiro@cesut.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "Centro de Estudos Superiores de Jataí",
       "nome_departamento": "Unidade Jataí",
       "email": "regulatorio@animaeducacao.com.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Colégio Tecnológico do Estado de Goiás (COTEC) - Anápolis",
-      "nome_departamento": "Qualificação profissional pública e gratuita.",
-      "email": "cotec.anapolis@goias.gov.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Colégio Tecnológico do Estado de Goiás (COTEC) - Catalão",
-      "nome_departamento": "Qualificação profissional pública e gratuita.",
-      "email": "cotec.catalao@goias.gov.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Colégio Tecnológico do Estado de Goiás (COTEC) - Goiânia",
-      "nome_departamento": "Qualificação profissional pública e gratuita.",
-      "email": "cotec.goiania@goias.gov.br",
       "uf": "GO",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -2530,37 +1403,9 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "Escola Superior Associada de Goiânia (ESUP)",
-      "nome_departamento": "Cursos de administração e engenharia.",
-      "email": "esup@esup.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Escola Superior Associada de Goiânia (ESUP)",
-      "nome_departamento": "Unidade Goiânia",
-      "email": "atendimento@esup.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Escola do Futuro Luiz Rassi",
-      "nome_departamento": "Capacitação tecnológica pública gratuita para jovens.",
-      "email": "luizrassi@efg.org.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "Escola do Futuro Luiz Rassi",
       "nome_departamento": "Unidade Aparecida de Goiânia",
       "email": "aparecidadegoiania@efg.org.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Escola do Futuro Raul Brandão",
-      "nome_departamento": "Capacitação tecnológica pública gratuita para jovens.",
-      "email": "raulbrandao@efg.org.br",
       "uf": "GO",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -2579,44 +1424,9 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "Escola do Futuro em Artes Basileu França",
-      "nome_departamento": "Formação técnica em artes e cultura. Altíssima concentração de jovens.",
-      "email": "basileufranca@efg.org.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Escola do Futuro em Artes Basileu França",
-      "nome_departamento": "Unidade Goiânia",
-      "email": "faleconosco@basileufranca.com.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "Estácio de Sá - Goiás (FESGO)",
       "nome_departamento": "Rede nacional Estácio.",
       "email": "secretaria.goiania@estacio.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Estácio de Sá - Goiás (FESGO)",
-      "nome_departamento": "Rede nacional Estácio.",
-      "email": "ouvidoria@estacio.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "FACULDADE CATEDRAL - FacCATEDRAL",
-      "nome_departamento": "Unidade Valparaíso de Goiás",
-      "email": "atendimento@faculdadecatedral.com.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade Anhanguera (Unidades GO)",
-      "nome_departamento": "Unidades em Goiânia, Anápolis, Valparaíso.",
-      "email": "coordenacao.goias@anhanguera.com",
       "uf": "GO",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -2636,20 +1446,6 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "Faculdade Delta",
-      "nome_departamento": "Cursos de graduação tradicionais.",
-      "email": "secreteria@faculdadedelta.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade Delta",
-      "nome_departamento": "Unidade Goiânia",
-      "email": "comunicacao@faculdadedelta.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade Delta",
       "nome_departamento": "Unidade Goiânia",
       "email": "leomar@faculdadedelta.edu.br",
       "uf": "GO",
@@ -2663,86 +1459,9 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "Faculdade Facmais (Unimais)",
-      "nome_departamento": "Ensino superior local.",
-      "email": "atendimento@facmais.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade Inhumas (FACI)",
-      "nome_departamento": "Unidade Inhumas",
-      "email": "contato@facmais.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade Inova Mais",
-      "nome_departamento": "Instituição de ensino privada local.",
-      "email": "comercial@faculdadeinovamais.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade Instituto Brasil (FIBRA)",
-      "nome_departamento": "Forte atuação em Anápolis.",
-      "email": "atendimento@fibra.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade Instituto Brasil (FIBRA)",
-      "nome_departamento": "Forte atuação em Anápolis.",
-      "email": "coordenacao@fibra.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade Instituto Brasil (FIBRA)",
-      "nome_departamento": "Forte atuação em Anápolis.",
-      "email": "fibra@fibra.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade Integrada de Palmeiras de Goiás (FAI)",
-      "nome_departamento": "Atendimento e bolsas regionais.",
-      "email": "ouvidoria@faipalmeirasdegoias.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade Integrada de Palmeiras de Goiás (FAI)",
-      "nome_departamento": "Atendimento e bolsas regionais.",
-      "email": "centraldebolsas@faipalmeirasdegoias.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade Integrada de Palmeiras de Goiás (FAI)",
-      "nome_departamento": "Atendimento e bolsas regionais.",
-      "email": "financeiro@faipalmeirasdegoias.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade Integrada de Palmeiras de Goiás (FAI)",
-      "nome_departamento": "Atendimento e bolsas regionais.",
-      "email": "processo.seletivo@faipalmeirasdegoias.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "Faculdade Mauá Goiânia",
       "nome_departamento": "Unidade Goiânia",
       "email": "allyne_309@hotmail.com",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade Nossa Senhora Aparecida",
-      "nome_departamento": "Unidade Luziânia",
-      "email": "contato@facnsa.edu.br",
       "uf": "GO",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -2754,114 +1473,9 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "Faculdade Quirinópolis (FAQUI)",
-      "nome_departamento": "Ensino superior local no sul goiano.",
-      "email": "contato@faqui.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade Serra da Mesa (UNISEM)",
-      "nome_departamento": "Forte atuação na região norte goiana.",
-      "email": "secretaria@fasem.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade Serra da Mesa (UNISEM)",
-      "nome_departamento": "Forte atuação na região norte goiana.",
-      "email": "direcao@fasem.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade Serra da Mesa (UNISEM)",
-      "nome_departamento": "Forte atuação na região norte goiana.",
-      "email": "financeiro@fasem.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade Serra da Mesa (UNISEM)",
-      "nome_departamento": "Unidade Uruaçu",
-      "email": "atendimento@fasem.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade Sul-Americana (FASAM)",
-      "nome_departamento": "Cursos tradicionais em comunicação e saúde.",
-      "email": "atendimento@fasam.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade Sul-Americana (FASAM)",
-      "nome_departamento": "Cursos tradicionais em comunicação e saúde.",
-      "email": "secretaria@fasam.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade Sul-Americana (FASAM)",
-      "nome_departamento": "Cursos tradicionais em comunicação e saúde.",
-      "email": "financeiro@fasam.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade Unida de Campinas (FACUNICAMPS)",
-      "nome_departamento": "Forte atuação no tradicional bairro de Campinas.",
-      "email": "secretaria@unicamps.com.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade Unida de Campinas (FACUNICAMPS)",
-      "nome_departamento": "Forte atuação no tradicional bairro de Campinas.",
-      "email": "coordenacao.tecnologos@unicamps.com.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade Unida de Campinas (FACUNICAMPS)",
-      "nome_departamento": "Forte atuação no tradicional bairro de Campinas.",
-      "email": "npj@unicamps.com.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade Unida de Campinas (FACUNICAMPS)",
-      "nome_departamento": "Forte atuação no tradicional bairro de Campinas.",
-      "email": "tesouraria@unicamps.com.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade da Igreja Ministério Fama (FAIFA)",
-      "nome_departamento": "Instituição com forte ligação comunitária local.",
-      "email": "faifa@faifa.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade de Caldas Novas (UNICALDAS)",
-      "nome_departamento": "Turismo e negócios locais.",
-      "email": "contato@unicaldas.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "Faculdade de Mineiros (FAMP)",
       "nome_departamento": "Saúde e ciências humanas.",
       "email": "famp@famp.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade de Piracanjuba (FAP)",
-      "nome_departamento": "Atuação regional goiana.",
-      "email": "secretaria@faculdadefap.edu.br",
       "uf": "GO",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -2873,27 +1487,6 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "Faculdade de Tecnologia SENAI FATESG",
-      "nome_departamento": "Foco em tecnologia gerencial e desenvolvimento.",
-      "email": "fatesg.senai@fieg.com.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade de Tecnologia SENAI FATESG",
-      "nome_departamento": "Foco em tecnologia gerencial e desenvolvimento.",
-      "email": "eadfatesg.senai@fieg.com.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faculdade de Tecnologia SENAI Ítalo Bologna (FATECIB)",
-      "nome_departamento": "Setor industrial e profissional.",
-      "email": "italobologna.senai@fieg.com.br",
-      "uf": "GO",
-      "tipo_instituicao": "Universidade Estadual"
-    },
-    {
       "nome_faculdade": "Faculdade Ávila (FAC)",
       "nome_departamento": "Ensino superior privado.",
       "email": "secretaria@avila.edu.br",
@@ -2902,57 +1495,8 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "IFG",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "dti@ifg.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFG",
       "nome_departamento": "proex",
       "email": "proex@ifg.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFgoiano",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "leonardo.santos@ifgoiano.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFgoiano",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "dicom@ifgoiano.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFgoiano",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "elias.monteiro@ifgoiano.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFgoiano",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "gabinete@ifgoiano.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFgoiano",
-      "nome_departamento": "Secretaria — Proppi",
-      "email": "secretaria.proppi@ifgoiano.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFgoiano - dgti",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "dgti@ifgoiano.edu.br",
       "uf": "GO",
       "tipo_instituicao": "Instituto Federal (IF)"
     },
@@ -2964,298 +1508,11 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "coord.comsocial@fasam.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Federal de Goiás",
-      "email": "faculdade.historia@ufg.br",
-      "uf": "GO",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituto Federal Goiano (IF Goiano)",
-      "nome_departamento": "Foco em formação técnica e tecnológica no interior.",
-      "email": "reitoria@ifgoiano.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal Goiano (IF Goiano)",
-      "nome_departamento": "Foco em formação técnica e tecnológica no interior.",
-      "email": "proen@ifgoiano.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal Goiano (IF Goiano)",
-      "nome_departamento": "Foco em formação técnica e tecnológica no interior.",
-      "email": "proex@ifgoiano.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal Goiano (IF Goiano)",
-      "nome_departamento": "Foco em formação técnica e tecnológica no interior.",
-      "email": "propipi@ifgoiano.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal Goiano (IF Goiano)",
-      "nome_departamento": "Foco em formação técnica e tecnológica no interior.",
-      "email": "gabinete.rv@ifgoiano.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal Goiano (IF Goiano)",
-      "nome_departamento": "Foco em formação técnica e tecnológica no interior.",
-      "email": "auditoria@ifgoiano.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal Goiano (IF Goiano)",
-      "nome_departamento": "Foco em formação técnica e tecnológica no interior.",
-      "email": "diren.cb@ifgoiano.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal Goiano (IF Goiano)",
-      "nome_departamento": "Foco em formação técnica e tecnológica no interior.",
-      "email": "diren.cat@ifgoiano.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal Goiano (IF Goiano)",
-      "nome_departamento": "Foco em formação técnica e tecnológica no interior.",
-      "email": "diren.ce@ifgoiano.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal Goiano (IF Goiano)",
-      "nome_departamento": "Foco em formação técnica e tecnológica no interior.",
-      "email": "diren.crt@ifgoiano.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal Goiano (IF Goiano)",
-      "nome_departamento": "Foco em formação técnica e tecnológica no interior.",
-      "email": "diren.ip@ifgoiano.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal Goiano (IF Goiano)",
-      "nome_departamento": "Foco em formação técnica e tecnológica no interior.",
-      "email": "diren.ipo@ifgoiano.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal Goiano (IF Goiano)",
-      "nome_departamento": "Foco em formação técnica e tecnológica no interior.",
-      "email": "diren.mrh@ifgoiano.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal Goiano (IF Goiano)",
-      "nome_departamento": "Foco em formação técnica e tecnológica no interior.",
-      "email": "diren.posse@ifgoiano.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal Goiano (IF Goiano)",
-      "nome_departamento": "Foco em formação técnica e tecnológica no interior.",
-      "email": "diren.tri@ifgoiano.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal Goiano (IF Goiano)",
-      "nome_departamento": "Foco em formação técnica e tecnológica no interior.",
-      "email": "diren.urt@ifgoiano.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Goiás (IFG)",
-      "nome_departamento": "Câmpus diversos. Excelente alcance com jovens de 15 a 29 anos.",
-      "email": "gabinete.reitoria@ifg.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Goiás (IFG)",
-      "nome_departamento": "Câmpus diversos. Excelente alcance com jovens de 15 a 29 anos.",
-      "email": "gabinete.goiania@ifg.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Goiás (IFG)",
-      "nome_departamento": "Câmpus diversos. Excelente alcance com jovens de 15 a 29 anos.",
-      "email": "gabinete.anapolis@ifg.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Goiás (IFG)",
-      "nome_departamento": "Câmpus diversos. Excelente alcance com jovens de 15 a 29 anos.",
-      "email": "gabinete.formosa@ifg.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Goiás (IFG)",
-      "nome_departamento": "Câmpus diversos. Excelente alcance com jovens de 15 a 29 anos.",
-      "email": "gabinete.jatai@ifg.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Goiás (IFG)",
-      "nome_departamento": "Câmpus diversos. Excelente alcance com jovens de 15 a 29 anos.",
-      "email": "gabinete.uruacu@ifg.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Goiás (IFG)",
-      "nome_departamento": "Câmpus diversos. Excelente alcance com jovens de 15 a 29 anos.",
-      "email": "jornalismo@ifg.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Goiás (IFG)",
-      "nome_departamento": "Câmpus diversos. Excelente alcance com jovens de 15 a 29 anos.",
-      "email": "gabinete.aparecida@ifg.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Goiás (IFG)",
-      "nome_departamento": "Câmpus diversos. Excelente alcance com jovens de 15 a 29 anos.",
-      "email": "gabinete.goianiaoeste@ifg.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Goiás (IFG)",
-      "nome_departamento": "Câmpus diversos. Excelente alcance com jovens de 15 a 29 anos.",
-      "email": "gabinete.inhumas@ifg.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Goiás (IFG)",
-      "nome_departamento": "Câmpus diversos. Excelente alcance com jovens de 15 a 29 anos.",
-      "email": "gabinete.itumbiara@ifg.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Goiás (IFG)",
-      "nome_departamento": "Câmpus diversos. Excelente alcance com jovens de 15 a 29 anos.",
-      "email": "gabinete.luziania@ifg.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Goiás (IFG)",
-      "nome_departamento": "Câmpus diversos. Excelente alcance com jovens de 15 a 29 anos.",
-      "email": "gabinete.senadorcanedo@ifg.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Goiás (IFG)",
-      "nome_departamento": "Câmpus diversos. Excelente alcance com jovens de 15 a 29 anos.",
-      "email": "gabinete.valparaiso@ifg.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal de Goiás (IFG)",
-      "nome_departamento": "Câmpus diversos. Excelente alcance com jovens de 15 a 29 anos.",
-      "email": "gabinete.aguaslindas@ifg.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto de Pós-Graduação e Graduação (IPOG)",
-      "nome_departamento": "Forte atuação para qualificação de jovens.",
-      "email": "ipog@ipog.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Pontifícia Universidade Católica de Goiás (PUC Goiás)",
-      "nome_departamento": "Grande capilaridade universitária e forte público jovem universitário.",
-      "email": "reitoria@pucgoias.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Pontifícia Universidade Católica de Goiás (PUC Goiás)",
-      "nome_departamento": "Grande capilaridade universitária e forte público jovem universitário.",
-      "email": "prograd@pucgoias.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Pontifícia Universidade Católica de Goiás (PUC Goiás)",
-      "nome_departamento": "Grande capilaridade universitária e forte público jovem universitário.",
-      "email": "politecnica@pucgoias.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Pontifícia Universidade Católica de Goiás (PUC Goiás)",
-      "nome_departamento": "Grande capilaridade universitária e forte público jovem universitário.",
-      "email": "propep@pucgoias.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Pontifícia Universidade Católica de Goiás (PUC Goiás)",
-      "nome_departamento": "Grande capilaridade universitária e forte público jovem universitário.",
-      "email": "ent.secretaria@pucgoias.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "Pontifícia Universidade Católica de Goiás (PUC Goiás)",
       "nome_departamento": "Unidade Goiânia",
       "email": "sg@pucgoias.edu.br",
       "uf": "GO",
       "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "UFCAT",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "roselma@ufg.br",
-      "uf": "GO",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFG",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "cii.secplan@ufg.br",
-      "uf": "GO",
-      "tipo_instituicao": "Universidade Federal"
     },
     {
       "nome_faculdade": "UFG",
@@ -3280,13 +1537,6 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "UFG",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@ufg.br",
-      "uf": "GO",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFG",
       "nome_departamento": "STEM",
       "email": "denys.mesquita@ufg.br",
       "uf": "GO",
@@ -3308,34 +1558,6 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "Universidade Estadual de Goiás (UEG)",
-      "nome_departamento": "Presença em mais de 40 municípios. Ideal para ampla difusão estadual.",
-      "email": "reitoria@ueg.br",
-      "uf": "GO",
-      "tipo_instituicao": "Universidade Estadual"
-    },
-    {
-      "nome_faculdade": "Universidade Estadual de Goiás (UEG)",
-      "nome_departamento": "Presença em mais de 40 municípios. Ideal para ampla difusão estadual.",
-      "email": "pre@ueg.br",
-      "uf": "GO",
-      "tipo_instituicao": "Universidade Estadual"
-    },
-    {
-      "nome_faculdade": "Universidade Estadual de Goiás (UEG)",
-      "nome_departamento": "Presença em mais de 40 municípios. Ideal para ampla difusão estadual.",
-      "email": "prg@ueg.br",
-      "uf": "GO",
-      "tipo_instituicao": "Universidade Estadual"
-    },
-    {
-      "nome_faculdade": "Universidade Estadual de Goiás (UEG)",
-      "nome_departamento": "Presença em mais de 40 municípios. Ideal para ampla difusão estadual.",
-      "email": "gaa@ueg.br",
-      "uf": "GO",
-      "tipo_instituicao": "Universidade Estadual"
-    },
-    {
-      "nome_faculdade": "Universidade Estadual de Goiás (UEG)",
       "nome_departamento": "Unidade Anápolis",
       "email": "reitor@ueg.br",
       "uf": "GO",
@@ -3343,22 +1565,8 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "Universidade Federal de Catalão (UFCAT)",
-      "nome_departamento": "Excelente polo universitário público no sudeste goiano.",
-      "email": "gabinete.reitoria@ufcat.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Universidade Federal de Catalão (UFCAT)",
       "nome_departamento": "Unidade Catalão",
       "email": "roselma@ufcat.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Universidade Federal de Goiás (UFG)",
-      "nome_departamento": "Unidade Goiânia",
-      "email": "reitoria@reitoria.ufg.br",
       "uf": "GO",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -3394,13 +1602,6 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "Universidade Federal de Goiás (UFG)",
       "nome_departamento": "Unidade Goiânia",
       "email": "prpi@ufg.br",
-      "uf": "GO",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Universidade Federal de Jataí (UFJ)",
-      "nome_departamento": "Polo federal público de excelência no sudoeste.",
-      "email": "reitoria@ufj.edu.br",
       "uf": "GO",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -3447,20 +1648,6 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "Universidade Salgado de Oliveira (UNIVERSO)",
-      "nome_departamento": "Unidade Setor Universitário em Goiânia.",
-      "email": "infogoiania@universo.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Universidade de Rio Verde (UniRV)",
-      "nome_departamento": "Unidade Rio Verde",
-      "email": "reitoria@unirv.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "Universidade de Rio Verde (UniRV)",
       "nome_departamento": "Unidade Rio Verde",
       "email": "prograd@unirv.edu.br",
@@ -3487,48 +1674,6 @@ const MASTER_PAYLOAD = {
       "email": "campusluziania@unirv.edu.br",
       "uf": "GO",
       "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "IFMA",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "gabinete@ifma.edu.br",
-      "uf": "MA",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFMA",
-      "nome_departamento": "ascom",
-      "email": "ascom@ifma.edu.br",
-      "uf": "MA",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Engenharias",
-      "email": "jose.marao@ufma.br",
-      "uf": "MA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "arlane.silva@ufma.br",
-      "uf": "MA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Federal do Maranhão",
-      "email": "ouvidoria@ufma.br",
-      "uf": "MA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFMA",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "simara@deinf.ufma.br",
-      "uf": "MA",
-      "tipo_instituicao": "Universidade Federal"
     },
     {
       "nome_faculdade": "UFMA",
@@ -3601,13 +1746,6 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "FACESM - Faculdade de Ciências Sociais Aplicadas do Sul de Minas",
-      "nome_departamento": "Assessoria de Comunicação (ASCOM)",
-      "email": "comunicacao@facesm.br",
-      "uf": "MG",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "FACIC",
       "nome_departamento": "Faculdade de Ciências Humanas de Curvelo",
       "email": "diretoria@facic.br",
@@ -3639,13 +1777,6 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "FAGAMMON",
       "nome_departamento": "Faculdade Presbiteriana Gammon",
       "email": "unigammon@gammon.br",
-      "uf": "MG",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "FAI - Centro de Ensino Superior em Gestão, Tecnologia e Educação",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "fai@fai-mg.br",
       "uf": "MG",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -3685,20 +1816,6 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "FENORD",
-      "nome_departamento": "Fundação Educacional Nordeste Mineiro",
-      "email": "atendimento@fenord.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "FEPI",
-      "nome_departamento": "Assessoria de Comunicação (ASCOM)",
-      "email": "comunicacao@fepi.br",
-      "uf": "MG",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "FESJ",
       "nome_departamento": "Faculdades de Santos Dumont",
       "email": "contato@fsd.edu.br",
@@ -3713,30 +1830,9 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "FMS",
-      "nome_departamento": "Pró-Reitoria / Coordenação de Graduação",
-      "email": "secgraduacao@machadosobrinho.com.br",
-      "uf": "MG",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "FUNCESI - Fundação Comunitária de Ensino Superior de Itabira",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "contato@funcesi.br",
-      "uf": "MG",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "FUNCESI - Fundação Comunitária de Ensino Superior de Itabira",
       "nome_departamento": "Secretaria Acadêmica / Registro Escolar",
       "email": "secretaria@funcesi.br",
-      "uf": "MG",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "FUNORTE",
-      "nome_departamento": "Assessoria de Comunicação (ASCOM)",
-      "email": "comunicacao@funorte.edu.br",
       "uf": "MG",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -3760,62 +1856,6 @@ const MASTER_PAYLOAD = {
       "email": "eewb@eewb.br",
       "uf": "MG",
       "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "IF Sudeste MG - Instituto Federal do Sudeste de Minas Gerais",
-      "nome_departamento": "Assessoria de Comunicação (ASCOM)",
-      "email": "comunicacao.barbacena@ifsudestemg.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IF Sudeste MG - Instituto Federal do Sudeste de Minas Gerais",
-      "nome_departamento": "Assessoria de Comunicação (ASCOM)",
-      "email": "comunicacao.manhuacu@ifsudestemg.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IF Sudeste MG - Instituto Federal do Sudeste de Minas Gerais",
-      "nome_departamento": "Assessoria de Comunicação (ASCOM)",
-      "email": "comunicacao.santosdumont@ifsudestemg.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IF Sudeste MG - Instituto Federal do Sudeste de Minas Gerais",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "acc.jf@ifsudestemg.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IF Sudeste MG - Instituto Federal do Sudeste de Minas Gerais",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "mara.felippe@ifsudestemg.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IF Sudeste MG - Instituto Federal do Sudeste de Minas Gerais",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "jornalismo.sjdr@ifsudestemg.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFMG",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "jornalismo@ifmg.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFMG",
-      "nome_departamento": "Comunicação",
-      "email": "comunicacao@ifmg.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
       "nome_faculdade": "IFMG",
@@ -3863,13 +1903,6 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "IFNMG",
       "nome_departamento": "Arinos",
       "email": "comunicacao.arinos@ifnmg.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFNMG",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "lucio.santos@ifnmg.edu.br",
       "uf": "MG",
       "tipo_instituicao": "Instituto Federal (IF)"
     },
@@ -3930,104 +1963,6 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
-      "nome_faculdade": "IFSUDESTEMG",
-      "nome_departamento": "Assessoria de Comunicação (ASCOM)",
-      "email": "ascom@ifsudestemg.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFSUDESTEMG",
-      "nome_departamento": "Assessoria de Comunicação (ASCOM)",
-      "email": "comunicacao.riopomba@ifsudestemg.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFSUDESTEMG",
-      "nome_departamento": "Assessoria de Comunicação (ASCOM)",
-      "email": "comunicacao.sjdr@ifsudestemg.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFSUDESTEMG",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "jornalismo.jf@ifsudestemg.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFSUDESTEMG",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "graziany.fonseca@ifsudestemg.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFSUDESTEMG",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "sistemasinternet.barbacena@ifsudestemg.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFSUDESTEMG",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "bsi.jf@ifsudestemg.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFSULDEMINAS",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "douglas.nunes@ifsuldeminas.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFSULDEMINAS",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "daniela.dias@ifsuldeminas.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFSULDEMINAS",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "matheus.franco@ifsuldeminas.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFSULDEMINAS",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "cristina.almeida@ifsuldeminas.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFSULDEMINAS",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "rodrigo.evangelista@muz.ifsuldeminas.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFSULDEMINAS",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "tiago.botelho@muz.ifsuldeminas.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFSULDEMINAS - Douglas",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "douglas.braz@ifsuldeminas.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
       "nome_faculdade": "IFSuldeMinas - Instituto Federal do Sul de Minas Gerais",
       "nome_departamento": "Gabinete da Direção-Geral — Campus Inconfidentes",
       "email": "gabinete.inconfidentes@ifsuldeminas.edu.br",
@@ -4066,27 +2001,6 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "IFSuldeMinas - Instituto Federal do Sul de Minas Gerais",
       "nome_departamento": "Gabinete da Direção-Geral — Campus Trescoracoes",
       "email": "gabinete.trescoracoes@ifsuldeminas.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFSuldeMinas - Instituto Federal do Sul de Minas Gerais",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "gabinete@muz.ifsuldeminas.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFTM",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "johann@iftm.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFTM",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "saulodamata@iftm.edu.br",
       "uf": "MG",
       "tipo_instituicao": "Instituto Federal (IF)"
     },
@@ -4294,223 +2208,6 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
-      "nome_faculdade": "IFTM",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitora@iftm.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFTM",
-      "nome_departamento": "comunicacao",
-      "email": "comunicacao@iftm.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Cocic",
-      "email": "cocic@iceb.ufop.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Engenharias",
-      "email": "grad@unifal-mg.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Engenharias",
-      "email": "edmarmo@unifei.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Engenharias",
-      "email": "colgradsis@adm.eng.ufmg.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Engenharias",
-      "email": "depro@depro.em.ufop.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Engenharias",
-      "email": "secintcoord@ufsj.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Engenharias",
-      "email": "alexandre@ufu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Engenharias",
-      "email": "alexsandro.solon@uftm.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Engenharias",
-      "email": "coenp@ufsj.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Engenharias",
-      "email": "coentel@ufsj.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Engenharias",
-      "email": "aniel@ufu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Engenharias",
-      "email": "evaldo.silva@uftm.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "luciene.goncalves@unifal-mg.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "secretaria.iesti@unifei.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "colgradsi@icex.ufmg.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "comat@ufsj.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "prof.asoares@ufu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "noticias@ufv.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "icte@uftm.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "citec@ufvjm.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "moreno@unifei.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "decom@iceb.ufop.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "alessandra@ufu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "santosardr@ufu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "noticiascaf@ufv.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "adriana.inforzato@uftm.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "nitec@ufvjm.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Federal de Minas Gerais",
-      "email": "faleconosco@ufmg.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Milton Campos - Faculdade Milton Campos",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "webmaster@mcampos.br",
-      "uf": "MG",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "UEMG",
       "nome_departamento": "Barbacena",
       "email": "secretaria.barbacena@uemg.br",
@@ -4610,20 +2307,6 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "UFJF",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "piufjf.regulacao@gmail.com",
-      "uf": "MG",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "UFJF",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "coordenacoes.ice@ufjf.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFJF",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "coord.psicologia@ufjf.edu.br",
       "uf": "MG",
@@ -4651,58 +2334,9 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
-      "nome_faculdade": "UFJF",
-      "nome_departamento": "Universidade Federal de Juiz de Fora",
-      "email": "faleconosco@ufjf.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFLA",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "dias@ufla.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFLA",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "claudiapontello@hotmail.com",
-      "uf": "MG",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "UFLA",
-      "nome_departamento": "Comunicação",
-      "email": "comunicacao@ufla.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFLA",
-      "nome_departamento": "PROEC",
-      "email": "proec@ufla.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFLA",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@reitoria.ufla.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
       "nome_faculdade": "UFLA",
       "nome_departamento": "Rony",
       "email": "rony@ufla.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFMG",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "info@dai.ufmg.br",
       "uf": "MG",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -4724,13 +2358,6 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "UFMG",
       "nome_departamento": "ICEX",
       "email": "secgeral@icex.ufmg.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFMG",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitor@ufmg.br",
       "uf": "MG",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -4785,22 +2412,8 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "UFOP",
-      "nome_departamento": "PRACE",
-      "email": "prace@ufop.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFOP",
       "nome_departamento": "PROEX",
       "email": "proex@ufop.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFOP",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@ufop.edu.br",
       "uf": "MG",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -4847,20 +2460,6 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
-      "nome_faculdade": "UFSJ",
-      "nome_departamento": "Pró-Reitoria / Coordenação de Graduação",
-      "email": "proen@ufsj.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFSJ",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@ufsj.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
       "nome_faculdade": "UFTM",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "departamento.psicologia@uftm.edu.br",
@@ -4885,13 +2484,6 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "UFTM",
       "nome_departamento": "IELACHS",
       "email": "sec.ielachs@uftm.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFTM",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "gabinete@uftm.edu.br",
       "uf": "MG",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -4945,13 +2537,6 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
-      "nome_faculdade": "UFU",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@ufu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
       "nome_faculdade": "UFV",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "avalente@ufv.br",
@@ -4962,48 +2547,6 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "UFV",
       "nome_departamento": "Departamento de Audiovisuais e Publicidade (DAP)",
       "email": "dap@ufv.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFV",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@ufv.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFVJM",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "pi@ufvjm.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UNIFAL-MG",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@unifal-mg.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UNIFEI",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "pi@unifei.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UNIFEI",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "imc@unifei.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UNIFEI",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@unifei.edu.br",
       "uf": "MG",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -5078,102 +2621,11 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Estadual"
     },
     {
-      "nome_faculdade": "UNIVAS",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@univas.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "UTRAMIG - Fundação de Educação para o Trabalho de Minas Gerais",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "faleconosco@utramig.mg.gov.br",
-      "uf": "MG",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "IFMS",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "cotsi.cg@ifms.edu.br",
-      "uf": "MS",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFMS",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "cotsi.cx@ifms.edu.br",
-      "uf": "MS",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFMS",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "cotre.aq@ifms.edu.br",
-      "uf": "MS",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFMS",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "cotad.cb@ifms.edu.br",
-      "uf": "MS",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFMS",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "cotad.nv@ifms.edu.br",
-      "uf": "MS",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFMS",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "andre.violin@ifms.edu.br",
-      "uf": "MS",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFMS",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@ifms.edu.br",
-      "uf": "MS",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
       "nome_faculdade": "IFMS",
       "nome_departamento": "cotsi",
       "email": "cotsi.aq@ifms.edu.br",
       "uf": "MS",
       "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Federal da Grande Dourados",
-      "email": "ascom@ufgd.edu.br",
-      "uf": "MS",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Federal de Mato Grosso do Sul",
-      "email": "ouvidoria@ufms.br",
-      "uf": "MS",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFGD",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "gptem@ufgd.edu.br",
-      "uf": "MS",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFGD",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "gptemufgd@gmail.com",
-      "uf": "MS",
-      "tipo_instituicao": "Privada / Particular"
     },
     {
       "nome_faculdade": "UFGD",
@@ -5194,34 +2646,6 @@ const MASTER_PAYLOAD = {
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "psico.fach@ufms.br",
       "uf": "MS",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFMS",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@ufms.br",
-      "uf": "MS",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "IFMT",
-      "nome_departamento": "Assessoria de Comunicação (ASCOM)",
-      "email": "ascom@ifmt.edu.br",
-      "uf": "MT",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Federal de Mato Grosso",
-      "email": "ouvidoria@ufmt.br",
-      "uf": "MT",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFMT",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "ufmt@ufmt.br",
-      "uf": "MT",
       "tipo_instituicao": "Universidade Federal"
     },
     {
@@ -5261,59 +2685,10 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "UFR",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@ufr.edu.br",
-      "uf": "MT",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFR",
       "nome_departamento": "STEM",
       "email": "tic@ufr.edu.br",
       "uf": "MT",
       "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "IFPA",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "fisica.braganca@ifpa.edu.br",
-      "uf": "PA",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFPA",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "tads.itaituba@ifpa.edu.br",
-      "uf": "PA",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFPA",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "landry.silva@ifpa.edu.br",
-      "uf": "PA",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFPA",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "claudio.alex@ifpa.edu.br",
-      "uf": "PA",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFPA",
-      "nome_departamento": "Gabinete da Direção-Geral — Campus Reitoria",
-      "email": "gabinete.reitoria@ifpa.edu.br",
-      "uf": "PA",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFPA",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "proreitor.proex@ifpa.edu.br",
-      "uf": "PA",
-      "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
       "nome_faculdade": "IFPA",
@@ -5323,90 +2698,6 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Diego",
-      "email": "diego@ufpa.br",
-      "uf": "PA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Helaine",
-      "email": "helaine.furtado@ufopa.edu.br",
-      "uf": "PA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "coord.bsi@ufopa.edu.br",
-      "uf": "PA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "fbarros@ufpa.br",
-      "uf": "PA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "faceel@unifesspa.edu.br",
-      "uf": "PA",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "coord.bsicori@ufopa.edu.br",
-      "uf": "PA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "leiasousa@unifesspa.edu.br",
-      "uf": "PA",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Federal do Pará",
-      "email": "ascom@ufpa.br",
-      "uf": "PA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFOPA",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@ufopa.edu.br",
-      "uf": "PA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFPA",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "adalbery@ufpa.br",
-      "uf": "PA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFPA",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "agcastro@ufpa.br",
-      "uf": "PA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFPA",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "aldebaro@ufpa.br",
-      "uf": "PA",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
       "nome_faculdade": "UFPA",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "coordpsi@ufpa.com",
@@ -5414,23 +2705,9 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "UFRA",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "aleksandra.silva@gmail.com",
-      "uf": "PA",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "UNIFESSPA",
       "nome_departamento": "Adam",
       "email": "adamdreyton@unifesspa.edu.br",
-      "uf": "PA",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "UNIFESSPA",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "alexvieira@unifesspa.edu.br",
       "uf": "PA",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -5457,92 +2734,15 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "IFPB",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "cads.cz@ifpb.edu.br",
-      "uf": "PB",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFPB",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "andre.rolim@ifpb.edu.br",
-      "uf": "PB",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFPB",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "ccec.cg@ifpb.edu.br",
-      "uf": "PB",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFPB",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "coordenacao.ppgti@ifpb.edu.br",
-      "uf": "PB",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFPB",
       "nome_departamento": "ccads",
       "email": "ccads.monteiro@ifpb.edu.br",
       "uf": "PB",
       "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Engenharias",
-      "email": "duca@ct.ufpb.br",
-      "uf": "PB",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "ceei@ceei.ufcg.edu.br",
-      "uf": "PB",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "diretor@ceei.ufcg.edu.br",
-      "uf": "PB",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Federal da Paraíba",
-      "email": "acesso@reitoria.ufpb.br",
-      "uf": "PB",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Federal de Campina Grande",
-      "email": "ascom@ufcg.edu.br",
-      "uf": "PB",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
       "nome_faculdade": "UFCG",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "psicologia.ccbs@graduacao.ufcg.edu.br",
-      "uf": "PB",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFCG",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitor@ufcg.edu.br",
-      "uf": "PB",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFPB",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "pi@reitoria.ufpb.br",
       "uf": "PB",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -5566,139 +2766,6 @@ const MASTER_PAYLOAD = {
       "email": "coordpsi.ufpe@gmail.com",
       "uf": "PE",
       "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "IFPE",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "eventos@reitoria.ifpe.edu.br",
-      "uf": "PE",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFPE",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "propesq@reitoria.ifpe.edu.br",
-      "uf": "PE",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFPE",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "proden@reitoria.ifpe.edu.br",
-      "uf": "PE",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFPE",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "aliny.lira@belojardim.ifpe.edu.br",
-      "uf": "PE",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFPE",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "fabio.feliciano@belojardim.ifpe.edu.br",
-      "uf": "PE",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFPE",
-      "nome_departamento": "ascom",
-      "email": "ascom@reitoria.ifpe.edu.br",
-      "uf": "PE",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFSertãoPE",
-      "nome_departamento": "Assessoria de Comunicação (ASCOM)",
-      "email": "ascom@ifsertao-pe.edu.br",
-      "uf": "PE",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFSertãoPE",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "eventos@ifsertao-pe.edu.br",
-      "uf": "PE",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFSertãoPE",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "propip@ifsertao-pe.edu.br",
-      "uf": "PE",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFSertãoPE - cap",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "cap.reitoria@ifsertao-pe.edu.br",
-      "uf": "PE",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Engenharias",
-      "email": "ccomp@univasf.edu.br",
-      "uf": "PE",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Engenharias",
-      "email": "diretoria.deinfo@ufrpe.br",
-      "uf": "PE",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "secgrad@cin.ufpe.br",
-      "uf": "PE",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "secretaria.dc@ufrpe.br",
-      "uf": "PE",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "rodrigo.rocha@ufape.edu.br",
-      "uf": "PE",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "daliton.silva@ufape.edu.br",
-      "uf": "PE",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "nite@ufape.edu.br",
-      "uf": "PE",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Federal de Pernambuco",
-      "email": "ouvidoria@ufpe.br",
-      "uf": "PE",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFAPE",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@ufape.edu.br",
-      "uf": "PE",
-      "tipo_instituicao": "Universidade Federal"
     },
     {
       "nome_faculdade": "UFPE",
@@ -5736,13 +2803,6 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "UFPE",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "gabinete@ufpe.br",
-      "uf": "PE",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
       "nome_faculdade": "UNICAP",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "ricardo.marques@unicap.br",
@@ -5751,36 +2811,8 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "UNIVASF",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "srca@univasf.edu.br",
-      "uf": "PE",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UNIVASF",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "cpsi@univasf.edu.br",
-      "uf": "PE",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UNIVASF",
-      "nome_departamento": "Pró-Reitoria / Coordenação de Graduação",
-      "email": "proen.pi@univasf.edu.br",
-      "uf": "PE",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UNIVASF",
-      "nome_departamento": "Pró-Reitoria / Coordenação de Graduação",
-      "email": "proen@univasf.edu.br",
-      "uf": "PE",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UNIVASF",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@univasf.edu.br",
       "uf": "PE",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -5793,143 +2825,10 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "IFPI",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "propi@ifpi.edu.br",
-      "uf": "PI",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFPI",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "dti@ifpi.edu.br",
-      "uf": "PI",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFPI",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@ifpi.edu.br",
-      "uf": "PI",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFPI",
       "nome_departamento": "cerimonial",
       "email": "cerimonial@ifpi.edu.br",
       "uf": "PI",
       "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Laurindo",
-      "email": "laurindoneto@ufpi.edu.br",
-      "uf": "PI",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "candrebc@ufpi.edu.br",
-      "uf": "PI",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Federal do Piauí",
-      "email": "ouv@ufpi.edu.br",
-      "uf": "PI",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFDPar",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoriacmrv@ufpi.edu.br",
-      "uf": "PI",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFPI",
-      "nome_departamento": "Assessoria de Comunicação (ASCOM)",
-      "email": "comunicacao@ufpi.edu.br",
-      "uf": "PI",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFPI",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "scs@ufpi.edu.br",
-      "uf": "PI",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "IFPR",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "es.paranavai@ifpr.edu.br",
-      "uf": "PR",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "coads-cp@utfpr.edu.br",
-      "uf": "PR",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "comunica.exatas@ufpr.br",
-      "uf": "PR",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "cotel-ct@utfpr.edu.br",
-      "uf": "PR",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "coads-pg@utfpr.edu.br",
-      "uf": "PR",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "inovacao@ufpr.br",
-      "uf": "PR",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "exatas@ufpr.br",
-      "uf": "PR",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Estadual de Londrina",
-      "email": "ouvidoria@uel.br",
-      "uf": "PR",
-      "tipo_instituicao": "Universidade Estadual"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Estadual de Maringá",
-      "email": "ouvidoria@uem.br",
-      "uf": "PR",
-      "tipo_instituicao": "Universidade Estadual"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Federal do Paraná",
-      "email": "sic@ufpr.br",
-      "uf": "PR",
-      "tipo_instituicao": "Universidade Federal"
     },
     {
       "nome_faculdade": "UEL",
@@ -5954,64 +2853,8 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "UFPR",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "cpa@ufpr.br",
-      "uf": "PR",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFPR",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "exped@ufpr.br",
-      "uf": "PR",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFPR",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "proplan@ufpr.br",
-      "uf": "PR",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFPR",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "coorpsic@ufpr.br",
-      "uf": "PR",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFPR",
-      "nome_departamento": "Pró-Reitoria / Coordenação de Graduação",
-      "email": "prograd@ufpr.br",
-      "uf": "PR",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFPR",
-      "nome_departamento": "Pró-Reitoria / Coordenação de Pós-Graduação e Pesquisa",
-      "email": "pesquisadorinstitucional@ufpr.br",
-      "uf": "PR",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UNILA",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria.gabinete@unila.edu.br",
-      "uf": "PR",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UTFPR",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "schiefler@utfpr.edu.br",
-      "uf": "PR",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UTFPR",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@utfpr.edu.br",
       "uf": "PR",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -6021,13 +2864,6 @@ const MASTER_PAYLOAD = {
       "email": "aedb@aedb.br",
       "uf": "RJ",
       "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "CEFET-RJ - Centro Federal de Educação Tecnológica Celso Suckow da Fonseca",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "direg@cefet-rj.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
       "nome_faculdade": "CPS",
@@ -6100,13 +2936,6 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "FEUC",
-      "nome_departamento": "Fundação Educacional Unificada Campograndense",
-      "email": "contato@feuc.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "FGVRJ",
       "nome_departamento": "Carreiras",
       "email": "nucleo.carreiras@fgv.br",
@@ -6135,27 +2964,6 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "Faetec - Fundação de Apoio à Escola Técnica",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "ouvidoria@faetec.rj.gov.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faetec - Fundação de Apoio à Escola Técnica",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "direcao@desup.faetec.rj.gov.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Faetec - Fundação de Apoio à Escola Técnica",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "dif@faetec.rj.gov.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "IBMEC",
       "nome_departamento": "Faculdades Ibmec",
       "email": "carreirasrj@ibmec.edu.br",
@@ -6170,13 +2978,6 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "IFFluminense - Campus Avançado Cambuci",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "leilao.cambuci@iff.edu.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
       "nome_faculdade": "IFFluminense - Campus Bom Jesus do Itabapoana",
       "nome_departamento": "Gabinete da Direção-Geral — Campus Bomjesus",
       "email": "gabinete.bomjesus@iff.edu.br",
@@ -6184,30 +2985,9 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
-      "nome_faculdade": "IFFluminense - Campus Cabo Frio",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "coordhosp.cabofrio@iff.edu.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
       "nome_faculdade": "IFFluminense - Campus Campos Centro",
       "nome_departamento": "Gabinete da Direção-Geral — Campus Camposcentro",
       "email": "gabinete.camposcentro@iff.edu.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFFluminense - Campus Campos Guarus",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "campusguarus@iff.edu.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFFluminense - Campus Itaperuna",
-      "nome_departamento": "Assessoria de Comunicação (ASCOM)",
-      "email": "ascom.itaperuna@iff.edu.br",
       "uf": "RJ",
       "tipo_instituicao": "Instituto Federal (IF)"
     },
@@ -6233,34 +3013,6 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
-      "nome_faculdade": "IFFluminense - Campus São João da Barra",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "campus.sjb@iff.edu.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFFluminense - Instituto Federal Fluminense",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@iff.edu.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFRJ",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "dga@ifrj.edu.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFRJ",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "prodin@ifrj.edu.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
       "nome_faculdade": "IFRJ",
       "nome_departamento": "PROEX",
       "email": "proex@ifrj.edu.br",
@@ -6268,86 +3020,9 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
-      "nome_faculdade": "IFRJ",
-      "nome_departamento": "Pró-Reitoria / Coordenação de Graduação",
-      "email": "proen@ifrj.edu.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFRJ",
-      "nome_departamento": "proppi",
-      "email": "proppi@ifrj.edu.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Engenharias",
-      "email": "decano@ct.ufrj.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Pontifícia Universidade Católica do Rio de Janeiro",
-      "email": "comunicacao@puc-rio.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "parque@parque.ufrj.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "got.proex@id.uff.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "santana@ufrrj.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "superintendencia@tic.ufrj.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Federal Fluminense",
-      "email": "proac@proac.uff.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade do Estado do Rio de Janeiro",
-      "email": "ascom@uerj.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Universidade Estadual"
-    },
-    {
       "nome_faculdade": "MACK-RIO",
       "nome_departamento": "Mackenzie Rio",
       "email": "fpmr@mackenzie.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "PUC-RIO - Pontifícia Universidade Católica do Rio de Janeiro",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "webrdc@puc-rio.br",
       "uf": "RJ",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -6380,44 +3055,9 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
-      "nome_faculdade": "SENAI - CETIQT - Centro de Tecnologia da Industria Química e Têxtil do SENAI",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "atendimento@cetiqt.senai.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "SJT",
       "nome_departamento": "Faculdade São Judas Tadeu",
       "email": "contato@sjt.com.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Simonsen - Faculdades Integradas Simonsen",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "simonsen@simonsen.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Souza Marques - Faculdades Souza Marques",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "dpo@souzamarques.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Souza Marques - Faculdades Souza Marques",
-      "nome_departamento": "Pró-Reitoria / Coordenação de Graduação",
-      "email": "posgraduacao@souzamarques.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "UCP",
-      "nome_departamento": "Universidade Católica de Petrópolis",
-      "email": "faleconosco@ucp.br",
       "uf": "RJ",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -6476,20 +3116,6 @@ const MASTER_PAYLOAD = {
       "email": "fcee@uerj.br",
       "uf": "RJ",
       "tipo_instituicao": "Universidade Estadual"
-    },
-    {
-      "nome_faculdade": "UEZO",
-      "nome_departamento": "Pró-Reitoria / Coordenação de Graduação",
-      "email": "prograd@uezo.rj.gov.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "UFF",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "atendimento@id.uff.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Universidade Federal"
     },
     {
       "nome_faculdade": "UFF",
@@ -6696,20 +3322,6 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "UFRJ",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "vicereitoria@reitoria.ufrj.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFRJ",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@reitoria.ufrj.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFRJ",
       "nome_departamento": "Universidade Federal do Rio de Janeiro",
       "email": "diretoria@ie.ufrj.br",
       "uf": "RJ",
@@ -6738,38 +3350,10 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "UFRRJ",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "gabinete@ufrrj.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFRRJ",
       "nome_departamento": "Setor de Técnologia ou Matématica",
       "email": "de.ufrrj@gmail.com",
       "uf": "RJ",
       "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "UNICARIOCA",
-      "nome_departamento": "UNICARIOCA Centro Universitário",
-      "email": "webmaster@unicarioca.edu.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "UNIFESO",
-      "nome_departamento": "Centro Universitário Serra dos Órgãos",
-      "email": "central@unifeso.edu.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "UNIRIO",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "pi@unirio.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Universidade Federal"
     },
     {
       "nome_faculdade": "UNIRIO",
@@ -6777,13 +3361,6 @@ const MASTER_PAYLOAD = {
       "email": "eep@uniriotec.br",
       "uf": "RJ",
       "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "UNIRIO",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitor@unirio.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Universidade Federal"
     },
     {
       "nome_faculdade": "UNIRIO",
@@ -6800,67 +3377,11 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "UNIRIO",
-      "nome_departamento": "Universidade Federal do Estado do Rio de Janeiro",
-      "email": "faleconosco@unirio.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UNISUAM",
-      "nome_departamento": "Assessoria de Comunicação (ASCOM)",
-      "email": "imprensa@unisuam.edu.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "USU",
       "nome_departamento": "Universidade Santa Úrsula",
       "email": "usu@usu.br",
       "uf": "RJ",
       "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Universidade Federal do Rio de Janeiro (UFRJ)",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "claudiamendes@reitoria.ufrj.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Universidade Federal do Rio de Janeiro (UFRJ)",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "portal@ufrj.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "IFRN",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "joao.costa@ifrn.edu.br",
-      "uf": "RN",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFRN",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "luciano.alexandre@ifrn.edu.br",
-      "uf": "RN",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFRN",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "demostenes.sena@ifrn.edu.br",
-      "uf": "RN",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFRN",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "fabio.silva@ifrn.edu.br",
-      "uf": "RN",
-      "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
       "nome_faculdade": "IFRN",
@@ -6870,122 +3391,10 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Engenharias",
-      "email": "coordenacao.engcomp@dca.ufrn.br",
-      "uf": "RN",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Engenharias",
-      "email": "engproducao@ufersa.edu.br",
-      "uf": "RN",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Engenharias",
-      "email": "thomas.goncalo@ufersa.edu.br",
-      "uf": "RN",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "cccc@dimap.ufrn.br",
-      "uf": "RN",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "bsi.angicos@ufersa.edu.br",
-      "uf": "RN",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Federal do Rio Grande do Norte",
-      "email": "ouvidoria@ufrn.br",
-      "uf": "RN",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFERSA",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "cienciadacomputacao@ufersa.edu.br",
-      "uf": "RN",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFERSA",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "leonardoramalho@ufersa.edu.br",
-      "uf": "RN",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFRN",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "bct@ect.ufrn.br",
-      "uf": "RN",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
       "nome_faculdade": "UFRN",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "regina@cchla.ufrn.br",
       "uf": "RN",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "IFRO",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "dgti@ifro.edu.br",
-      "uf": "RO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFRO",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "campusariquemes@ifro.edu.br",
-      "uf": "RO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFRO",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@ifro.edu.br",
-      "uf": "RO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFRO",
-      "nome_departamento": "ascom",
-      "email": "ascom@ifro.edu.br",
-      "uf": "RO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Engenharias",
-      "email": "nt@unir.br",
-      "uf": "RO",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "prograd@unir.br",
-      "uf": "RO",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Federal de Rondônia",
-      "email": "gabinete@unir.br",
-      "uf": "RO",
       "tipo_instituicao": "Universidade Federal"
     },
     {
@@ -6996,74 +3405,11 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
-      "nome_faculdade": "UNIR",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@unir.br",
-      "uf": "RO",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "IFRR",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "coordenacaotads@ifrr.edu.br",
-      "uf": "RR",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFRR",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "adnelson.jati@ifrr.edu.br",
-      "uf": "RR",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFRR",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "eduardo.ribeiro@ifrr.edu.br",
-      "uf": "RR",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFRR",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "reginaldo.beltrami@ifrr.edu.br",
-      "uf": "RR",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFRR",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "solange.almeida@ifrr.edu.br",
-      "uf": "RR",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
       "nome_faculdade": "IFRR",
       "nome_departamento": "cmat",
       "email": "cmat.cbv@ifrr.edu.br",
       "uf": "RR",
       "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "delfa.zuasnabar@ufrr.br",
-      "uf": "RR",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFRR",
-      "nome_departamento": "Pró-Reitoria / Coordenação de Pós-Graduação e Pesquisa",
-      "email": "pesquisainstitucional@ufrr.br",
-      "uf": "RR",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFRR",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@ufrr.br",
-      "uf": "RR",
-      "tipo_instituicao": "Universidade Federal"
     },
     {
       "nome_faculdade": "UFRR",
@@ -7080,207 +3426,11 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "FURG",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@furg.br",
-      "uf": "RS",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "IFFarroupilha",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "sistemasdeinformacao.sb@iffarroupilha.edu.br",
-      "uf": "RS",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFFarroupilha",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "coordads.svs@iffarroupilha.edu.br",
-      "uf": "RS",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFFarroupilha",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "gleizer.voss@iffarroupilha.edu.br",
-      "uf": "RS",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFFarroupilha",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "rosana.wagner@iffarroupilha.edu.br",
-      "uf": "RS",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFFarroupilha - cads",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "cads.al@iffarroupilha.edu.br",
-      "uf": "RS",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFRS",
-      "nome_departamento": "Assessoria de Comunicação (ASCOM)",
-      "email": "comunicacao@bento.ifrs.edu.br",
-      "uf": "RS",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFRS",
-      "nome_departamento": "Assessoria de Comunicação (ASCOM)",
-      "email": "comunicacao@canoas.ifrs.edu.br",
-      "uf": "RS",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFRS",
-      "nome_departamento": "Assessoria de Comunicação (ASCOM)",
-      "email": "comunicacao@caxias.ifrs.edu.br",
-      "uf": "RS",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFRS",
-      "nome_departamento": "Assessoria de Comunicação (ASCOM)",
-      "email": "comunicacao@erechim.ifrs.edu.br",
-      "uf": "RS",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFRS",
-      "nome_departamento": "Assessoria de Comunicação (ASCOM)",
-      "email": "comunicacao@farroupilha.ifrs.edu.br",
-      "uf": "RS",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFRS",
-      "nome_departamento": "Assessoria de Comunicação (ASCOM)",
-      "email": "comunicacao@feliz.ifrs.edu.br",
-      "uf": "RS",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFRS",
-      "nome_departamento": "comunicacao",
-      "email": "comunicacao@alvorada.ifrs.edu.br",
-      "uf": "RS",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFSUL",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "ccs@ifsul.edu.br",
-      "uf": "RS",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
       "nome_faculdade": "IFSUL",
       "nome_departamento": "dti",
       "email": "if-dti@ifsul.edu.br",
       "uf": "RS",
       "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Eng Produção",
-      "email": "comgrad@producao.ufrgs.br",
-      "uf": "RS",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Engenharias",
-      "email": "bruno.vieira@ufpel.edu.br",
-      "uf": "RS",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Engenharias",
-      "email": "ccengcom@furg.br",
-      "uf": "RS",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Pontifícia Universidade Católica do Rio Grande do Sul",
-      "email": "faleconosco@pucrs.br",
-      "uf": "RS",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "ctufsm@ufsm.br",
-      "uf": "RS",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "imef@furg.br",
-      "uf": "RS",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "cgcon@ufrgs.br",
-      "uf": "RS",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "anarosa.aluno@unipampa.edu.br",
-      "uf": "RS",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "aflorenzon@unipampa.edu.br",
-      "uf": "RS",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "cienciasexatas@furg.br",
-      "uf": "RS",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "ccmatematicaaplicada@furg.br",
-      "uf": "RS",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Federal de Santa Maria",
-      "email": "protocolo@ufsm.br",
-      "uf": "RS",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Federal do Rio Grande do Sul",
-      "email": "acessoinformacao@ufrgs.br",
-      "uf": "RS",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade do Vale do Rio dos Sinos",
-      "email": "secretaria-geral@unisinos.br",
-      "uf": "RS",
-      "tipo_instituicao": "Privada / Particular"
     },
     {
       "nome_faculdade": "Instituto Federal do Rio Grande do Sul (IFRS)",
@@ -7290,37 +3440,9 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
-      "nome_faculdade": "Instituto Federal do Rio Grande do Sul (IFRS)",
-      "nome_departamento": "Comunicação / Imprensa",
-      "email": "comunicacao@ifrs.edu.br",
-      "uf": "RS",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal do Rio Grande do Sul (IFRS)",
-      "nome_departamento": "Processo Seletivo do IFRS (dúvidas)",
-      "email": "processoseletivo@ifrs.edu.br",
-      "uf": "RS",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituto Federal do Rio Grande do Sul (IFRS)",
-      "nome_departamento": "Reitoria",
-      "email": "gabinete@ifrs.edu.br",
-      "uf": "RS",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
       "nome_faculdade": "UFCSPA",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "psicologia@ufcspa.edu.br",
-      "uf": "RS",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFCSPA",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@ufcspa.edu.br",
       "uf": "RS",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -7346,13 +3468,6 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "UFPel",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@ufpel.edu.br",
-      "uf": "RS",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
       "nome_faculdade": "UFPel - STEM",
       "nome_departamento": "Setor de Técnologia ou Matématica",
       "email": "chefe.nucleoadm.ceng@gmail.com",
@@ -7361,22 +3476,8 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "UFRGS",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "regulacao@sai.ufrgs.br",
-      "uf": "RS",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFRGS",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "gradpsi@ufrgs.br",
-      "uf": "RS",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFRGS",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitor@ufrgs.br",
       "uf": "RS",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -7396,24 +3497,10 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "UFSM",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "gabinetereitor@ufsm.br",
-      "uf": "RS",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFSM",
       "nome_departamento": "Setor de Técnologia ou Matématica",
       "email": "ccne13@gmail.com",
       "uf": "RS",
       "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "UNIPAMPA",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@unipampa.edu.br",
-      "uf": "RS",
-      "tipo_instituicao": "Universidade Federal"
     },
     {
       "nome_faculdade": "UNIPAMPA",
@@ -7438,78 +3525,8 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "IFC",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "thomas.muller@ifc.edu.br",
-      "uf": "SC",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFC",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "rafaela.camargo@ifc.edu.br",
-      "uf": "SC",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFC",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "cecom.reitoria@ifc.edu.br",
-      "uf": "SC",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFC",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "gabinete@ifc.edu.br",
-      "uf": "SC",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFC",
       "nome_departamento": "Rosiane",
       "email": "rosiane.lima@ifc.edu.br",
-      "uf": "SC",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFSC",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "sistemas.tecnol.gas@ifsc.edu.br",
-      "uf": "SC",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFSC",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "ads.tub@ifsc.edu.br",
-      "uf": "SC",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFSC",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "lucas.bueno@ifsc.edu.br",
-      "uf": "SC",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFSC",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "eric.costa@ifsc.edu.br",
-      "uf": "SC",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFSC",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "cstgtifln@ifsc.edu.br",
-      "uf": "SC",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFSC",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "sistemasinformacao.cdr@ifsc.edu.br",
       "uf": "SC",
       "tipo_instituicao": "Instituto Federal (IF)"
     },
@@ -7519,41 +3536,6 @@ const MASTER_PAYLOAD = {
       "email": "computacao.grad.lgs@ifsc.edu.br",
       "uf": "SC",
       "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "assitec@uffs.edu.br",
-      "uf": "SC",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "vestibularunificado2020@coperve.ufsc.br",
-      "uf": "SC",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "agiitec@uffs.edu.br",
-      "uf": "SC",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Federal de Santa Catarina",
-      "email": "contato@contato.ufsc.br",
-      "uf": "SC",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade do Estado de Santa Catarina",
-      "email": "gabinetereitoria@udesc.br",
-      "uf": "SC",
-      "tipo_instituicao": "Universidade Estadual"
     },
     {
       "nome_faculdade": "Instituto Federal de Santa Catarina (IFSC)",
@@ -7710,20 +3692,6 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
-      "nome_faculdade": "UFFS",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "recktenvald@uffs.edu.br",
-      "uf": "SC",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFSC",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "gr@contato.ufsc.br",
-      "uf": "SC",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
       "nome_faculdade": "UFSC",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "depto.psicologia@contato.ufsc.br",
@@ -7760,20 +3728,6 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "IFS",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "lucio.gama@ifs.edu.br",
-      "uf": "SE",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFS",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "colima.ifs@ifs.edu.br",
-      "uf": "SE",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFS",
       "nome_departamento": "Secretaria Acadêmica / Registro Escolar",
       "email": "ricardoacrabelo@gmail.com",
       "uf": "SE",
@@ -7785,13 +3739,6 @@ const MASTER_PAYLOAD = {
       "email": "enajosg@bol.com.br",
       "uf": "SE",
       "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Federal de Sergipe",
-      "email": "ouvidoria@academico.ufs.br",
-      "uf": "SE",
-      "tipo_instituicao": "Universidade Federal"
     },
     {
       "nome_faculdade": "UFS",
@@ -7815,30 +3762,9 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "Dom Bosco - Faculdade Dom Bosco de Monte Aprazível",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "dombosco_faeca@hotmail.com",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "ESPM SP",
       "nome_departamento": "Escola Superior de Propaganda e Marketing",
       "email": "centralinfo@espm.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "FACCAT - Faculdade de Ciências Contábeis e de Administração de Empresas",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "zemagnani@unisite.com.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "FADAP-FAP - Faculdade de Direito da Alta Paulista / Faculdade da Alta Paulista",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "contato@fadap.br",
       "uf": "SP",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -7885,13 +3811,6 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Estadual"
     },
     {
-      "nome_faculdade": "FCE",
-      "nome_departamento": "Pró-Reitoria / Coordenação de Graduação",
-      "email": "graduacao@fce.edu.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "FDF",
       "nome_departamento": "Secretaria — Fdf",
       "email": "secretaria.fdf@direitofranca.br",
@@ -7902,20 +3821,6 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "FEA",
       "nome_departamento": "Fundação Educacional de Andradina",
       "email": "fisma@fea.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "FEAP - Faculdade de Engenharia de Agrimensura de Pirassununga",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "contato@feap.com.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "FECAP",
-      "nome_departamento": "Fundação Escola de Comércio Álvares Penteado",
-      "email": "relacionamento@fecap.br",
       "uf": "SP",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -7934,23 +3839,9 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "FFCL - Faculdade de Filosofia, Ciências e Letras de Ituverava",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "ffcl@feituverava.com.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "FGVSP",
       "nome_departamento": "Fundação Getúlio Vargas",
       "email": "coordcg@fgv.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "FIO",
-      "nome_departamento": "Assessoria de Comunicação (ASCOM)",
-      "email": "comunicacao@unifio.edu.br",
       "uf": "SP",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -7998,27 +3889,6 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "IFSP",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "kleber@ifsp.edu.br",
-      "uf": "SP",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFSP",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "bcc.slt@ifsp.edu.br",
-      "uf": "SP",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFSP",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "ads.slt@ifsp.edu.br",
-      "uf": "SP",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFSP",
       "nome_departamento": "Instituto Federal de São Paulo",
       "email": "comunica@ifsp.edu.br",
       "uf": "SP",
@@ -8032,13 +3902,6 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
-      "nome_faculdade": "IMESB - Instituto Municipal de Ensino Superior de Bebedouro Victório Cardassi",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "imesb@imesb.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "INSPER",
       "nome_departamento": "Instituto de Ensino e Pesquisa",
       "email": "insperone@insper.edu.br",
@@ -8047,101 +3910,10 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Coordenador",
-      "email": "i.cavlak@unifesp.br",
-      "uf": "SP",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
       "nome_departamento": "Coordenação do Serviço de Graduação",
       "email": "graduacaofflch@usp.br",
       "uf": "SP",
       "tipo_instituicao": "Universidade Estadual"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Engenharias",
-      "email": "secretariacecs@ufabc.edu.br",
-      "uf": "SP",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Luiz Estevam de Oliveira Fernandes",
-      "email": "lestevam@unicamp.br",
-      "uf": "SP",
-      "tipo_instituicao": "Universidade Estadual"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Patrícia Dalcanale Meneses",
-      "email": "meneses@unicamp.br",
-      "uf": "SP",
-      "tipo_instituicao": "Universidade Estadual"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Rodrigo Camargo de Godoi",
-      "email": "rcgodoi@unicamp.br",
-      "uf": "SP",
-      "tipo_instituicao": "Universidade Estadual"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "secretariacmcc@ufabc.edu.br",
-      "uf": "SP",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "ccs@ufscar.br",
-      "uf": "SP",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "dcnme@ufscar.br",
-      "uf": "SP",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Setor de Técnologia ou Matématica",
-      "email": "coordenacao_bct@ufabc.edu.br",
-      "uf": "SP",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Seção de Alunos de Geografia e História",
-      "email": "sageohist@usp.br",
-      "uf": "SP",
-      "tipo_instituicao": "Universidade Estadual"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Estadual Paulista (UNESP)",
-      "email": "faleconosco@unesp.br",
-      "uf": "SP",
-      "tipo_instituicao": "Universidade Estadual"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Federal de São Paulo",
-      "email": "proac@unifesp.br",
-      "uf": "SP",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "Universidade Presbiteriana Mackenzie",
-      "email": "secretaria@mackenzie.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
     },
     {
       "nome_faculdade": "LOGATTI",
@@ -8172,67 +3944,11 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "Metodista - Universidade Metodista de São Paulo",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "centralderelacionamento@metodista.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Metodista - Universidade Metodista de São Paulo",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "cac@metodista.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "PUC SP",
       "nome_departamento": "ACI",
       "email": "aci@pucsp.br",
       "uf": "SP",
       "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "PUC SP",
-      "nome_departamento": "PROEC",
-      "email": "proec@pucsp.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "PUC-Campinas - Pontifícia Universidade Católica de Campinas",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "contato@puc-campinas.edu.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Rio Branco - Faculdades Integradas Rio Branco",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "faculdades@riobrancofac.edu.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "São Judas - Universidade São Judas",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "dcex@usjt.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "São Luís - Faculdade São Luís",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "coordenadoria@saoluis.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "UFABC",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@ufabc.edu.br",
-      "uf": "SP",
-      "tipo_instituicao": "Universidade Federal"
     },
     {
       "nome_faculdade": "UFABC",
@@ -8249,46 +3965,11 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
-      "nome_faculdade": "UFSCar",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@ufscar.br",
-      "uf": "SP",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UNAR",
-      "nome_departamento": "Centro Universitário de Araras",
-      "email": "contato@unar.edu.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "UNASP",
       "nome_departamento": "Centro Universitário Adventista de São Paulo",
       "email": "atendimento.sp@unasp.edu.br",
       "uf": "SP",
       "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "UNESP",
-      "nome_departamento": "Universidade Estadual Paulista",
-      "email": "portal@reitoria.unesp.br",
-      "uf": "SP",
-      "tipo_instituicao": "Universidade Estadual"
-    },
-    {
-      "nome_faculdade": "UNIARA",
-      "nome_departamento": "Universidade de Araraquara",
-      "email": "contato@uniara.com.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "UNICAMP",
-      "nome_departamento": "Universidade Estadual de Campinas",
-      "email": "portal@unicamp.br",
-      "uf": "SP",
-      "tipo_instituicao": "Universidade Estadual"
     },
     {
       "nome_faculdade": "UNIFAAT",
@@ -8301,13 +3982,6 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "UNIFAE - Centro Universitário das Faculdades Associadas de Ensino FAE",
       "nome_departamento": "Secretaria Acadêmica / Registro Escolar",
       "email": "secretaria@fae.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "UNIFAFIBE",
-      "nome_departamento": "Centro Universitário UNIFAFIBE",
-      "email": "contato@unifafibe.com.br",
       "uf": "SP",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -8369,13 +4043,6 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "UNIFESP",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@unifesp.br",
-      "uf": "SP",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UNIFESP",
       "nome_departamento": "Universidade Federal de São Paulo",
       "email": "secretaria.sjc@unifesp.br",
       "uf": "SP",
@@ -8403,58 +4070,9 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
-      "nome_faculdade": "UNIFEV",
-      "nome_departamento": "Centro Universitário de Votuporanga",
-      "email": "faleconosco@fev.edu.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "UNIFIEO",
-      "nome_departamento": "Centro Universitário FIEO",
-      "email": "faleconosco@unifieo.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "UNIFUNEC",
-      "nome_departamento": "Centro Universitário de Santa Fé do Sul",
-      "email": "contato@funecsantafe.edu.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "UNILUS",
-      "nome_departamento": "Centro Universitário Lusíada",
-      "email": "faleconosco@lusiada.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "UNIMES",
-      "nome_departamento": "Universidade Metropolitana de Santos",
-      "email": "relacionamento@unimes.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "UNIP",
       "nome_departamento": "Secretaria Acadêmica / Registro Escolar",
       "email": "secretariageral@unip.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "UNIPINHAL - Centro Regional Universitário de Espírito Santo do Pinhal",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "assesoriareitoria@unipinhal.edu.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "UNIRP",
-      "nome_departamento": "Centro Universitário de Rio Preto",
-      "email": "atendimento@educabras.com",
       "uf": "SP",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -8466,20 +4084,6 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "UNISANTANNA - Centro Universitário Sant'Anna",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "atendimento@santanna.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "UNISANTANNA - Centro Universitário Sant'Anna",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "falesantana@unisantanna.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "UNISANTOS",
       "nome_departamento": "Universidade Católica de Santos",
       "email": "coord.vest@unisantos.br",
@@ -8487,30 +4091,9 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "UNISO",
-      "nome_departamento": "Universidade de Sorocaba",
-      "email": "relacionamento@uniso.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "UNITAU",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitoria@unitau.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "UNIVEM",
       "nome_departamento": "Centro Universitário Eurípedes de Marília",
       "email": "fundacao@univem.edu.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "UNIVEM",
-      "nome_departamento": "Centro Universitário Eurípedes de Marília",
-      "email": "atendimento@univem.edu.br",
       "uf": "SP",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -8641,100 +4224,9 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Estadual"
     },
     {
-      "nome_faculdade": "IFTO",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "dicom@ifto.edu.br",
-      "uf": "TO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFTO",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "araguaina@ifto.edu.br",
-      "uf": "TO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFTO",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "ads.araguaina@ifto.edu.br",
-      "uf": "TO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFTO",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "paraiso@ifto.edu.br",
-      "uf": "TO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFTO",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "geren.paraiso@ifto.edu.br",
-      "uf": "TO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFTO",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "si.paraiso@ifto.edu.br",
-      "uf": "TO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFTO",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "csint.palmas@ifto.edu.br",
-      "uf": "TO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFTO",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "palmas@ifto.edu.br",
-      "uf": "TO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFTO",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "si.porto@ifto.edu.br",
-      "uf": "TO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFTO",
-      "nome_departamento": "Atendimento Institucional / Secretaria Geral",
-      "email": "portonacional@ifto.edu.br",
-      "uf": "TO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "IFTO",
-      "nome_departamento": "portal",
-      "email": "portal@ifto.edu.br",
-      "uf": "TO",
-      "tipo_instituicao": "Instituto Federal (IF)"
-    },
-    {
-      "nome_faculdade": "Instituição Acadêmica",
-      "nome_departamento": "STEM",
-      "email": "comppalmas@uft.edu.br",
-      "uf": "TO",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
       "nome_faculdade": "UFT",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "psicologia.miracema@uft.edu.br",
-      "uf": "TO",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "UFT",
-      "nome_departamento": "Reitoria / Gabinete",
-      "email": "reitor@uft.edu.br",
       "uf": "TO",
       "tipo_instituicao": "Universidade Federal"
     }
@@ -8745,6 +4237,13 @@ const MASTER_PAYLOAD = {
       "arroba": "@cartumante",
       "quantidade_seguidores": "224233",
       "tipo": "Tatuagem / Ilustração / Flash",
+      "uf": "DF"
+    },
+    {
+      "nome": "Camisa Crítica",
+      "arroba": "@camisacritica",
+      "quantidade_seguidores": "126305",
+      "tipo": "Moda Autoral / Gravura e Crítica",
       "uf": "DF"
     },
     {
@@ -8783,6 +4282,13 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
+      "nome": "Aptreze",
+      "arroba": "@aptreze",
+      "quantidade_seguidores": "27500",
+      "tipo": "Arte Contemporânea / Gravura / Zines",
+      "uf": "DF"
+    },
+    {
       "nome": "Guga Baygon",
       "arroba": "@gugabaygon",
       "quantidade_seguidores": "26936",
@@ -8804,6 +4310,34 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
+      "nome": "Bicha Papão",
+      "arroba": "@bichapapao",
+      "quantidade_seguidores": "23237",
+      "tipo": "Ilustração / Arte Queer / Zines",
+      "uf": "DF"
+    },
+    {
+      "nome": "Barbarartes",
+      "arroba": "@barbarartes",
+      "quantidade_seguidores": "14126",
+      "tipo": "Bordado / Ilustração Manual",
+      "uf": "DF"
+    },
+    {
+      "nome": "Burocrata Carimbos",
+      "arroba": "@burocratacarimbos",
+      "quantidade_seguidores": "12706",
+      "tipo": "Carimbos Artesanais / Gravura",
+      "uf": "DF"
+    },
+    {
+      "nome": "Apenasliartes",
+      "arroba": "@apenasliartes",
+      "quantidade_seguidores": "10895",
+      "tipo": "Ilustração / Pintura / Artesanato",
+      "uf": "DF"
+    },
+    {
       "nome": "Brixx Furtado",
       "arroba": "@brixxfurtado",
       "quantidade_seguidores": "8271",
@@ -8815,6 +4349,13 @@ const MASTER_PAYLOAD = {
       "arroba": "@gactosenanquim",
       "quantidade_seguidores": "7779",
       "tipo": "Ilustração / Fanzines",
+      "uf": "DF"
+    },
+    {
+      "nome": "Alegrias Ilustradas",
+      "arroba": "@alegriasilustradas",
+      "quantidade_seguidores": "5501",
+      "tipo": "Ilustração Autoral / Papelaria",
       "uf": "DF"
     },
     {
@@ -8853,6 +4394,27 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
+      "nome": "Boom Alternativa",
+      "arroba": "@boomalternativa",
+      "quantidade_seguidores": "3692",
+      "tipo": "Publicações Independentes / Zines",
+      "uf": "DF"
+    },
+    {
+      "nome": "Alan Bennu",
+      "arroba": "@alanbennu",
+      "quantidade_seguidores": "3628",
+      "tipo": "Ilustração / Artes Visuais / Brasília",
+      "uf": "DF"
+    },
+    {
+      "nome": "Amanusena",
+      "arroba": "@amanusena",
+      "quantidade_seguidores": "2658",
+      "tipo": "Artes Visuais / Gravura / Brasília",
+      "uf": "DF"
+    },
+    {
       "nome": "Ani Ganzala",
       "arroba": "@aniganzala",
       "quantidade_seguidores": "2074",
@@ -8860,10 +4422,66 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
+      "nome": "Calmaria Bordados",
+      "arroba": "@calmariabordados",
+      "quantidade_seguidores": "1939",
+      "tipo": "Bordado Contemporâneo / Artesanato",
+      "uf": "DF"
+    },
+    {
+      "nome": "Ana Dias",
+      "arroba": "@anadias",
+      "quantidade_seguidores": "1906",
+      "tipo": "Artes Plásticas / Ilustração",
+      "uf": "DF"
+    },
+    {
+      "nome": "Brilho da Luna",
+      "arroba": "@brilhodaluna",
+      "quantidade_seguidores": "1867",
+      "tipo": "Artes Visuais / Gravura / Feira Motim",
+      "uf": "DF"
+    },
+    {
+      "nome": "Cecidilha",
+      "arroba": "@cecidilha",
+      "quantidade_seguidores": "1827",
+      "tipo": "Artes Visuais / Gravura / Feira Motim",
+      "uf": "DF"
+    },
+    {
+      "nome": "Camiley",
+      "arroba": "@camiley",
+      "quantidade_seguidores": "1805",
+      "tipo": "Artes Visuais / Gravura / Feira Motim",
+      "uf": "DF"
+    },
+    {
+      "nome": "Atomyarts",
+      "arroba": "@atomyarts",
+      "quantidade_seguidores": "1704",
+      "tipo": "Artes Visuais / Gravura / Feira Motim",
+      "uf": "DF"
+    },
+    {
       "nome": "Desenhista das Cavernas",
       "arroba": "@desenhista_das_cavernas",
       "quantidade_seguidores": "1579",
       "tipo": "Ilustração / Tatuagem / Zines",
+      "uf": "DF"
+    },
+    {
+      "nome": "Bairtze",
+      "arroba": "@bairtze",
+      "quantidade_seguidores": "1362",
+      "tipo": "Artes Visuais / Gravura / Feira Motim",
+      "uf": "DF"
+    },
+    {
+      "nome": "Bonequinhos",
+      "arroba": "@bonequinhos",
+      "quantidade_seguidores": "1258",
+      "tipo": "Artes Visuais / Gravura / Feira Motim",
       "uf": "DF"
     },
     {
@@ -8888,6 +4506,13 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
+      "nome": "Chocokkyo",
+      "arroba": "@chocokkyo",
+      "quantidade_seguidores": "1006",
+      "tipo": "Artes Visuais / Gravura / Feira Motim",
+      "uf": "DF"
+    },
+    {
       "nome": "Ateliê Xinela",
       "arroba": "@xinelarts",
       "quantidade_seguidores": "936",
@@ -8902,6 +4527,13 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
+      "nome": "Beluga",
+      "arroba": "@beluga",
+      "quantidade_seguidores": "840",
+      "tipo": "Artes Visuais / Gravura / Feira Motim",
+      "uf": "DF"
+    },
+    {
       "nome": "Herminio Ilustra",
       "arroba": "@herminioilustra",
       "quantidade_seguidores": "799",
@@ -8909,10 +4541,24 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
+      "nome": "Ateliê F Cerâmica",
+      "arroba": "@ateliefceramica",
+      "quantidade_seguidores": "771",
+      "tipo": "Artes Visuais / Gravura / Feira Motim",
+      "uf": "DF"
+    },
+    {
       "nome": "Gravuroteca",
       "arroba": "@gravuroteca",
       "quantidade_seguidores": "626",
       "tipo": "Gravura / Xilogravura / Ateliê",
+      "uf": "DF"
+    },
+    {
+      "nome": "Andrey Lopes",
+      "arroba": "@andreylopes",
+      "quantidade_seguidores": "598",
+      "tipo": "Artes Visuais / Brasília",
       "uf": "DF"
     },
     {
@@ -8951,6 +4597,27 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
+      "nome": "Ateliê 16",
+      "arroba": "@atelie16",
+      "quantidade_seguidores": "264",
+      "tipo": "Artes Visuais / Gravura / Feira Motim",
+      "uf": "DF"
+    },
+    {
+      "nome": "Atelie da LB",
+      "arroba": "@ateliedalb",
+      "quantidade_seguidores": "201",
+      "tipo": "Artes Visuais / Gravura / Feira Motim",
+      "uf": "DF"
+    },
+    {
+      "nome": "Ceramecas",
+      "arroba": "@ceramecas",
+      "quantidade_seguidores": "163",
+      "tipo": "Artes Visuais / Gravura / Feira Motim",
+      "uf": "DF"
+    },
+    {
       "nome": "Bi Aguiart",
       "arroba": "@biaguiart",
       "quantidade_seguidores": "155",
@@ -8969,6 +4636,13 @@ const MASTER_PAYLOAD = {
       "arroba": "@estudiotrinca",
       "quantidade_seguidores": "127",
       "tipo": "Encadernação / Papelaria Autoral",
+      "uf": "DF"
+    },
+    {
+      "nome": "Capitonê",
+      "arroba": "@capitone",
+      "quantidade_seguidores": "69",
+      "tipo": "Encadernação / Papelaria Artesanal",
       "uf": "DF"
     },
     {
@@ -9023,157 +4697,136 @@ const MASTER_PAYLOAD = {
   ],
   "influenciadores": [
     {
-      "nome": "UnB Oficial",
-      "arroba": "@unb_oficial",
-      "quantidade_seguidores": "216031",
-      "tipo": "Universidade / Vida Acadêmica DF",
+      "nome": "Ana Clara Paim",
+      "arroba": "@anaclarapaim",
+      "quantidade_seguidores": "683344",
+      "tipo": "Comédia / Crítica Social / Juventude",
       "uf": "DF"
     },
     {
-      "nome": "UDF Centro Universitário",
-      "arroba": "@udf_oficial",
-      "quantidade_seguidores": "48388",
-      "tipo": "Educação Superior / Brasília",
+      "nome": "Eldo Gomes",
+      "arroba": "@eldogomes",
+      "quantidade_seguidores": "147806",
+      "tipo": "Jornalismo / Inovação / Cultura Urbana BSB",
+      "uf": "DF"
+    },
+    {
+      "nome": "Maykon Gomes",
+      "arroba": "@maykongm",
+      "quantidade_seguidores": "144062",
+      "tipo": "Lifestyle / Cotidiano / Morando Sozinho",
+      "uf": "DF"
+    },
+    {
+      "nome": "TJ Fernandes",
+      "arroba": "@tjfernandesoficial",
+      "quantidade_seguidores": "93163",
+      "tipo": "Comédia / Crítica Social / Cotidiano DF",
       "uf": "DF"
     },
     {
       "nome": "DCE UnB Honestino Guimarães",
       "arroba": "@dceunb",
-      "quantidade_seguidores": "23554",
-      "tipo": "Representação Estudantil / UnB",
+      "quantidade_seguidores": "23544",
+      "tipo": "Liderança Estudantil / Universidade de Brasília",
       "uf": "DF"
     },
     {
-      "nome": "IFB - Instituto Federal de Brasília",
-      "arroba": "@ifboficial",
-      "quantidade_seguidores": "14283",
-      "tipo": "Instituição Federal / IFB",
+      "nome": "Júlia Drummond",
+      "arroba": "@juliadrummond",
+      "quantidade_seguidores": "6773",
+      "tipo": "Lifestyle / Moda e Criação de Conteúdo",
       "uf": "DF"
     },
     {
-      "nome": "Projeto Politeia UnB",
-      "arroba": "@projetopoliteia",
-      "quantidade_seguidores": "8239",
-      "tipo": "Educação Cívica / Política UnB",
-      "uf": "DF"
-    },
-    {
-      "nome": "Concentro DF",
-      "arroba": "@concentrodf",
-      "quantidade_seguidores": "4212",
-      "tipo": "Empreendedorismo Universitário / EJs",
-      "uf": "DF"
-    },
-    {
-      "nome": "Faculdade de Tecnologia UnB",
-      "arroba": "@ft.unb",
-      "quantidade_seguidores": "3417",
-      "tipo": "Vida Universitária / Engenharias UnB",
-      "uf": "DF"
-    },
-    {
-      "nome": "CJR UnB",
-      "arroba": "@cjr.unb",
-      "quantidade_seguidores": "2271",
-      "tipo": "Tecnologia / Empresa Júnior UnB",
-      "uf": "DF"
-    },
-    {
-      "nome": "Laboratório Aberto Brasília",
-      "arroba": "@laboratorioaberto",
-      "quantidade_seguidores": "2025",
-      "tipo": "Inovação / Educação e Pesquisa",
-      "uf": "DF"
-    },
-    {
-      "nome": "Faciplac Oficial",
-      "arroba": "@faciplac",
-      "quantidade_seguidores": "2",
-      "tipo": "Educação Superior / DF",
-      "uf": "DF"
-    },
-    {
-      "nome": "UFG Oficial",
-      "arroba": "@ufg_oficial",
-      "quantidade_seguidores": "185486",
-      "tipo": "Universidade / Vida Acadêmica GO",
+      "nome": "Camila Pudim",
+      "arroba": "@camilapudim",
+      "quantidade_seguidores": "7487270",
+      "tipo": "Criação de Conteúdo / Audiovisual e Make",
       "uf": "GO"
     },
     {
-      "nome": "PUC Goiás",
-      "arroba": "@pucgoias",
-      "quantidade_seguidores": "98437",
-      "tipo": "Universidade Católica de Goiás",
+      "nome": "Jacques Vanier",
+      "arroba": "@jacquesvanier",
+      "quantidade_seguidores": "6615415",
+      "tipo": "Comédia Regional / Cultura Goiana",
       "uf": "GO"
     },
     {
-      "nome": "IF Goiano",
-      "arroba": "@ifgoiano",
-      "quantidade_seguidores": "72497",
-      "tipo": "Instituto Federal Goiano / Ensino Técnico e Superior",
+      "nome": "Renato Albani",
+      "arroba": "@renatoalbani",
+      "quantidade_seguidores": "4882441",
+      "tipo": "Comédia / Stand-up e Crítica Social",
       "uf": "GO"
     },
     {
-      "nome": "Medicina UFG",
-      "arroba": "@medicinaufg",
-      "quantidade_seguidores": "1",
-      "tipo": "Comunidade Acadêmica UFG",
+      "nome": "Manuela Xavier",
+      "arroba": "@manuelaxavier",
+      "quantidade_seguidores": "437194",
+      "tipo": "Psicanálise / Questões Sociais / Crítica Cultural",
       "uf": "GO"
     },
     {
-      "nome": "UFPE Oficial",
-      "arroba": "@ufpe.oficial",
-      "quantidade_seguidores": "272068",
-      "tipo": "Universidade / Vida Acadêmica PE",
+      "nome": "Brenda Queiroz",
+      "arroba": "@queirozbrenda",
+      "quantidade_seguidores": "362700",
+      "tipo": "Lifestyle / Rotina e Moda / Goiânia",
+      "uf": "GO"
+    },
+    {
+      "nome": "João Vitor (Goiânia)",
+      "arroba": "@joaovitor",
+      "quantidade_seguidores": "104522",
+      "tipo": "IA, Negócios e Vida Universitária",
+      "uf": "GO"
+    },
+    {
+      "nome": "Talokudo",
+      "arroba": "@talokudo",
+      "quantidade_seguidores": "2408903",
+      "tipo": "Comédia / Humor Regional / Personagens",
       "uf": "PE"
     },
     {
-      "nome": "Porto Digital",
-      "arroba": "@portodigital",
-      "quantidade_seguidores": "131599",
-      "tipo": "Tecnologia / Educação e Carreiras PE",
+      "nome": "Victor Goes",
+      "arroba": "@victorgoes",
+      "quantidade_seguidores": "974393",
+      "tipo": "Humor Ácido / Crítica Cotidiana e Lifestyle",
       "uf": "PE"
     },
     {
-      "nome": "UFRPE Oficial",
-      "arroba": "@ufrpe",
-      "quantidade_seguidores": "107487",
-      "tipo": "Universidade Federal Rural de Pernambuco",
+      "nome": "Caio Braz",
+      "arroba": "@caio",
+      "quantidade_seguidores": "383619",
+      "tipo": "Comunicação / Cultura / Crítica Social",
       "uf": "PE"
     },
     {
-      "nome": "IFPE Oficial",
-      "arroba": "@ifpeoficial",
-      "quantidade_seguidores": "103597",
-      "tipo": "Instituto Federal de Pernambuco",
+      "nome": "João Pedro (Porto Digital)",
+      "arroba": "@joaopedro",
+      "quantidade_seguidores": "381781",
+      "tipo": "Tech / Startups e Juventude Recife",
       "uf": "PE"
     },
     {
-      "nome": "Recife Criativo",
-      "arroba": "@recifecriativo",
-      "quantidade_seguidores": "1484",
-      "tipo": "Hub Criativo e Cultural / Porto Digital",
+      "nome": "Recife + Farra",
+      "arroba": "@recifarra",
+      "quantidade_seguidores": "97582",
+      "tipo": "Juventude / Rolês / Lifestyle Universitário",
       "uf": "PE"
     },
     {
-      "nome": "DCE UFPE",
-      "arroba": "@dceufpe",
-      "quantidade_seguidores": "218",
-      "tipo": "Representação Estudantil / UFPE",
+      "nome": "Ariadny Safira",
+      "arroba": "@ariadnysafira",
+      "quantidade_seguidores": "9350",
+      "tipo": "Lifestyle / Diversidade e Juventude Recife",
       "uf": "PE"
     },
     {
-      "nome": "Embarque Digital",
-      "arroba": "@embarquedigital",
-      "quantidade_seguidores": "122",
-      "tipo": "Bolsas Universitárias / Tech Recife",
-      "uf": "PE"
-    },
-    {
-      "nome": "UNICAP Recife",
-      "arroba": "@unicap",
-      "quantidade_seguidores": "5",
-      "tipo": "Universidade Católica de Pernambuco",
+      "nome": "Bella Lemos",
+      "arroba": "@bellamlemos",
+      "quantidade_seguidores": "3058",
+      "tipo": "Lifestyle / Beleza e Estética Recife",
       "uf": "PE"
     }
   ],

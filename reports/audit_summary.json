@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-27T21:25:09.223986+00:00",
+  "generated_at": "2026-10-29T01:18:34.608896+00:00",
   "target_dir": "C:\\Users\\alexk\\Desktop\\freela-edumi\\csv_exports",
   "legacy_unique_emails_count": 2242,
   "bounce_blocklist_count": 41,
   "tables": {
     "universidades_df": {
       "file": "01_universidades_DF_marco1.csv",
-      "rows": 215,
+      "rows": 166,
       "columns": [
         "nome_faculdade",
         "nome_departamento",
@@ -33,7 +33,7 @@
     },
     "universidades": {
       "file": "01_universidades.csv",
-      "rows": 1248,
+      "rows": 604,
       "columns": [
         "nome_faculdade",
         "nome_departamento",
@@ -60,7 +60,7 @@
     },
     "artistas": {
       "file": "02_artistas.csv",
-      "rows": 40,
+      "rows": 66,
       "columns": [
         "nome",
         "arroba",
@@ -84,13 +84,13 @@
       "synthetic_followers_check": {
         "suspicious": false,
         "max_arithmetic_streak": 1,
-        "round_hundred_ratio": 0.0
+        "round_hundred_ratio": 0.015
       },
       "blockers_count": 0
     },
     "influenciadores": {
       "file": "03_influenciadores.csv",
-      "rows": 22,
+      "rows": 19,
       "columns": [
         "nome",
         "arroba",
@@ -114,7 +114,7 @@
       "synthetic_followers_check": {
         "suspicious": false,
         "max_arithmetic_streak": 1,
-        "round_hundred_ratio": 0.0
+        "round_hundred_ratio": 0.053
       },
       "blockers_count": 0
     },

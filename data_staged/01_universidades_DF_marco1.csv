@@ -1,5 +1,4 @@
 ﻿nome_faculdade,nome_departamento,email,uf
-Centro Universitário Apparecido dos Santos (UNICEPLAC),Secretaria Acadêmica Geral (Campus Gama),secretaria.academica@uniceplac.edu.br,DF
 Centro Universitário Euro-Americano (UNIEURO),Secretaria e Serviços Acadêmicos Online,servicosonline@grupoceuma.com.br,DF
 Centro Universitário IESB,Controladoria e Gestão Institucional,controladoria@iesb.br,DF
 Centro Universitário IESB,Departamento / Coordenação de Psicologia,atendimento@iesb.br,DF
@@ -11,15 +10,10 @@ Centro Universitário Projeção (UniProjeção),Coordenação de Atendimento EA
 Centro Universitário Projeção (UniProjeção),Núcleo de Integração e Estágios — Taguatinga,integra.taguatinga@projecao.br,DF
 Centro Universitário Projeção (UniProjeção),Núcleo de Integração — Unidade Guará,integra.guara@projecao.br,DF
 Centro Universitário Projeção (UniProjeção),Núcleo de Integração — Unidade Sobradinho,integra.sobradinho@projecao.br,DF
-Centro Universitário Projeção (UniProjeção),Suporte da Central de Serviços Compartilhados,suportessc@projecao.br,DF
-Centro Universitário de Brasília (CEUB / UniCEUB),Assessoria de Imprensa e Comunicação,assessoriadeimprensa@uniceub.br,DF
 Centro Universitário de Brasília (CEUB / UniCEUB),Central de Atendimento e Relacionamento Acadêmico,central.atendimento@uniceub.br,DF
 Centro Universitário de Brasília (CEUB / UniCEUB),Coordenação de Estágios e Carreiras,estagio@uniceub.br,DF
-Centro Universitário de Brasília (CEUB / UniCEUB),Ouvidoria — Campus Asa Norte,ouvidoria@uniceub.br,DF
-Centro Universitário de Brasília (CEUB / UniCEUB),Ouvidoria — Campus Taguatinga,ouvidoria.taguatinga@uniceub.br,DF
 Centro Universitário do Distrito Federal (UDF),Central de Atendimento ao Aluno (CAA),central.aluno@udf.edu.br,DF
 Escola Nacional de Administração Pública (ENAP),Secretaria Escolar (Pós-Graduação e Mestrado),secretariaescolar@enap.gov.br,DF
-Escola Superior de Ciências da Saúde (ESCS),Atendimento Institucional Geral,escs@escs.edu.br,DF
 Escola Superior de Ciências da Saúde (ESCS),Coordenação do Curso de Enfermagem (CCE),cce@escs.edu.br,DF
 Escola Superior de Ciências da Saúde (ESCS),Coordenação do Curso de Medicina (CCM),ccm@escs.edu.br,DF
 Escola Superior de Ciências da Saúde (ESCS),Direção-Geral da ESCS,direcaogeral@escs.edu.br,DF
@@ -36,95 +30,64 @@ Escola Superior de Ciências da Saúde (ESCS),Secretaria de Assuntos Acadêmicos
 Escola Superior de Ciências da Saúde (ESCS),Secretaria do Curso de Medicina (SC/CCM),secretariamedicina@escs.edu.br,DF
 Escola Superior de Ciências da Saúde (ESCS),Serviço de Apoio ao Discente (SAD),sad@escs.edu.br,DF
 Escola de Governo Fiocruz Brasília (EGF-Brasília),Secretaria Acadêmica (SECAD),secad@fiocruz.br,DF
-Faculdade CNA (Brasília),Secretaria Acadêmica Geral,secretaria@faculdadecna.edu.br,DF
-Faculdade Presbiteriana Mackenzie Brasília (FPMB),Atendimento Acadêmico-Financeiro Brasília (AFA-DF),afa.df@mackenzie.br,DF
-Faculdade Republicana (Brasília),Assessoria de Comunicação,comunicacao@faculdaderepublicana.org.br,DF
 Faculdade Republicana (Brasília),Biblioteca Acadêmica,biblioteca@faculdaderepublicana.org.br,DF
-Faculdade Republicana (Brasília),Central de Atendimento Institucional,contato@faculdaderepublicana.org.br,DF
-Faculdade Republicana (Brasília),Secretaria de Atendimento ao Estudante,atendimento@faculdaderepublicana.org.br,DF
 Faculdade de Tecnologia e Inovação Senac Distrito Federal,Coordenação de Programas Educacionais,programaseducacionais@df.senac.br,DF
-Faculdade de Tecnologia e Inovação Senac Distrito Federal,Ouvidoria Senac-DF,ouvidoria@df.senac.br,DF
 Faculdade de Tecnologia e Inovação Senac Distrito Federal,Secretaria Acadêmica da Faculdade Senac-DF,secretariaacademica@df.senac.br,DF
 Fundação Getulio Vargas — Escola de Políticas Públicas e Governo (FGV EPPG Brasília),Secretaria da Escola de Políticas Públicas e Governo (EPPG),eppg@fgv.br,DF
 Fundação Getulio Vargas — Polo Brasília (FGV),Coordenação de Educação Executiva e Cursos em Brasília,cursos.bsb@fgv.br,DF
-Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS),Assessoria de Comunicação (ASCOM),ascom@fepecs.edu.br,DF
 Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS),Biblioteca Central FEPECS,biblioteca@fepecs.edu.br,DF
 Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS),Comitê de Ética em Pesquisa (CEP),cep@fepecs.edu.br,DF
 Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS),Coordenação de Planejamento e Gestão Estratégica (CPLAGE),cplage@fepecs.edu.br,DF
 Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS),Coordenação de Processos Seletivos (CPS),cps@fepecs.edu.br,DF
 Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS),Diretoria Executiva (DE),de@fepecs.edu.br,DF
-Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS),Ouvidoria FEPECS,ouvidoria@fepecs.edu.br,DF
-"Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa (IDP)",Central de Relacionamento e Secretaria Acadêmica,central@idp.edu.br,DF
-"Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa (IDP)",Ouvidoria Institucional,ouvidoria@idp.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Brasília,Chefia de Gabinete da Direção-Geral,gabinete.cbra@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Brasília,Coordenação de Registro Acadêmico (CDRA),registroacademicobrasilia@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Brasília,"Diretoria de Ensino, Pesquisa e Extensão (DREP)",drep.cbra@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Ceilândia,Chefia de Gabinete da Direção-Geral,gabinete.ccei@ifb.edu.br,DF
-Instituto Federal de Brasília (IFB) - Campus Ceilândia,Comissão de Processo Seletivo e Matrícula,processoseletivo.ceilandia@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Ceilândia,Coordenação de Assistência Estudantil e Inclusão Social (CDAE),cdae.ccei@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Ceilândia,Coordenação de Registro Acadêmico (CDRA),cdra.ccei@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Ceilândia,"Diretoria de Ensino, Pesquisa e Extensão (DREP)",drep.ccei@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Ceilândia,Direção-Geral do Campus Ceilândia,direcao.ceilandia@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Estrutural,Chefia de Gabinete da Direção-Geral,gabinete.cest@ifb.edu.br,DF
-Instituto Federal de Brasília (IFB) - Campus Estrutural,Comissão de Processo Seletivo e Matrícula,processoseletivo.estrutural@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Estrutural,Coordenação de Assistência Estudantil e Inclusão Social (CDAE),cdae.cest@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Estrutural,Coordenação de Registro Acadêmico (CDRA),cdra.cest@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Estrutural,"Diretoria de Ensino, Pesquisa e Extensão (DREP)",drep.cest@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Gama,Chefia de Gabinete da Direção-Geral,gabinete.cgam@ifb.edu.br,DF
-Instituto Federal de Brasília (IFB) - Campus Gama,Comissão de Processo Seletivo e Matrícula,processoseletivo.gama@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Gama,Coordenação de Assistência Estudantil e Inclusão Social (CDAE),cgam.cdae@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Gama,Coordenação de Registro Acadêmico (CDRA),cdra.cgam@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Gama,"Diretoria de Ensino, Pesquisa e Extensão (DREP)",drep.cgam@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Planaltina,Chefia de Gabinete da Direção-Geral,gabinete.cpla@ifb.edu.br,DF
-Instituto Federal de Brasília (IFB) - Campus Planaltina,Comissão de Processo Seletivo,processoseletivo.planaltina@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Planaltina,Coordenação de Assistência Estudantil e Inclusão Social (CDAE),cdae.cpla@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Planaltina,Coordenação de Registro Acadêmico (CDRA),cdra.cpla@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Planaltina,"Diretoria de Ensino, Pesquisa e Extensão (DREP)",drep.cpla@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Planaltina,Setor de Matrículas,matricula.planaltina@ifb.edu.br,DF
-Instituto Federal de Brasília (IFB) - Campus Recanto das Emas,Atendimento Institucional do Campus,campusrecantodasemas@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Recanto das Emas,Chefia de Gabinete da Direção-Geral,gabinete.crem@ifb.edu.br,DF
-Instituto Federal de Brasília (IFB) - Campus Recanto das Emas,Comissão de Processo Seletivo e Matrícula,processoseletivo.recantodasemas@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Recanto das Emas,Coordenação de Assistência Estudantil e Inclusão Social (CDAE),cdae.crem@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Recanto das Emas,Coordenação de Registro Acadêmico (CDRA),cdra.crem@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Recanto das Emas,"Diretoria de Ensino, Pesquisa e Extensão (DREP)",drep.crem@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Riacho Fundo,Chefia de Gabinete da Direção-Geral,gabinete.crfi@ifb.edu.br,DF
-Instituto Federal de Brasília (IFB) - Campus Riacho Fundo,Comissão de Processo Seletivo e Matrícula,processoseletivo.riachofundo@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Riacho Fundo,Coordenação de Registro Acadêmico (CDRA),cdra.crfi@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Riacho Fundo,"Diretoria de Ensino, Pesquisa e Extensão (DREP)",drep.crfi@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Samambaia,Chefia de Gabinete da Direção-Geral,gabinete.csam@ifb.edu.br,DF
-Instituto Federal de Brasília (IFB) - Campus Samambaia,Comissão de Processo Seletivo e Matrícula,processoseletivo.samambaia@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Samambaia,Coordenação de Registro Acadêmico (CDRA),cdra.csam@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Samambaia,"Diretoria de Ensino, Pesquisa e Extensão (DREP)",drep.csam@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus São Sebastião,Chefia de Gabinete da Direção-Geral,gabinete.cssb@ifb.edu.br,DF
-Instituto Federal de Brasília (IFB) - Campus São Sebastião,Comissão de Processo Seletivo,processoseletivo.saosebastiao@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus São Sebastião,Coordenação de Registro Acadêmico (CDRA),cdra.cssb@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus São Sebastião,"Diretoria de Ensino, Pesquisa e Extensão (DREP)",drep.cssb@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus São Sebastião,Setor de Matrículas,matricula.saosebastiao@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Taguatinga,Chefia de Gabinete da Direção-Geral,gabinete.ctag@ifb.edu.br,DF
-Instituto Federal de Brasília (IFB) - Campus Taguatinga,Comissão de Processo Seletivo e Matrícula,processoseletivo.taguatinga@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Taguatinga,Coordenação de Registro Acadêmico (CDRA),cdra.ctag@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Taguatinga,"Diretoria de Ensino, Pesquisa e Extensão (DREP)",drep.ctag@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Campus Taguatinga,Direção-Geral (DG),dg.ctag@ifb.edu.br,DF
-Instituto Federal de Brasília (IFB) - Campus Taguatinga,Setor de Protocolo,ctag.protocolo@ifb.edu.br,DF
-Instituto Federal de Brasília (IFB) - Reitoria,Coordenação Geral de Processo Seletivo e Ingresso,processoseletivo@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Reitoria,Coordenação de Políticas de Assistência Estudantil (CPAPE),cpape@ifb.edu.br,DF
-Instituto Federal de Brasília (IFB) - Reitoria,Diretoria de Comunicação Social (DICOM),comunicacao@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Reitoria,Diretoria de Registro e Acompanhamento dos Processos Educacionais (DRPE),drpe@ifb.edu.br,DF
 Instituto Federal de Brasília (IFB) - Reitoria,Diretoria de Tecnologia da Informação e Comunicação (DTIC),dtic@ifb.edu.br,DF
-Instituto Federal de Brasília (IFB) - Reitoria,Gabinete da Reitoria / Gabinete Digital,gabinetedigital@ifb.edu.br,DF
-Instituto Federal de Brasília (IFB) - Reitoria,Ouvidoria Institucional,ouvidoria@ifb.edu.br,DF
-Instituto Federal de Brasília (IFB) - Reitoria,Protocolo Central da Reitoria,protocolo.reitoria@ifb.edu.br,DF
-Instituto Federal de Brasília (IFB) - Reitoria,Pró-Reitoria de Administração (PRAF),praf@ifb.edu.br,DF
-Instituto Federal de Brasília (IFB) - Reitoria,Pró-Reitoria de Ensino (PREN),pren@ifb.edu.br,DF
-Instituto Federal de Brasília (IFB) - Reitoria,Pró-Reitoria de Extensão e Cultura (PREX),prex@ifb.edu.br,DF
-Instituto Federal de Brasília (IFB) - Reitoria,Pró-Reitoria de Pesquisa e Inovação (PRPI),prpi@ifb.edu.br,DF
 SENAI Distrito Federal — Sistema FIBRA,Secretaria Escolar — Unidade Gama,secretaria.sesigama@sistemafibra.org.br,DF
 SENAI Distrito Federal — Sistema FIBRA,Secretaria Escolar — Unidade SIG Brasília,secretaria.sesisig@sistemafibra.org.br,DF
 SENAI Distrito Federal — Sistema FIBRA,Secretaria Escolar — Unidade Sobradinho,secretariasobradinho@sistemafibra.org.br,DF
 SENAI Distrito Federal — Sistema FIBRA,Secretaria Escolar — Unidade Taguatinga,secretaria.sesitaguatinga@sistemafibra.org.br,DF
 Universidade Católica de Brasília (UCB),Central de Atendimento ao Estudante — Graduação (ATENDE),atende@ucb.br,DF
 Universidade Católica de Brasília (UCB),Gestão Estratégica de Pesquisa e Extensão (PAGE),page@ucb.br,DF
-Universidade Católica de Brasília (UCB),Ouvidoria Institucional (Grupo UBEC / UCB),ouvidoria@ubec.edu.br,DF
 Universidade de Brasília (UnB),Apoio Acadêmico e Administrativo — Faculdade de Tecnologia (FT),adrianaflavia@unb.br,DF
 Universidade de Brasília (UnB),Centro Acadêmico de Engenharia Ambiental (CAEA/FT),engenhariambientalunb@gmail.com,DF
 Universidade de Brasília (UnB),Centro Acadêmico de Engenharia Civil (CAENC/FT),unbcaenc@gmail.com,DF
@@ -145,14 +108,6 @@ Universidade de Brasília (UnB),Coordenadoria de Gestão de Desempenho (COGED),d
 Universidade de Brasília (UnB),Coordenação Discente — Departamento de Engenharia Elétrica (ENE),alunosene@ene.unb.br,DF
 Universidade de Brasília (UnB),Coordenação de Engenharia Aeroespacial (EAS),coordenacao.eas@unb.br,DF
 Universidade de Brasília (UnB),Coordenação e Reserva de Auditórios — Faculdade de Tecnologia (FT),auditorioft@unb.br,DF
-Universidade de Brasília (UnB),Decanato de Administração (DAF),daf@unb.br,DF
-Universidade de Brasília (UnB),Decanato de Assuntos Comunitários (DAC),dac@unb.br,DF
-Universidade de Brasília (UnB),Decanato de Ensino de Graduação (DEG),deg@unb.br,DF
-Universidade de Brasília (UnB),Decanato de Extensão (DEX),redex@unb.br,DF
-Universidade de Brasília (UnB),Decanato de Gestão de Pessoas (DGP),dgp@unb.br,DF
-Universidade de Brasília (UnB),Decanato de Pesquisa e Inovação (DPI),dpi@unb.br,DF
-Universidade de Brasília (UnB),"Decanato de Planejamento, Orçamento e Avaliação Institucional (DPO)",dpo@unb.br,DF
-Universidade de Brasília (UnB),Decanato de Pós-Graduação (DPG),dpg@unb.br,DF
 Universidade de Brasília (UnB),Departamento de Administração (ADM),adm@unb.br,DF
 Universidade de Brasília (UnB),Departamento de Antropologia (DAN),dan@unb.br,DF
 Universidade de Brasília (UnB),Departamento de Audiovisuais e Publicidade (DAP),dap@unb.br,DF
@@ -190,8 +145,6 @@ Universidade de Brasília (UnB),Faculdade de Educação (FE),fed@unb.br,DF
 Universidade de Brasília (UnB),Faculdade de Educação — Centro de Extensão e Relações Internacionais (FE),ceri@unb.br,DF
 Universidade de Brasília (UnB),Faculdade de Tecnologia,ft@unb.br,DF
 Universidade de Brasília (UnB),Faculdade de Tecnologia (FT),ftd@unb.br,DF
-Universidade de Brasília (UnB),Gabinete da Reitoria (GRE),reitoria@unb.br,DF
-Universidade de Brasília (UnB),Gabinete da Reitoria — Atendimento Institucional (GRE),gre@unb.br,DF
 Universidade de Brasília (UnB),Instituto de Artes (IdA),ida@unb.br,DF
 Universidade de Brasília (UnB),Instituto de Ciência Política (IPOL),secretariaipol@unb.br,DF
 Universidade de Brasília (UnB),Instituto de Ciências Biológicas (IB),ibd@unb.br,DF
@@ -203,11 +156,9 @@ Universidade de Brasília (UnB),Instituto de Letras — Coordenação de Licenci
 Universidade de Brasília (UnB),Instituto de Psicologia (IP),ipd@unb.br,DF
 Universidade de Brasília (UnB),Instituto de Química (IQ),direcaoiq@unb.br,DF
 Universidade de Brasília (UnB),Instituto de Relações Internacionais (IREL),irel@unb.br,DF
-Universidade de Brasília (UnB),Ouvidoria da UnB,ouvidoria@unb.br,DF
 Universidade de Brasília (UnB),"Programa de Pós-Graduação em Desenvolvimento, Sociedade e Cooperação Internacional (PPGDSCI/CEAM)",ppgdsci@unb.br,DF
 Universidade de Brasília (UnB),Programa de Pós-Graduação em Direitos Humanos e Cidadania (PPGDH/CEAM),ppgdh@unb.br,DF
 Universidade de Brasília (UnB),Secretaria Administrativa — Faculdade de Tecnologia (FT),dasilva@unb.br,DF
-Universidade de Brasília (UnB),Secretaria Geral / Atendimento Institucional,secretaria@unb.br,DF
 Universidade de Brasília (UnB),Secretaria de Administração Acadêmica (SAA),saaatendimento@unb.br,DF
 Universidade de Brasília (UnB),Secretaria de Apoio Técnico — Faculdade de Tecnologia (FT),jacksonferreira@unb.br,DF
 Universidade de Brasília (UnB),Secretaria de Comunicação (SECOM),secom@unb.br,DF

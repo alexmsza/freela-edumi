@@ -1,0 +1,220 @@
+{
+  "data_payload.js": {
+    "mtime": 1793136300.101624,
+    "seen": 1793136471.1899507,
+    "ast_hash": "7b6023f11f8179e0d2450928543de6fd",
+    "semantic_hash": ""
+  },
+  "data_staged/provenance_legacy.json": {
+    "mtime": 1793133609.355902,
+    "seen": 1793133887.4317217,
+    "ast_hash": "14ce60a4747042bbaae04975d5578136",
+    "semantic_hash": "14ce60a4747042bbaae04975d5578136",
+    "ast_empty": true
+  },
+  "data_verified/dns_cache.json": {
+    "mtime": 1793135131.9113965,
+    "seen": 1793136471.1899507,
+    "ast_hash": "32acaa7d95f83896b287fb790aee9fcc",
+    "semantic_hash": ""
+  },
+  "pyproject.toml": {
+    "mtime": 1793135065.3562016,
+    "seen": 1793136471.1899507,
+    "ast_hash": "718d91b0b41110ca2b4113ce6c7b26ad",
+    "semantic_hash": ""
+  },
+  "reports/audit_summary.json": {
+    "mtime": 1793136309.2268114,
+    "seen": 1793136471.1899507,
+    "ast_hash": "974e0e80961e4177cae61180bfd60800",
+    "semantic_hash": ""
+  },
+  "tools/__init__.py": {
+    "mtime": 1793130170.341239,
+    "seen": 1793131151.2268782,
+    "ast_hash": "5bab92111ab0339d5fb5b4199283022c",
+    "semantic_hash": "5bab92111ab0339d5fb5b4199283022c"
+  },
+  "tools/audit.py": {
+    "mtime": 1793132985.7401247,
+    "seen": 1793133887.4337564,
+    "ast_hash": "a6320289f7f7d1fc79743932f6383a29",
+    "semantic_hash": "a6320289f7f7d1fc79743932f6383a29"
+  },
+  "tools/cli.py": {
+    "mtime": 1793130531.1151211,
+    "seen": 1793131151.227885,
+    "ast_hash": "461b1b40435816f8813a262a30bafe0a",
+    "semantic_hash": "461b1b40435816f8813a262a30bafe0a"
+  },
+  "tools/etl_legacy.py": {
+    "mtime": 1793133531.5244195,
+    "seen": 1793133887.4357514,
+    "ast_hash": "4771f6bbca5c63d2d6ecd745f1ecd76b",
+    "semantic_hash": "4771f6bbca5c63d2d6ecd745f1ecd76b"
+  },
+  "tools/exporter.py": {
+    "mtime": 1793134087.4903138,
+    "seen": 1793134104.833721,
+    "ast_hash": "e46d28b0dc9e040b506d676fe0d5dc57",
+    "semantic_hash": "e46d28b0dc9e040b506d676fe0d5dc57"
+  },
+  "tools/scraper_ies.py": {
+    "mtime": 1793133542.0417955,
+    "seen": 1793133887.4357514,
+    "ast_hash": "7633723199e918902446d86cef815b5a",
+    "semantic_hash": "7633723199e918902446d86cef815b5a"
+  },
+  "tools/scraper_social.py": {
+    "mtime": 1793134706.2799466,
+    "seen": 1793136471.190474,
+    "ast_hash": "85ea55118d3628fb5953714b8660be91",
+    "semantic_hash": ""
+  },
+  "tools/uf_catalog.py": {
+    "mtime": 1793130173.2851036,
+    "seen": 1793131151.227885,
+    "ast_hash": "c77b8929104c7f36e4ef906745fe3070",
+    "semantic_hash": "c77b8929104c7f36e4ef906745fe3070"
+  },
+  "data_verified/ies_scraped.json": {
+    "mtime": 1793135131.9134107,
+    "seen": 1793136471.1899507,
+    "ast_hash": "2f3273629a67e7da7dbbca36855bd1c6",
+    "semantic_hash": ""
+  },
+  "reports/quarantined_dead_domains.json": {
+    "mtime": 1793133609.3317509,
+    "seen": 1793133887.4327385,
+    "ast_hash": "894f092827ad83a3de430e4b0f59d433",
+    "semantic_hash": "894f092827ad83a3de430e4b0f59d433",
+    "ast_empty": true
+  },
+  "tools/df_verified_catalog.py": {
+    "mtime": 1793133576.5754154,
+    "seen": 1793133887.4347522,
+    "ast_hash": "1a819dd4a6ca664d4ed6adf6d9a0765e",
+    "semantic_hash": "1a819dd4a6ca664d4ed6adf6d9a0765e"
+  },
+  "data_verified/influencers_batch_tested.json": {
+    "mtime": 1793135432.3176703,
+    "seen": 1793136471.1899507,
+    "ast_hash": "cc8699f6484962bb149965fee96fa42b",
+    "semantic_hash": ""
+  },
+  "data_verified/motim_batch_tested.json": {
+    "mtime": 1793135328.7534108,
+    "seen": 1793136471.1899507,
+    "ast_hash": "5b18bed384bc7b4c10aa1fde9f261b12",
+    "semantic_hash": ""
+  },
+  "data_verified/national_seeds.json": {
+    "mtime": 1793134966.1307452,
+    "seen": 1793136471.1899507,
+    "ast_hash": "641fcb12fbfc3470b9dc34680a15b03f",
+    "semantic_hash": ""
+  },
+  "data_verified/social_verified.json": {
+    "mtime": 1793136284.9842677,
+    "seen": 1793136471.1899507,
+    "ast_hash": "ed928a3d65cac86b6993f5402d8e0497",
+    "semantic_hash": ""
+  },
+  "scratch/create_national_seeds.py": {
+    "mtime": 1793134958.874691,
+    "seen": 1793136471.190474,
+    "ast_hash": "18001762758610b24945d6c5c0b13515",
+    "semantic_hash": ""
+  },
+  "tools/generate_expurgation_list.py": {
+    "mtime": 1793136009.225976,
+    "seen": 1793136471.190474,
+    "ast_hash": "2e31b80b8965bfc25394feb1cce173f7",
+    "semantic_hash": ""
+  },
+  "LISTA_DE_ITENS_EXPURGADOS_E_QUARENTENA.md": {
+    "mtime": 1793136378.5782254,
+    "seen": 1793136471.190474,
+    "ast_hash": "232f015f11e2a350e308aecb63ad4ccf",
+    "semantic_hash": ""
+  },
+  "PLANO_DE_EXECUCAO.md": {
+    "mtime": 1793136427.1424632,
+    "seen": 1793136471.190474,
+    "ast_hash": "5ee975c44bb0bd3b7f5e35db20ec2a57",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1793136445.3956835,
+    "seen": 1793136471.190474,
+    "ast_hash": "c2d5f35e79b85cddd032d589616ae464",
+    "semantic_hash": ""
+  },
+  "app.html": {
+    "mtime": 1793133878.8971052,
+    "seen": 1793136471.190474,
+    "ast_hash": "884f6e9adc352c3d4262bf297bc19642",
+    "semantic_hash": ""
+  },
+  "dashboard.html": {
+    "mtime": 1793133878.9002132,
+    "seen": 1793136471.190474,
+    "ast_hash": "8c2c11a30ed89dd83d31409495d54cdf",
+    "semantic_hash": ""
+  },
+  "data_raw/artistas_motim_brutos.txt": {
+    "mtime": 1793069052.8721714,
+    "seen": 1793136471.190474,
+    "ast_hash": "bfde18810b213614a8ba800561c047d5",
+    "semantic_hash": ""
+  },
+  "data_raw/pre-selecionados-n22.txt": {
+    "mtime": 1793068966.682484,
+    "seen": 1793136471.190474,
+    "ast_hash": "67076e2c1162245d8b54d07729b2a644",
+    "semantic_hash": ""
+  },
+  "data_raw/pre-selecionados-n23.txt": {
+    "mtime": 1793068977.4216506,
+    "seen": 1793136471.190474,
+    "ast_hash": "da796a20238af397915f3e8ee68293d8",
+    "semantic_hash": ""
+  },
+  "index.html": {
+    "mtime": 1793133878.8971052,
+    "seen": 1793136471.190474,
+    "ast_hash": "884f6e9adc352c3d4262bf297bc19642",
+    "semantic_hash": ""
+  },
+  "oquefazer.txt": {
+    "mtime": 1793064014.7423294,
+    "seen": 1793136471.190474,
+    "ast_hash": "6ad159930224c156b9800175b6375001",
+    "semantic_hash": ""
+  },
+  "reports/AUDITORIA_QUALIDADE.md": {
+    "mtime": 1793136309.2268114,
+    "seen": 1793136471.190474,
+    "ast_hash": "11e809eeb0fdec7f191d4b4d86d01599",
+    "semantic_hash": ""
+  },
+  "reports/RELATORIO_ITENS_EXPURGADOS_E_QUARENTENA.md": {
+    "mtime": 1793136378.5792263,
+    "seen": 1793136471.190474,
+    "ast_hash": "232f015f11e2a350e308aecb63ad4ccf",
+    "semantic_hash": ""
+  },
+  "DOSSIE_EXECUTIVO_ENTREGA.md": {
+    "mtime": 1793136959.980479,
+    "seen": 1793136991.6206663,
+    "ast_hash": "d47149588771a948f37a67693e2f959a",
+    "semantic_hash": ""
+  },
+  "reports/DOSSIE_EXECUTIVO_ENTREGA.md": {
+    "mtime": 1793136959.980479,
+    "seen": 1793136991.6206663,
+    "ast_hash": "d47149588771a948f37a67693e2f959a",
+    "semantic_hash": ""
+  }
+}

@@ -19,12 +19,11 @@ O projeto inclui:
 Todas as abas seguem rigorosamente as colunas de [`0. Planilha centralizadora.xlsx`](file:///C:/Users/alexk/Desktop/freela-edumi/0.%20Planilha%20centralizadora.xlsx):
 
 1. **`universidades`**: `nome_faculdade`, `nome_departamento`, `email`, `uf`  
-   - **Total Nacional Auditado:** **1.248 contatos** distribuídos nas **27 UFs** (`215 DF`, `172 GO` e `861` nos demais 25 estados), com **0 bounces** e **100% de domínios com DNS ativo**.
-   - **Recorte Marco 1 (Distrito Federal):** **215 contatos verificados** em [`csv_exports/01_universidades_DF_marco1.csv`](file:///C:/Users/alexk/Desktop/freela-edumi/csv_exports/01_universidades_DF_marco1.csv) (`UnB`: 89, `IFB Reitoria + 10 Campi`: 62, `ESCS + FEPECS`: 23, `ENAP + Fiocruz Brasília`: 2, e 15 instituições privadas/Sistema S: 39).
+   - **Total Nacional Auditado:** **604 contatos departamentais puros** (sendo 166 DF no topo), com **0 bounces**, **100% DNS MX ativo** e expurgo formal de 644 linhas (ouvidorias, reitorias, financeiro, comercial, teleatendimento e descrições narrativas).
 2. **`artistas`**: `nome`, `arroba`, `quantidade_seguidores`, `tipo`, `uf`  
-   - **12 artistas reais e ativos** da Feira Motim 2025/2026 com contagem exata de seguidores via `instaloader` (ex.: `@bebelbooks`, `@lote42`, `@acidentecosmico`, `@aniganzala`, `@xinelarts`...).
+   - **66 artistas reais e ativos** da Feira Motim DF com contagem exata de seguidores via `instaloader` (ex.: `@cartumante`, `@camisacritica`, `@batatinhafantasma`, `@brunayonashiro`, `@dessamore`, `@gurulino`...).
 3. **`influenciadores`**: `nome`, `arroba`, `quantidade_seguidores`, `tipo`, `uf`  
-   - **12 canais e influenciadores acadêmicos/estudantis reais** verificados em DF, GO e PE (ex.: `@unb_oficial`, `@dceunb`, `@ufg_oficial`, `@portodigital`, `@ufpe.oficial`...).
+   - **19 pessoas físicas (criadores de conteúdo)** reais verificadas em DF, GO e PE cobrindo lifestyle, educação, tecnologia, inovação, questões sociais e comédia crítica (ex.: `@maykongm`, `@recifarra`, `@ariadnysafira`, `@eldogomes`, `@tjfernandesoficial`, `@jacquesvanier`, `@camilapudim`...).
 4. **`midias`**: `nome`, `link`, `email`, `telefone`, `uf`, `obs`  
    - **219 contatos atômicos de imprensa** em **11 UFs** (células multi-email desmembradas individualmente e higienizadas).
 5. **`parceiros`**: `nome`, `link`, `email`, `telefone`, `uf`, `obs`  
