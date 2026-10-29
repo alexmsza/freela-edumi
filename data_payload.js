@@ -1,5 +1,5 @@
-// Gerado automaticamente por tools/exporter.py — Hash: d401eed814fd
-const MASTER_PAYLOAD_VERSION = "d401eed814fd";
+// Gerado automaticamente por tools/exporter.py — Hash: 61d050126269
+const MASTER_PAYLOAD_VERSION = "61d050126269";
 const MASTER_PAYLOAD = {
   "universidades": [
     {
@@ -4704,6 +4704,20 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
+      "nome": "Pedro Paulo",
+      "arroba": "@pedropaulo",
+      "quantidade_seguidores": "376342",
+      "tipo": "Música e Cultura Urbana DF",
+      "uf": "DF"
+    },
+    {
+      "nome": "Visite Brasília",
+      "arroba": "@visitebrasilia",
+      "quantidade_seguidores": "193985",
+      "tipo": "Turismo / Cultura Urbana e Lifestyle DF",
+      "uf": "DF"
+    },
+    {
       "nome": "Eldo Gomes",
       "arroba": "@eldogomes",
       "quantidade_seguidores": "147806",
@@ -4729,6 +4743,13 @@ const MASTER_PAYLOAD = {
       "arroba": "@dceunb",
       "quantidade_seguidores": "23544",
       "tipo": "Liderança Estudantil / Universidade de Brasília",
+      "uf": "DF"
+    },
+    {
+      "nome": "Brasília de Fato",
+      "arroba": "@brasiliadefato",
+      "quantidade_seguidores": "9724",
+      "tipo": "Jornalismo Independente / Questões Sociais DF",
       "uf": "DF"
     },
     {
@@ -4788,6 +4809,20 @@ const MASTER_PAYLOAD = {
       "uf": "PE"
     },
     {
+      "nome": "Recife Ordinário",
+      "arroba": "@recifeordinario",
+      "quantidade_seguidores": "2209278",
+      "tipo": "Cultura Urbana / Humor / Cotidiano Recife",
+      "uf": "PE"
+    },
+    {
+      "nome": "Vitor diCastro",
+      "arroba": "@vitordicastro",
+      "quantidade_seguidores": "1490897",
+      "tipo": "Humor / Crítica Social / Comportamento",
+      "uf": "PE"
+    },
+    {
       "nome": "Victor Goes",
       "arroba": "@victorgoes",
       "quantidade_seguidores": "974393",
@@ -4806,6 +4841,13 @@ const MASTER_PAYLOAD = {
       "arroba": "@joaopedro",
       "quantidade_seguidores": "381781",
       "tipo": "Tech / Startups e Juventude Recife",
+      "uf": "PE"
+    },
+    {
+      "nome": "Recife Mais",
+      "arroba": "@recifemais",
+      "quantidade_seguidores": "177809",
+      "tipo": "Guia Cultural / Rolês e Juventude Recife",
       "uf": "PE"
     },
     {

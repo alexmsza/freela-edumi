@@ -1,8 +1,8 @@
 {
   "data_payload.js": {
-    "mtime": 1793236704.6291635,
-    "seen": 1793236905.4201531,
-    "ast_hash": "51150b6e12e4c3d379f0a0964532ae15",
+    "mtime": 1793237885.7005098,
+    "seen": 1793237946.9549751,
+    "ast_hash": "d6d1cd215bebdf3fc23458b6c9de8dea",
     "semantic_hash": ""
   },
   "data_staged/provenance_legacy.json": {
@@ -25,9 +25,9 @@
     "semantic_hash": ""
   },
   "reports/audit_summary.json": {
-    "mtime": 1793236714.6119018,
-    "seen": 1793236905.4201531,
-    "ast_hash": "63bcc2b8b3d2a697dd381467e9134ed9",
+    "mtime": 1793237894.6955707,
+    "seen": 1793237946.9549751,
+    "ast_hash": "0f5587d97e6c22ba6d0993f66c264847",
     "semantic_hash": ""
   },
   "tools/__init__.py": {
@@ -116,9 +116,9 @@
     "semantic_hash": ""
   },
   "data_verified/social_verified.json": {
-    "mtime": 1793236651.1441095,
-    "seen": 1793236905.4201531,
-    "ast_hash": "72a45cc391b3a4228a05d1ca1dada28a",
+    "mtime": 1793237876.8961086,
+    "seen": 1793237946.9549751,
+    "ast_hash": "a610fad99a432814b9e81001ab707b99",
     "semantic_hash": ""
   },
   "scratch/create_national_seeds.py": {
@@ -194,9 +194,9 @@
     "semantic_hash": ""
   },
   "reports/AUDITORIA_QUALIDADE.md": {
-    "mtime": 1793236714.6129029,
-    "seen": 1793236905.4201531,
-    "ast_hash": "4ae57715d51966585d66d8210c02cb51",
+    "mtime": 1793237894.6965716,
+    "seen": 1793237946.9549751,
+    "ast_hash": "f3c617d088b4e3867842cbb433543516",
     "semantic_hash": ""
   },
   "reports/RELATORIO_ITENS_EXPURGADOS_E_QUARENTENA.md": {

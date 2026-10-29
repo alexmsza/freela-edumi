@@ -803,5 +803,59 @@
     "tipo": "Lifestyle / Beleza e Estética Recife",
     "uf": "PE",
     "source_url": "https://www.instagram.com/bellamlemos/"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Visite Brasília",
+    "arroba": "@visitebrasilia",
+    "quantidade_seguidores": 193985,
+    "tipo": "Turismo / Cultura Urbana e Lifestyle DF",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/visitebrasilia/"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Brasília de Fato",
+    "arroba": "@brasiliadefato",
+    "quantidade_seguidores": 9724,
+    "tipo": "Jornalismo Independente / Questões Sociais DF",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/brasiliadefato/"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Pedro Paulo",
+    "arroba": "@pedropaulo",
+    "quantidade_seguidores": 376342,
+    "tipo": "Música e Cultura Urbana DF",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/pedropaulo/"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Recife Ordinário",
+    "arroba": "@recifeordinario",
+    "quantidade_seguidores": 2209278,
+    "tipo": "Cultura Urbana / Humor / Cotidiano Recife",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/recifeordinario/"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Recife Mais",
+    "arroba": "@recifemais",
+    "quantidade_seguidores": 177809,
+    "tipo": "Guia Cultural / Rolês e Juventude Recife",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/recifemais/"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Vitor diCastro",
+    "arroba": "@vitordicastro",
+    "quantidade_seguidores": 1490897,
+    "tipo": "Humor / Crítica Social / Comportamento",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/vitordicastro/"
   }
 ]
