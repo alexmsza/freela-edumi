@@ -12,6 +12,6 @@
 | `01_universidades_DF_marco1.csv` | 159 | ✅ | 0 | 0 | 0 | 0 | 0 | `OK` |
 | `01_universidades.csv` | 905 | ✅ | 0 | 0 | 0 | 0 | 0 | `OK` |
 | `02_artistas.csv` | 99 | ✅ | 0 | 0 | 0 | 0 | 0 | `OK` |
-| `03_influenciadores.csv` | 86 | ✅ | 0 | 0 | 0 | 0 | 0 | `OK` |
+| `03_influenciadores.csv` | 118 | ✅ | 0 | 0 | 0 | 0 | 0 | `OK` |
 | `04_midias.csv` | 219 | ✅ | 0 | 0 | 0 | 0 | 0 | `OK` |
 | `05_parceiros.csv` | 568 | ✅ | 0 | 0 | 0 | 0 | 0 | `OK` |

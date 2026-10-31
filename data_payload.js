@@ -1,5 +1,5 @@
-// Gerado automaticamente por tools/exporter.py — Hash: 48b3395f54fe
-const MASTER_PAYLOAD_VERSION = "48b3395f54fe";
+// Gerado automaticamente por tools/exporter.py — Hash: 00d85be40a66
+const MASTER_PAYLOAD_VERSION = "00d85be40a66";
 const MASTER_PAYLOAD = {
   "universidades": [
     {
@@ -7042,10 +7042,52 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
+      "nome": "Mari Maria",
+      "arroba": "@marimaria",
+      "quantidade_seguidores": "20641067",
+      "tipo": "Beleza, Negócios e Lifestyle / Brasília",
+      "uf": "DF"
+    },
+    {
+      "nome": "Nathalia Valente",
+      "arroba": "@nathaliavalente",
+      "quantidade_seguidores": "14354007",
+      "tipo": "Criação de Conteúdo e Dança / Entorno DF",
+      "uf": "DF"
+    },
+    {
+      "nome": "Hungria Hip Hop",
+      "arroba": "@hungria_oficial",
+      "quantidade_seguidores": "13295782",
+      "tipo": "Música, Cultura Urbana e Juventude / Ceilândia DF",
+      "uf": "DF"
+    },
+    {
+      "nome": "Sarah Andrade",
+      "arroba": "@sarahandrade",
+      "quantidade_seguidores": "7316571",
+      "tipo": "Comportamento, Negócios e Entretenimento / Brasília",
+      "uf": "DF"
+    },
+    {
       "nome": "Letícia Gomes",
       "arroba": "@leticiafgomes",
       "quantidade_seguidores": "4424831",
       "tipo": "Maquiagem Artística e Cultura DF",
+      "uf": "DF"
+    },
+    {
+      "nome": "Erico Rocha",
+      "arroba": "@rochaerico",
+      "quantidade_seguidores": "3423468",
+      "tipo": "Empreendedorismo, Educação e Negócios Digitais / Brasília",
+      "uf": "DF"
+    },
+    {
+      "nome": "Gabi Prado",
+      "arroba": "@pradogabriella",
+      "quantidade_seguidores": "3030998",
+      "tipo": "Entretenimento, Podcast e Lifestyle / Brasília DF",
       "uf": "DF"
     },
     {
@@ -7056,6 +7098,27 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
+      "nome": "Rodolfo Abrantes",
+      "arroba": "@orodolfoabrantes",
+      "quantidade_seguidores": "1643734",
+      "tipo": "Música, Cultura e Reflexão / Brasília DF",
+      "uf": "DF"
+    },
+    {
+      "nome": "Natália Guimarães",
+      "arroba": "@nataliagoficial",
+      "quantidade_seguidores": "1532580",
+      "tipo": "Comunicação, Moda e Vida em Família / DF e GO",
+      "uf": "DF"
+    },
+    {
+      "nome": "Dinho Ouro Preto",
+      "arroba": "@dinhoouropreto",
+      "quantidade_seguidores": "1060502",
+      "tipo": "Música, Cultura Pop e Opinião / Brasília DF",
+      "uf": "DF"
+    },
+    {
       "nome": "Ana Clara Paim",
       "arroba": "@anaclarapaim",
       "quantidade_seguidores": "683344",
@@ -7063,10 +7126,31 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
+      "nome": "Duckjay",
+      "arroba": "@duckjayreal",
+      "quantidade_seguidores": "520134",
+      "tipo": "Hip Hop, Cultura Urbana e Juventude / Tribo DF",
+      "uf": "DF"
+    },
+    {
       "nome": "Pedro Paulo",
       "arroba": "@pedropaulo",
       "quantidade_seguidores": "376342",
       "tipo": "Música e Cultura Urbana DF",
+      "uf": "DF"
+    },
+    {
+      "nome": "Digão",
+      "arroba": "@digaoraimundos",
+      "quantidade_seguidores": "249494",
+      "tipo": "Música, Rock Nacional e Cotidiano / Brasília DF",
+      "uf": "DF"
+    },
+    {
+      "nome": "Alexandre Carlo",
+      "arroba": "@alexandrecarlo",
+      "quantidade_seguidores": "212634",
+      "tipo": "Música e Cultura Urbana / Natiruts BSB",
       "uf": "DF"
     },
     {
@@ -7105,10 +7189,24 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
+      "nome": "Ellen Oléria",
+      "arroba": "@ellenoleria",
+      "quantidade_seguidores": "118277",
+      "tipo": "Música, Arte e Representatividade / Brasília DF",
+      "uf": "DF"
+    },
+    {
       "nome": "Gabrielle Ximenes",
       "arroba": "@ximenesgab",
       "quantidade_seguidores": "100676",
       "tipo": "Moda e Lifestyle DF",
+      "uf": "DF"
+    },
+    {
+      "nome": "MC Jenny",
+      "arroba": "@mcjennyreal",
+      "quantidade_seguidores": "100478",
+      "tipo": "Música Urbana, Dança e Lifestyle / Brasília DF",
       "uf": "DF"
     },
     {
@@ -7196,101 +7294,52 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
-      "nome": "Letícia Muniz",
-      "arroba": "@leticiamuniz",
-      "quantidade_seguidores": "3055",
-      "tipo": "Autoestima e Moda Brasília",
-      "uf": "DF"
-    },
-    {
-      "nome": "Breno Lima",
-      "arroba": "@brenolima",
-      "quantidade_seguidores": "2123",
-      "tipo": "Música e Cultura Urbana DF",
-      "uf": "DF"
-    },
-    {
-      "nome": "Tati Martins",
-      "arroba": "@tatimartins",
-      "quantidade_seguidores": "1300",
-      "tipo": "Entretenimento e Cultura Pop DF",
-      "uf": "DF"
-    },
-    {
-      "nome": "Lucas Rocco",
-      "arroba": "@lucasrocco",
-      "quantidade_seguidores": "939",
-      "tipo": "Lifestyle e Esportes Brasília",
-      "uf": "DF"
-    },
-    {
-      "nome": "Marcos Costa",
-      "arroba": "@marcos.costa",
-      "quantidade_seguidores": "804",
-      "tipo": "Beleza e Estilo DF",
-      "uf": "DF"
-    },
-    {
-      "nome": "Igor Cordeiro",
-      "arroba": "@igorcordeiro",
-      "quantidade_seguidores": "785",
-      "tipo": "Comédia e Stand-up DF",
-      "uf": "DF"
-    },
-    {
-      "nome": "Cynthia Senek",
-      "arroba": "@cynthia.senek",
-      "quantidade_seguidores": "648",
-      "tipo": "Audiovisual e Arte DF",
-      "uf": "DF"
-    },
-    {
-      "nome": "Dani Martins",
-      "arroba": "@danimartins",
-      "quantidade_seguidores": "464",
-      "tipo": "Dicas e Gastronomia BSB",
-      "uf": "DF"
-    },
-    {
-      "nome": "Maria Clara Couto",
-      "arroba": "@mariaclarac",
-      "quantidade_seguidores": "413",
-      "tipo": "Lifestyle e Rotina Universitária DF",
-      "uf": "DF"
-    },
-    {
-      "nome": "Felipe Bessa",
-      "arroba": "@felipe_bessa",
-      "quantidade_seguidores": "302",
-      "tipo": "Lifestyle e Fotografia Brasília",
-      "uf": "DF"
-    },
-    {
-      "nome": "Maria Luiza Menezes",
-      "arroba": "@marialuizamenezes",
-      "quantidade_seguidores": "154",
-      "tipo": "Moda e Vida Universitária BSB",
-      "uf": "DF"
-    },
-    {
-      "nome": "Gabriela de Lourdes",
-      "arroba": "@gabrieladelourdes",
-      "quantidade_seguidores": "51",
-      "tipo": "Lifestyle e Cotidiano DF",
-      "uf": "DF"
-    },
-    {
-      "nome": "Marcelo Martins",
-      "arroba": "@marcelomartins",
-      "quantidade_seguidores": "4",
-      "tipo": "Entretenimento e Crítica DF",
-      "uf": "DF"
-    },
-    {
       "nome": "Virgínia Fonseca",
       "arroba": "@virginia",
       "quantidade_seguidores": "56891578",
       "tipo": "Lifestyle e Criação de Conteúdo Goiânia",
+      "uf": "GO"
+    },
+    {
+      "nome": "Gusttavo Lima",
+      "arroba": "@gusttavolima",
+      "quantidade_seguidores": "45174777",
+      "tipo": "Música Sertaneja e Negócios / Goiânia GO",
+      "uf": "GO"
+    },
+    {
+      "nome": "Zé Felipe",
+      "arroba": "@zefelipe",
+      "quantidade_seguidores": "34366220",
+      "tipo": "Música, Trends e Entretenimento / Goiânia GO",
+      "uf": "GO"
+    },
+    {
+      "nome": "Alok",
+      "arroba": "@alok",
+      "quantidade_seguidores": "28711739",
+      "tipo": "Música Eletrônica, Inovação e Cultura Pop / Goiânia GO",
+      "uf": "GO"
+    },
+    {
+      "nome": "Rafa Kalimann",
+      "arroba": "@rafakalimann",
+      "quantidade_seguidores": "21387801",
+      "tipo": "Criação de Conteúdo, Moda e Entretenimento / Goiás",
+      "uf": "GO"
+    },
+    {
+      "nome": "Lucas Lucco",
+      "arroba": "@lucaslucco",
+      "quantidade_seguidores": "16781831",
+      "tipo": "Música, Fitness e Empreendedorismo / Goiás",
+      "uf": "GO"
+    },
+    {
+      "nome": "Andressa Suita",
+      "arroba": "@andressasuita",
+      "quantidade_seguidores": "15339278",
+      "tipo": "Moda, Lifestyle e Maternidade / Goiânia GO",
       "uf": "GO"
     },
     {
@@ -7315,10 +7364,38 @@ const MASTER_PAYLOAD = {
       "uf": "GO"
     },
     {
+      "nome": "Munik Nunes",
+      "arroba": "@muniknunes",
+      "quantidade_seguidores": "10787122",
+      "tipo": "Lifestyle, Beleza e Empreendedorismo / Goiânia GO",
+      "uf": "GO"
+    },
+    {
+      "nome": "Hariany Almeida",
+      "arroba": "@hariany",
+      "quantidade_seguidores": "9953321",
+      "tipo": "Moda, Beleza e Reality / Senador Canedo GO",
+      "uf": "GO"
+    },
+    {
+      "nome": "Zezé Di Camargo",
+      "arroba": "@zezedicamargo",
+      "quantidade_seguidores": "9704371",
+      "tipo": "Música Sertaneja e Cultura Goiana / Goiânia GO",
+      "uf": "GO"
+    },
+    {
       "nome": "Felipe Araújo",
       "arroba": "@felipearaujocantor",
       "quantidade_seguidores": "8712117",
       "tipo": "Música e Entretenimento Goiânia",
+      "uf": "GO"
+    },
+    {
+      "nome": "Naiara Azevedo",
+      "arroba": "@naiaraazevedo",
+      "quantidade_seguidores": "8079406",
+      "tipo": "Música, Empoderamento e Entretenimento / Goiânia GO",
       "uf": "GO"
     },
     {
@@ -7329,10 +7406,38 @@ const MASTER_PAYLOAD = {
       "uf": "GO"
     },
     {
+      "nome": "Rodolffo Matthaus",
+      "arroba": "@irodolffo",
+      "quantidade_seguidores": "7390940",
+      "tipo": "Música, Estilo de Vida e Entretenimento / Goiás",
+      "uf": "GO"
+    },
+    {
+      "nome": "Lauana Prado",
+      "arroba": "@lauanaprado",
+      "quantidade_seguidores": "7281716",
+      "tipo": "Música Sertaneja e Festivais / Goiânia GO",
+      "uf": "GO"
+    },
+    {
       "nome": "Jacques Vanier",
       "arroba": "@jacquesvanier",
       "quantidade_seguidores": "6615415",
       "tipo": "Comédia Regional / Cultura Goiana",
+      "uf": "GO"
+    },
+    {
+      "nome": "Caio Afiune",
+      "arroba": "@afiune_caio",
+      "quantidade_seguidores": "6481427",
+      "tipo": "Humor, Agro e Família / Goiás",
+      "uf": "GO"
+    },
+    {
+      "nome": "Wanessa Camargo",
+      "arroba": "@wanessa",
+      "quantidade_seguidores": "4884928",
+      "tipo": "Música Pop, Moda e Entretenimento / Goiânia GO",
       "uf": "GO"
     },
     {
@@ -7343,10 +7448,38 @@ const MASTER_PAYLOAD = {
       "uf": "GO"
     },
     {
+      "nome": "Luciano Camargo",
+      "arroba": "@camargoluciano",
+      "quantidade_seguidores": "4636892",
+      "tipo": "Música e Estilo de Vida / Goiânia GO",
+      "uf": "GO"
+    },
+    {
+      "nome": "Graciele Lacerda",
+      "arroba": "@gracielelacerdaoficial",
+      "quantidade_seguidores": "4516088",
+      "tipo": "Lifestyle, Saúde e Bem-estar / Goiânia GO",
+      "uf": "GO"
+    },
+    {
+      "nome": "Ivy Moraes",
+      "arroba": "@ivymoraes",
+      "quantidade_seguidores": "4152486",
+      "tipo": "Moda, Beleza e Lifestyle / Goiânia GO",
+      "uf": "GO"
+    },
+    {
       "nome": "Jéssica Cardoso",
       "arroba": "@jessicacardoso",
       "quantidade_seguidores": "3929186",
       "tipo": "Maquiagem e Trends Criativas GO",
+      "uf": "GO"
+    },
+    {
+      "nome": "Thaís Braz",
+      "arroba": "@thaisbraz",
+      "quantidade_seguidores": "3411270",
+      "tipo": "Moda, Beleza e Reality / Luziânia GO",
       "uf": "GO"
     },
     {
@@ -7361,6 +7494,27 @@ const MASTER_PAYLOAD = {
       "arroba": "@israelnovaes",
       "quantidade_seguidores": "2250179",
       "tipo": "Música e Rotina Fitness Goiânia",
+      "uf": "GO"
+    },
+    {
+      "nome": "Nanna Chara",
+      "arroba": "@nannacharaofc",
+      "quantidade_seguidores": "1894203",
+      "tipo": "Moda, Lifestyle e Empreendedorismo / Goiânia GO",
+      "uf": "GO"
+    },
+    {
+      "nome": "Jéssica Beatriz Costa",
+      "arroba": "@jessicabeatrizcosta",
+      "quantidade_seguidores": "1705162",
+      "tipo": "Moda, Beleza e Estilo de Vida / Goiânia GO",
+      "uf": "GO"
+    },
+    {
+      "nome": "Marrone",
+      "arroba": "@marrone",
+      "quantidade_seguidores": "1204893",
+      "tipo": "Música Sertaneja e Tradição Goiana / Goiânia GO",
       "uf": "GO"
     },
     {
@@ -7382,6 +7536,13 @@ const MASTER_PAYLOAD = {
       "arroba": "@gabrielgava",
       "quantidade_seguidores": "1021335",
       "tipo": "Música e Cultura Goiana",
+      "uf": "GO"
+    },
+    {
+      "nome": "Layla Monteiro",
+      "arroba": "@laylamonteiro",
+      "quantidade_seguidores": "1011780",
+      "tipo": "Moda, Tendências e Luxo / Anápolis GO",
       "uf": "GO"
     },
     {
@@ -7434,41 +7595,6 @@ const MASTER_PAYLOAD = {
       "uf": "GO"
     },
     {
-      "nome": "Ana Paula Coutinho",
-      "arroba": "@anapaulacoutinho",
-      "quantidade_seguidores": "3245",
-      "tipo": "Moda e Tendências Goiânia",
-      "uf": "GO"
-    },
-    {
-      "nome": "Iana Haas",
-      "arroba": "@ianahaas",
-      "quantidade_seguidores": "2985",
-      "tipo": "Moda e Lifestyle Goiânia",
-      "uf": "GO"
-    },
-    {
-      "nome": "Júlia Paes",
-      "arroba": "@juliapaes",
-      "quantidade_seguidores": "1672",
-      "tipo": "Lifestyle e Bem-estar Goiás",
-      "uf": "GO"
-    },
-    {
-      "nome": "Zé Felipe",
-      "arroba": "@zefelipecantor",
-      "quantidade_seguidores": "193",
-      "tipo": "Música e Entretenimento Goiânia",
-      "uf": "GO"
-    },
-    {
-      "nome": "Marcos Túlio",
-      "arroba": "@marcos.tulio",
-      "quantidade_seguidores": "5",
-      "tipo": "Agro e Negócios Goiás",
-      "uf": "GO"
-    },
-    {
       "nome": "Álvaro",
       "arroba": "@alvxaro",
       "quantidade_seguidores": "18295963",
@@ -7490,6 +7616,34 @@ const MASTER_PAYLOAD = {
       "uf": "PE"
     },
     {
+      "nome": "Zé Vaqueiro",
+      "arroba": "@zevaqueiro",
+      "quantidade_seguidores": "13060430",
+      "tipo": "Música, Forró e Cultura Nordestina / Ouricuri e Recife PE",
+      "uf": "PE"
+    },
+    {
+      "nome": "Anderson Neiff",
+      "arroba": "@andersonneiff",
+      "quantidade_seguidores": "11947652",
+      "tipo": "Brega Funk, Dança e Juventude / Recife PE",
+      "uf": "PE"
+    },
+    {
+      "nome": "Mariely Santos",
+      "arroba": "@mariely",
+      "quantidade_seguidores": "11856662",
+      "tipo": "Humor, Lifestyle e Beleza / Recife PE",
+      "uf": "PE"
+    },
+    {
+      "nome": "Beca Barreto",
+      "arroba": "@becaa_barreto",
+      "quantidade_seguidores": "11801780",
+      "tipo": "Dança, Humor e Trends Criativas / Recife PE",
+      "uf": "PE"
+    },
+    {
       "nome": "Laura Brito",
       "arroba": "@laurabrito",
       "quantidade_seguidores": "6232732",
@@ -7504,10 +7658,52 @@ const MASTER_PAYLOAD = {
       "uf": "PE"
     },
     {
+      "nome": "Raphaela Santos",
+      "arroba": "@raphaafavorita",
+      "quantidade_seguidores": "2764295",
+      "tipo": "Música Brega e Cultura Popular / Recife PE",
+      "uf": "PE"
+    },
+    {
+      "nome": "Eslovênia Marques",
+      "arroba": "@eslomarques",
+      "quantidade_seguidores": "2730346",
+      "tipo": "Moda, Beleza e Reality / Caruaru e Recife PE",
+      "uf": "PE"
+    },
+    {
+      "nome": "Priscila Senna",
+      "arroba": "@priscilasennaoficial",
+      "quantidade_seguidores": "2630459",
+      "tipo": "Música, Brega e Cultura Popular / Recife PE",
+      "uf": "PE"
+    },
+    {
+      "nome": "Léo do Coque",
+      "arroba": "@leodocoque",
+      "quantidade_seguidores": "2595496",
+      "tipo": "Humor Regional e Cotidiano Popular / Recife PE",
+      "uf": "PE"
+    },
+    {
       "nome": "Talokudo",
       "arroba": "@talokudo",
       "quantidade_seguidores": "2408903",
       "tipo": "Comédia / Humor Regional / Personagens",
+      "uf": "PE"
+    },
+    {
+      "nome": "Tayara Andreza",
+      "arroba": "@tayaraandreza",
+      "quantidade_seguidores": "1908762",
+      "tipo": "Música Romântica e Cotidiano / Recife PE",
+      "uf": "PE"
+    },
+    {
+      "nome": "Alceu Valença",
+      "arroba": "@alceuvalenca",
+      "quantidade_seguidores": "1504417",
+      "tipo": "Música, Poesia e Tradição Pernambucana / Olinda PE",
       "uf": "PE"
     },
     {
@@ -7518,10 +7714,73 @@ const MASTER_PAYLOAD = {
       "uf": "PE"
     },
     {
+      "nome": "Larissa Tomásia",
+      "arroba": "@larissatomasia",
+      "quantidade_seguidores": "1476639",
+      "tipo": "Reality, Moda e Entretenimento / Limoeiro e Recife PE",
+      "uf": "PE"
+    },
+    {
+      "nome": "Dadá Boladão",
+      "arroba": "@dadaboladao",
+      "quantidade_seguidores": "1164843",
+      "tipo": "Música Urbana e Brega Funk / Recife PE",
+      "uf": "PE"
+    },
+    {
+      "nome": "Domitila Barros",
+      "arroba": "@domitila_barros",
+      "quantidade_seguidores": "1105568",
+      "tipo": "Sustentabilidade, Ativismo e Moda / Recife PE",
+      "uf": "PE"
+    },
+    {
+      "nome": "Duda Beat",
+      "arroba": "@dudabeat",
+      "quantidade_seguidores": "1037602",
+      "tipo": "Música Pop, Moda e Cultura Nordestina / Recife PE",
+      "uf": "PE"
+    },
+    {
       "nome": "Victor Goes",
       "arroba": "@victorgoes",
       "quantidade_seguidores": "974393",
       "tipo": "Humor Ácido / Crítica Cotidiana e Lifestyle",
+      "uf": "PE"
+    },
+    {
+      "nome": "Lenine",
+      "arroba": "@lenine",
+      "quantidade_seguidores": "863725",
+      "tipo": "Música Popular Brasileira e Poesia / Recife PE",
+      "uf": "PE"
+    },
+    {
+      "nome": "Sheldon Ferrer",
+      "arroba": "@sheldonsh1",
+      "quantidade_seguidores": "791101",
+      "tipo": "Música e Cultura de Periferia / Recife PE",
+      "uf": "PE"
+    },
+    {
+      "nome": "Murilo Gun",
+      "arroba": "@murilogun",
+      "quantidade_seguidores": "704412",
+      "tipo": "Criatividade, Educação e Futurismo / Recife PE",
+      "uf": "PE"
+    },
+    {
+      "nome": "Clarice Falcão",
+      "arroba": "@claricefalcao",
+      "quantidade_seguidores": "685699",
+      "tipo": "Audiovisual, Humor e Música / Recife PE",
+      "uf": "PE"
+    },
+    {
+      "nome": "Johnny Hooker",
+      "arroba": "@johnnyhooker",
+      "quantidade_seguidores": "536843",
+      "tipo": "Música, Arte e Diversidade / Recife PE",
       "uf": "PE"
     },
     {
@@ -7553,10 +7812,24 @@ const MASTER_PAYLOAD = {
       "uf": "PE"
     },
     {
+      "nome": "Otto",
+      "arroba": "@ottomatopeia",
+      "quantidade_seguidores": "209579",
+      "tipo": "Música, Arte e Poesia / Recife PE",
+      "uf": "PE"
+    },
+    {
       "nome": "Paulinho Faria",
       "arroba": "@paulinhofaria",
       "quantidade_seguidores": "197832",
       "tipo": "Humor e Desafios Recife",
+      "uf": "PE"
+    },
+    {
+      "nome": "Romero Ferro",
+      "arroba": "@romeroferro",
+      "quantidade_seguidores": "155324",
+      "tipo": "Música Pop Tropical e Cultura PE / Recife PE",
       "uf": "PE"
     },
     {
@@ -7574,66 +7847,17 @@ const MASTER_PAYLOAD = {
       "uf": "PE"
     },
     {
+      "nome": "Gabi da Pele Preta",
+      "arroba": "@gabidapelepreta",
+      "quantidade_seguidores": "17676",
+      "tipo": "Música, Cultura Popular e Vozes PE / Caruaru PE",
+      "uf": "PE"
+    },
+    {
       "nome": "Ariadny Safira",
       "arroba": "@ariadnysafira",
       "quantidade_seguidores": "9350",
       "tipo": "Lifestyle / Diversidade e Juventude Recife",
-      "uf": "PE"
-    },
-    {
-      "nome": "Bella Lemos",
-      "arroba": "@bellamlemos",
-      "quantidade_seguidores": "3058",
-      "tipo": "Lifestyle / Beleza e Estética Recife",
-      "uf": "PE"
-    },
-    {
-      "nome": "Duda Francisco",
-      "arroba": "@dudafrancisco",
-      "quantidade_seguidores": "2642",
-      "tipo": "Moda e Lifestyle Recife",
-      "uf": "PE"
-    },
-    {
-      "nome": "Clara Gadelha",
-      "arroba": "@claragadelha",
-      "quantidade_seguidores": "1304",
-      "tipo": "Beleza e Cotidiano Recife",
-      "uf": "PE"
-    },
-    {
-      "nome": "Carolina Salles",
-      "arroba": "@carolinasalles",
-      "quantidade_seguidores": "796",
-      "tipo": "Gastronomia e Dicas Recife",
-      "uf": "PE"
-    },
-    {
-      "nome": "Laura Moraes",
-      "arroba": "@lauramoraes",
-      "quantidade_seguidores": "752",
-      "tipo": "Moda e Lifestyle Recife",
-      "uf": "PE"
-    },
-    {
-      "nome": "Alanna Sales",
-      "arroba": "@alannasales",
-      "quantidade_seguidores": "66",
-      "tipo": "Lifestyle e Moda Recife",
-      "uf": "PE"
-    },
-    {
-      "nome": "Ana Clara Barbosa",
-      "arroba": "@anaclarabarbosa",
-      "quantidade_seguidores": "46",
-      "tipo": "Lifestyle e Juventude PE",
-      "uf": "PE"
-    },
-    {
-      "nome": "Mariely Santos",
-      "arroba": "@marielysantos",
-      "quantidade_seguidores": "26",
-      "tipo": "Humor e Lifestyle Recife",
       "uf": "PE"
     }
   ],

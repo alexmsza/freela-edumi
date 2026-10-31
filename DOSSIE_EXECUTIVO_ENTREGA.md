@@ -18,9 +18,9 @@ Todas as demandas contratuais e diretrizes de higienização da aba `LIMPEZAS` d
    - **Limpeza Departamental Estrita:** 100% livres de ouvidorias, reitorias, pró-reitorias, secretarias gerais, financeiro, comercial, teleatendimento ou centrais de suporte genéricas. Apenas departamentos, secretarias acadêmicas de cursos, direções de ensino e coordenações com DNS MX ativo e zero bounces.
    - Amapá (AP) coberto com 13 contatos departamentais da UNIFAP e IFAP.
 
-2. **Expansão de Influenciadores DF, GO e PE (86 Criadores Pessoas Físicas):**
-   - Atendendo estritamente à diretriz *"são pessoas físicas, ex: @recifarra, maykongm, ariadnysafira"*, a base foi expandida para **86 criadores pessoas físicas reais** validados via Instagram (Instaloader) com contagens de seguidores verificadas.
-   - Distribuição equilibrada nos 3 estados prioritários em humor, rotina universitária, cultura, educação e lifestyle.
+2. **Expansão e Qualificação de Influenciadores DF, GO e PE (118 Criadores Pessoas Físicas Reais):**
+   - Atendendo estritamente à diretriz *"são pessoas físicas, ex: @recifarra, maykongm, ariadnysafira"*, e após higienização completa eliminando contas de teste ou de baixo engajamento, a base foi consolidada em **118 criadores pessoas físicas relevantes e de grande alcance** validados via Instagram (Instaloader) com contagens de seguidores verificadas (média de 5,2 milhões de seguidores).
+   - Distribuição equilibrada nos 3 estados prioritários: **37 no DF**, **43 em GO** e **38 em PE** em humor, rotina universitária, cultura, moda, empreendedorismo e lifestyle.
 
 3. **Ampliação de Artistas da Feira Motim DF:**
    - Base consolidada em **99 artistas reais** da Feira Motim DF (@edicoesmotim), com métricas reais de seguidores e nicho autoral de atuação.
@@ -40,10 +40,10 @@ Todas as demandas contratuais e diretrizes de higienização da aba `LIMPEZAS` d
 |:---|---:|---:|:---:|:---:|
 | `universidades` | **905** | **905** | **Sim (100%)** | 27 UFs (Públicas, Privadas e Mistas) — 0 reitorias/ouvidorias |
 | `artistas` | **99** | **99** | **Sim (100%)** | 99 artistas Feira Motim DF com seguidores reais |
-| `influenciadores` | **86** | **86** | **Sim (100%)** | 100% Pessoas Físicas (DF, GO, PE) com seguidores reais |
+| `influenciadores` | **118** | **118** | **Sim (100%)** | 100% Pessoas Físicas (DF, GO, PE) com seguidores reais |
 | `midias` | **219** | **219** | **Sim (100%)** | Jornais, portais e emissoras higienizados |
 | `parceiros` | **568** | **568** | **Sim (100%)** | EJs e Federações com links e contatos reais |
-| **Total** | **1.877** | **1.877** | **Sim (100%)** | **Entrega Final Concluída** |
+| **Total** | **1.909** | **1.909** | **Sim (100%)** | **Entrega Final Concluída** |
 
 ---
 
@@ -53,7 +53,7 @@ Todas as demandas contratuais e diretrizes de higienização da aba `LIMPEZAS` d
 [27/10 - 23:00]  ──► MARCO 1: Universidades/IFs do DF ──► [CONCLUÍDO: 159 REGISTROS DEPARTAMENTAIS]
 [31/10 - 23:00]  ──► MARCO 2: Universidades/IFs do Brasil ─► [CONCLUÍDO NO PRAZO: 905 REGISTROS / 27 UFs]
 [04/11 - 23:00]  ──► MARCO 3: Artistas da Motim DF ────────► [CONCLUÍDO ANTECIPADO: 99 REGISTROS]
-[08/11 - 23:00]  ──► MARCO 4: Influenciadores DF/GO/PE ────► [CONCLUÍDO ANTECIPADO: 86 REGISTROS PF]
+[08/11 - 23:00]  ──► MARCO 4: Influenciadores DF/GO/PE ────► [CONCLUÍDO ANTECIPADO: 118 REGISTROS PF]
 ```
 
 ---
