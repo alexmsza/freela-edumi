@@ -70,6 +70,51 @@ class SocialWebIntelligence:
                     return uf
         return None
 
+    def audit_ghost_profile(
+        self,
+        followers: int,
+        following: int,
+        posts_count: int = 10,
+        is_private: bool = False
+    ) -> Dict[str, Any]:
+        """Audita se o perfil é autêntico ou se possui características de conta fantasma/bot.
+        
+        Regras Anti-Fantasma:
+        1. Conta privada não pode ser contratada para campanhas de influenciadores abertas.
+        2. Proporção Seguidores / Seguindo (Ratio): bots de follow-unfollow seguem milhares e têm poucos seguidores.
+        3. Faixa de Seguidores: micro e mid-influenciadores válidos devem estar na faixa de 9k a 100k (ou até 180k acessível).
+        4. Histórico de postagens: perfis com menos de 10 posts são descartados como inativos/fantasmas.
+        """
+        issues = []
+        is_ghost = False
+
+        if is_private:
+            issues.append("Conta Privada (inviável para veiculação de Reels/publis)")
+            is_ghost = True
+
+        if posts_count < 5:
+            issues.append(f"Pouquíssimas postagens ({posts_count} posts) - perfil inativo/fantasma")
+            is_ghost = True
+
+        ratio = (followers / following) if following > 0 else followers
+
+        if following > 4500 and ratio < 1.5:
+            issues.append(f"Suspeita de automação/bot: segue {following} pessoas para {followers} seguidores (ratio {ratio:.2f})")
+            is_ghost = True
+
+        if followers < 8000:
+            issues.append(f"Seguidores insuficientes ({followers} seg) para a régua micro-mid da Edumi (mínimo 9k)")
+            is_ghost = True
+
+        return {
+            "is_ghost": is_ghost,
+            "status": "REJEITADO" if is_ghost else "APROVADO",
+            "ratio_followers_following": round(ratio, 2),
+            "followers": followers,
+            "following": following,
+            "issues": issues
+        }
+
     def classify_influencer_tier(self, followers: int) -> str:
         """Classifica o perfil pela régua de relevância e acessibilidade para campanhas."""
         if followers < 9000:
