@@ -34,16 +34,16 @@ Todas as demandas contratuais e diretrizes de higienização da aba `LIMPEZAS` d
 
 ---
 
-## 2. Métricas Consolidadas da Planilha Centralizadora
+## 2. Métricas Consolidadas da Planilha Centralizadora (Revisão Pós-Feedback)
 
 | Aba | Google Sheets Oficial (Ao Vivo) | CSV / `.xlsx` Local | Paridade | Status de Qualidade |
 |:---|---:|---:|:---:|:---:|
-| `universidades` | **905** | **905** | **Sim (100%)** | 27 UFs (Públicas, Privadas e Mistas) — 0 reitorias/ouvidorias |
-| `artistas` | **99** | **99** | **Sim (100%)** | 99 artistas Feira Motim DF com seguidores reais |
-| `influenciadores` | **118** | **118** | **Sim (100%)** | 100% Pessoas Físicas (DF, GO, PE) com seguidores reais |
+| `universidades` | **905** | **905** | **Sim (100%)** | 27 UFs (Públicas, Privadas e Mistas) — 0 reitorias/ouvidorias (Aprovado) |
+| `artistas` | **285** | **285** | **Sim (100%)** | 285 artistas 100% do DF (Motim N20, N21, N22) — 0 de fora, 0 perfis quebrados |
+| `influenciadores` | **46** | **46** | **Sim (100%)** | Micro-mid influs (9k–100k) contactáveis DF, GO, PE — 0 megas inacessíveis |
 | `midias` | **219** | **219** | **Sim (100%)** | Jornais, portais e emissoras higienizados |
 | `parceiros` | **568** | **568** | **Sim (100%)** | EJs e Federações com links e contatos reais |
-| **Total** | **1.909** | **1.909** | **Sim (100%)** | **Entrega Final Concluída** |
+| **Total** | **2.023** | **2.023** | **Sim (100%)** | **Entrega Auditada e Sincronizada ao Vivo** |
 
 ---
 
