@@ -40,10 +40,10 @@ Todas as demandas contratuais e diretrizes de higienização da aba `LIMPEZAS` d
 |:---|---:|---:|:---:|:---:|
 | `universidades` | **905** | **905** | **Sim (100%)** | 27 UFs (Públicas, Privadas e Mistas) — 0 reitorias/ouvidorias (Aprovado) |
 | `artistas` | **285** | **285** | **Sim (100%)** | 285 artistas 100% do DF (Motim N20, N21, N22) — 0 de fora, 0 perfis quebrados |
-| `influenciadores` | **54** | **54** | **Sim (100%)** | Micro-mid influs (9k–100k) contactáveis DF (23), GO (16), PE (15) |
+| `influenciadores` | **56** | **56** | **Sim (100%)** | Micro-mid influs (9k–100k) contactáveis DF (25), GO (16), PE (15) |
 | `midias` | **219** | **219** | **Sim (100%)** | Jornais, portais e emissoras higienizados |
 | `parceiros` | **568** | **568** | **Sim (100%)** | EJs e Federações com links e contatos reais |
-| **Total** | **2.031** | **2.031** | **Sim (100%)** | **Entrega Auditada e Sincronizada ao Vivo** |
+| **Total** | **2.033** | **2.033** | **Sim (100%)** | **Entrega Auditada e Sincronizada ao Vivo** |
 
 ---
 
