@@ -1,18 +1,14 @@
 ﻿nome_faculdade,nome_departamento,email,uf
 Centro Universitário Euro-Americano (UNIEURO),Secretaria e Serviços Acadêmicos Online,servicosonline@grupoceuma.com.br,DF
 Centro Universitário IESB,Controladoria e Gestão Institucional,controladoria@iesb.br,DF
-Centro Universitário IESB,Departamento / Coordenação de Psicologia,atendimento@iesb.br,DF
 Centro Universitário IESB,Secretaria de Pós-Graduação e Pesquisa,secretariadaposgraduacao@iesb.br,DF
 Centro Universitário LS (UniLS),Coordenação Acadêmica e Pedagógica (Taguatinga),rosimeire.carmo@unils.edu.br,DF
 Centro Universitário Processus (UniProcessus),Editoria Científica e Pesquisa Acadêmica (Asa Sul / Águas Claras),revistaap@institutoprocessus.com.br,DF
-Centro Universitário Projeção (UniProjeção),Atendimento Acadêmico — Campus Taguatinga,uniprojecaocampus1@projecao.br,DF
 Centro Universitário Projeção (UniProjeção),Coordenação de Atendimento EAD — Asa Norte,atendimentoead@projecao.br,DF
 Centro Universitário Projeção (UniProjeção),Núcleo de Integração e Estágios — Taguatinga,integra.taguatinga@projecao.br,DF
 Centro Universitário Projeção (UniProjeção),Núcleo de Integração — Unidade Guará,integra.guara@projecao.br,DF
 Centro Universitário Projeção (UniProjeção),Núcleo de Integração — Unidade Sobradinho,integra.sobradinho@projecao.br,DF
-Centro Universitário de Brasília (CEUB / UniCEUB),Central de Atendimento e Relacionamento Acadêmico,central.atendimento@uniceub.br,DF
 Centro Universitário de Brasília (CEUB / UniCEUB),Coordenação de Estágios e Carreiras,estagio@uniceub.br,DF
-Centro Universitário do Distrito Federal (UDF),Central de Atendimento ao Aluno (CAA),central.aluno@udf.edu.br,DF
 Escola Nacional de Administração Pública (ENAP),Secretaria Escolar (Pós-Graduação e Mestrado),secretariaescolar@enap.gov.br,DF
 Escola Superior de Ciências da Saúde (ESCS),Coordenação do Curso de Enfermagem (CCE),cce@escs.edu.br,DF
 Escola Superior de Ciências da Saúde (ESCS),Coordenação do Curso de Medicina (CCM),ccm@escs.edu.br,DF
@@ -35,7 +31,6 @@ Faculdade de Tecnologia e Inovação Senac Distrito Federal,Coordenação de Pro
 Faculdade de Tecnologia e Inovação Senac Distrito Federal,Secretaria Acadêmica da Faculdade Senac-DF,secretariaacademica@df.senac.br,DF
 Fundação Getulio Vargas — Escola de Políticas Públicas e Governo (FGV EPPG Brasília),Secretaria da Escola de Políticas Públicas e Governo (EPPG),eppg@fgv.br,DF
 Fundação Getulio Vargas — Polo Brasília (FGV),Coordenação de Educação Executiva e Cursos em Brasília,cursos.bsb@fgv.br,DF
-Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS),Biblioteca Central FEPECS,biblioteca@fepecs.edu.br,DF
 Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS),Comitê de Ética em Pesquisa (CEP),cep@fepecs.edu.br,DF
 Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS),Coordenação de Planejamento e Gestão Estratégica (CPLAGE),cplage@fepecs.edu.br,DF
 Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS),Coordenação de Processos Seletivos (CPS),cps@fepecs.edu.br,DF
@@ -86,7 +81,6 @@ SENAI Distrito Federal — Sistema FIBRA,Secretaria Escolar — Unidade Gama,sec
 SENAI Distrito Federal — Sistema FIBRA,Secretaria Escolar — Unidade SIG Brasília,secretaria.sesisig@sistemafibra.org.br,DF
 SENAI Distrito Federal — Sistema FIBRA,Secretaria Escolar — Unidade Sobradinho,secretariasobradinho@sistemafibra.org.br,DF
 SENAI Distrito Federal — Sistema FIBRA,Secretaria Escolar — Unidade Taguatinga,secretaria.sesitaguatinga@sistemafibra.org.br,DF
-Universidade Católica de Brasília (UCB),Central de Atendimento ao Estudante — Graduação (ATENDE),atende@ucb.br,DF
 Universidade Católica de Brasília (UCB),Gestão Estratégica de Pesquisa e Extensão (PAGE),page@ucb.br,DF
 Universidade de Brasília (UnB),Apoio Acadêmico e Administrativo — Faculdade de Tecnologia (FT),adrianaflavia@unb.br,DF
 Universidade de Brasília (UnB),Centro Acadêmico de Engenharia Ambiental (CAEA/FT),engenhariambientalunb@gmail.com,DF
@@ -128,7 +122,6 @@ Universidade de Brasília (UnB),Departamento de Gestão de Políticas Públicas 
 Universidade de Brasília (UnB),Departamento de Jornalismo (JOR),jor@unb.br,DF
 Universidade de Brasília (UnB),Departamento de Sociologia (SOL),sol@unb.br,DF
 Universidade de Brasília (UnB),"Diretoria de Capacitação, Desenvolvimento e Educação (DCADE)",dgpdcade@unb.br,DF
-Universidade de Brasília (UnB),Diretório Central dos Estudantes (DCE),dceunb@gmail.com,DF
 Universidade de Brasília (UnB),Direção da Faculdade de Medicina (FM),fmd@unb.br,DF
 Universidade de Brasília (UnB),Direção do Centro de Estudos Avançados Multidisciplinares (CEAM),direcaoceam@unb.br,DF
 Universidade de Brasília (UnB),Faculdade UnB Ceilândia (FCE),fce@unb.br,DF
@@ -139,7 +132,6 @@ Universidade de Brasília (UnB),Faculdade de Ciência da Informação (FCI),fci@
 Universidade de Brasília (UnB),Faculdade de Ciências e Tecnologias em Engenharia — Campus Gama (FGA/FCTE),direcaofga@unb.br,DF
 Universidade de Brasília (UnB),Faculdade de Ciências e Tecnologias em Saúde — Campus Ceilândia (FCE/FCTS),fcesecadm@unb.br,DF
 Universidade de Brasília (UnB),Faculdade de Comunicação (FAC),fac@unb.br,DF
-Universidade de Brasília (UnB),Faculdade de Direito — Secretaria / Atendimento (FD),daces@unb.br,DF
 Universidade de Brasília (UnB),"Faculdade de Economia, Administração, Contabilidade e Gestão de Políticas Públicas (FACE)",face@unb.br,DF
 Universidade de Brasília (UnB),Faculdade de Educação (FE),fed@unb.br,DF
 Universidade de Brasília (UnB),Faculdade de Educação — Centro de Extensão e Relações Internacionais (FE),ceri@unb.br,DF
@@ -159,38 +151,101 @@ Universidade de Brasília (UnB),Instituto de Relações Internacionais (IREL),ir
 Universidade de Brasília (UnB),"Programa de Pós-Graduação em Desenvolvimento, Sociedade e Cooperação Internacional (PPGDSCI/CEAM)",ppgdsci@unb.br,DF
 Universidade de Brasília (UnB),Programa de Pós-Graduação em Direitos Humanos e Cidadania (PPGDH/CEAM),ppgdh@unb.br,DF
 Universidade de Brasília (UnB),Secretaria Administrativa — Faculdade de Tecnologia (FT),dasilva@unb.br,DF
+Universidade de Brasília (UnB),Secretaria da Faculdade de Direito (FD),daces@unb.br,DF
 Universidade de Brasília (UnB),Secretaria de Administração Acadêmica (SAA),saaatendimento@unb.br,DF
 Universidade de Brasília (UnB),Secretaria de Apoio Técnico — Faculdade de Tecnologia (FT),jacksonferreira@unb.br,DF
 Universidade de Brasília (UnB),Secretaria de Comunicação (SECOM),secom@unb.br,DF
 Universidade de Brasília (UnB),Secretaria do Departamento de Engenharia Elétrica (ENE),secene@ene.unb.br,DF
 Universidade de Brasília (UnB),Secretaria do Departamento de Matemática (MAT),secretaria@mat.unb.br,DF
 Universidade de Brasília (UnB),Serviço de Apoio Acadêmico e Pedagógico — Faculdade de Tecnologia (SAAP/FT),saapaft@unb.br,DF
+IFAC,Secretaria Acadêmica e Coordenação de Cursos,comunicacao@ifac.edu.br,AC
 IFAC,dscom,dscom.cocev@ifac.edu.br,AC
 UFAC,Departamento / Coordenação de Psicologia,psicologia.cfch@ufac.br,AC
+UFAC,Secretaria Acadêmica e Coordenação de Cursos,ccet.ufac@gmail.com,AC
+UFAC,Setor de Técnologia ou Matématica,coordenacaosi@ufac.br,AC
+Universidade Federal do Acre (UFAC),Centro de Ciências Jurídicas e Sociais Aplicadas (CCJSA),ccjsa@ufac.br,AC
+Universidade Federal do Acre (UFAC),"Centro de Educação, Letras e Artes (CELA)",cela@ufac.br,AC
+Universidade Federal do Acre (UFAC),Centro de Filosofia e Ciências Humanas (CFCH),cfch@ufac.br,AC
+Universidade Federal do Acre (UFAC),Núcleo de Registro e Controle Acadêmico (NURCA),nurca@ufac.br,AC
+IFAL,Secretaria Acadêmica e Coordenação de Cursos,comunicacao@ifal.edu.br,AL
 IFAL,prppi,prppi@ifal.edu.br,AL
 UFAL,Departamento / Coordenação de Psicologia,coordenacao.psi@ip.ufal.br,AL
 UFAL,Departamento / Coordenação de Psicologia,coordenacao.ppgpsi@ip.ufal.br,AL
 UFAL,Departamento / Coordenação de Psicologia,secretaria.psi@ip.ufal.br,AL
 UFAL,Engenharias,im.ufal@gmail.com,AL
+UFAL,Secretaria Acadêmica e Coordenação de Cursos,gr@reitoria.ufal.br,AL
+UFAL,Secretaria Acadêmica e Coordenação de Cursos,pi@reitoria.ufal.br,AL
+UFAL,Setor de Técnologia ou Matématica,secretaria@ic.ufal.br,AL
+IFAM,Secretaria Acadêmica e Coordenação de Cursos,gabinete_cmc@ifam.edu.br,AM
 IFAM,gabinete_cmdi,gabinete_cmdi@ifam.edu.br,AM
 UFAM,Departamento / Coordenação de Psicologia,cadmfapsi@ufam.edu.br,AM
 UFAM,Departamento / Coordenação de Psicologia,fapsi.ufam@gmail.com,AM
+UFAM,Secretaria Acadêmica e Coordenação de Cursos,ascom@ufam.edu.br,AM
+UFAM,Secretaria Acadêmica e Coordenação de Cursos,assessoriadaufam@gmail.com,AM
+UFAM,Secretaria Acadêmica e Coordenação de Cursos,repres_bsb@ufam.edu.br,AM
+UFAM,Setor de Técnologia ou Matématica,waltairmachado@ufam.edu.br,AM
+Instituto Federal do Amapá (IFAP),Coordenação de Registro Escolar e Acadêmico — Campus Macapá,seresc.macapa@ifap.edu.br,AP
+Instituto Federal do Amapá (IFAP),Diretoria de Ensino — Campus Macapá,dirgeral.macapa@ifap.edu.br,AP
+Instituto Federal do Amapá (IFAP),Diretoria de Ensino — Campus Santana,dirgeral.santana@ifap.edu.br,AP
+UNIFAP,Secretaria Acadêmica e Coordenação de Cursos,assessoria@unifap.br,AP
+UNIFAP,Setor de Técnologia ou Matématica,assessoria.nti@unifap.br,AP
+Universidade Federal do Amapá (UNIFAP),Coordenação do Curso de Administração,administracao@unifap.br,AP
+Universidade Federal do Amapá (UNIFAP),Coordenação do Curso de Arquitetura e Urbanismo,cau@unifap.br,AP
+Universidade Federal do Amapá (UNIFAP),Coordenação do Curso de Ciências Biológicas (Bacharelado),biologiabach@unifap.br,AP
+Universidade Federal do Amapá (UNIFAP),Coordenação do Curso de Ciências Biológicas (Licenciatura),biologialic@unifap.br,AP
+Universidade Federal do Amapá (UNIFAP),Coordenação do Curso de Direito,direito@unifap.br,AP
+Universidade Federal do Amapá (UNIFAP),Coordenação do Curso de Farmácia,farmacia@unifap.br,AP
+Universidade Federal do Amapá (UNIFAP),Coordenação do Curso de Jornalismo,jornalismo@unifap.br,AP
+Universidade Federal do Amapá (UNIFAP),Coordenação do Curso de Letras Francês,letrasfrances@unifap.br,AP
+Universidade Federal do Amapá (UNIFAP),Coordenação do Curso de Letras Inglês,letrasingles@unifap.br,AP
+Universidade Federal do Amapá (UNIFAP),Coordenação do Curso de Secretariado Executivo,secretariado@unifap.br,AP
+comunicacao (IFAP),Secretaria Acadêmica e Coordenação de Cursos,comunicacao@ifap.edu.br,AP
+IFBA,Secretaria Acadêmica e Coordenação de Cursos,prpgi@ifba.edu.br,BA
 IFBA,de,de.prpgi.rei@ifba.edu.br,BA
+IFBaiano,Secretaria Acadêmica e Coordenação de Cursos,gabinete@ifbaiano.edu.br,BA
 UEFS,Departamento / Coordenação de Psicologia,colpsico@uefs.br,BA
 UFBA,Departamento / Coordenação de Psicologia,psicologia@ufba.br,BA
+UFBA,Engenharias,engsecretaria@ufba.br,BA
 UFBA,STEM,ime@ufba.br,BA
+UFBA,Secretaria Acadêmica e Coordenação de Cursos,gabinete@ufba.br,BA
+UFOB,Engenharias,isaias.jesus@ufob.edu.br,BA
+UFOB,Engenharias,fabioossamu@ufob.edu.br,BA
+UFOB,Secretaria Acadêmica e Coordenação de Cursos,vanessa.kinoshita@ufob.edu.br,BA
+UFOB,Setor de Técnologia ou Matématica,davidd@ufob.edu.br,BA
+UFOB,Setor de Técnologia ou Matématica,beatriz.seidel@ufob.edu.br,BA
+UFOB,Setor de Técnologia ou Matématica,uiliam.souza@ufob.edu.br,BA
+UFOB,Setor de Técnologia ou Matématica,dilerval.silva@ufob.edu.br,BA
 UFRB,Departamento / Coordenação de Psicologia,ccs.ccgp@ufrb.edu.br,BA
+UFRB,Secretaria Acadêmica e Coordenação de Cursos,gabi@ufrb.edu.br,BA
+UFRB,Secretaria Acadêmica e Coordenação de Cursos,pei@reitoria.ufrb.edu.br,BA
+UFRB,Setor de Técnologia ou Matématica,liviamascarenhas@ufrb.edu.br,BA
+UFRB,Setor de Técnologia ou Matématica,cetec@ufrb.edu.br,BA
+UFRB,Setor de Técnologia ou Matématica,assessoria@cetec.ufrb.edu.br,BA
+UFSB,Engenharias,carvalhomav@ufsb.edu.br,BA
 UFSB,Gerson,gerson.lisboa@ufsb.edu.br,BA
+UFSB,Setor de Técnologia ou Matématica,li.mct.cpf@ufsb.edu.br,BA
+propes (IFBaiano),Secretaria Acadêmica e Coordenação de Cursos,propes@ifbaiano.edu.br,BA
+IFCE,Secretaria Acadêmica e Coordenação de Cursos,wally@ifce.edu.br,CE
 IFCE,dowglas,dowglas.lima@ifce.edu.br,CE
-Instituto Federal do Ceará (IFCE),"Instituto Federal de Educação, Ciência e Tecnologia do Estado do Ceará",reitoria@ifce.edu.br,CE
 UFC,Departamento / Coordenação de Psicologia,ericaatem@ufc.br,CE
 UFC,Secretaria Acadêmica / Registro Escolar,secretariaquixada@ufc.br,CE
+UFC,Setor de Técnologia ou Matématica,computacao@crateus.ufc.br,CE
+UFCA,Engenharias,matcomp.cct@ufca.edu.br,CE
+UFCA,Secretaria Acadêmica e Coordenação de Cursos,reitor@ufca.edu.br,CE
+UFCA,Setor de Técnologia ou Matématica,computacao.cct@ufca.edu.br,CE
 UNIFOR,Departamento / Coordenação de Psicologia,coordenacaopsicologia@unifor.br,CE
+UNILAB,Secretaria Acadêmica e Coordenação de Cursos,gabinete@unilab.edu.br,CE
+UNILAB,Setor de Técnologia ou Matématica,ocuni@unilab.edu.br,CE
+UNILAB,Setor de Técnologia ou Matématica,carlaoliveira@unilab.edu.br,CE
+IFES,Secretaria Acadêmica e Coordenação de Cursos,tads.al@ifes.edu.br,ES
 IFES,tads,tads.st@ifes.edu.br,ES
 UFES,Departamento / Coordenação de Psicologia,departamentopsicologia.ufes@gmail.com,ES
 UFES,Departamento / Coordenação de Psicologia,secretaria.dpsd@gmail.com,ES
 UFES,Departamento / Coordenação de Psicologia,psicologiainstitucional.ufes@gmail.com,ES
 UFES,Departamento / Coordenação de Psicologia,ppgp.ufes@gmail.com,ES
+UFES,Secretaria Acadêmica e Coordenação de Cursos,reitor@ufes.br,ES
+UFES,Setor de Técnologia ou Matématica,chefiadegabinete.reitoria@ufes.br,ES
+UFES,Setor de Técnologia ou Matématica,secretaria.ct@ufes.br,ES
 Centro Universitário Alfredo Nasser (UNIFAN),Unidade Aparecida de Goiânia,unifan@unifan.edu.br,GO
 Centro Universitário Alves Faria (UNIALFA),Unidade Goiânia,marciacorreia@unialfa.com.br,GO
 Centro Universitário Araguaia - UNIARAGUAIA,Unidade Goiânia,uniara@uniaraguaia.edu.br,GO
@@ -204,7 +259,6 @@ Escola do Futuro Raul Brandão,Unidade Goiânia,mineiros@efg.org.br,GO
 Escola do Futuro do Estado de Goiás em Artes Basileu França - EFGABF,Unidade Goiânia,secretariaacademica@basileufranca.com.br,GO
 Estácio de Sá - Goiás (FESGO),Rede nacional Estácio.,secretaria.goiania@estacio.br,GO
 Faculdade Assembleiana do Brasil (FAb / FASSEB),Unidade Goiânia,secretaria@fasseb.com.br,GO
-Faculdade Brasileira de Educação e Cultura (FABEC Brasil),Cursos técnicos e superiores.,comercial@fabec.edu.br,GO
 Faculdade Delta,Unidade Goiânia,leomar@faculdadedelta.edu.br,GO
 Faculdade Evangélica de Valparaíso - FACEV,Unidade Valparaíso de Goiás,diretoriainstitucional@facev.com.br,GO
 Faculdade Mauá Goiânia,Unidade Goiânia,allyne_309@hotmail.com,GO
@@ -212,18 +266,21 @@ Faculdade Nossa Senhora Aparecida,Unidade Luziânia,secretariafac@escolatecnican
 Faculdade de Mineiros (FAMP),Saúde e ciências humanas.,famp@famp.edu.br,GO
 Faculdade de Tecnologia SENAC Goiás,Foco em comércio e serviços.,faculdade@go.senac.br,GO
 Faculdade Ávila (FAC),Ensino superior privado.,secretaria@avila.edu.br,GO
+IFG,Secretaria Acadêmica e Coordenação de Cursos,dti@ifg.edu.br,GO
 IFG,proex,proex@ifg.edu.br,GO
+IFgoiano,Secretaria Acadêmica de Cursos,secretaria.proppi@ifgoiano.edu.br,GO
 INSTITUTO APHONSIANO DE ENSINO SUPERIOR - IAESUP,Unidade Trindade,email@aphonsiano.edu.br,GO
 Pontifícia Universidade Católica de Goiás (PUC Goiás),Unidade Goiânia,sg@pucgoias.edu.br,GO
+UFCAT,Secretaria Acadêmica e Coordenação de Cursos,roselma@ufg.br,GO
 UFG,Departamento / Coordenação de Psicologia,psicologiaufgcoordenacao@gmail.com,GO
 UFG,Engenharias,robertopiedade@gmail.com,GO
 UFG,Engenharias,maicororis@hotmail.com,GO
 UFG,STEM,denys.mesquita@ufg.br,GO
+UFG,Secretaria Acadêmica de Cursos,cii.secplan@ufg.br,GO
 UFJ,Secretaria Acadêmica / Registro Escolar,secretariaexecutiva.jatai@ufg.br,GO
 UNIRV,Departamento / Coordenação de Psicologia,simonemota@unirv.edu.br,GO
 Universidade Estadual de Goiás (UEG),Unidade Anápolis,reitor@ueg.br,GO
 Universidade Federal de Catalão (UFCAT),Unidade Catalão,roselma@ufcat.edu.br,GO
-Universidade Federal de Goiás (UFG),Unidade Goiânia,secretaria.reitoria@ufg.br,GO
 Universidade Federal de Goiás (UFG),Unidade Goiânia,dii.secplan@ufg.br,GO
 Universidade Federal de Goiás (UFG),Unidade Goiânia,proec@proec.ufg.br,GO
 Universidade Federal de Goiás (UFG),Unidade Goiânia,prograd@prograd.ufg.br,GO
@@ -233,12 +290,25 @@ Universidade Luterana do Brasil (ULBRA Itumbiara),Rede Luterana de Ensino.,secre
 Universidade Luterana do Brasil (ULBRA Itumbiara),Unidade Itumbiara,atendimento.itb@ulbra.br,GO
 Universidade Paulista (UNIP),Campus Flamboyant e eixos ead.,seccom.goiania@unip.br,GO
 Universidade Paulista (UNIP),Campus Flamboyant e eixos ead.,secretaria@unip.br,GO
-Universidade Paulista (UNIP),Campus Flamboyant e eixos ead.,atendimento@unip.br,GO
 Universidade de Rio Verde (UniRV),Unidade Rio Verde,prograd@unirv.edu.br,GO
 Universidade de Rio Verde (UniRV),Unidade Rio Verde,campusaparecida@unirv.edu.br,GO
 Universidade de Rio Verde (UniRV),Unidade Rio Verde,campusformosa@unirv.edu.br,GO
 Universidade de Rio Verde (UniRV),Unidade Rio Verde,campusluziania@unirv.edu.br,GO
+dgti (IFgoiano),Secretaria Acadêmica e Coordenação de Cursos,dgti@ifgoiano.edu.br,GO
+IFMA,Secretaria Acadêmica e Coordenação de Cursos,gabinete@ifma.edu.br,MA
 UFMA,Departamento / Coordenação de Psicologia,copsi.cch@ufma.br,MA
+UFMA,Engenharias,jose.marao@ufma.br,MA
+UFMA,Secretaria Acadêmica e Coordenação de Cursos,simara@deinf.ufma.br,MA
+UFMA,Setor de Técnologia ou Matématica,arlane.silva@ufma.br,MA
+Universidade Federal do Maranhão (UFMA),Coordenação do Curso de Artes Visuais,coordenacaoav@ufma.br,MA
+Universidade Federal do Maranhão (UFMA),Coordenação do Curso de Ciências Sociais,cccs.cch@ufma.br,MA
+Universidade Federal do Maranhão (UFMA),Coordenação do Curso de Direito (CCSO),ccdir.ccso@ufma.br,MA
+Universidade Federal do Maranhão (UFMA),Coordenação do Curso de Filosofia,ccfil@ufma.br,MA
+Universidade Federal do Maranhão (UFMA),Coordenação do Curso de História,cohis@ufma.br,MA
+Universidade Federal do Maranhão (UFMA),Coordenação do Curso de Letras,coler.cch@ufma.br,MA
+Universidade Federal do Maranhão (UFMA),Diretoria do Centro de Ciências Exatas e Tecnologia (CCET),ccet@ufma.br,MA
+Universidade Federal do Maranhão (UFMA),Diretoria do Centro de Ciências Humanas (CCH),dir.cch@ufma.br,MA
+ascom (IFMA),Secretaria Acadêmica e Coordenação de Cursos,ascom@ifma.edu.br,MA
 ASMEC,Secretaria Acadêmica / Registro Escolar,secretaria@asmec.br,MG
 CEFET-MG - Centro Federal de Educação Tecnológica de Minas Gerais,DDE,dde@cefetmg.br,MG
 CEFET-MG - Centro Federal de Educação Tecnológica de Minas Gerais,DEDC,dedc@cefetmg.br,MG
@@ -247,26 +317,30 @@ CEFET-MG - Centro Federal de Educação Tecnológica de Minas Gerais,DIRGRAD,dir
 CES CL,Centro de Ensino Superior de Conselheiro Lafaiete,ces@ces-cl.edu.br,MG
 CESEP,Secretaria Acadêmica / Registro Escolar,secretaria@fem.com.br,MG
 CNEC VARGINHA - Faculdade CNEC Varginha,Secretaria Acadêmica / Registro Escolar,1916.secretaria@cnec.br,MG
+Comunicação (IFMG),Secretaria Acadêmica e Coordenação de Cursos,comunicacao@ifmg.edu.br,MG
+Comunicação (UFLA),Secretaria Acadêmica e Coordenação de Cursos,comunicacao@ufla.br,MG
 FAC,Faculdade Arquidiocesana de Curvelo,diretoria@fac.br,MG
 FACIC,Faculdade de Ciências Humanas de Curvelo,diretoria@facic.br,MG
 FACTU,Faculdade de Ciências e Tecnologia de Unaí,factu@factu.br,MG
-FACTU,Faculdade de Ciências e Tecnologia de Unaí,faleconosco@factu.br,MG
 FADIVA,Secretaria Acadêmica / Registro Escolar,secretaria@fadiva.edu.br,MG
 FAGAMMON,Faculdade Presbiteriana Gammon,unigammon@gammon.br,MG
 "FAI - Centro de Ensino Superior em Gestão, Tecnologia e Educação",Secretaria Acadêmica / Registro Escolar,secretaria@fai-mg.br,MG
 FAPAM,Faculdade de Pará de Minas,fapam@fapam.edu.br,MG
 FAZU,Faculdades Associadas de Uberaba,fazu@fazu.br,MG
-FDSM,Faculdade de Direito do Sul de Minas,comercial@fdsm.edu.br,MG
 FDSM,Secretaria Acadêmica / Registro Escolar,secretaria@fdsm.edu.br,MG
 FESJ,Faculdades de Santos Dumont,contato@fsd.edu.br,MG
-FMS,Faculdade Machado Sobrinho,central@machadosobrinho.com.br,MG
 FUNCESI - Fundação Comunitária de Ensino Superior de Itabira,Secretaria Acadêmica / Registro Escolar,secretaria@funcesi.br,MG
 FUNORTE,Faculdades Integradas do Norte de Minas,contato@funorte.edu.br,MG
-FUNORTE,Faculdades Integradas do Norte de Minas,marketing@cscdf.com.br,MG
 FWB,Faculdade Wenceslau Braz,eewb@eewb.br,MG
+IF Sudeste MG - ACC,Secretaria Acadêmica e Coordenação de Cursos,acc.jf@ifsudestemg.edu.br,MG
+IF Sudeste MG - Barbacena,Secretaria Acadêmica e Coordenação de Cursos,comunicacao.barbacena@ifsudestemg.edu.br,MG
+IF Sudeste MG - Jornalismo,Secretaria Acadêmica e Coordenação de Cursos,jornalismo.sjdr@ifsudestemg.edu.br,MG
+IF Sudeste MG - Manhuacu,Secretaria Acadêmica e Coordenação de Cursos,comunicacao.manhuacu@ifsudestemg.edu.br,MG
+IF Sudeste MG - Santos Dumont,Secretaria Acadêmica e Coordenação de Cursos,comunicacao.santosdumont@ifsudestemg.edu.br,MG
 IFMG,Gabinete da Direção-Geral — Campus Sabara,gabinete.sabara@ifmg.edu.br,MG
 IFMG,PROEN,proen@ifmg.edu.br,MG
 IFMG,PROEX,proex@ifmg.edu.br,MG
+IFMG,Secretaria Acadêmica e Coordenação de Cursos,jornalismo@ifmg.edu.br,MG
 IFMG,gabinete,gabinete.pontenova@ifmg.edu.br,MG
 IFNMG,Almenara,comunicacao.almenara@ifnmg.edu.br,MG
 IFNMG,Aracuai,comunicacao.aracuai@ifnmg.edu.br,MG
@@ -279,12 +353,16 @@ IFNMG,Porteirinha,porteirinha@ifnmg.edu.br,MG
 IFNMG,Salinas,comunicacao.salinas@ifnmg.edu.br,MG
 IFNMG,Teofilo Ontoni,comunicacao.teofilootoni@ifnmg.edu.br,MG
 IFNMG,comunicacao,comunicacao.pirapora@ifnmg.edu.br,MG
+IFSUDESTEMG,Secretaria Acadêmica e Coordenação de Cursos,ascom@ifsudestemg.edu.br,MG
+IFSULDEMINAS,Secretaria Acadêmica e Coordenação de Cursos,douglas.nunes@ifsuldeminas.edu.br,MG
+IFSULDEMINAS - douglas,Secretaria Acadêmica e Coordenação de Cursos,douglas.braz@ifsuldeminas.edu.br,MG
 IFSuldeMinas - Instituto Federal do Sul de Minas Gerais,Gabinete da Direção-Geral — Campus Inconfidentes,gabinete.inconfidentes@ifsuldeminas.edu.br,MG
 IFSuldeMinas - Instituto Federal do Sul de Minas Gerais,Gabinete da Direção-Geral — Campus Machado,gabinete.machado@ifsuldeminas.edu.br,MG
 IFSuldeMinas - Instituto Federal do Sul de Minas Gerais,Gabinete da Direção-Geral — Campus Passos,gabinete.passos@ifsuldeminas.edu.br,MG
 IFSuldeMinas - Instituto Federal do Sul de Minas Gerais,Gabinete da Direção-Geral — Campus Pocos,gabinete.pocos@ifsuldeminas.edu.br,MG
 IFSuldeMinas - Instituto Federal do Sul de Minas Gerais,Gabinete da Direção-Geral — Campus Pousoalegre,gabinete.pousoalegre@ifsuldeminas.edu.br,MG
 IFSuldeMinas - Instituto Federal do Sul de Minas Gerais,Gabinete da Direção-Geral — Campus Trescoracoes,gabinete.trescoracoes@ifsuldeminas.edu.br,MG
+IFSuldeMinas - Muz,Secretaria Acadêmica e Coordenação de Cursos,gabinete@muz.ifsuldeminas.edu.br,MG
 IFTM,CTIC,ctic.ptu@iftm.edu.br,MG
 IFTM,Elétrica,eletrica.ptu@iftm.edu.br,MG
 IFTM,Instituto Federal do Triângulo Mineiro,extensao.ura@iftm.edu.br,MG
@@ -314,6 +392,10 @@ IFTM,Instituto Federal do Triângulo Mineiro,ads.upt@iftm.edu.br,MG
 IFTM,Instituto Federal do Triângulo Mineiro,compgrafica.upt@iftm.edu.br,MG
 IFTM,Instituto Federal do Triângulo Mineiro,msi.upt@iftm.edu.br,MG
 IFTM,Instituto Federal do Triângulo Mineiro,cgepe.upt@iftm.edu.br,MG
+IFTM,Secretaria Acadêmica e Coordenação de Cursos,reitora@iftm.edu.br,MG
+Mara,Secretaria Acadêmica e Coordenação de Cursos,mara.felippe@ifsudestemg.edu.br,MG
+PRACE (UFOP),Secretaria Acadêmica e Coordenação de Cursos,prace@ufop.edu.br,MG
+PROEC (UFLA),Secretaria Acadêmica e Coordenação de Cursos,proec@ufla.br,MG
 UEMG,Barbacena,secretaria.barbacena@uemg.br,MG
 UEMG,Campanha,secretaria.campanha@uemg.br,MG
 UEMG,Carangola,secretaria.carangola@uemg.br,MG
@@ -328,42 +410,80 @@ UEMG,Passos,secretaria.passos@uemg.br,MG
 UEMG,Patrícia,patricia.angelica@uemg.br,MG
 UEMG,Uba,secretaria.uba@uemg.br,MG
 UEMG,Universidade do Estado de Minas Gerais,secretaria.claudio@uemg.br,MG
+UFJF,Coordenação de Cursos e Colegiados,coordenacoes.ice@ufjf.edu.br,MG
 UFJF,Departamento / Coordenação de Psicologia,coord.psicologia@ufjf.edu.br,MG
 UFJF,Engenharias,emtc@lncc.br,MG
 UFJF,Engenharias,claudio.franco@ufjf.edu.br,MG
 UFJF,STEM Noturno,coord.computacaonoturno@ufjf.edu.br,MG
+UFJF,Secretaria Acadêmica e Coordenação de Cursos,piufjf.regulacao@gmail.com,MG
 UFLA,Rony,rony@ufla.br,MG
+UFLA,Secretaria Acadêmica e Coordenação de Cursos,dias@ufla.br,MG
+UFLA,Secretaria Acadêmica e Coordenação de Cursos,claudiapontello@hotmail.com,MG
 UFMG,Departamento / Coordenação de Psicologia,dpsi@fafich.ufmg.br,MG
+UFMG,Engenharias,colgradsis@adm.eng.ufmg.br,MG
 UFMG,"Faculdade de Economia, Administração, Contabilidade e Gestão de Políticas Públicas (FACE)",dir@face.ufmg.br,MG
 UFMG,ICEX,secgeral@icex.ufmg.br,MG
+UFMG,Secretaria Acadêmica e Coordenação de Cursos,reitor@ufmg.br,MG
+UFMG,Secretaria Acadêmica e Coordenação de Cursos,info@dai.ufmg.br,MG
+UFMG,Setor de Técnologia ou Matématica,colgradsi@icex.ufmg.br,MG
 UFMG,Universidade Federal de Minas Gerais,info@prograd.ufmg.br,MG
 UFOP,CEAD,secretaria.ensino.cead@ufop.edu.br,MG
 UFOP,Engenharias,dianaufu@yahoo.com.br,MG
 UFOP,Engenharias,col.ufop@gmail.com,MG
+UFOP,Engenharias,depro@depro.em.ufop.br,MG
 UFOP,ICEA,recepcao.icea@ufop.edu.br,MG
 UFOP,ICHS,diretoria.ichs@ufop.edu.br,MG
 UFOP,ICSA,diretoria.icsa@ufop.edu.br,MG
 UFOP,PROEX,proex@ufop.edu.br,MG
+UFOP,Setor de Técnologia ou Matématica,decom@iceb.ufop.br,MG
+UFOP,Setor de Técnologia ou Matématica,cocic@iceb.ufop.br,MG
 UFSJ,COCIC,cocic@ufsj.edu.br,MG
 UFSJ,DCECO,dceco@ufsj.edu.br,MG
 UFSJ,DCOMP,dcomp@ufsj.edu.br,MG
 UFSJ,DEMAT,demat@ufsj.edu.br,MG
 UFSJ,DTECH,dtech@ufsj.edu.br,MG
 UFSJ,Departamento / Coordenação de Psicologia,dpsic@ufsj.edu.br,MG
+UFSJ,Engenharias,coenp@ufsj.edu.br,MG
+UFSJ,Engenharias,coentel@ufsj.edu.br,MG
+UFSJ,Engenharias,secintcoord@ufsj.edu.br,MG
+UFSJ,Secretaria Acadêmica e Coordenação de Cursos,proen@ufsj.edu.br,MG
+UFSJ,Setor de Técnologia ou Matématica,comat@ufsj.edu.br,MG
 UFTM,Departamento / Coordenação de Psicologia,departamento.psicologia@uftm.edu.br,MG
+UFTM,Engenharias,alexsandro.solon@uftm.edu.br,MG
+UFTM,Engenharias,evaldo.silva@uftm.edu.br,MG
 UFTM,ICENE,sec.icene@uftm.edu.br,MG
 UFTM,ICTE,sec.icte@uftm.edu.br,MG
 UFTM,IELACHS,sec.ielachs@uftm.edu.br,MG
+UFTM,Secretaria Acadêmica e Coordenação de Cursos,gabinete@uftm.edu.br,MG
+UFTM,Setor de Técnologia ou Matématica,icte@uftm.edu.br,MG
+UFTM,Setor de Técnologia ou Matématica,adriana.inforzato@uftm.edu.br,MG
 UFU,Departamento / Coordenação de Psicologia,pgpsi@ipsi.ufu.br,MG
 UFU,Departamento de Administração (ADM),secadm@pontal.ufu.br,MG
 UFU,EPROD,coceprod@pontal.ufu.br,MG
+UFU,Engenharias,alexandre@ufu.br,MG
+UFU,Engenharias,aniel@ufu.br,MG
 UFU,FACES,dirfaces@pontal.ufu.br,MG
 UFU,FACIC,facic@ufu.br,MG
 UFU,FACOM,secretaria.facom@ufu.br,MG
 UFU,Maria,maria.vanda@ufu.br,MG
+UFU,Setor de Técnologia ou Matématica,alessandra@ufu.br,MG
+UFU,Setor de Técnologia ou Matématica,prof.asoares@ufu.br,MG
+UFU,Setor de Técnologia ou Matématica,santosardr@ufu.br,MG
 UFV,Departamento / Coordenação de Psicologia,avalente@ufv.br,MG
 UFV,Departamento de Audiovisuais e Publicidade (DAP),dap@ufv.br,MG
+UFV,Setor de Técnologia ou Matématica,noticiascaf@ufv.br,MG
+UFV,Setor de Técnologia ou Matématica,noticias@ufv.br,MG
+UFVJM,Secretaria Acadêmica e Coordenação de Cursos,pi@ufvjm.edu.br,MG
+UFVJM,Setor de Técnologia ou Matématica,citec@ufvjm.edu.br,MG
+UFVJM,Setor de Técnologia ou Matématica,nitec@ufvjm.edu.br,MG
+UNIFAL-MG,Engenharias,grad@unifal-mg.edu.br,MG
+UNIFAL-MG,Setor de Técnologia ou Matématica,luciene.goncalves@unifal-mg.edu.br,MG
+UNIFEI,Engenharias,edmarmo@unifei.edu.br,MG
 UNIFEI,Rodrigo,rodrigo@unifei.edu.br,MG
+UNIFEI,Secretaria Acadêmica e Coordenação de Cursos,pi@unifei.edu.br,MG
+UNIFEI,Secretaria Acadêmica e Coordenação de Cursos,imc@unifei.edu.br,MG
+UNIFEI,Setor de Técnologia ou Matématica,moreno@unifei.edu.br,MG
+UNIFEI,Setor de Técnologia ou Matématica,secretaria.iesti@unifei.edu.br,MG
 UNIFEI,Universidade Federal de Itajubá,cops@unifei.edu.br,MG
 UNIFENAS,Alfenas,alfenas@unifenas.br,MG
 UNIFENAS,Belo Horizonte,belohorizonte@unifenas.br,MG
@@ -373,55 +493,120 @@ UNIFENAS,Poço de Caldas,pocosdecaldas@unifenas.br,MG
 UNIFENAS,Universidade José do Rosário Vellano,centraldeatendimento@unifenas.br,MG
 UNIFENAS,Varginha,varginha@unifenas.br,MG
 UNIMONTES,Universidade Estadual de Montes Claros,falecom@unimontes.br,MG
+comunicacao (IFTM),Secretaria Acadêmica e Coordenação de Cursos,comunicacao@iftm.edu.br,MG
 IFMS,cotsi,cotsi.aq@ifms.edu.br,MS
 UFGD,Departamento / Coordenação de Psicologia,psicologia@ufgd.edu.br,MS
 UFGD,STEM,secaf.facet@ufgd.edu.br,MS
+UFGD,Secretaria Acadêmica e Coordenação de Cursos,gptem@ufgd.edu.br,MS
+UFGD,Secretaria Acadêmica e Coordenação de Cursos,gptemufgd@gmail.com,MS
 UFMS,Departamento / Coordenação de Psicologia,psico.fach@ufms.br,MS
+IFMT,Secretaria Acadêmica e Coordenação de Cursos,ascom@ifmt.edu.br,MT
 UFMT,CIGSI,cigsi@ufmt.br,MT
 UFMT,Departamento / Coordenação de Psicologia,secretariapsicologiaufmt@gmail.com,MT
 UFMT,STI,sti@ufmt.br,MT
+UFMT,Secretaria Acadêmica e Coordenação de Cursos,ufmt@ufmt.br,MT
 UFMT,Setor de Técnologia ou Matématica,ces@ufmt.br,MT
 UFR,Departamento / Coordenação de Psicologia,psicologia@ufr.edu.br,MT
 UFR,STEM,tic@ufr.edu.br,MT
+IFPA,Secretaria Acadêmica e Coordenação de Cursos,fisica.braganca@ifpa.edu.br,PA
 IFPA,andrea,andrea.ohashi@ifpa.edu.br,PA
+UFOPA,Setor de Técnologia ou Matématica,helaine.furtado@ufopa.edu.br,PA
+UFOPA,Setor de Técnologia ou Matématica,coord.bsi@ufopa.edu.br,PA
+UFOPA,Setor de Técnologia ou Matématica,coord.bsicori@ufopa.edu.br,PA
 UFPA,Departamento / Coordenação de Psicologia,coordpsi@ufpa.com,PA
+UFPA,Secretaria Acadêmica e Coordenação de Cursos,adalbery@ufpa.br,PA
+UFPA,Secretaria Acadêmica e Coordenação de Cursos,agcastro@ufpa.br,PA
+UFPA,Secretaria Acadêmica e Coordenação de Cursos,aldebaro@ufpa.br,PA
+UFPA,Setor de Técnologia ou Matématica,diego@ufpa.br,PA
+UFPA,Setor de Técnologia ou Matématica,fbarros@ufpa.br,PA
+UFRA,Secretaria Acadêmica e Coordenação de Cursos,aleksandra.silva@gmail.com,PA
 UNIFESSPA,Adam,adamdreyton@unifesspa.edu.br,PA
 UNIFESSPA,Engenharias,alinefarias@unifesspa.edu.br,PA
 UNIFESSPA,Engenharias,cindy.fernandes@unifesspa.edu.br,PA
 UNIFESSPA,Hugo,hugo@unifesspa.edu.br,PA
+UNIFESSPA,Secretaria Acadêmica e Coordenação de Cursos,alexvieira@unifesspa.edu.br,PA
+UNIFESSPA,Setor de Técnologia ou Matématica,faceel@unifesspa.edu.br,PA
+UNIFESSPA,Setor de Técnologia ou Matématica,leiasousa@unifesspa.edu.br,PA
+IFPB,Secretaria Acadêmica e Coordenação de Cursos,cads.cz@ifpb.edu.br,PB
 IFPB,ccads,ccads.monteiro@ifpb.edu.br,PB
 UFCG,Departamento / Coordenação de Psicologia,psicologia.ccbs@graduacao.ufcg.edu.br,PB
+UFCG,Secretaria Acadêmica e Coordenação de Cursos,reitor@ufcg.edu.br,PB
+UFCG,Setor de Técnologia ou Matématica,ceei@ceei.ufcg.edu.br,PB
+UFCG,Setor de Técnologia ou Matématica,diretor@ceei.ufcg.edu.br,PB
 UFPB,Departamento / Coordenação de Psicologia,cpsicologia@cchla.ufpb.br,PB
+UFPB,Engenharias,duca@ct.ufpb.br,PB
 UFPB,Secretaria Acadêmica / Registro Escolar,cra@prg.ufpb.br,PB
+UFPB,Secretaria Acadêmica e Coordenação de Cursos,pi@reitoria.ufpb.br,PB
 Graduação em Psicologia da UFPE,Departamento / Coordenação de Psicologia,coordpsi.ufpe@gmail.com,PE
+IFPE,Secretaria Acadêmica e Coordenação de Cursos,eventos@reitoria.ifpe.edu.br,PE
+IFSertãoPE,Secretaria Acadêmica e Coordenação de Cursos,ascom@ifsertao-pe.edu.br,PE
+IFSertãoPE - cap,Secretaria Acadêmica e Coordenação de Cursos,cap.reitoria@ifsertao-pe.edu.br,PE
+UFAPE,Setor de Técnologia ou Matématica,rodrigo.rocha@ufape.edu.br,PE
+UFAPE,Setor de Técnologia ou Matématica,daliton.silva@ufape.edu.br,PE
+UFAPE,Setor de Técnologia ou Matématica,nite@ufape.edu.br,PE
 UFPE,Departamento / Coordenação de Psicologia,secretariappgpsi@gmail.com,PE
 UFPE,Departamento / Coordenação de Psicologia,graduacao.psicologia@ufpe.br,PE
 UFPE,Departamento / Coordenação de Psicologia,depsi.cfch@ufpe.br,PE
 UFPE,Engenharias,coordenacaoepcaa@gmail.com,PE
 UFPE,Engenharias,segec.agreste@gmail.com,PE
+UFPE,Secretaria Acadêmica e Coordenação de Cursos,gabinete@ufpe.br,PE
+UFPE,Setor de Técnologia ou Matématica,secgrad@cin.ufpe.br,PE
+UFRPE,Engenharias,diretoria.deinfo@ufrpe.br,PE
+UFRPE,Setor de Técnologia ou Matématica,secretaria.dc@ufrpe.br,PE
 UNICAP,Departamento / Coordenação de Psicologia,ricardo.marques@unicap.br,PE
 UNIVASF,Departamento / Coordenação de Psicologia,cpsi@univasf.edu.br,PE
+UNIVASF,Engenharias,ccomp@univasf.edu.br,PE
+UNIVASF,Secretaria Acadêmica e Coordenação de Cursos,srca@univasf.edu.br,PE
+UNIVASF,Secretaria Acadêmica e Coordenação de Cursos,proen@univasf.edu.br,PE
+UNIVASF,Secretaria Acadêmica e Coordenação de Cursos,proen.pi@univasf.edu.br,PE
 UPE,Departamento / Coordenação de Psicologia,psicologia.multicampi@upe.br,PE
+ascom (IFPE),Secretaria Acadêmica e Coordenação de Cursos,ascom@reitoria.ifpe.edu.br,PE
 IFPI,cerimonial,cerimonial@ifpi.edu.br,PI
+Instituto Federal do Piauí (IFPI),Coordenação do Curso Superior em Geoprocessamento,coordenacao.geo@ifpi.edu.br,PI
+Instituto Federal do Piauí (IFPI),Coordenação dos Cursos Técnicos em Informática,cinf.catce@ifpi.edu.br,PI
+Instituto Federal do Piauí (IFPI),Diretoria de Ensino — Campus Teresina,dens.catce@ifpi.edu.br,PI
+UFDPar,Secretaria Acadêmica e Coordenação de Cursos,reitoriacmrv@ufpi.edu.br,PI
+UFPI,Secretaria Acadêmica e Coordenação de Cursos,scs@ufpi.edu.br,PI
+UFPI,Secretaria Acadêmica e Coordenação de Cursos,comunicacao@ufpi.edu.br,PI
+UFPI,Setor de Técnologia ou Matématica,laurindoneto@ufpi.edu.br,PI
+UFPI,Setor de Técnologia ou Matématica,candrebc@ufpi.edu.br,PI
+Universidade Federal do Piauí (UFPI),Coordenação do Curso de Agronomia (CCA),agronomia.cca@ufpi.edu.br,PI
+Universidade Federal do Piauí (UFPI),Diretoria do Centro de Ciências Humanas e Letras (CCHL),cchl@ufpi.edu.br,PI
+Universidade Federal do Piauí (UFPI),Diretoria do Centro de Ciências da Educação (CCE),diretoriacce@ufpi.edu.br,PI
+Universidade Federal do Piauí (UFPI),Diretoria do Centro de Ciências da Natureza (CCN),ccn_diretoria@ufpi.edu.br,PI
+IFPR,Secretaria Acadêmica e Coordenação de Cursos,es.paranavai@ifpr.edu.br,PR
 UEL,Departamento / Coordenação de Psicologia,coordestagiopsico@uel.br,PR
 UEL,Departamento / Coordenação de Psicologia,ndepsicologia@uel.br,PR
 UEM,Departamento / Coordenação de Psicologia,sec-dpi@uem.br,PR
 UFPR,Departamento / Coordenação de Psicologia,coorpsic@ufpr.br,PR
+UFPR,Diretoria de Graduação e Ensino,prograd@ufpr.br,PR
+UFPR,Secretaria Acadêmica e Coordenação de Cursos,exped@ufpr.br,PR
+UFPR,Secretaria Acadêmica e Coordenação de Cursos,proplan@ufpr.br,PR
+UFPR,Secretaria Acadêmica e Coordenação de Cursos,pesquisadorinstitucional@ufpr.br,PR
+UFPR,Secretaria Acadêmica e Coordenação de Cursos,cpa@ufpr.br,PR
+UFPR,Setor de Técnologia ou Matématica,inovacao@ufpr.br,PR
+UFPR,Setor de Técnologia ou Matématica,exatas@ufpr.br,PR
+UFPR,Setor de Técnologia ou Matématica,comunica.exatas@ufpr.br,PR
+UNILA,Secretaria Acadêmica e Coordenação de Cursos,reitoria.gabinete@unila.edu.br,PR
+UTFPR,Secretaria Acadêmica e Coordenação de Cursos,schiefler@utfpr.edu.br,PR
+UTFPR,Setor de Técnologia ou Matématica,coads-cp@utfpr.edu.br,PR
+UTFPR,Setor de Técnologia ou Matématica,cotel-ct@utfpr.edu.br,PR
+UTFPR,Setor de Técnologia ou Matématica,coads-pg@utfpr.edu.br,PR
 AEDB,Associação Educacional Dom Bosco,aedb@aedb.br,RJ
+CEFET,Secretaria Acadêmica e Coordenação de Cursos,direg@cefet-rj.br,RJ
 CPS,Departamento / Coordenação de Psicologia,pucg@vm.uff.br,RJ
 Coordenação do curso de graduação em psicologia de Volta Redonda,Departamento / Coordenação de Psicologia,vgs.vch@id.uff.br,RJ
+DESUP (Faetec),Secretaria Acadêmica e Coordenação de Cursos,direcao@desup.faetec.rj.gov.br,RJ
+DIF (Faetec),Secretaria Acadêmica e Coordenação de Cursos,dif@faetec.rj.gov.br,RJ
 ENCE,Escola Nacional de Ciências Estatísticas,ence@ibge.gov.br,RJ
 ENCE,Gustavo,gustavo.ferreira@ibge.gov.br,RJ
-ESPM-RJ,Central,centralinfo-rs@espm.br,RJ
 ESPM-RJ,EaD,relacionamentoead@espm.br,RJ
 ESPM-RJ,Escola Superior de Propaganda e Marketing,cursos@espm.br,RJ
 ESPM-RJ,Relacionamento,relacionamentojt@espm.br,RJ
-FACHA,Faculdades Integradas Hélio Alonso,atendimento@facha.edu.br,RJ
 FAMATH,Secretaria Acadêmica / Registro Escolar,secretaria@famath.com.br,RJ
 FGVRJ,Carreiras,nucleo.carreiras@fgv.br,RJ
 FGVRJ,Contato,contatofgvonline@fgv.br,RJ
 FGVRJ,Fundação Getúlio Vargas,cursos.rio@fgv.br,RJ
-FMC,Faculdade de Medicina de Campos,faleconosco@fmc.br,RJ
 IBMEC,Faculdades Ibmec,carreirasrj@ibmec.edu.br,RJ
 IBMR,IBMR Centro Universitário,ibmr@ibmr.br,RJ
 IFFluminense - Campus Bom Jesus do Itabapoana,Gabinete da Direção-Geral — Campus Bomjesus,gabinete.bomjesus@iff.edu.br,RJ
@@ -429,8 +614,16 @@ IFFluminense - Campus Campos Centro,Gabinete da Direção-Geral — Campus Campo
 IFFluminense - Campus Macaé,Gabinete da Direção-Geral — Campus Macae,gabinete.macae@iff.edu.br,RJ
 IFFluminense - Campus Maricá,Gabinete da Direção-Geral — Campus Marica,gabinete.marica@iff.edu.br,RJ
 IFFluminense - Campus Quissamã,Gabinete da Direção-Geral — Campus Quissama,gabinete.quissama@iff.edu.br,RJ
+IFFluminense Cabo Frio,Coordenação de Cursos e Colegiados,coordhosp.cabofrio@iff.edu.br,RJ
+IFFluminense Cambuci,Secretaria Acadêmica e Coordenação de Cursos,leilao.cambuci@iff.edu.br,RJ
+IFFluminense Guarus,Secretaria Acadêmica e Coordenação de Cursos,campusguarus@iff.edu.br,RJ
+IFFluminense Itapurena,Secretaria Acadêmica e Coordenação de Cursos,ascom.itaperuna@iff.edu.br,RJ
+IFFluminense SJB,Secretaria Acadêmica e Coordenação de Cursos,campus.sjb@iff.edu.br,RJ
 IFRJ,PROEX,proex@ifrj.edu.br,RJ
+IFRJ,Secretaria Acadêmica e Coordenação de Cursos,dga@ifrj.edu.br,RJ
 MACK-RIO,Mackenzie Rio,fpmr@mackenzie.br,RJ
+PROEN (IFRJ),Secretaria Acadêmica e Coordenação de Cursos,proen@ifrj.edu.br,RJ
+PUC,Secretaria Acadêmica e Coordenação de Cursos,webrdc@puc-rio.br,RJ
 PUC-RIO - Pontifícia Universidade Católica do Rio de Janeiro,Comunica,imprensa.comunicar@puc-rio.br,RJ
 PUCRIO,Departamento / Coordenação de Psicologia,psidir@puc-rio.br,RJ
 PUCRIO,Departamento / Coordenação de Psicologia,psigra@puc-rio.br,RJ
@@ -444,6 +637,7 @@ UERJ,Comuns,comuns@uerj.br,RJ
 UERJ,DEPEXT,sr3depext@gmail.com,RJ
 UERJ,FCBS,fcbs@uerj.br,RJ
 UERJ,FCEE,fcee@uerj.br,RJ
+UEZO,Diretoria de Graduação e Ensino,prograd@uezo.rj.gov.br,RJ
 UFF,Comunica,setordecomunicacao@gmail.com,RJ
 UFF,Departamento / Coordenação de Psicologia,departamentodepsicologia.ips@id.uff.br,RJ
 UFF,Estatística,coord.estatistica.ime@id.uff.br,RJ
@@ -457,6 +651,7 @@ UFF,SGC,sgc.est@id.uff.br,RJ
 UFF,SGE,sge.esc@id.uff.br,RJ
 UFF,Secretaria IC,secretaria@ic.uff.br,RJ
 UFF,Secretaria IME,secretaria.ime@id.uff.br,RJ
+UFF,Setor de Técnologia ou Matématica,got.proex@id.uff.br,RJ
 UFF,TGI,tgi.tic@id.uff.br,RJ
 UFF,TSC,sec_tsc@ic.uff.br,RJ
 UFF,VCH,vch.ret@id.uff.br,RJ
@@ -470,39 +665,91 @@ UFRJ,Departamento / Coordenação de Psicologia,gradip@psicologia.ufrj.br,RJ
 UFRJ,Departamento / Coordenação de Psicologia,graduacao@psicologia.ufrj.br,RJ
 UFRJ,Departamento / Coordenação de Psicologia,lilian@psicologia.ufrj.br,RJ
 UFRJ,Departamento / Coordenação de Psicologia,secretariapos@psicologia.ufrj.br,RJ
+UFRJ,Engenharias,decano@ct.ufrj.br,RJ
 UFRJ,IC,direcao@ic.ufrj.br,RJ
 UFRJ,IM,diretor@im.ufrj.br,RJ
 UFRJ,NCE,direcao@nce.ufrj.br,RJ
+UFRJ,Secretaria Acadêmica e Coordenação de Cursos,vicereitoria@reitoria.ufrj.br,RJ
+UFRJ,Setor de Técnologia ou Matématica,parque@parque.ufrj.br,RJ
+UFRJ,Setor de Técnologia ou Matématica,superintendencia@tic.ufrj.br,RJ
 UFRJ,Universidade Federal do Rio de Janeiro,diretoria@ie.ufrj.br,RJ
 UFRJ,Universidade Federal do Rio de Janeiro,diretor@poli.ufrj.br,RJ
 UFRJ,Universidade Federal do Rio de Janeiro,direcao@ipoli.macae.ufrj.br,RJ
 UFRRJ,Departamento / Coordenação de Psicologia,coordpsicologiaufrrj@gmail.com,RJ
+UFRRJ,Secretaria Acadêmica e Coordenação de Cursos,gabinete@ufrrj.br,RJ
 UFRRJ,Setor de Técnologia ou Matématica,de.ufrrj@gmail.com,RJ
+UFRRJ,Setor de Técnologia ou Matématica,santana@ufrrj.br,RJ
 UNIRIO,Engenharias,eep@uniriotec.br,RJ
 UNIRIO,STEM,escola.matematica@uniriotec.br,RJ
+UNIRIO,Secretaria Acadêmica e Coordenação de Cursos,reitor@unirio.br,RJ
+UNIRIO,Secretaria Acadêmica e Coordenação de Cursos,pi@unirio.br,RJ
 UNIRIO,Setor de Técnologia ou Matématica,eia@uniriotec.br,RJ
 USU,Universidade Santa Úrsula,usu@usu.br,RJ
+proppi (IFRJ),Secretaria Acadêmica e Coordenação de Cursos,proppi@ifrj.edu.br,RJ
+IFRN,Secretaria Acadêmica e Coordenação de Cursos,joao.costa@ifrn.edu.br,RN
 IFRN,abrahao,abrahao.lopes@ifrn.edu.br,RN
+UFERSA,Engenharias,thomas.goncalo@ufersa.edu.br,RN
+UFERSA,Engenharias,engproducao@ufersa.edu.br,RN
+UFERSA,Secretaria Acadêmica e Coordenação de Cursos,cienciadacomputacao@ufersa.edu.br,RN
+UFERSA,Secretaria Acadêmica e Coordenação de Cursos,leonardoramalho@ufersa.edu.br,RN
+UFERSA,Setor de Técnologia ou Matématica,bsi.angicos@ufersa.edu.br,RN
 UFRN,Departamento / Coordenação de Psicologia,regina@cchla.ufrn.br,RN
+UFRN,Engenharias,coordenacao.engcomp@dca.ufrn.br,RN
+UFRN,Secretaria Acadêmica e Coordenação de Cursos,bct@ect.ufrn.br,RN
+UFRN,Setor de Técnologia ou Matématica,cccc@dimap.ufrn.br,RN
+Instituto Federal de Rondônia (IFRO),Coordenação do Curso Técnico em Administração — Campus Zona Norte,cctadm.pvhzonanorte@ifro.edu.br,RO
+Instituto Federal de Rondônia (IFRO),Coordenação do Curso de Licenciatura em Física — Campus Calama,ccfl.portovelhocalama@ifro.edu.br,RO
+Instituto Federal de Rondônia (IFRO),Departamento de Apoio ao Ensino — Campus Porto Velho Calama,dape.portovelhocalama@ifro.edu.br,RO
+Instituto Federal de Rondônia (IFRO),Direção de Ensino — Campus Porto Velho Calama,de.portovelhocalama@ifro.edu.br,RO
 UNIR,Departamento / Coordenação de Psicologia,depsi@unir.br,RO
+UNIR,Engenharias,nt@unir.br,RO
+UNIR,Setor de Técnologia ou Matématica,prograd@unir.br,RO
+ascom (IFRO),Secretaria Acadêmica e Coordenação de Cursos,ascom@ifro.edu.br,RO
+IFRR,Coordenação de Cursos e Colegiados,coordenacaotads@ifrr.edu.br,RR
 IFRR,cmat,cmat.cbv@ifrr.edu.br,RR
+Instituto Federal de Roraima (IFRR),Coordenação do Curso Técnico em Administração,cctadm.cbvzo@ifrr.edu.br,RR
+Instituto Federal de Roraima (IFRR),Coordenação do Curso de Tecnologia em Design Gráfico,ccdg.cbvzo@ifrr.edu.br,RR
+Instituto Federal de Roraima (IFRR),Departamento de Apoio Pedagógico e Desenvolvimento Curricular,dape@ifrr.edu.br,RR
+Instituto Federal de Roraima (IFRR),Departamento de Ensino de Graduação — Campus Boa Vista,deg.cbv@ifrr.edu.br,RR
+Instituto Federal de Roraima (IFRR),Departamento de Ensino — Campus Boa Vista Zona Oeste,den.cbvzo@ifrr.edu.br,RR
+UFRR,Secretaria Acadêmica e Coordenação de Cursos,pesquisainstitucional@ufrr.br,RR
 UFRR,Setor de Técnologia ou Matématica,edleilasoares@gmail.com,RR
+UFRR,Setor de Técnologia ou Matématica,delfa.zuasnabar@ufrr.br,RR
 FURG,Departamento / Coordenação de Psicologia,ichi@furg.br,RS
+FURG,Engenharias,ccengcom@furg.br,RS
+FURG,Setor de Técnologia ou Matématica,cienciasexatas@furg.br,RS
+FURG,Setor de Técnologia ou Matématica,imef@furg.br,RS
+FURG,Setor de Técnologia ou Matématica,ccmatematicaaplicada@furg.br,RS
+IFFarroupilha,Secretaria Acadêmica e Coordenação de Cursos,sistemasdeinformacao.sb@iffarroupilha.edu.br,RS
+IFFarroupilha - cads,Secretaria Acadêmica e Coordenação de Cursos,cads.al@iffarroupilha.edu.br,RS
+IFSUL,Secretaria Acadêmica e Coordenação de Cursos,ccs@ifsul.edu.br,RS
 IFSUL,dti,if-dti@ifsul.edu.br,RS
 Instituto Federal do Rio Grande do Sul (IFRS),"Assessoria de Ações Afirmativas, Inclusivas e de Diversidade",acoes.inclusivas@ifrs.edu.br,RS
 UFCSPA,Departamento / Coordenação de Psicologia,psicologia@ufcspa.edu.br,RS
 UFPEL,Departamento / Coordenação de Psicologia,psicologia.ufpel@gmail.com,RS
 UFPel,Engenharias,engenheiro.ceng@gmail.com,RS
 UFPel,Engenharias,direcao.ceng.ufpel@gmail.com,RS
+UFPel,Engenharias,bruno.vieira@ufpel.edu.br,RS
 UFPel - STEM,Setor de Técnologia ou Matématica,chefe.nucleoadm.ceng@gmail.com,RS
 UFRGS,Departamento / Coordenação de Psicologia,gradpsi@ufrgs.br,RS
+UFRGS,Engenharias,comgrad@producao.ufrgs.br,RS
+UFRGS,Secretaria Acadêmica e Coordenação de Cursos,reitor@ufrgs.br,RS
+UFRGS,Secretaria Acadêmica e Coordenação de Cursos,regulacao@sai.ufrgs.br,RS
+UFRGS,Setor de Técnologia ou Matématica,cgcon@ufrgs.br,RS
 UFSM,Departamento / Coordenação de Psicologia,dep.psicologia@ufsm.br,RS
 UFSM,Departamento / Coordenação de Psicologia,ppgp@ufsm.br,RS
+UFSM,Secretaria Acadêmica e Coordenação de Cursos,gabinetereitor@ufsm.br,RS
 UFSM,Setor de Técnologia ou Matématica,ccne13@gmail.com,RS
+UFSM,Setor de Técnologia ou Matématica,ctufsm@ufsm.br,RS
 UNIPAMPA,STEM,narosa.aluno@unipampa.edu.br,RS
+UNIPAMPA,Setor de Técnologia ou Matématica,anarosa.aluno@unipampa.edu.br,RS
+UNIPAMPA,Setor de Técnologia ou Matématica,aflorenzon@unipampa.edu.br,RS
 UNISINOS,Departamento / Coordenação de Psicologia,beth@unisinos.br,RS
+comunicacao (IFRS),Secretaria Acadêmica e Coordenação de Cursos,comunicacao@alvorada.ifrs.edu.br,RS
 unisinos,Departamento / Coordenação de Psicologia,vivianml@unisinos.br,RS
 IFC,Rosiane,rosiane.lima@ifc.edu.br,SC
+IFC,Secretaria Acadêmica e Coordenação de Cursos,thomas.muller@ifc.edu.br,SC
+IFSC,Secretaria Acadêmica e Coordenação de Cursos,sistemas.tecnol.gas@ifsc.edu.br,SC
 IFSC,computacao,computacao.grad.lgs@ifsc.edu.br,SC
 Instituto Federal de Santa Catarina (IFSC),Câmpus Araranguá,assessoria.ararangua@ifsc.edu.br,SC
 Instituto Federal de Santa Catarina (IFSC),Câmpus Avançado São Lourenço do Oeste,assessoria.slo@ifsc.edu.br,SC
@@ -526,48 +773,88 @@ Instituto Federal de Santa Catarina (IFSC),Câmpus São Miguel do Oeste,assessor
 Instituto Federal de Santa Catarina (IFSC),Câmpus Tubarão,gabinete.tub@ifsc.edu.br,SC
 Instituto Federal de Santa Catarina (IFSC),Câmpus Urupema,assessoria.urupema@ifsc.edu.br,SC
 Instituto Federal de Santa Catarina (IFSC),Câmpus Xanxerê,assessoria.xanxere@ifsc.edu.br,SC
+UFFS,Secretaria Acadêmica e Coordenação de Cursos,recktenvald@uffs.edu.br,SC
+UFFS,Setor de Técnologia ou Matématica,agiitec@uffs.edu.br,SC
+UFFS,Setor de Técnologia ou Matématica,assitec@uffs.edu.br,SC
 UFSC,Departamento / Coordenação de Psicologia,depto.psicologia@contato.ufsc.br,SC
 UFSC,Departamento / Coordenação de Psicologia,curso.psicologia@contato.ufsc.br,SC
 UFSC,Departamento / Coordenação de Psicologia,sapsi@contato.ufsc.br,SC
+UFSC,Secretaria Acadêmica e Coordenação de Cursos,gr@contato.ufsc.br,SC
 UNIVALI,Departamento / Coordenação de Psicologia,psicologia.ccs@univali.br,SC
 pós-graduação de psicologia da UFSC,Departamento / Coordenação de Psicologia,ppgpsi@contato.ufsc.br,SC
 IFS,Secretaria Acadêmica / Registro Escolar,ricardoacrabelo@gmail.com,SE
+IFS,Secretaria Acadêmica e Coordenação de Cursos,lucio.gama@ifs.edu.br,SE
 IFS,enajosg,enajosg@bol.com.br,SE
 UFS,Gabinete da Direção-Geral — Campus Reitor,gabinete.reitor@academico.ufs.br,SE
 "Aprendizagem, do Desenvolvimento e da Personalidade da USP",Departamento / Coordenação de Psicologia,sandias@usp.br,SP
 CEUNSP,Centro Universitário Nossa Senhora do Patrocínio,ceunsp@ceunsp.edu.br,SP
+Central (ESPM),Secretaria Acadêmica e Coordenação de Cursos,centralinfo-rs@espm.br,SP
+Dom Bosco,Secretaria Acadêmica e Coordenação de Cursos,dombosco_faeca@hotmail.com,SP
 ESPM SP,Escola Superior de Propaganda e Marketing,centralinfo@espm.br,SP
+FACCAT,Secretaria Acadêmica e Coordenação de Cursos,zemagnani@unisite.com.br,SP
+FACESM,Secretaria Acadêmica e Coordenação de Cursos,comunicacao@facesm.br,SP
+FADAP,Secretaria Acadêmica e Coordenação de Cursos,contato@fadap.br,SP
 FADI,Secretaria Acadêmica / Registro Escolar,secretaria@fadi.br,SP
 FADITU,Faculdade de Direito de Itu,contato@faditu.com.br,SP
+FAI,Secretaria Acadêmica e Coordenação de Cursos,fai@fai-mg.br,SP
 FASB,Faculdade São Bernardo,fasb@fasb.com.br,SP
 FASB,Renato,renato.cirera@fasb.com.br,SP
 FATEC,Faculdade de Tecnologia,f002.email@fatec.sp.gov.br,SP
 FATEC SP,Faculdade de Tecnologia,protocol@fatecsp.br,SP
+FCE,Diretoria de Graduação e Ensino,graduacao@fce.edu.br,SP
 FDF,Secretaria — Fdf,secretaria.fdf@direitofranca.br,SP
 FEA,Fundação Educacional de Andradina,fisma@fea.br,SP
+FEAP,Secretaria Acadêmica e Coordenação de Cursos,contato@feap.com.br,SP
 FEI,Centro Universitário Fei,cesupa@cesupa.br,SP
+FEPI,Secretaria Acadêmica e Coordenação de Cursos,comunicacao@fepi.br,SP
 FESP,Faculdade de Engenharia São Paulo,fesp@fesp.br,SP
+FEUC,Secretaria Acadêmica e Coordenação de Cursos,contato@feuc.br,SP
+FFCL,Secretaria Acadêmica e Coordenação de Cursos,ffcl@feituverava.com.br,SP
 FGVSP,Fundação Getúlio Vargas,coordcg@fgv.br,SP
+FIO,Secretaria Acadêmica e Coordenação de Cursos,comunicacao@unifio.edu.br,SP
 FIRB,Faculdades Integradas Rui Barbosa,firb@firb.br,SP
-FISO,Faculdades Integradas Soares de Oliveira,faleconosco@fiso.edu.br,SP
-FITO,Fundação Instituto Tecnológico de Osasco,atendimento@fito.br,SP
+FMS,Diretoria de Graduação e Ensino,secgraduacao@machadosobrinho.com.br,SP
 FREA,Secretaria Acadêmica / Registro Escolar,secretaria@frea.edu.br,SP
+FUNCESI,Secretaria Acadêmica e Coordenação de Cursos,contato@funcesi.br,SP
 FUNEPE,Fundação Educacional de Penápolis,funepe@funepe.edu.br,SP
+FUNORTE,Secretaria Acadêmica e Coordenação de Cursos,comunicacao@funorte.edu.br,SP
 Granbery,Departamento / Coordenação de Psicologia,cac.img@granbery.metodista.br,SP
 IFSP,Instituto Federal de São Paulo,comunica@ifsp.edu.br,SP
 IFSP,computacao,computacao.prc@ifsp.edu.br,SP
+IMESB,Secretaria Acadêmica e Coordenação de Cursos,imesb@imesb.br,SP
 INSPER,Instituto de Ensino e Pesquisa,insperone@insper.edu.br,SP
 Instituição Acadêmica,Coordenação do Serviço de Graduação,graduacaofflch@usp.br,SP
 LOGATTI,Faculdades Logatti Araraquara,logatti@logatti.edu.br,SP
 MACKENZIE,CCSA,ccsa@mackenzie.br,SP
 MANCKEZIE,Departamento / Coordenação de Psicologia,ccbs.psicologia@mackenzie.br,SP
-MAUA,Instituto Mauá de Tecnologia,relacionamento@maua.br,SP
+Metodista,Secretaria Acadêmica e Coordenação de Cursos,centralderelacionamento@metodista.br,SP
+Metodista - CAC,Secretaria Acadêmica e Coordenação de Cursos,cac@metodista.br,SP
+Milton Campos,Coordenação de Pós-Graduação e Pesquisa,webmaster@mcampos.br,SP
+PROEC (PUC SP),Secretaria Acadêmica e Coordenação de Cursos,proec@pucsp.br,SP
+PUC Campinas,Secretaria Acadêmica e Coordenação de Cursos,contato@puc-campinas.edu.br,SP
 PUC SP,ACI,aci@pucsp.br,SP
+Rio Branco,Secretaria Acadêmica e Coordenação de Cursos,faculdades@riobrancofac.edu.br,SP
+Simonsen,Secretaria Acadêmica e Coordenação de Cursos,simonsen@simonsen.br,SP
+Souza Marques,Diretoria de Graduação e Ensino,posgraduacao@souzamarques.br,SP
+Souza Marques,Secretaria Acadêmica e Coordenação de Cursos,dpo@souzamarques.br,SP
+São Judas,Secretaria Acadêmica e Coordenação de Cursos,dcex@usjt.br,SP
+São Luís,Coordenação de Cursos e Colegiados,coordenadoria@saoluis.br,SP
+UFABC,Engenharias,secretariacecs@ufabc.edu.br,SP
+UFABC,Setor de Técnologia ou Matématica,coordenacao_bct@ufabc.edu.br,SP
+UFABC,Setor de Técnologia ou Matématica,secretariacmcc@ufabc.edu.br,SP
 UFABC,Universidade Federal do ABC,planejamento@ufabc.edu.br,SP
 UFSCAR,Departamento / Coordenação de Psicologia,cgpsicologia@ufscar.br,SP
+UFSCar,Setor de Técnologia ou Matématica,ccs@ufscar.br,SP
+UFSCar,Setor de Técnologia ou Matématica,dcnme@ufscar.br,SP
+UNAR,Secretaria Acadêmica e Coordenação de Cursos,contato@unar.edu.br,SP
 UNASP,Centro Universitário Adventista de São Paulo,atendimento.sp@unasp.edu.br,SP
+UNESP,Secretaria Acadêmica e Coordenação de Cursos,portal@reitoria.unesp.br,SP
+UNIARA,Secretaria Acadêmica e Coordenação de Cursos,contato@uniara.com.br,SP
+UNICAMP,Secretaria Acadêmica e Coordenação de Cursos,portal@unicamp.br,SP
+UNICARIOCA,Secretaria Acadêmica e Coordenação de Cursos,webmaster@unicarioca.edu.br,SP
 UNIFAAT,Centro Universitário Unifaat,unifaat@unifaat.edu.br,SP
 UNIFAE - Centro Universitário das Faculdades Associadas de Ensino FAE,Secretaria Acadêmica / Registro Escolar,secretaria@fae.br,SP
+UNIFAFIBE,Secretaria Acadêmica e Coordenação de Cursos,contato@unifafibe.com.br,SP
 UNIFESP,BCT,coordenacao.bct@unifesp.br,SP
 UNIFESP,BMC,coordenacao.bmc@unifesp.br,SP
 UNIFESP,DAE,dae.sjc@unifesp.br,SP
@@ -580,9 +867,13 @@ UNIFESP,Universidade Federal de São Paulo,secretaria.sjc@unifesp.br,SP
 UNIFESP,Universidade Federal de São Paulo,diracad.guarulhos@unifesp.br,SP
 UNIFESP,Universidade Federal de São Paulo,secretariaguarulhos@unifesp.br,SP
 UNIFESP,Universidade Federal de São Paulo,nae.guarulhos@unifesp.br,SP
+UNIFUNEC,Secretaria Acadêmica e Coordenação de Cursos,contato@funecsantafe.edu.br,SP
 UNIP,Secretaria Acadêmica / Registro Escolar,secretariageral@unip.br,SP
+UNIPINHAL,Secretaria Acadêmica e Coordenação de Cursos,assesoriareitoria@unipinhal.edu.br,SP
 UNISA,Universidade de Santo Amaro,dpo@unisa.br,SP
+UNISANTANNA,Secretaria Acadêmica e Coordenação de Cursos,falesantana@unisantanna.br,SP
 UNISANTOS,Universidade Católica de Santos,coord.vest@unisantos.br,SP
+UNISUAM,Secretaria Acadêmica e Coordenação de Cursos,imprensa@unisuam.edu.br,SP
 UNIVEM,Centro Universitário Eurípedes de Marília,fundacao@univem.edu.br,SP
 UNIVEM,Desenvolvimento,desenvolvimento@univem.edu.br,SP
 USP,DIRFEA,dirfea@usp.br,SP
@@ -602,4 +893,14 @@ USP,Marolivi,marolivi@usp.br,SP
 USP,Poli,pcs.secretaria.poli@usp.br,SP
 USP,Universidade de São Paulo,secreac@usp.br,SP
 educação na UNESP,Departamento / Coordenação de Psicologia,pde.fclar@unesp.br,SP
+IFTO,Secretaria Acadêmica e Coordenação de Cursos,dicom@ifto.edu.br,TO
+Instituto Federal do Tocantins (IFTO),Coordenação do Curso de Análise e Desenvolvimento de Sistemas (Campus Araguaína),ads.araguaina@ifto.edu.br,TO
+Instituto Federal do Tocantins (IFTO),Coordenação do Curso de Engenharia Civil (Campus Palmas),engcivil.palmas@ifto.edu.br,TO
+Instituto Federal do Tocantins (IFTO),Coordenação do Curso de Engenharia Elétrica (Campus Palmas),eng.eletrica.palmas@ifto.edu.br,TO
+Instituto Federal do Tocantins (IFTO),Coordenação do Curso de Sistemas para Internet (Campus Palmas),csint.palmas@ifto.edu.br,TO
 UFT,Departamento / Coordenação de Psicologia,psicologia.miracema@uft.edu.br,TO
+UFT,Secretaria Acadêmica e Coordenação de Cursos,reitor@uft.edu.br,TO
+Universidade Federal do Tocantins (UFT),Colegiado do Curso de Ciência da Computação (Campus Palmas),comppalmas@uft.edu.br,TO
+Universidade Federal do Tocantins (UFT),Secretaria Acadêmica — Campus Araguaína,sacarag@mail.uft.edu.br,TO
+Universidade Federal do Tocantins (UFT),Secretaria Acadêmica — Campus Porto Nacional,secretariaporto@mail.uft.edu.br,TO
+portal (IFTO),Secretaria Acadêmica e Coordenação de Cursos,portal@ifto.edu.br,TO

@@ -1,5 +1,5 @@
-// Gerado automaticamente por tools/exporter.py — Hash: 61d050126269
-const MASTER_PAYLOAD_VERSION = "61d050126269";
+// Gerado automaticamente por tools/exporter.py — Hash: 48b3395f54fe
+const MASTER_PAYLOAD_VERSION = "48b3395f54fe";
 const MASTER_PAYLOAD = {
   "universidades": [
     {
@@ -13,13 +13,6 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "Centro Universitário IESB",
       "nome_departamento": "Controladoria e Gestão Institucional",
       "email": "controladoria@iesb.br",
-      "uf": "DF",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Centro Universitário IESB",
-      "nome_departamento": "Departamento / Coordenação de Psicologia",
-      "email": "atendimento@iesb.br",
       "uf": "DF",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -41,13 +34,6 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "Centro Universitário Processus (UniProcessus)",
       "nome_departamento": "Editoria Científica e Pesquisa Acadêmica (Asa Sul / Águas Claras)",
       "email": "revistaap@institutoprocessus.com.br",
-      "uf": "DF",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Centro Universitário Projeção (UniProjeção)",
-      "nome_departamento": "Atendimento Acadêmico — Campus Taguatinga",
-      "email": "uniprojecaocampus1@projecao.br",
       "uf": "DF",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -81,22 +67,8 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "Centro Universitário de Brasília (CEUB / UniCEUB)",
-      "nome_departamento": "Central de Atendimento e Relacionamento Acadêmico",
-      "email": "central.atendimento@uniceub.br",
-      "uf": "DF",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Centro Universitário de Brasília (CEUB / UniCEUB)",
       "nome_departamento": "Coordenação de Estágios e Carreiras",
       "email": "estagio@uniceub.br",
-      "uf": "DF",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Centro Universitário do Distrito Federal (UDF)",
-      "nome_departamento": "Central de Atendimento ao Aluno (CAA)",
-      "email": "central.aluno@udf.edu.br",
       "uf": "DF",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -253,13 +225,6 @@ const MASTER_PAYLOAD = {
       "email": "cursos.bsb@fgv.br",
       "uf": "DF",
       "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS)",
-      "nome_departamento": "Biblioteca Central FEPECS",
-      "email": "biblioteca@fepecs.edu.br",
-      "uf": "DF",
-      "tipo_instituicao": "Pública Distrital (DF)"
     },
     {
       "nome_faculdade": "Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS)",
@@ -613,13 +578,6 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "Universidade Católica de Brasília (UCB)",
-      "nome_departamento": "Central de Atendimento ao Estudante — Graduação (ATENDE)",
-      "email": "atende@ucb.br",
-      "uf": "DF",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "Universidade Católica de Brasília (UCB)",
       "nome_departamento": "Gestão Estratégica de Pesquisa e Extensão (PAGE)",
       "email": "page@ucb.br",
       "uf": "DF",
@@ -907,13 +865,6 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "Universidade de Brasília (UnB)",
-      "nome_departamento": "Diretório Central dos Estudantes (DCE)",
-      "email": "dceunb@gmail.com",
-      "uf": "DF",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Universidade de Brasília (UnB)",
       "nome_departamento": "Direção da Faculdade de Medicina (FM)",
       "email": "fmd@unb.br",
       "uf": "DF",
@@ -979,13 +930,6 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "Universidade de Brasília (UnB)",
       "nome_departamento": "Faculdade de Comunicação (FAC)",
       "email": "fac@unb.br",
-      "uf": "DF",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Universidade de Brasília (UnB)",
-      "nome_departamento": "Faculdade de Direito — Secretaria / Atendimento (FD)",
-      "email": "daces@unb.br",
       "uf": "DF",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -1124,6 +1068,13 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "Universidade de Brasília (UnB)",
+      "nome_departamento": "Secretaria da Faculdade de Direito (FD)",
+      "email": "daces@unb.br",
+      "uf": "DF",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade de Brasília (UnB)",
       "nome_departamento": "Secretaria de Administração Acadêmica (SAA)",
       "email": "saaatendimento@unb.br",
       "uf": "DF",
@@ -1166,6 +1117,13 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "IFAC",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "comunicacao@ifac.edu.br",
+      "uf": "AC",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IFAC",
       "nome_departamento": "dscom",
       "email": "dscom.cocev@ifac.edu.br",
       "uf": "AC",
@@ -1177,6 +1135,55 @@ const MASTER_PAYLOAD = {
       "email": "psicologia.cfch@ufac.br",
       "uf": "AC",
       "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFAC",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "ccet.ufac@gmail.com",
+      "uf": "AC",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "UFAC",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "coordenacaosi@ufac.br",
+      "uf": "AC",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Acre (UFAC)",
+      "nome_departamento": "Centro de Ciências Jurídicas e Sociais Aplicadas (CCJSA)",
+      "email": "ccjsa@ufac.br",
+      "uf": "AC",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Acre (UFAC)",
+      "nome_departamento": "Centro de Educação, Letras e Artes (CELA)",
+      "email": "cela@ufac.br",
+      "uf": "AC",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Acre (UFAC)",
+      "nome_departamento": "Centro de Filosofia e Ciências Humanas (CFCH)",
+      "email": "cfch@ufac.br",
+      "uf": "AC",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Acre (UFAC)",
+      "nome_departamento": "Núcleo de Registro e Controle Acadêmico (NURCA)",
+      "email": "nurca@ufac.br",
+      "uf": "AC",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "IFAL",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "comunicacao@ifal.edu.br",
+      "uf": "AL",
+      "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
       "nome_faculdade": "IFAL",
@@ -1214,6 +1221,34 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
+      "nome_faculdade": "UFAL",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "gr@reitoria.ufal.br",
+      "uf": "AL",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFAL",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "pi@reitoria.ufal.br",
+      "uf": "AL",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFAL",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "secretaria@ic.ufal.br",
+      "uf": "AL",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "IFAM",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "gabinete_cmc@ifam.edu.br",
+      "uf": "AM",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
       "nome_faculdade": "IFAM",
       "nome_departamento": "gabinete_cmdi",
       "email": "gabinete_cmdi@ifam.edu.br",
@@ -1235,9 +1270,163 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
+      "nome_faculdade": "UFAM",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "ascom@ufam.edu.br",
+      "uf": "AM",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFAM",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "assessoriadaufam@gmail.com",
+      "uf": "AM",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "UFAM",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "repres_bsb@ufam.edu.br",
+      "uf": "AM",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFAM",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "waltairmachado@ufam.edu.br",
+      "uf": "AM",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Instituto Federal do Amapá (IFAP)",
+      "nome_departamento": "Coordenação de Registro Escolar e Acadêmico — Campus Macapá",
+      "email": "seresc.macapa@ifap.edu.br",
+      "uf": "AP",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal do Amapá (IFAP)",
+      "nome_departamento": "Diretoria de Ensino — Campus Macapá",
+      "email": "dirgeral.macapa@ifap.edu.br",
+      "uf": "AP",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal do Amapá (IFAP)",
+      "nome_departamento": "Diretoria de Ensino — Campus Santana",
+      "email": "dirgeral.santana@ifap.edu.br",
+      "uf": "AP",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "UNIFAP",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "assessoria@unifap.br",
+      "uf": "AP",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UNIFAP",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "assessoria.nti@unifap.br",
+      "uf": "AP",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Amapá (UNIFAP)",
+      "nome_departamento": "Coordenação do Curso de Administração",
+      "email": "administracao@unifap.br",
+      "uf": "AP",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Amapá (UNIFAP)",
+      "nome_departamento": "Coordenação do Curso de Arquitetura e Urbanismo",
+      "email": "cau@unifap.br",
+      "uf": "AP",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Amapá (UNIFAP)",
+      "nome_departamento": "Coordenação do Curso de Ciências Biológicas (Bacharelado)",
+      "email": "biologiabach@unifap.br",
+      "uf": "AP",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Amapá (UNIFAP)",
+      "nome_departamento": "Coordenação do Curso de Ciências Biológicas (Licenciatura)",
+      "email": "biologialic@unifap.br",
+      "uf": "AP",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Amapá (UNIFAP)",
+      "nome_departamento": "Coordenação do Curso de Direito",
+      "email": "direito@unifap.br",
+      "uf": "AP",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Amapá (UNIFAP)",
+      "nome_departamento": "Coordenação do Curso de Farmácia",
+      "email": "farmacia@unifap.br",
+      "uf": "AP",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Amapá (UNIFAP)",
+      "nome_departamento": "Coordenação do Curso de Jornalismo",
+      "email": "jornalismo@unifap.br",
+      "uf": "AP",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Amapá (UNIFAP)",
+      "nome_departamento": "Coordenação do Curso de Letras Francês",
+      "email": "letrasfrances@unifap.br",
+      "uf": "AP",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Amapá (UNIFAP)",
+      "nome_departamento": "Coordenação do Curso de Letras Inglês",
+      "email": "letrasingles@unifap.br",
+      "uf": "AP",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Amapá (UNIFAP)",
+      "nome_departamento": "Coordenação do Curso de Secretariado Executivo",
+      "email": "secretariado@unifap.br",
+      "uf": "AP",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "comunicacao (IFAP)",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "comunicacao@ifap.edu.br",
+      "uf": "AP",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IFBA",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "prpgi@ifba.edu.br",
+      "uf": "BA",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
       "nome_faculdade": "IFBA",
       "nome_departamento": "de",
       "email": "de.prpgi.rei@ifba.edu.br",
+      "uf": "BA",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IFBaiano",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "gabinete@ifbaiano.edu.br",
       "uf": "BA",
       "tipo_instituicao": "Instituto Federal (IF)"
     },
@@ -1257,8 +1446,71 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "UFBA",
+      "nome_departamento": "Engenharias",
+      "email": "engsecretaria@ufba.br",
+      "uf": "BA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFBA",
       "nome_departamento": "STEM",
       "email": "ime@ufba.br",
+      "uf": "BA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFBA",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "gabinete@ufba.br",
+      "uf": "BA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFOB",
+      "nome_departamento": "Engenharias",
+      "email": "isaias.jesus@ufob.edu.br",
+      "uf": "BA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFOB",
+      "nome_departamento": "Engenharias",
+      "email": "fabioossamu@ufob.edu.br",
+      "uf": "BA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFOB",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "vanessa.kinoshita@ufob.edu.br",
+      "uf": "BA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFOB",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "davidd@ufob.edu.br",
+      "uf": "BA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFOB",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "beatriz.seidel@ufob.edu.br",
+      "uf": "BA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFOB",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "uiliam.souza@ufob.edu.br",
+      "uf": "BA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFOB",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "dilerval.silva@ufob.edu.br",
       "uf": "BA",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -1270,6 +1522,48 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
+      "nome_faculdade": "UFRB",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "gabi@ufrb.edu.br",
+      "uf": "BA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFRB",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "pei@reitoria.ufrb.edu.br",
+      "uf": "BA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFRB",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "liviamascarenhas@ufrb.edu.br",
+      "uf": "BA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFRB",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "cetec@ufrb.edu.br",
+      "uf": "BA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFRB",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "assessoria@cetec.ufrb.edu.br",
+      "uf": "BA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFSB",
+      "nome_departamento": "Engenharias",
+      "email": "carvalhomav@ufsb.edu.br",
+      "uf": "BA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
       "nome_faculdade": "UFSB",
       "nome_departamento": "Gerson",
       "email": "gerson.lisboa@ufsb.edu.br",
@@ -1277,16 +1571,30 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
+      "nome_faculdade": "UFSB",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "li.mct.cpf@ufsb.edu.br",
+      "uf": "BA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "propes (IFBaiano)",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "propes@ifbaiano.edu.br",
+      "uf": "BA",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
       "nome_faculdade": "IFCE",
-      "nome_departamento": "dowglas",
-      "email": "dowglas.lima@ifce.edu.br",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "wally@ifce.edu.br",
       "uf": "CE",
       "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
-      "nome_faculdade": "Instituto Federal do Ceará (IFCE)",
-      "nome_departamento": "Instituto Federal de Educação, Ciência e Tecnologia do Estado do Ceará",
-      "email": "reitoria@ifce.edu.br",
+      "nome_faculdade": "IFCE",
+      "nome_departamento": "dowglas",
+      "email": "dowglas.lima@ifce.edu.br",
       "uf": "CE",
       "tipo_instituicao": "Instituto Federal (IF)"
     },
@@ -1305,11 +1613,67 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
+      "nome_faculdade": "UFC",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "computacao@crateus.ufc.br",
+      "uf": "CE",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFCA",
+      "nome_departamento": "Engenharias",
+      "email": "matcomp.cct@ufca.edu.br",
+      "uf": "CE",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFCA",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "reitor@ufca.edu.br",
+      "uf": "CE",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFCA",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "computacao.cct@ufca.edu.br",
+      "uf": "CE",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
       "nome_faculdade": "UNIFOR",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "coordenacaopsicologia@unifor.br",
       "uf": "CE",
       "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "UNILAB",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "gabinete@unilab.edu.br",
+      "uf": "CE",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UNILAB",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "ocuni@unilab.edu.br",
+      "uf": "CE",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UNILAB",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "carlaoliveira@unilab.edu.br",
+      "uf": "CE",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "IFES",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "tads.al@ifes.edu.br",
+      "uf": "ES",
+      "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
       "nome_faculdade": "IFES",
@@ -1345,6 +1709,27 @@ const MASTER_PAYLOAD = {
       "email": "ppgp.ufes@gmail.com",
       "uf": "ES",
       "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "UFES",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "reitor@ufes.br",
+      "uf": "ES",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFES",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "chefiadegabinete.reitoria@ufes.br",
+      "uf": "ES",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFES",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "secretaria.ct@ufes.br",
+      "uf": "ES",
+      "tipo_instituicao": "Universidade Federal"
     },
     {
       "nome_faculdade": "Centro Universitário Alfredo Nasser (UNIFAN)",
@@ -1438,13 +1823,6 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "Faculdade Brasileira de Educação e Cultura (FABEC Brasil)",
-      "nome_departamento": "Cursos técnicos e superiores.",
-      "email": "comercial@fabec.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "Faculdade Delta",
       "nome_departamento": "Unidade Goiânia",
       "email": "leomar@faculdadedelta.edu.br",
@@ -1495,8 +1873,22 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "IFG",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "dti@ifg.edu.br",
+      "uf": "GO",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IFG",
       "nome_departamento": "proex",
       "email": "proex@ifg.edu.br",
+      "uf": "GO",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IFgoiano",
+      "nome_departamento": "Secretaria Acadêmica de Cursos",
+      "email": "secretaria.proppi@ifgoiano.edu.br",
       "uf": "GO",
       "tipo_instituicao": "Instituto Federal (IF)"
     },
@@ -1513,6 +1905,13 @@ const MASTER_PAYLOAD = {
       "email": "sg@pucgoias.edu.br",
       "uf": "GO",
       "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "UFCAT",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "roselma@ufg.br",
+      "uf": "GO",
+      "tipo_instituicao": "Universidade Federal"
     },
     {
       "nome_faculdade": "UFG",
@@ -1543,6 +1942,13 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
+      "nome_faculdade": "UFG",
+      "nome_departamento": "Secretaria Acadêmica de Cursos",
+      "email": "cii.secplan@ufg.br",
+      "uf": "GO",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
       "nome_faculdade": "UFJ",
       "nome_departamento": "Secretaria Acadêmica / Registro Escolar",
       "email": "secretariaexecutiva.jatai@ufg.br",
@@ -1567,13 +1973,6 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "Universidade Federal de Catalão (UFCAT)",
       "nome_departamento": "Unidade Catalão",
       "email": "roselma@ufcat.edu.br",
-      "uf": "GO",
-      "tipo_instituicao": "Universidade Federal"
-    },
-    {
-      "nome_faculdade": "Universidade Federal de Goiás (UFG)",
-      "nome_departamento": "Unidade Goiânia",
-      "email": "secretaria.reitoria@ufg.br",
       "uf": "GO",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -1641,13 +2040,6 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "Universidade Paulista (UNIP)",
-      "nome_departamento": "Campus Flamboyant e eixos ead.",
-      "email": "atendimento@unip.br",
-      "uf": "GO",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "Universidade de Rio Verde (UniRV)",
       "nome_departamento": "Unidade Rio Verde",
       "email": "prograd@unirv.edu.br",
@@ -1676,11 +2068,109 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
+      "nome_faculdade": "dgti (IFgoiano)",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "dgti@ifgoiano.edu.br",
+      "uf": "GO",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IFMA",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "gabinete@ifma.edu.br",
+      "uf": "MA",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
       "nome_faculdade": "UFMA",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "copsi.cch@ufma.br",
       "uf": "MA",
       "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFMA",
+      "nome_departamento": "Engenharias",
+      "email": "jose.marao@ufma.br",
+      "uf": "MA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFMA",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "simara@deinf.ufma.br",
+      "uf": "MA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFMA",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "arlane.silva@ufma.br",
+      "uf": "MA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Maranhão (UFMA)",
+      "nome_departamento": "Coordenação do Curso de Artes Visuais",
+      "email": "coordenacaoav@ufma.br",
+      "uf": "MA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Maranhão (UFMA)",
+      "nome_departamento": "Coordenação do Curso de Ciências Sociais",
+      "email": "cccs.cch@ufma.br",
+      "uf": "MA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Maranhão (UFMA)",
+      "nome_departamento": "Coordenação do Curso de Direito (CCSO)",
+      "email": "ccdir.ccso@ufma.br",
+      "uf": "MA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Maranhão (UFMA)",
+      "nome_departamento": "Coordenação do Curso de Filosofia",
+      "email": "ccfil@ufma.br",
+      "uf": "MA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Maranhão (UFMA)",
+      "nome_departamento": "Coordenação do Curso de História",
+      "email": "cohis@ufma.br",
+      "uf": "MA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Maranhão (UFMA)",
+      "nome_departamento": "Coordenação do Curso de Letras",
+      "email": "coler.cch@ufma.br",
+      "uf": "MA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Maranhão (UFMA)",
+      "nome_departamento": "Diretoria do Centro de Ciências Exatas e Tecnologia (CCET)",
+      "email": "ccet@ufma.br",
+      "uf": "MA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Maranhão (UFMA)",
+      "nome_departamento": "Diretoria do Centro de Ciências Humanas (CCH)",
+      "email": "dir.cch@ufma.br",
+      "uf": "MA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "ascom (IFMA)",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "ascom@ifma.edu.br",
+      "uf": "MA",
+      "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
       "nome_faculdade": "ASMEC",
@@ -1739,6 +2229,20 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
+      "nome_faculdade": "Comunicação (IFMG)",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "comunicacao@ifmg.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Comunicação (UFLA)",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "comunicacao@ufla.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
       "nome_faculdade": "FAC",
       "nome_departamento": "Faculdade Arquidiocesana de Curvelo",
       "email": "diretoria@fac.br",
@@ -1756,13 +2260,6 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "FACTU",
       "nome_departamento": "Faculdade de Ciências e Tecnologia de Unaí",
       "email": "factu@factu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "FACTU",
-      "nome_departamento": "Faculdade de Ciências e Tecnologia de Unaí",
-      "email": "faleconosco@factu.br",
       "uf": "MG",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -1803,13 +2300,6 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "FDSM",
-      "nome_departamento": "Faculdade de Direito do Sul de Minas",
-      "email": "comercial@fdsm.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "FDSM",
       "nome_departamento": "Secretaria Acadêmica / Registro Escolar",
       "email": "secretaria@fdsm.edu.br",
       "uf": "MG",
@@ -1819,13 +2309,6 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "FESJ",
       "nome_departamento": "Faculdades de Santos Dumont",
       "email": "contato@fsd.edu.br",
-      "uf": "MG",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "FMS",
-      "nome_departamento": "Faculdade Machado Sobrinho",
-      "email": "central@machadosobrinho.com.br",
       "uf": "MG",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -1844,18 +2327,46 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "FUNORTE",
-      "nome_departamento": "Faculdades Integradas do Norte de Minas",
-      "email": "marketing@cscdf.com.br",
-      "uf": "MG",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
       "nome_faculdade": "FWB",
       "nome_departamento": "Faculdade Wenceslau Braz",
       "email": "eewb@eewb.br",
       "uf": "MG",
       "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "IF Sudeste MG - ACC",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "acc.jf@ifsudestemg.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IF Sudeste MG - Barbacena",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "comunicacao.barbacena@ifsudestemg.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IF Sudeste MG - Jornalismo",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "jornalismo.sjdr@ifsudestemg.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IF Sudeste MG - Manhuacu",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "comunicacao.manhuacu@ifsudestemg.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IF Sudeste MG - Santos Dumont",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "comunicacao.santosdumont@ifsudestemg.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
       "nome_faculdade": "IFMG",
@@ -1875,6 +2386,13 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "IFMG",
       "nome_departamento": "PROEX",
       "email": "proex@ifmg.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IFMG",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "jornalismo@ifmg.edu.br",
       "uf": "MG",
       "tipo_instituicao": "Instituto Federal (IF)"
     },
@@ -1963,6 +2481,27 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
+      "nome_faculdade": "IFSUDESTEMG",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "ascom@ifsudestemg.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IFSULDEMINAS",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "douglas.nunes@ifsuldeminas.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IFSULDEMINAS - douglas",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "douglas.braz@ifsuldeminas.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
       "nome_faculdade": "IFSuldeMinas - Instituto Federal do Sul de Minas Gerais",
       "nome_departamento": "Gabinete da Direção-Geral — Campus Inconfidentes",
       "email": "gabinete.inconfidentes@ifsuldeminas.edu.br",
@@ -2001,6 +2540,13 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "IFSuldeMinas - Instituto Federal do Sul de Minas Gerais",
       "nome_departamento": "Gabinete da Direção-Geral — Campus Trescoracoes",
       "email": "gabinete.trescoracoes@ifsuldeminas.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IFSuldeMinas - Muz",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "gabinete@muz.ifsuldeminas.edu.br",
       "uf": "MG",
       "tipo_instituicao": "Instituto Federal (IF)"
     },
@@ -2208,6 +2754,34 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
+      "nome_faculdade": "IFTM",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "reitora@iftm.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Mara",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "mara.felippe@ifsudestemg.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "PRACE (UFOP)",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "prace@ufop.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "PROEC (UFLA)",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "proec@ufla.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
       "nome_faculdade": "UEMG",
       "nome_departamento": "Barbacena",
       "email": "secretaria.barbacena@uemg.br",
@@ -2307,6 +2881,13 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "UFJF",
+      "nome_departamento": "Coordenação de Cursos e Colegiados",
+      "email": "coordenacoes.ice@ufjf.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFJF",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "coord.psicologia@ufjf.edu.br",
       "uf": "MG",
@@ -2334,6 +2915,13 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
+      "nome_faculdade": "UFJF",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "piufjf.regulacao@gmail.com",
+      "uf": "MG",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
       "nome_faculdade": "UFLA",
       "nome_departamento": "Rony",
       "email": "rony@ufla.br",
@@ -2341,9 +2929,30 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
+      "nome_faculdade": "UFLA",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "dias@ufla.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFLA",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "claudiapontello@hotmail.com",
+      "uf": "MG",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
       "nome_faculdade": "UFMG",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "dpsi@fafich.ufmg.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFMG",
+      "nome_departamento": "Engenharias",
+      "email": "colgradsis@adm.eng.ufmg.br",
       "uf": "MG",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -2358,6 +2967,27 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "UFMG",
       "nome_departamento": "ICEX",
       "email": "secgeral@icex.ufmg.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFMG",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "reitor@ufmg.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFMG",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "info@dai.ufmg.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFMG",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "colgradsi@icex.ufmg.br",
       "uf": "MG",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -2391,6 +3021,13 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "UFOP",
+      "nome_departamento": "Engenharias",
+      "email": "depro@depro.em.ufop.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFOP",
       "nome_departamento": "ICEA",
       "email": "recepcao.icea@ufop.edu.br",
       "uf": "MG",
@@ -2414,6 +3051,20 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "UFOP",
       "nome_departamento": "PROEX",
       "email": "proex@ufop.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFOP",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "decom@iceb.ufop.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFOP",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "cocic@iceb.ufop.br",
       "uf": "MG",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -2460,9 +3111,58 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
+      "nome_faculdade": "UFSJ",
+      "nome_departamento": "Engenharias",
+      "email": "coenp@ufsj.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFSJ",
+      "nome_departamento": "Engenharias",
+      "email": "coentel@ufsj.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFSJ",
+      "nome_departamento": "Engenharias",
+      "email": "secintcoord@ufsj.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFSJ",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "proen@ufsj.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFSJ",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "comat@ufsj.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
       "nome_faculdade": "UFTM",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "departamento.psicologia@uftm.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFTM",
+      "nome_departamento": "Engenharias",
+      "email": "alexsandro.solon@uftm.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFTM",
+      "nome_departamento": "Engenharias",
+      "email": "evaldo.silva@uftm.edu.br",
       "uf": "MG",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -2488,6 +3188,27 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
+      "nome_faculdade": "UFTM",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "gabinete@uftm.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFTM",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "icte@uftm.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFTM",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "adriana.inforzato@uftm.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
       "nome_faculdade": "UFU",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "pgpsi@ipsi.ufu.br",
@@ -2505,6 +3226,20 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "UFU",
       "nome_departamento": "EPROD",
       "email": "coceprod@pontal.ufu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFU",
+      "nome_departamento": "Engenharias",
+      "email": "alexandre@ufu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFU",
+      "nome_departamento": "Engenharias",
+      "email": "aniel@ufu.br",
       "uf": "MG",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -2537,6 +3272,27 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
+      "nome_faculdade": "UFU",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "alessandra@ufu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFU",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "prof.asoares@ufu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFU",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "santosardr@ufu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
       "nome_faculdade": "UFV",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "avalente@ufv.br",
@@ -2551,9 +3307,93 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
+      "nome_faculdade": "UFV",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "noticiascaf@ufv.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFV",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "noticias@ufv.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFVJM",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "pi@ufvjm.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFVJM",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "citec@ufvjm.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFVJM",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "nitec@ufvjm.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UNIFAL-MG",
+      "nome_departamento": "Engenharias",
+      "email": "grad@unifal-mg.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UNIFAL-MG",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "luciene.goncalves@unifal-mg.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UNIFEI",
+      "nome_departamento": "Engenharias",
+      "email": "edmarmo@unifei.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
       "nome_faculdade": "UNIFEI",
       "nome_departamento": "Rodrigo",
       "email": "rodrigo@unifei.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UNIFEI",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "pi@unifei.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UNIFEI",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "imc@unifei.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UNIFEI",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "moreno@unifei.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UNIFEI",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "secretaria.iesti@unifei.edu.br",
       "uf": "MG",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -2621,6 +3461,13 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Estadual"
     },
     {
+      "nome_faculdade": "comunicacao (IFTM)",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "comunicacao@iftm.edu.br",
+      "uf": "MG",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
       "nome_faculdade": "IFMS",
       "nome_departamento": "cotsi",
       "email": "cotsi.aq@ifms.edu.br",
@@ -2642,11 +3489,32 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
+      "nome_faculdade": "UFGD",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "gptem@ufgd.edu.br",
+      "uf": "MS",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFGD",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "gptemufgd@gmail.com",
+      "uf": "MS",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
       "nome_faculdade": "UFMS",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "psico.fach@ufms.br",
       "uf": "MS",
       "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "IFMT",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "ascom@ifmt.edu.br",
+      "uf": "MT",
+      "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
       "nome_faculdade": "UFMT",
@@ -2666,6 +3534,13 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "UFMT",
       "nome_departamento": "STI",
       "email": "sti@ufmt.br",
+      "uf": "MT",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFMT",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "ufmt@ufmt.br",
       "uf": "MT",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -2692,15 +3567,85 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "IFPA",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "fisica.braganca@ifpa.edu.br",
+      "uf": "PA",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IFPA",
       "nome_departamento": "andrea",
       "email": "andrea.ohashi@ifpa.edu.br",
       "uf": "PA",
       "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
+      "nome_faculdade": "UFOPA",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "helaine.furtado@ufopa.edu.br",
+      "uf": "PA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFOPA",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "coord.bsi@ufopa.edu.br",
+      "uf": "PA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFOPA",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "coord.bsicori@ufopa.edu.br",
+      "uf": "PA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
       "nome_faculdade": "UFPA",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "coordpsi@ufpa.com",
+      "uf": "PA",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "UFPA",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "adalbery@ufpa.br",
+      "uf": "PA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFPA",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "agcastro@ufpa.br",
+      "uf": "PA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFPA",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "aldebaro@ufpa.br",
+      "uf": "PA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFPA",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "diego@ufpa.br",
+      "uf": "PA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFPA",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "fbarros@ufpa.br",
+      "uf": "PA",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFRA",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "aleksandra.silva@gmail.com",
       "uf": "PA",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -2733,6 +3678,34 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
+      "nome_faculdade": "UNIFESSPA",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "alexvieira@unifesspa.edu.br",
+      "uf": "PA",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "UNIFESSPA",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "faceel@unifesspa.edu.br",
+      "uf": "PA",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "UNIFESSPA",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "leiasousa@unifesspa.edu.br",
+      "uf": "PA",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "IFPB",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "cads.cz@ifpb.edu.br",
+      "uf": "PB",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
       "nome_faculdade": "IFPB",
       "nome_departamento": "ccads",
       "email": "ccads.monteiro@ifpb.edu.br",
@@ -2747,9 +3720,37 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
+      "nome_faculdade": "UFCG",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "reitor@ufcg.edu.br",
+      "uf": "PB",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFCG",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "ceei@ceei.ufcg.edu.br",
+      "uf": "PB",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFCG",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "diretor@ceei.ufcg.edu.br",
+      "uf": "PB",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
       "nome_faculdade": "UFPB",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "cpsicologia@cchla.ufpb.br",
+      "uf": "PB",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFPB",
+      "nome_departamento": "Engenharias",
+      "email": "duca@ct.ufpb.br",
       "uf": "PB",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -2761,11 +3762,60 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
+      "nome_faculdade": "UFPB",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "pi@reitoria.ufpb.br",
+      "uf": "PB",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
       "nome_faculdade": "Graduação em Psicologia da UFPE",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "coordpsi.ufpe@gmail.com",
       "uf": "PE",
       "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "IFPE",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "eventos@reitoria.ifpe.edu.br",
+      "uf": "PE",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IFSertãoPE",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "ascom@ifsertao-pe.edu.br",
+      "uf": "PE",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IFSertãoPE - cap",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "cap.reitoria@ifsertao-pe.edu.br",
+      "uf": "PE",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "UFAPE",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "rodrigo.rocha@ufape.edu.br",
+      "uf": "PE",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFAPE",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "daliton.silva@ufape.edu.br",
+      "uf": "PE",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFAPE",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "nite@ufape.edu.br",
+      "uf": "PE",
+      "tipo_instituicao": "Universidade Federal"
     },
     {
       "nome_faculdade": "UFPE",
@@ -2803,6 +3853,34 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
+      "nome_faculdade": "UFPE",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "gabinete@ufpe.br",
+      "uf": "PE",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFPE",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "secgrad@cin.ufpe.br",
+      "uf": "PE",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFRPE",
+      "nome_departamento": "Engenharias",
+      "email": "diretoria.deinfo@ufrpe.br",
+      "uf": "PE",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFRPE",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "secretaria.dc@ufrpe.br",
+      "uf": "PE",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
       "nome_faculdade": "UNICAP",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "ricardo.marques@unicap.br",
@@ -2817,6 +3895,34 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
+      "nome_faculdade": "UNIVASF",
+      "nome_departamento": "Engenharias",
+      "email": "ccomp@univasf.edu.br",
+      "uf": "PE",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UNIVASF",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "srca@univasf.edu.br",
+      "uf": "PE",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UNIVASF",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "proen@univasf.edu.br",
+      "uf": "PE",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UNIVASF",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "proen.pi@univasf.edu.br",
+      "uf": "PE",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
       "nome_faculdade": "UPE",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "psicologia.multicampi@upe.br",
@@ -2824,10 +3930,108 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Estadual"
     },
     {
+      "nome_faculdade": "ascom (IFPE)",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "ascom@reitoria.ifpe.edu.br",
+      "uf": "PE",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
       "nome_faculdade": "IFPI",
       "nome_departamento": "cerimonial",
       "email": "cerimonial@ifpi.edu.br",
       "uf": "PI",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal do Piauí (IFPI)",
+      "nome_departamento": "Coordenação do Curso Superior em Geoprocessamento",
+      "email": "coordenacao.geo@ifpi.edu.br",
+      "uf": "PI",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal do Piauí (IFPI)",
+      "nome_departamento": "Coordenação dos Cursos Técnicos em Informática",
+      "email": "cinf.catce@ifpi.edu.br",
+      "uf": "PI",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal do Piauí (IFPI)",
+      "nome_departamento": "Diretoria de Ensino — Campus Teresina",
+      "email": "dens.catce@ifpi.edu.br",
+      "uf": "PI",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "UFDPar",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "reitoriacmrv@ufpi.edu.br",
+      "uf": "PI",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFPI",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "scs@ufpi.edu.br",
+      "uf": "PI",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFPI",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "comunicacao@ufpi.edu.br",
+      "uf": "PI",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFPI",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "laurindoneto@ufpi.edu.br",
+      "uf": "PI",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFPI",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "candrebc@ufpi.edu.br",
+      "uf": "PI",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Piauí (UFPI)",
+      "nome_departamento": "Coordenação do Curso de Agronomia (CCA)",
+      "email": "agronomia.cca@ufpi.edu.br",
+      "uf": "PI",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Piauí (UFPI)",
+      "nome_departamento": "Diretoria do Centro de Ciências Humanas e Letras (CCHL)",
+      "email": "cchl@ufpi.edu.br",
+      "uf": "PI",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Piauí (UFPI)",
+      "nome_departamento": "Diretoria do Centro de Ciências da Educação (CCE)",
+      "email": "diretoriacce@ufpi.edu.br",
+      "uf": "PI",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Piauí (UFPI)",
+      "nome_departamento": "Diretoria do Centro de Ciências da Natureza (CCN)",
+      "email": "ccn_diretoria@ufpi.edu.br",
+      "uf": "PI",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "IFPR",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "es.paranavai@ifpr.edu.br",
+      "uf": "PR",
       "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
@@ -2859,11 +4063,109 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
+      "nome_faculdade": "UFPR",
+      "nome_departamento": "Diretoria de Graduação e Ensino",
+      "email": "prograd@ufpr.br",
+      "uf": "PR",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFPR",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "exped@ufpr.br",
+      "uf": "PR",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFPR",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "proplan@ufpr.br",
+      "uf": "PR",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFPR",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "pesquisadorinstitucional@ufpr.br",
+      "uf": "PR",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFPR",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "cpa@ufpr.br",
+      "uf": "PR",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFPR",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "inovacao@ufpr.br",
+      "uf": "PR",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFPR",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "exatas@ufpr.br",
+      "uf": "PR",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFPR",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "comunica.exatas@ufpr.br",
+      "uf": "PR",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UNILA",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "reitoria.gabinete@unila.edu.br",
+      "uf": "PR",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UTFPR",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "schiefler@utfpr.edu.br",
+      "uf": "PR",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UTFPR",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "coads-cp@utfpr.edu.br",
+      "uf": "PR",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UTFPR",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "cotel-ct@utfpr.edu.br",
+      "uf": "PR",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UTFPR",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "coads-pg@utfpr.edu.br",
+      "uf": "PR",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
       "nome_faculdade": "AEDB",
       "nome_departamento": "Associação Educacional Dom Bosco",
       "email": "aedb@aedb.br",
       "uf": "RJ",
       "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "CEFET",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "direg@cefet-rj.br",
+      "uf": "RJ",
+      "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
       "nome_faculdade": "CPS",
@@ -2880,6 +4182,20 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
+      "nome_faculdade": "DESUP (Faetec)",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "direcao@desup.faetec.rj.gov.br",
+      "uf": "RJ",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "DIF (Faetec)",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "dif@faetec.rj.gov.br",
+      "uf": "RJ",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
       "nome_faculdade": "ENCE",
       "nome_departamento": "Escola Nacional de Ciências Estatísticas",
       "email": "ence@ibge.gov.br",
@@ -2890,13 +4206,6 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "ENCE",
       "nome_departamento": "Gustavo",
       "email": "gustavo.ferreira@ibge.gov.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "ESPM-RJ",
-      "nome_departamento": "Central",
-      "email": "centralinfo-rs@espm.br",
       "uf": "RJ",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -2918,13 +4227,6 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "ESPM-RJ",
       "nome_departamento": "Relacionamento",
       "email": "relacionamentojt@espm.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "FACHA",
-      "nome_departamento": "Faculdades Integradas Hélio Alonso",
-      "email": "atendimento@facha.edu.br",
       "uf": "RJ",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -2953,13 +4255,6 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "FGVRJ",
       "nome_departamento": "Fundação Getúlio Vargas",
       "email": "cursos.rio@fgv.br",
-      "uf": "RJ",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "FMC",
-      "nome_departamento": "Faculdade de Medicina de Campos",
-      "email": "faleconosco@fmc.br",
       "uf": "RJ",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -3013,6 +4308,41 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
+      "nome_faculdade": "IFFluminense Cabo Frio",
+      "nome_departamento": "Coordenação de Cursos e Colegiados",
+      "email": "coordhosp.cabofrio@iff.edu.br",
+      "uf": "RJ",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IFFluminense Cambuci",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "leilao.cambuci@iff.edu.br",
+      "uf": "RJ",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IFFluminense Guarus",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "campusguarus@iff.edu.br",
+      "uf": "RJ",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IFFluminense Itapurena",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "ascom.itaperuna@iff.edu.br",
+      "uf": "RJ",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IFFluminense SJB",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "campus.sjb@iff.edu.br",
+      "uf": "RJ",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
       "nome_faculdade": "IFRJ",
       "nome_departamento": "PROEX",
       "email": "proex@ifrj.edu.br",
@@ -3020,9 +4350,30 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
+      "nome_faculdade": "IFRJ",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "dga@ifrj.edu.br",
+      "uf": "RJ",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
       "nome_faculdade": "MACK-RIO",
       "nome_departamento": "Mackenzie Rio",
       "email": "fpmr@mackenzie.br",
+      "uf": "RJ",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "PROEN (IFRJ)",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "proen@ifrj.edu.br",
+      "uf": "RJ",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "PUC",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "webrdc@puc-rio.br",
       "uf": "RJ",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -3118,6 +4469,13 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Estadual"
     },
     {
+      "nome_faculdade": "UEZO",
+      "nome_departamento": "Diretoria de Graduação e Ensino",
+      "email": "prograd@uezo.rj.gov.br",
+      "uf": "RJ",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
       "nome_faculdade": "UFF",
       "nome_departamento": "Comunica",
       "email": "setordecomunicacao@gmail.com",
@@ -3205,6 +4563,13 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "UFF",
       "nome_departamento": "Secretaria IME",
       "email": "secretaria.ime@id.uff.br",
+      "uf": "RJ",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFF",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "got.proex@id.uff.br",
       "uf": "RJ",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -3301,6 +4666,13 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "UFRJ",
+      "nome_departamento": "Engenharias",
+      "email": "decano@ct.ufrj.br",
+      "uf": "RJ",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFRJ",
       "nome_departamento": "IC",
       "email": "direcao@ic.ufrj.br",
       "uf": "RJ",
@@ -3317,6 +4689,27 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "UFRJ",
       "nome_departamento": "NCE",
       "email": "direcao@nce.ufrj.br",
+      "uf": "RJ",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFRJ",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "vicereitoria@reitoria.ufrj.br",
+      "uf": "RJ",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFRJ",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "parque@parque.ufrj.br",
+      "uf": "RJ",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFRJ",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "superintendencia@tic.ufrj.br",
       "uf": "RJ",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -3350,10 +4743,24 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "UFRRJ",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "gabinete@ufrrj.br",
+      "uf": "RJ",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFRRJ",
       "nome_departamento": "Setor de Técnologia ou Matématica",
       "email": "de.ufrrj@gmail.com",
       "uf": "RJ",
       "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "UFRRJ",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "santana@ufrrj.br",
+      "uf": "RJ",
+      "tipo_instituicao": "Universidade Federal"
     },
     {
       "nome_faculdade": "UNIRIO",
@@ -3371,6 +4778,20 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "UNIRIO",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "reitor@unirio.br",
+      "uf": "RJ",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UNIRIO",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "pi@unirio.br",
+      "uf": "RJ",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UNIRIO",
       "nome_departamento": "Setor de Técnologia ou Matématica",
       "email": "eia@uniriotec.br",
       "uf": "RJ",
@@ -3384,11 +4805,60 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
+      "nome_faculdade": "proppi (IFRJ)",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "proppi@ifrj.edu.br",
+      "uf": "RJ",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IFRN",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "joao.costa@ifrn.edu.br",
+      "uf": "RN",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
       "nome_faculdade": "IFRN",
       "nome_departamento": "abrahao",
       "email": "abrahao.lopes@ifrn.edu.br",
       "uf": "RN",
       "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "UFERSA",
+      "nome_departamento": "Engenharias",
+      "email": "thomas.goncalo@ufersa.edu.br",
+      "uf": "RN",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFERSA",
+      "nome_departamento": "Engenharias",
+      "email": "engproducao@ufersa.edu.br",
+      "uf": "RN",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFERSA",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "cienciadacomputacao@ufersa.edu.br",
+      "uf": "RN",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFERSA",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "leonardoramalho@ufersa.edu.br",
+      "uf": "RN",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFERSA",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "bsi.angicos@ufersa.edu.br",
+      "uf": "RN",
+      "tipo_instituicao": "Universidade Federal"
     },
     {
       "nome_faculdade": "UFRN",
@@ -3398,11 +4868,88 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
+      "nome_faculdade": "UFRN",
+      "nome_departamento": "Engenharias",
+      "email": "coordenacao.engcomp@dca.ufrn.br",
+      "uf": "RN",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFRN",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "bct@ect.ufrn.br",
+      "uf": "RN",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFRN",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "cccc@dimap.ufrn.br",
+      "uf": "RN",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Rondônia (IFRO)",
+      "nome_departamento": "Coordenação do Curso Técnico em Administração — Campus Zona Norte",
+      "email": "cctadm.pvhzonanorte@ifro.edu.br",
+      "uf": "RO",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Rondônia (IFRO)",
+      "nome_departamento": "Coordenação do Curso de Licenciatura em Física — Campus Calama",
+      "email": "ccfl.portovelhocalama@ifro.edu.br",
+      "uf": "RO",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Rondônia (IFRO)",
+      "nome_departamento": "Departamento de Apoio ao Ensino — Campus Porto Velho Calama",
+      "email": "dape.portovelhocalama@ifro.edu.br",
+      "uf": "RO",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Rondônia (IFRO)",
+      "nome_departamento": "Direção de Ensino — Campus Porto Velho Calama",
+      "email": "de.portovelhocalama@ifro.edu.br",
+      "uf": "RO",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
       "nome_faculdade": "UNIR",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "depsi@unir.br",
       "uf": "RO",
       "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UNIR",
+      "nome_departamento": "Engenharias",
+      "email": "nt@unir.br",
+      "uf": "RO",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UNIR",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "prograd@unir.br",
+      "uf": "RO",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "ascom (IFRO)",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "ascom@ifro.edu.br",
+      "uf": "RO",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IFRR",
+      "nome_departamento": "Coordenação de Cursos e Colegiados",
+      "email": "coordenacaotads@ifrr.edu.br",
+      "uf": "RR",
+      "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
       "nome_faculdade": "IFRR",
@@ -3412,6 +4959,48 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
+      "nome_faculdade": "Instituto Federal de Roraima (IFRR)",
+      "nome_departamento": "Coordenação do Curso Técnico em Administração",
+      "email": "cctadm.cbvzo@ifrr.edu.br",
+      "uf": "RR",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Roraima (IFRR)",
+      "nome_departamento": "Coordenação do Curso de Tecnologia em Design Gráfico",
+      "email": "ccdg.cbvzo@ifrr.edu.br",
+      "uf": "RR",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Roraima (IFRR)",
+      "nome_departamento": "Departamento de Apoio Pedagógico e Desenvolvimento Curricular",
+      "email": "dape@ifrr.edu.br",
+      "uf": "RR",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Roraima (IFRR)",
+      "nome_departamento": "Departamento de Ensino de Graduação — Campus Boa Vista",
+      "email": "deg.cbv@ifrr.edu.br",
+      "uf": "RR",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal de Roraima (IFRR)",
+      "nome_departamento": "Departamento de Ensino — Campus Boa Vista Zona Oeste",
+      "email": "den.cbvzo@ifrr.edu.br",
+      "uf": "RR",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "UFRR",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "pesquisainstitucional@ufrr.br",
+      "uf": "RR",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
       "nome_faculdade": "UFRR",
       "nome_departamento": "Setor de Técnologia ou Matématica",
       "email": "edleilasoares@gmail.com",
@@ -3419,11 +5008,67 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
+      "nome_faculdade": "UFRR",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "delfa.zuasnabar@ufrr.br",
+      "uf": "RR",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
       "nome_faculdade": "FURG",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "ichi@furg.br",
       "uf": "RS",
       "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "FURG",
+      "nome_departamento": "Engenharias",
+      "email": "ccengcom@furg.br",
+      "uf": "RS",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "FURG",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "cienciasexatas@furg.br",
+      "uf": "RS",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "FURG",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "imef@furg.br",
+      "uf": "RS",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "FURG",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "ccmatematicaaplicada@furg.br",
+      "uf": "RS",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "IFFarroupilha",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "sistemasdeinformacao.sb@iffarroupilha.edu.br",
+      "uf": "RS",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IFFarroupilha - cads",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "cads.al@iffarroupilha.edu.br",
+      "uf": "RS",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IFSUL",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "ccs@ifsul.edu.br",
+      "uf": "RS",
+      "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
       "nome_faculdade": "IFSUL",
@@ -3468,6 +5113,13 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
+      "nome_faculdade": "UFPel",
+      "nome_departamento": "Engenharias",
+      "email": "bruno.vieira@ufpel.edu.br",
+      "uf": "RS",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
       "nome_faculdade": "UFPel - STEM",
       "nome_departamento": "Setor de Técnologia ou Matématica",
       "email": "chefe.nucleoadm.ceng@gmail.com",
@@ -3478,6 +5130,34 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "UFRGS",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "gradpsi@ufrgs.br",
+      "uf": "RS",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFRGS",
+      "nome_departamento": "Engenharias",
+      "email": "comgrad@producao.ufrgs.br",
+      "uf": "RS",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFRGS",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "reitor@ufrgs.br",
+      "uf": "RS",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFRGS",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "regulacao@sai.ufrgs.br",
+      "uf": "RS",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFRGS",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "cgcon@ufrgs.br",
       "uf": "RS",
       "tipo_instituicao": "Universidade Federal"
     },
@@ -3497,10 +5177,24 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome_faculdade": "UFSM",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "gabinetereitor@ufsm.br",
+      "uf": "RS",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFSM",
       "nome_departamento": "Setor de Técnologia ou Matématica",
       "email": "ccne13@gmail.com",
       "uf": "RS",
       "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "UFSM",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "ctufsm@ufsm.br",
+      "uf": "RS",
+      "tipo_instituicao": "Universidade Federal"
     },
     {
       "nome_faculdade": "UNIPAMPA",
@@ -3510,11 +5204,32 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
+      "nome_faculdade": "UNIPAMPA",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "anarosa.aluno@unipampa.edu.br",
+      "uf": "RS",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UNIPAMPA",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "aflorenzon@unipampa.edu.br",
+      "uf": "RS",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
       "nome_faculdade": "UNISINOS",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "beth@unisinos.br",
       "uf": "RS",
       "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "comunicacao (IFRS)",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "comunicacao@alvorada.ifrs.edu.br",
+      "uf": "RS",
+      "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
       "nome_faculdade": "unisinos",
@@ -3527,6 +5242,20 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "IFC",
       "nome_departamento": "Rosiane",
       "email": "rosiane.lima@ifc.edu.br",
+      "uf": "SC",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IFC",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "thomas.muller@ifc.edu.br",
+      "uf": "SC",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IFSC",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "sistemas.tecnol.gas@ifsc.edu.br",
       "uf": "SC",
       "tipo_instituicao": "Instituto Federal (IF)"
     },
@@ -3692,6 +5421,27 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Instituto Federal (IF)"
     },
     {
+      "nome_faculdade": "UFFS",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "recktenvald@uffs.edu.br",
+      "uf": "SC",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFFS",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "agiitec@uffs.edu.br",
+      "uf": "SC",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFFS",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "assitec@uffs.edu.br",
+      "uf": "SC",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
       "nome_faculdade": "UFSC",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "depto.psicologia@contato.ufsc.br",
@@ -3713,6 +5463,13 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
+      "nome_faculdade": "UFSC",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "gr@contato.ufsc.br",
+      "uf": "SC",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
       "nome_faculdade": "UNIVALI",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "psicologia.ccs@univali.br",
@@ -3730,6 +5487,13 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "IFS",
       "nome_departamento": "Secretaria Acadêmica / Registro Escolar",
       "email": "ricardoacrabelo@gmail.com",
+      "uf": "SE",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IFS",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "lucio.gama@ifs.edu.br",
       "uf": "SE",
       "tipo_instituicao": "Instituto Federal (IF)"
     },
@@ -3762,9 +5526,44 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
+      "nome_faculdade": "Central (ESPM)",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "centralinfo-rs@espm.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "Dom Bosco",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "dombosco_faeca@hotmail.com",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
       "nome_faculdade": "ESPM SP",
       "nome_departamento": "Escola Superior de Propaganda e Marketing",
       "email": "centralinfo@espm.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "FACCAT",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "zemagnani@unisite.com.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "FACESM",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "comunicacao@facesm.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "FADAP",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "contato@fadap.br",
       "uf": "SP",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -3779,6 +5578,13 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "FADITU",
       "nome_departamento": "Faculdade de Direito de Itu",
       "email": "contato@faditu.com.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "FAI",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "fai@fai-mg.br",
       "uf": "SP",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -3811,6 +5617,13 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Estadual"
     },
     {
+      "nome_faculdade": "FCE",
+      "nome_departamento": "Diretoria de Graduação e Ensino",
+      "email": "graduacao@fce.edu.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
       "nome_faculdade": "FDF",
       "nome_departamento": "Secretaria — Fdf",
       "email": "secretaria.fdf@direitofranca.br",
@@ -3825,9 +5638,23 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
+      "nome_faculdade": "FEAP",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "contato@feap.com.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
       "nome_faculdade": "FEI",
       "nome_departamento": "Centro Universitário Fei",
       "email": "cesupa@cesupa.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "FEPI",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "comunicacao@fepi.br",
       "uf": "SP",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -3839,9 +5666,30 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
+      "nome_faculdade": "FEUC",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "contato@feuc.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "FFCL",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "ffcl@feituverava.com.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
       "nome_faculdade": "FGVSP",
       "nome_departamento": "Fundação Getúlio Vargas",
       "email": "coordcg@fgv.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "FIO",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "comunicacao@unifio.edu.br",
       "uf": "SP",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -3853,16 +5701,9 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "FISO",
-      "nome_departamento": "Faculdades Integradas Soares de Oliveira",
-      "email": "faleconosco@fiso.edu.br",
-      "uf": "SP",
-      "tipo_instituicao": "Privada / Particular"
-    },
-    {
-      "nome_faculdade": "FITO",
-      "nome_departamento": "Fundação Instituto Tecnológico de Osasco",
-      "email": "atendimento@fito.br",
+      "nome_faculdade": "FMS",
+      "nome_departamento": "Diretoria de Graduação e Ensino",
+      "email": "secgraduacao@machadosobrinho.com.br",
       "uf": "SP",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -3874,9 +5715,23 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
+      "nome_faculdade": "FUNCESI",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "contato@funcesi.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
       "nome_faculdade": "FUNEPE",
       "nome_departamento": "Fundação Educacional de Penápolis",
       "email": "funepe@funepe.edu.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "FUNORTE",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "comunicacao@funorte.edu.br",
       "uf": "SP",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -3900,6 +5755,13 @@ const MASTER_PAYLOAD = {
       "email": "computacao.prc@ifsp.edu.br",
       "uf": "SP",
       "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "IMESB",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "imesb@imesb.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
     },
     {
       "nome_faculdade": "INSPER",
@@ -3937,9 +5799,37 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
-      "nome_faculdade": "MAUA",
-      "nome_departamento": "Instituto Mauá de Tecnologia",
-      "email": "relacionamento@maua.br",
+      "nome_faculdade": "Metodista",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "centralderelacionamento@metodista.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "Metodista - CAC",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "cac@metodista.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "Milton Campos",
+      "nome_departamento": "Coordenação de Pós-Graduação e Pesquisa",
+      "email": "webmaster@mcampos.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "PROEC (PUC SP)",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "proec@pucsp.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "PUC Campinas",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "contato@puc-campinas.edu.br",
       "uf": "SP",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -3949,6 +5839,69 @@ const MASTER_PAYLOAD = {
       "email": "aci@pucsp.br",
       "uf": "SP",
       "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "Rio Branco",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "faculdades@riobrancofac.edu.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "Simonsen",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "simonsen@simonsen.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "Souza Marques",
+      "nome_departamento": "Diretoria de Graduação e Ensino",
+      "email": "posgraduacao@souzamarques.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "Souza Marques",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "dpo@souzamarques.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "São Judas",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "dcex@usjt.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "São Luís",
+      "nome_departamento": "Coordenação de Cursos e Colegiados",
+      "email": "coordenadoria@saoluis.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "UFABC",
+      "nome_departamento": "Engenharias",
+      "email": "secretariacecs@ufabc.edu.br",
+      "uf": "SP",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFABC",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "coordenacao_bct@ufabc.edu.br",
+      "uf": "SP",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFABC",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "secretariacmcc@ufabc.edu.br",
+      "uf": "SP",
+      "tipo_instituicao": "Universidade Federal"
     },
     {
       "nome_faculdade": "UFABC",
@@ -3965,9 +5918,58 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
+      "nome_faculdade": "UFSCar",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "ccs@ufscar.br",
+      "uf": "SP",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFSCar",
+      "nome_departamento": "Setor de Técnologia ou Matématica",
+      "email": "dcnme@ufscar.br",
+      "uf": "SP",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UNAR",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "contato@unar.edu.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
       "nome_faculdade": "UNASP",
       "nome_departamento": "Centro Universitário Adventista de São Paulo",
       "email": "atendimento.sp@unasp.edu.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "UNESP",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "portal@reitoria.unesp.br",
+      "uf": "SP",
+      "tipo_instituicao": "Universidade Estadual"
+    },
+    {
+      "nome_faculdade": "UNIARA",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "contato@uniara.com.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "UNICAMP",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "portal@unicamp.br",
+      "uf": "SP",
+      "tipo_instituicao": "Universidade Estadual"
+    },
+    {
+      "nome_faculdade": "UNICARIOCA",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "webmaster@unicarioca.edu.br",
       "uf": "SP",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -3982,6 +5984,13 @@ const MASTER_PAYLOAD = {
       "nome_faculdade": "UNIFAE - Centro Universitário das Faculdades Associadas de Ensino FAE",
       "nome_departamento": "Secretaria Acadêmica / Registro Escolar",
       "email": "secretaria@fae.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "UNIFAFIBE",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "contato@unifafibe.com.br",
       "uf": "SP",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -4070,9 +6079,23 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Federal"
     },
     {
+      "nome_faculdade": "UNIFUNEC",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "contato@funecsantafe.edu.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
       "nome_faculdade": "UNIP",
       "nome_departamento": "Secretaria Acadêmica / Registro Escolar",
       "email": "secretariageral@unip.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "UNIPINHAL",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "assesoriareitoria@unipinhal.edu.br",
       "uf": "SP",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -4084,9 +6107,23 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Privada / Particular"
     },
     {
+      "nome_faculdade": "UNISANTANNA",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "falesantana@unisantanna.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
       "nome_faculdade": "UNISANTOS",
       "nome_departamento": "Universidade Católica de Santos",
       "email": "coord.vest@unisantos.br",
+      "uf": "SP",
+      "tipo_instituicao": "Privada / Particular"
+    },
+    {
+      "nome_faculdade": "UNISUAM",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "imprensa@unisuam.edu.br",
       "uf": "SP",
       "tipo_instituicao": "Privada / Particular"
     },
@@ -4224,11 +6261,81 @@ const MASTER_PAYLOAD = {
       "tipo_instituicao": "Universidade Estadual"
     },
     {
+      "nome_faculdade": "IFTO",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "dicom@ifto.edu.br",
+      "uf": "TO",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal do Tocantins (IFTO)",
+      "nome_departamento": "Coordenação do Curso de Análise e Desenvolvimento de Sistemas (Campus Araguaína)",
+      "email": "ads.araguaina@ifto.edu.br",
+      "uf": "TO",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal do Tocantins (IFTO)",
+      "nome_departamento": "Coordenação do Curso de Engenharia Civil (Campus Palmas)",
+      "email": "engcivil.palmas@ifto.edu.br",
+      "uf": "TO",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal do Tocantins (IFTO)",
+      "nome_departamento": "Coordenação do Curso de Engenharia Elétrica (Campus Palmas)",
+      "email": "eng.eletrica.palmas@ifto.edu.br",
+      "uf": "TO",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
+      "nome_faculdade": "Instituto Federal do Tocantins (IFTO)",
+      "nome_departamento": "Coordenação do Curso de Sistemas para Internet (Campus Palmas)",
+      "email": "csint.palmas@ifto.edu.br",
+      "uf": "TO",
+      "tipo_instituicao": "Instituto Federal (IF)"
+    },
+    {
       "nome_faculdade": "UFT",
       "nome_departamento": "Departamento / Coordenação de Psicologia",
       "email": "psicologia.miracema@uft.edu.br",
       "uf": "TO",
       "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "UFT",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "reitor@uft.edu.br",
+      "uf": "TO",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Tocantins (UFT)",
+      "nome_departamento": "Colegiado do Curso de Ciência da Computação (Campus Palmas)",
+      "email": "comppalmas@uft.edu.br",
+      "uf": "TO",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Tocantins (UFT)",
+      "nome_departamento": "Secretaria Acadêmica — Campus Araguaína",
+      "email": "sacarag@mail.uft.edu.br",
+      "uf": "TO",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "Universidade Federal do Tocantins (UFT)",
+      "nome_departamento": "Secretaria Acadêmica — Campus Porto Nacional",
+      "email": "secretariaporto@mail.uft.edu.br",
+      "uf": "TO",
+      "tipo_instituicao": "Universidade Federal"
+    },
+    {
+      "nome_faculdade": "portal (IFTO)",
+      "nome_departamento": "Secretaria Acadêmica e Coordenação de Cursos",
+      "email": "portal@ifto.edu.br",
+      "uf": "TO",
+      "tipo_instituicao": "Instituto Federal (IF)"
     }
   ],
   "artistas": [
@@ -4254,10 +6361,31 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
+      "nome": "Gabrielle Ximenes",
+      "arroba": "@ximenesgab",
+      "quantidade_seguidores": "100676",
+      "tipo": "Moda Autoral / Ilustração",
+      "uf": "DF"
+    },
+    {
       "nome": "Bruna Yonashiro",
       "arroba": "@brunayonashiro",
       "quantidade_seguidores": "85749",
       "tipo": "Design / Ilustração",
+      "uf": "DF"
+    },
+    {
+      "nome": "Roger Cruz",
+      "arroba": "@rogercruzart",
+      "quantidade_seguidores": "80258",
+      "tipo": "Quadrinhos / HQs Independentes",
+      "uf": "DF"
+    },
+    {
+      "nome": "IlustraLu",
+      "arroba": "@ilustralu",
+      "quantidade_seguidores": "79193",
+      "tipo": "Quadrinhos / Zines / Aquarela",
       "uf": "DF"
     },
     {
@@ -4279,6 +6407,13 @@ const MASTER_PAYLOAD = {
       "arroba": "@lote42",
       "quantidade_seguidores": "38653",
       "tipo": "Publicações Independentes / Feira Miolo",
+      "uf": "DF"
+    },
+    {
+      "nome": "Lara Alcantara",
+      "arroba": "@laraalcantara",
+      "quantidade_seguidores": "27767",
+      "tipo": "Fotografia Autoral / Zines",
       "uf": "DF"
     },
     {
@@ -4310,10 +6445,38 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
+      "nome": "Vitor Cafaggi",
+      "arroba": "@vitorcafaggi",
+      "quantidade_seguidores": "24014",
+      "tipo": "Quadrinhos / Tiras",
+      "uf": "DF"
+    },
+    {
       "nome": "Bicha Papão",
       "arroba": "@bichapapao",
       "quantidade_seguidores": "23237",
       "tipo": "Ilustração / Arte Queer / Zines",
+      "uf": "DF"
+    },
+    {
+      "nome": "Titi Freak",
+      "arroba": "@titifreak",
+      "quantidade_seguidores": "20741",
+      "tipo": "Arte Urbana / Gravura / Murais",
+      "uf": "DF"
+    },
+    {
+      "nome": "Julia Bax",
+      "arroba": "@juliabax",
+      "quantidade_seguidores": "17683",
+      "tipo": "Quadrinhos / Pintura Digital",
+      "uf": "DF"
+    },
+    {
+      "nome": "Rafael Sica",
+      "arroba": "@sica_rafael",
+      "quantidade_seguidores": "14835",
+      "tipo": "Quadrinhos Independentes / Gravura",
       "uf": "DF"
     },
     {
@@ -4328,6 +6491,13 @@ const MASTER_PAYLOAD = {
       "arroba": "@burocratacarimbos",
       "quantidade_seguidores": "12706",
       "tipo": "Carimbos Artesanais / Gravura",
+      "uf": "DF"
+    },
+    {
+      "nome": "Manuela Eichner",
+      "arroba": "@manuelaeichner",
+      "quantidade_seguidores": "12468",
+      "tipo": "Colagem Contemporânea / Zines",
       "uf": "DF"
     },
     {
@@ -4352,10 +6522,24 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
+      "nome": "Marina Quintanilha",
+      "arroba": "@marinaquintanilha",
+      "quantidade_seguidores": "7481",
+      "tipo": "Gravura / Design Têxtil",
+      "uf": "DF"
+    },
+    {
       "nome": "Alegrias Ilustradas",
       "arroba": "@alegriasilustradas",
       "quantidade_seguidores": "5501",
       "tipo": "Ilustração Autoral / Papelaria",
+      "uf": "DF"
+    },
+    {
+      "nome": "Lucas Gehre",
+      "arroba": "@lucasgehre",
+      "quantidade_seguidores": "5201",
+      "tipo": "Quadrinhos / Ilustração / Zines",
       "uf": "DF"
     },
     {
@@ -4394,6 +6578,20 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
+      "nome": "Pérola Bonfanti",
+      "arroba": "@perolabonfanti",
+      "quantidade_seguidores": "4191",
+      "tipo": "Ilustração Editorial / Zines",
+      "uf": "DF"
+    },
+    {
+      "nome": "Leo Gibran",
+      "arroba": "@leogibran",
+      "quantidade_seguidores": "3702",
+      "tipo": "Quadrinhos / Storyboard / Zines",
+      "uf": "DF"
+    },
+    {
       "nome": "Boom Alternativa",
       "arroba": "@boomalternativa",
       "quantidade_seguidores": "3692",
@@ -4415,10 +6613,24 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
+      "nome": "Estúdio Rebimboca",
+      "arroba": "@estudiorebimboca",
+      "quantidade_seguidores": "2413",
+      "tipo": "Risografia / Pôsteres / Zines",
+      "uf": "DF"
+    },
+    {
       "nome": "Ani Ganzala",
       "arroba": "@aniganzala",
       "quantidade_seguidores": "2074",
       "tipo": "Ilustração / Gravura / Aquarela",
+      "uf": "DF"
+    },
+    {
+      "nome": "Gustavo Magalhães",
+      "arroba": "@gustavomagalhaes",
+      "quantidade_seguidores": "2051",
+      "tipo": "Pintura Contemporânea / Murais",
       "uf": "DF"
     },
     {
@@ -4464,6 +6676,13 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
+      "nome": "Agus Caldas",
+      "arroba": "@aguscaldas",
+      "quantidade_seguidores": "1664",
+      "tipo": "Artes Visuais / Aquarela / Zines",
+      "uf": "DF"
+    },
+    {
       "nome": "Desenhista das Cavernas",
       "arroba": "@desenhista_das_cavernas",
       "quantidade_seguidores": "1579",
@@ -4478,10 +6697,24 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
+      "nome": "Rebeca Prado",
+      "arroba": "@rebecapradoart",
+      "quantidade_seguidores": "1356",
+      "tipo": "Ilustração / Tirinhas / Humor",
+      "uf": "DF"
+    },
+    {
       "nome": "Bonequinhos",
       "arroba": "@bonequinhos",
       "quantidade_seguidores": "1258",
       "tipo": "Artes Visuais / Gravura / Feira Motim",
+      "uf": "DF"
+    },
+    {
+      "nome": "Ingrid Biesemeyer",
+      "arroba": "@ingridbbellinghausen",
+      "quantidade_seguidores": "1228",
+      "tipo": "Livro Ilustrado / Gravura Infantil",
       "uf": "DF"
     },
     {
@@ -4513,10 +6746,24 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
+      "nome": "Caio Ogata",
+      "arroba": "@caioogata",
+      "quantidade_seguidores": "960",
+      "tipo": "Gravura / Impressão Manual",
+      "uf": "DF"
+    },
+    {
       "nome": "Ateliê Xinela",
       "arroba": "@xinelarts",
       "quantidade_seguidores": "936",
       "tipo": "Jogos / Ilustração / Arte Urbana",
+      "uf": "DF"
+    },
+    {
+      "nome": "Daniel Seda",
+      "arroba": "@danielseda",
+      "quantidade_seguidores": "854",
+      "tipo": "Gravura / Tatuagem / Flash Art",
       "uf": "DF"
     },
     {
@@ -4534,6 +6781,13 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
+      "nome": "Arthur Ortega",
+      "arroba": "@arthurortega",
+      "quantidade_seguidores": "810",
+      "tipo": "Quadrinhos / Tiras",
+      "uf": "DF"
+    },
+    {
       "nome": "Herminio Ilustra",
       "arroba": "@herminioilustra",
       "quantidade_seguidores": "799",
@@ -4548,6 +6802,13 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
+      "nome": "Soraia",
+      "arroba": "@soraiailustra",
+      "quantidade_seguidores": "764",
+      "tipo": "Ilustração / Aquarela / Zines",
+      "uf": "DF"
+    },
+    {
       "nome": "Gravuroteca",
       "arroba": "@gravuroteca",
       "quantidade_seguidores": "626",
@@ -4559,6 +6820,13 @@ const MASTER_PAYLOAD = {
       "arroba": "@andreylopes",
       "quantidade_seguidores": "598",
       "tipo": "Artes Visuais / Brasília",
+      "uf": "DF"
+    },
+    {
+      "nome": "Pedro Franz",
+      "arroba": "@pedrofranz",
+      "quantidade_seguidores": "579",
+      "tipo": "Artes Visuais / Quadrinhos / Gravura",
       "uf": "DF"
     },
     {
@@ -4594,6 +6862,13 @@ const MASTER_PAYLOAD = {
       "arroba": "@crocoxilo",
       "quantidade_seguidores": "367",
       "tipo": "Xilogravura / Impressão Manual",
+      "uf": "DF"
+    },
+    {
+      "nome": "Luciana Nabuco",
+      "arroba": "@luciananabuco",
+      "quantidade_seguidores": "333",
+      "tipo": "Pintura / Aquarela / Ilustração",
       "uf": "DF"
     },
     {
@@ -4653,6 +6928,27 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
+      "nome": "Weberson Santiago",
+      "arroba": "@webersonsantiago",
+      "quantidade_seguidores": "58",
+      "tipo": "Ilustração Editorial / Livros",
+      "uf": "DF"
+    },
+    {
+      "nome": "Felipe Sobreiro",
+      "arroba": "@felipesobreiro",
+      "quantidade_seguidores": "44",
+      "tipo": "Ilustração / Colorista de Quadrinhos",
+      "uf": "DF"
+    },
+    {
+      "nome": "Talita Noel",
+      "arroba": "@talitanoel",
+      "quantidade_seguidores": "43",
+      "tipo": "Cerâmica Artística / Escultura",
+      "uf": "DF"
+    },
+    {
       "nome": "Fagulha",
       "arroba": "@editorafagulha",
       "quantidade_seguidores": "34",
@@ -4660,10 +6956,45 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
+      "nome": "Murilo Martins",
+      "arroba": "@murilomartins",
+      "quantidade_seguidores": "27",
+      "tipo": "Quadrinhos Autoriais / Zines",
+      "uf": "DF"
+    },
+    {
       "nome": "Casa Toró",
       "arroba": "@casatoro",
       "quantidade_seguidores": "26",
       "tipo": "Cerâmica / Design Autoral",
+      "uf": "DF"
+    },
+    {
+      "nome": "Anansi Lab",
+      "arroba": "@anansilab",
+      "quantidade_seguidores": "15",
+      "tipo": "Editora Independente / Zines",
+      "uf": "DF"
+    },
+    {
+      "nome": "Bordados da Maria",
+      "arroba": "@bordadosdamaria",
+      "quantidade_seguidores": "14",
+      "tipo": "Bordado Autoral / Arte Têxtil",
+      "uf": "DF"
+    },
+    {
+      "nome": "Estúdio Baobá",
+      "arroba": "@estudiobaoba",
+      "quantidade_seguidores": "13",
+      "tipo": "Design Gráfico / Impressão Autoral",
+      "uf": "DF"
+    },
+    {
+      "nome": "Art Mesq",
+      "arroba": "@artmesq",
+      "quantidade_seguidores": "8",
+      "tipo": "Gravura / Impressão Manual",
       "uf": "DF"
     },
     {
@@ -4688,6 +7019,13 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
+      "nome": "Tiago Judas",
+      "arroba": "@tiagojudas",
+      "quantidade_seguidores": "2",
+      "tipo": "Artes Visuais / Gravura / Desenho",
+      "uf": "DF"
+    },
+    {
       "nome": "Coletivo Suindara",
       "arroba": "@coletivosuindara",
       "quantidade_seguidores": "1",
@@ -4696,6 +7034,27 @@ const MASTER_PAYLOAD = {
     }
   ],
   "influenciadores": [
+    {
+      "nome": "Hugo Gloss",
+      "arroba": "@hugogloss",
+      "quantidade_seguidores": "21918188",
+      "tipo": "Entretenimento / Cultura Pop / Brasília",
+      "uf": "DF"
+    },
+    {
+      "nome": "Letícia Gomes",
+      "arroba": "@leticiafgomes",
+      "quantidade_seguidores": "4424831",
+      "tipo": "Maquiagem Artística e Cultura DF",
+      "uf": "DF"
+    },
+    {
+      "nome": "Amanda Fitas",
+      "arroba": "@amandafitas",
+      "quantidade_seguidores": "2047084",
+      "tipo": "Psicologia e Comportamento DF",
+      "uf": "DF"
+    },
     {
       "nome": "Ana Clara Paim",
       "arroba": "@anaclarapaim",
@@ -4711,10 +7070,24 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
-      "nome": "Visite Brasília",
-      "arroba": "@visitebrasilia",
-      "quantidade_seguidores": "193985",
-      "tipo": "Turismo / Cultura Urbana e Lifestyle DF",
+      "nome": "Pedro Matos",
+      "arroba": "@pedromatos",
+      "quantidade_seguidores": "172445",
+      "tipo": "Fotografia e Arte Urbana BSB",
+      "uf": "DF"
+    },
+    {
+      "nome": "Victor da Império",
+      "arroba": "@victordaimperio",
+      "quantidade_seguidores": "168870",
+      "tipo": "Empreendedorismo e Rotina DF",
+      "uf": "DF"
+    },
+    {
+      "nome": "Victor Bittencourt",
+      "arroba": "@victorbittencoourt",
+      "quantidade_seguidores": "149971",
+      "tipo": "Humor e Cotidiano Jovem DF",
       "uf": "DF"
     },
     {
@@ -4732,6 +7105,13 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
+      "nome": "Gabrielle Ximenes",
+      "arroba": "@ximenesgab",
+      "quantidade_seguidores": "100676",
+      "tipo": "Moda e Lifestyle DF",
+      "uf": "DF"
+    },
+    {
       "nome": "TJ Fernandes",
       "arroba": "@tjfernandesoficial",
       "quantidade_seguidores": "93163",
@@ -4739,17 +7119,73 @@ const MASTER_PAYLOAD = {
       "uf": "DF"
     },
     {
-      "nome": "DCE UnB Honestino Guimarães",
-      "arroba": "@dceunb",
-      "quantidade_seguidores": "23544",
-      "tipo": "Liderança Estudantil / Universidade de Brasília",
+      "nome": "Karl Jeanneth",
+      "arroba": "@cheiadesegredos",
+      "quantidade_seguidores": "82186",
+      "tipo": "Gastronomia e Cultura Urbana DF",
       "uf": "DF"
     },
     {
-      "nome": "Brasília de Fato",
-      "arroba": "@brasiliadefato",
-      "quantidade_seguidores": "9724",
-      "tipo": "Jornalismo Independente / Questões Sociais DF",
+      "nome": "Sérgio Falconi",
+      "arroba": "@sergio.falconi",
+      "quantidade_seguidores": "74479",
+      "tipo": "Moda e Viagens DF",
+      "uf": "DF"
+    },
+    {
+      "nome": "Diego Martins",
+      "arroba": "@diegomartins",
+      "quantidade_seguidores": "69948",
+      "tipo": "Arte, Música e Entretenimento DF",
+      "uf": "DF"
+    },
+    {
+      "nome": "Nathália Brito",
+      "arroba": "@jasalvaessadica",
+      "quantidade_seguidores": "46265",
+      "tipo": "Dicas e Cotidiano Brasília",
+      "uf": "DF"
+    },
+    {
+      "nome": "Carol Almeida",
+      "arroba": "@carolzinha_lims",
+      "quantidade_seguidores": "39829",
+      "tipo": "Beleza e Moda Urbana BSB",
+      "uf": "DF"
+    },
+    {
+      "nome": "Camila Pellegrini",
+      "arroba": "@camilapellegrini",
+      "quantidade_seguidores": "36311",
+      "tipo": "Moda e Lifestyle Brasília",
+      "uf": "DF"
+    },
+    {
+      "nome": "Júlia Moreno",
+      "arroba": "@juliamorenooficial",
+      "quantidade_seguidores": "28101",
+      "tipo": "Música e Cultura Urbana BSB",
+      "uf": "DF"
+    },
+    {
+      "nome": "Vovó Blogueira DF",
+      "arroba": "@vovoblogueiradf",
+      "quantidade_seguidores": "25657",
+      "tipo": "Cotidiano e Família / Taguatinga DF",
+      "uf": "DF"
+    },
+    {
+      "nome": "Djenifer Longen",
+      "arroba": "@djeniferlongen",
+      "quantidade_seguidores": "22307",
+      "tipo": "Nutrição e Lifestyle Brasília",
+      "uf": "DF"
+    },
+    {
+      "nome": "Tathy Amiga",
+      "arroba": "@tathyamiga",
+      "quantidade_seguidores": "9421",
+      "tipo": "Lifestyle e Bem-estar Brasília",
       "uf": "DF"
     },
     {
@@ -4758,6 +7194,132 @@ const MASTER_PAYLOAD = {
       "quantidade_seguidores": "6773",
       "tipo": "Lifestyle / Moda e Criação de Conteúdo",
       "uf": "DF"
+    },
+    {
+      "nome": "Letícia Muniz",
+      "arroba": "@leticiamuniz",
+      "quantidade_seguidores": "3055",
+      "tipo": "Autoestima e Moda Brasília",
+      "uf": "DF"
+    },
+    {
+      "nome": "Breno Lima",
+      "arroba": "@brenolima",
+      "quantidade_seguidores": "2123",
+      "tipo": "Música e Cultura Urbana DF",
+      "uf": "DF"
+    },
+    {
+      "nome": "Tati Martins",
+      "arroba": "@tatimartins",
+      "quantidade_seguidores": "1300",
+      "tipo": "Entretenimento e Cultura Pop DF",
+      "uf": "DF"
+    },
+    {
+      "nome": "Lucas Rocco",
+      "arroba": "@lucasrocco",
+      "quantidade_seguidores": "939",
+      "tipo": "Lifestyle e Esportes Brasília",
+      "uf": "DF"
+    },
+    {
+      "nome": "Marcos Costa",
+      "arroba": "@marcos.costa",
+      "quantidade_seguidores": "804",
+      "tipo": "Beleza e Estilo DF",
+      "uf": "DF"
+    },
+    {
+      "nome": "Igor Cordeiro",
+      "arroba": "@igorcordeiro",
+      "quantidade_seguidores": "785",
+      "tipo": "Comédia e Stand-up DF",
+      "uf": "DF"
+    },
+    {
+      "nome": "Cynthia Senek",
+      "arroba": "@cynthia.senek",
+      "quantidade_seguidores": "648",
+      "tipo": "Audiovisual e Arte DF",
+      "uf": "DF"
+    },
+    {
+      "nome": "Dani Martins",
+      "arroba": "@danimartins",
+      "quantidade_seguidores": "464",
+      "tipo": "Dicas e Gastronomia BSB",
+      "uf": "DF"
+    },
+    {
+      "nome": "Maria Clara Couto",
+      "arroba": "@mariaclarac",
+      "quantidade_seguidores": "413",
+      "tipo": "Lifestyle e Rotina Universitária DF",
+      "uf": "DF"
+    },
+    {
+      "nome": "Felipe Bessa",
+      "arroba": "@felipe_bessa",
+      "quantidade_seguidores": "302",
+      "tipo": "Lifestyle e Fotografia Brasília",
+      "uf": "DF"
+    },
+    {
+      "nome": "Maria Luiza Menezes",
+      "arroba": "@marialuizamenezes",
+      "quantidade_seguidores": "154",
+      "tipo": "Moda e Vida Universitária BSB",
+      "uf": "DF"
+    },
+    {
+      "nome": "Gabriela de Lourdes",
+      "arroba": "@gabrieladelourdes",
+      "quantidade_seguidores": "51",
+      "tipo": "Lifestyle e Cotidiano DF",
+      "uf": "DF"
+    },
+    {
+      "nome": "Marcelo Martins",
+      "arroba": "@marcelomartins",
+      "quantidade_seguidores": "4",
+      "tipo": "Entretenimento e Crítica DF",
+      "uf": "DF"
+    },
+    {
+      "nome": "Virgínia Fonseca",
+      "arroba": "@virginia",
+      "quantidade_seguidores": "56891578",
+      "tipo": "Lifestyle e Criação de Conteúdo Goiânia",
+      "uf": "GO"
+    },
+    {
+      "nome": "Maraisa",
+      "arroba": "@maraisa",
+      "quantidade_seguidores": "12994845",
+      "tipo": "Música e Estilo de Vida Goiânia",
+      "uf": "GO"
+    },
+    {
+      "nome": "Maiara",
+      "arroba": "@maiara",
+      "quantidade_seguidores": "12084932",
+      "tipo": "Música e Estilo de Vida Goiânia",
+      "uf": "GO"
+    },
+    {
+      "nome": "Poliana Rocha",
+      "arroba": "@poliana",
+      "quantidade_seguidores": "11818515",
+      "tipo": "Lifestyle e Família Goiânia",
+      "uf": "GO"
+    },
+    {
+      "nome": "Felipe Araújo",
+      "arroba": "@felipearaujocantor",
+      "quantidade_seguidores": "8712117",
+      "tipo": "Música e Entretenimento Goiânia",
+      "uf": "GO"
     },
     {
       "nome": "Camila Pudim",
@@ -4781,6 +7343,55 @@ const MASTER_PAYLOAD = {
       "uf": "GO"
     },
     {
+      "nome": "Jéssica Cardoso",
+      "arroba": "@jessicacardoso",
+      "quantidade_seguidores": "3929186",
+      "tipo": "Maquiagem e Trends Criativas GO",
+      "uf": "GO"
+    },
+    {
+      "nome": "Fidelis Falante",
+      "arroba": "@fidelisfalante",
+      "quantidade_seguidores": "2507644",
+      "tipo": "Comédia Regional / Cultura Goiana",
+      "uf": "GO"
+    },
+    {
+      "nome": "Israel Novaes",
+      "arroba": "@israelnovaes",
+      "quantidade_seguidores": "2250179",
+      "tipo": "Música e Rotina Fitness Goiânia",
+      "uf": "GO"
+    },
+    {
+      "nome": "Thays Jubé",
+      "arroba": "@thaysjube",
+      "quantidade_seguidores": "1135986",
+      "tipo": "Moda e Cotidiano Empresarial GO",
+      "uf": "GO"
+    },
+    {
+      "nome": "Raiza Marinari",
+      "arroba": "@raizamarinari",
+      "quantidade_seguidores": "1027664",
+      "tipo": "Moda e Empreendedorismo Goiânia",
+      "uf": "GO"
+    },
+    {
+      "nome": "Gabriel Gava",
+      "arroba": "@gabrielgava",
+      "quantidade_seguidores": "1021335",
+      "tipo": "Música e Cultura Goiana",
+      "uf": "GO"
+    },
+    {
+      "nome": "Gabriella Kemilly",
+      "arroba": "@gabriella_kemilly",
+      "quantidade_seguidores": "738267",
+      "tipo": "Cultura Regional e Humor Caipira GO",
+      "uf": "GO"
+    },
+    {
       "nome": "Manuela Xavier",
       "arroba": "@manuelaxavier",
       "quantidade_seguidores": "437194",
@@ -4795,6 +7406,13 @@ const MASTER_PAYLOAD = {
       "uf": "GO"
     },
     {
+      "nome": "Bruno Gouveia",
+      "arroba": "@brunogouveia",
+      "quantidade_seguidores": "112562",
+      "tipo": "Música e Cultura Goiana",
+      "uf": "GO"
+    },
+    {
       "nome": "João Vitor (Goiânia)",
       "arroba": "@joaovitor",
       "quantidade_seguidores": "104522",
@@ -4802,17 +7420,94 @@ const MASTER_PAYLOAD = {
       "uf": "GO"
     },
     {
+      "nome": "Carol Biazotto",
+      "arroba": "@carolbiazotto",
+      "quantidade_seguidores": "54806",
+      "tipo": "Lifestyle e Saúde Goiânia",
+      "uf": "GO"
+    },
+    {
+      "nome": "Danilo Suassuna",
+      "arroba": "@danilosuassuna",
+      "quantidade_seguidores": "7720",
+      "tipo": "Psicologia e Comportamento Goiânia",
+      "uf": "GO"
+    },
+    {
+      "nome": "Ana Paula Coutinho",
+      "arroba": "@anapaulacoutinho",
+      "quantidade_seguidores": "3245",
+      "tipo": "Moda e Tendências Goiânia",
+      "uf": "GO"
+    },
+    {
+      "nome": "Iana Haas",
+      "arroba": "@ianahaas",
+      "quantidade_seguidores": "2985",
+      "tipo": "Moda e Lifestyle Goiânia",
+      "uf": "GO"
+    },
+    {
+      "nome": "Júlia Paes",
+      "arroba": "@juliapaes",
+      "quantidade_seguidores": "1672",
+      "tipo": "Lifestyle e Bem-estar Goiás",
+      "uf": "GO"
+    },
+    {
+      "nome": "Zé Felipe",
+      "arroba": "@zefelipecantor",
+      "quantidade_seguidores": "193",
+      "tipo": "Música e Entretenimento Goiânia",
+      "uf": "GO"
+    },
+    {
+      "nome": "Marcos Túlio",
+      "arroba": "@marcos.tulio",
+      "quantidade_seguidores": "5",
+      "tipo": "Agro e Negócios Goiás",
+      "uf": "GO"
+    },
+    {
+      "nome": "Álvaro",
+      "arroba": "@alvxaro",
+      "quantidade_seguidores": "18295963",
+      "tipo": "Humor e Cotidiano Recife",
+      "uf": "PE"
+    },
+    {
+      "nome": "João Gomes",
+      "arroba": "@joaogomescantor",
+      "quantidade_seguidores": "17467571",
+      "tipo": "Música e Cultura Pernambucana",
+      "uf": "PE"
+    },
+    {
+      "nome": "Gil do Vigor",
+      "arroba": "@gildovigor",
+      "quantidade_seguidores": "15789809",
+      "tipo": "Economia, Educação e Entretenimento PE",
+      "uf": "PE"
+    },
+    {
+      "nome": "Laura Brito",
+      "arroba": "@laurabrito",
+      "quantidade_seguidores": "6232732",
+      "tipo": "Moda e Beleza Pernambuco",
+      "uf": "PE"
+    },
+    {
+      "nome": "Camila Coutinho",
+      "arroba": "@camilacoutinho",
+      "quantidade_seguidores": "3204425",
+      "tipo": "Moda, Negócios e Lifestyle Recife",
+      "uf": "PE"
+    },
+    {
       "nome": "Talokudo",
       "arroba": "@talokudo",
       "quantidade_seguidores": "2408903",
       "tipo": "Comédia / Humor Regional / Personagens",
-      "uf": "PE"
-    },
-    {
-      "nome": "Recife Ordinário",
-      "arroba": "@recifeordinario",
-      "quantidade_seguidores": "2209278",
-      "tipo": "Cultura Urbana / Humor / Cotidiano Recife",
       "uf": "PE"
     },
     {
@@ -4830,6 +7525,20 @@ const MASTER_PAYLOAD = {
       "uf": "PE"
     },
     {
+      "nome": "Thais Dutra de Sá",
+      "arroba": "@thaisdutrasa",
+      "quantidade_seguidores": "522511",
+      "tipo": "Viagens e Skincare Recife",
+      "uf": "PE"
+    },
+    {
+      "nome": "Cuca Amorim",
+      "arroba": "@cucaamorim",
+      "quantidade_seguidores": "395151",
+      "tipo": "Moda e Comportamento Recife",
+      "uf": "PE"
+    },
+    {
       "nome": "Caio Braz",
       "arroba": "@caio",
       "quantidade_seguidores": "383619",
@@ -4844,10 +7553,17 @@ const MASTER_PAYLOAD = {
       "uf": "PE"
     },
     {
-      "nome": "Recife Mais",
-      "arroba": "@recifemais",
-      "quantidade_seguidores": "177809",
-      "tipo": "Guia Cultural / Rolês e Juventude Recife",
+      "nome": "Paulinho Faria",
+      "arroba": "@paulinhofaria",
+      "quantidade_seguidores": "197832",
+      "tipo": "Humor e Desafios Recife",
+      "uf": "PE"
+    },
+    {
+      "nome": "Tiago Arrais",
+      "arroba": "@tiagoarrais",
+      "quantidade_seguidores": "115944",
+      "tipo": "Música e Filosofia PE",
       "uf": "PE"
     },
     {
@@ -4869,6 +7585,55 @@ const MASTER_PAYLOAD = {
       "arroba": "@bellamlemos",
       "quantidade_seguidores": "3058",
       "tipo": "Lifestyle / Beleza e Estética Recife",
+      "uf": "PE"
+    },
+    {
+      "nome": "Duda Francisco",
+      "arroba": "@dudafrancisco",
+      "quantidade_seguidores": "2642",
+      "tipo": "Moda e Lifestyle Recife",
+      "uf": "PE"
+    },
+    {
+      "nome": "Clara Gadelha",
+      "arroba": "@claragadelha",
+      "quantidade_seguidores": "1304",
+      "tipo": "Beleza e Cotidiano Recife",
+      "uf": "PE"
+    },
+    {
+      "nome": "Carolina Salles",
+      "arroba": "@carolinasalles",
+      "quantidade_seguidores": "796",
+      "tipo": "Gastronomia e Dicas Recife",
+      "uf": "PE"
+    },
+    {
+      "nome": "Laura Moraes",
+      "arroba": "@lauramoraes",
+      "quantidade_seguidores": "752",
+      "tipo": "Moda e Lifestyle Recife",
+      "uf": "PE"
+    },
+    {
+      "nome": "Alanna Sales",
+      "arroba": "@alannasales",
+      "quantidade_seguidores": "66",
+      "tipo": "Lifestyle e Moda Recife",
+      "uf": "PE"
+    },
+    {
+      "nome": "Ana Clara Barbosa",
+      "arroba": "@anaclarabarbosa",
+      "quantidade_seguidores": "46",
+      "tipo": "Lifestyle e Juventude PE",
+      "uf": "PE"
+    },
+    {
+      "nome": "Mariely Santos",
+      "arroba": "@marielysantos",
+      "quantidade_seguidores": "26",
+      "tipo": "Humor e Lifestyle Recife",
       "uf": "PE"
     }
   ],
@@ -6631,7 +9396,7 @@ const MASTER_PAYLOAD = {
       "nome": "Empresa Júnior (Universidade de Brasília (UnB) / Departamento de Administração)",
       "link": "https://admconsultoria.com.br",
       "email": "contato@admconsultoria.com.br",
-      "telefone": "",
+      "telefone": "(61) 3107-0740",
       "uf": "DF",
       "obs": "Empresa Júnior universitária extraída de Audiencias:siglas_unb_2025"
     },
@@ -6639,7 +9404,7 @@ const MASTER_PAYLOAD = {
       "nome": "Empresa Júnior (Universidade de Brasília (UnB) / ELE)",
       "link": "https://eletrojr.com.br",
       "email": "contato@eletrojr.com.br",
-      "telefone": "",
+      "telefone": "(61) 3107-5588",
       "uf": "DF",
       "obs": "Empresa Júnior universitária extraída de Audiencias:siglas_unb_2025"
     },
@@ -6647,7 +9412,7 @@ const MASTER_PAYLOAD = {
       "nome": "Empresa Júnior (Universidade de Brasília (UnB) / PRO)",
       "link": "https://engeproconsultoria.com.br",
       "email": "comercial@engeproconsultoria.com.br",
-      "telefone": "",
+      "telefone": "(61) 3107-5722",
       "uf": "DF",
       "obs": "Empresa Júnior universitária extraída de Audiencias:siglas_unb_2025"
     },
@@ -6655,13 +9420,13 @@ const MASTER_PAYLOAD = {
       "nome": "Empresa Júnior (Universidade de Brasília (UnB) / MEC)",
       "link": "https://mecajun.com",
       "email": "contato@mecajun.com",
-      "telefone": "",
+      "telefone": "(61) 3107-5716",
       "uf": "DF",
       "obs": "Empresa Júnior universitária extraída de Audiencias:siglas_unb_2025"
     },
     {
       "nome": "Empresa Júnior (Universidade de Brasília (UnB) / FL)",
-      "link": "",
+      "link": "https://www.instagram.com/unbflorestal/",
       "email": "unbflorestal@gmail.com",
       "telefone": "",
       "uf": "DF",
@@ -6688,7 +9453,7 @@ const MASTER_PAYLOAD = {
       "link": "https://www.instagram.com/auin_unesp/",
       "email": "",
       "telefone": "",
-      "uf": "BR",
+      "uf": "SP",
       "obs": "Além disso, a AUIN incentiva e apoia o empreendedorismo universitário que comprometido com a criação de novos negócios (como empresas filhas, startups e spin-offs), produtos, servi"
     },
     {
@@ -7599,7 +10364,7 @@ const MASTER_PAYLOAD = {
       "nome": "cjr.unb",
       "link": "https://www.instagram.com/cjr.unb/",
       "email": "",
-      "telefone": "",
+      "telefone": "(61) 3107-0104",
       "uf": "DF",
       "obs": "Desenvolvendo ideias e impulsionando resultados. — Canal Instagram"
     },
@@ -7624,7 +10389,7 @@ const MASTER_PAYLOAD = {
       "link": "https://www.instagram.com/cursinhofeausp/",
       "email": "",
       "telefone": "",
-      "uf": "BR",
+      "uf": "SP",
       "obs": "O Cursinho FEAUSP é um projeto social sem fins lucrativos. Atuando desde 2000 como um cursinho pré-vestibular popular, tem a missão de promover a democratização da educação promove"
     },
     {
@@ -7944,7 +10709,7 @@ const MASTER_PAYLOAD = {
       "link": "https://www.instagram.com/enactusufmg/?hl=pt",
       "email": "",
       "telefone": "",
-      "uf": "BR",
+      "uf": "MG",
       "obs": "Time de estudantes com a missão de empoderar pessoas e impactar comunidades por meio do empreendedorismo social. — Canal Instagram"
     },
     {
@@ -10781,15 +13546,15 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome": "Núcleo Bauru",
-      "link": "",
+      "link": "https://www.instagram.com/nucleobauru/",
       "email": "",
       "telefone": "15997016317",
-      "uf": "BR",
+      "uf": "SP",
       "obs": "Contato direto WhatsApp (Beatriz)"
     },
     {
       "nome": "Brasil Jr",
-      "link": "",
+      "link": "https://brasiljr.org.br",
       "email": "",
       "telefone": "11970820070",
       "uf": "BR",
@@ -10797,7 +13562,7 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome": "CA Eng. Quimíca UFMT | Enactus UFMT",
-      "link": "",
+      "link": "https://www.instagram.com/enactusufmt/",
       "email": "",
       "telefone": "6593616791",
       "uf": "MT",
@@ -10805,11 +13570,371 @@ const MASTER_PAYLOAD = {
     },
     {
       "nome": "Instituto Four",
-      "link": "",
+      "link": "https://institutofour.org",
       "email": "",
       "telefone": "3388546292",
       "uf": "BR",
       "obs": "Contato direto WhatsApp (Daniel)"
+    },
+    {
+      "nome": "Aracá - Eliane Rocha",
+      "link": "",
+      "email": "",
+      "telefone": "61 992126378",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "Confie - Ana Luiza Moura de Freitas",
+      "link": "https://www.instagram.com/confieunb/",
+      "email": "",
+      "telefone": "61-999948829",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "ECOFLOR - Caio Mendes de Souza Teixeirense",
+      "link": "https://www.instagram.com/ecoflorej/",
+      "email": "",
+      "telefone": "(61) 99325-2965",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "ENETEC - Maria Laura Gonçalves de Castro",
+      "link": "https://enetec.com.br",
+      "email": "",
+      "telefone": "(62) 99672-0404",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "ENGNET - Caio Andrade",
+      "link": "https://engnetconsultoria.com.br",
+      "email": "",
+      "telefone": "55 81 8257-6291",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "FLUA - Daniel Freitas",
+      "link": "https://www.instagram.com/flua_unb/",
+      "email": "",
+      "telefone": "61 98609-4736",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "Genesys - Alice Araújo Bartoli",
+      "link": "https://www.instagram.com/genesysconsultoria/",
+      "email": "",
+      "telefone": "(61) 999153003",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "ORC'ESTRA - Guilherme Lorenzi Ventura",
+      "link": "https://orcestraej.com.br",
+      "email": "",
+      "telefone": "(17) 98207-0899",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "Terapêutica - Felipe Carvalho Negrão",
+      "link": "https://www.instagram.com/terapeuticajr/",
+      "email": "",
+      "telefone": "(61) 99151-4045",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "Zenit - Mariana Pereira Schumann",
+      "link": "https://www.instagram.com/zenitaeroespacial/",
+      "email": "",
+      "telefone": "(61) 98355-9549",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "Domani - Rodrigo Messias de Souza",
+      "link": "https://www.instagram.com/domaniconsultoria/",
+      "email": "",
+      "telefone": "62 9966-0050",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[H] [PCI] Pedro Mallab",
+      "link": "https://www.instagram.com/pciconsultoriajr/",
+      "email": "",
+      "telefone": "55 61 9854-0330",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[H] Cjr Empresa Junior de Computacao",
+      "link": "https://cjr.org.br",
+      "email": "",
+      "telefone": "55 61 8153-9581",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[H][Ábaco] Emanuel",
+      "link": "https://www.instagram.com/abaco.ej/",
+      "email": "",
+      "telefone": "55 61 9848-4485",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[H][Advocatta] Heitor Kawamoto",
+      "link": "https://www.instagram.com/advocattaconsultoria/",
+      "email": "",
+      "telefone": "55 61 8166-7672",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[H][Capital]",
+      "link": "https://www.instagram.com/capitalconsultoriajr/",
+      "email": "",
+      "telefone": "55 61 9132-3773",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[H][Capital]",
+      "link": "https://www.instagram.com/capitalconsultoriajr/",
+      "email": "",
+      "telefone": "55 61 8385-6614",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[H][Capital] Caio Mota Ribeiro",
+      "link": "https://www.instagram.com/capitalconsultoriajr/",
+      "email": "",
+      "telefone": "55 93 9229-1872",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[H][Concreta] Luiza Gonçalves",
+      "link": "https://www.instagram.com/concretaconsultoria/",
+      "email": "",
+      "telefone": "55 34 8866-3378",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[H][Condie]",
+      "link": "https://www.instagram.com/condiejr/",
+      "email": "",
+      "telefone": "55 61 9854-4209",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[H][CSTQ]",
+      "link": "https://www.instagram.com/cstqjunior/",
+      "email": "",
+      "telefone": "55 61 9296-1971",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[H][Doisnovemeia] Juliana Martins",
+      "link": "https://www.instagram.com/doisnovemeia.arte/",
+      "email": "",
+      "telefone": "55 61 8326-3686",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[H][EletronJun]",
+      "link": "https://eletronjun.com.br",
+      "email": "",
+      "telefone": "55 61 9935-9749",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[H][ENDÊMICA]",
+      "link": "https://www.instagram.com/endemicaej/",
+      "email": "",
+      "telefone": "55 61 8226-9375",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[H][Estat] Camila",
+      "link": "https://www.instagram.com/estatconsultoria/",
+      "email": "",
+      "telefone": "55 61 9852-8633",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[H][Estat] Isabela Grance Yule",
+      "link": "https://www.instagram.com/estatconsultoria/",
+      "email": "",
+      "telefone": "55 61 9228-6417",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[H][Facto] Manuella Vanzetto (Presidente da Facto Agência de Comunicação)",
+      "link": "https://www.instagram.com/factoagencia/",
+      "email": "",
+      "telefone": "55 61 9969-3656",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[H][Facto] Vitória Angelim",
+      "link": "https://www.instagram.com/factoagencia/",
+      "email": "",
+      "telefone": "55 61 8440-0069",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[H][Flua] Daniel Freitas",
+      "link": "https://www.instagram.com/flua_unb/",
+      "email": "",
+      "telefone": "55 61 8609-4736",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[H][GG]",
+      "link": "https://www.instagram.com/ggconsultoriajr/",
+      "email": "",
+      "telefone": "55 61 9976-5738",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[H][Lamparina Design] Mel",
+      "link": "https://www.instagram.com/lamparinadesign/",
+      "email": "",
+      "telefone": "55 61 9839-4432",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[H][Lógica] Gustavo L.",
+      "link": "https://www.instagram.com/logicaconsultoriajunior/",
+      "email": "",
+      "telefone": "55 61 9161-5086",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[H][Matriz Comunicação]",
+      "link": "https://www.instagram.com/matrizcomunicacaounb/",
+      "email": "",
+      "telefone": "55 61 9860-5350",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[H][Mecajun] Guilherme Matos",
+      "link": "https://mecajun.com",
+      "email": "",
+      "telefone": "55 61 9172-5611",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[H][Meta Jr] João Vítor Falcão 😃",
+      "link": "https://www.instagram.com/metajuniorunb/",
+      "email": "",
+      "telefone": "55 61 9585-5750",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[H][Orc'estra] Guilherme Ventura",
+      "link": "https://orcestraej.com.br",
+      "email": "",
+      "telefone": "55 17 98207-0899",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[H][Praxis] Ezequiel Barbosa",
+      "link": "https://www.instagram.com/praxisjr/",
+      "email": "",
+      "telefone": "55 61 9281-0860",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[H][Pupila] João Praça | @jota.praca",
+      "link": "https://www.instagram.com/pupilajr/",
+      "email": "",
+      "telefone": "55 61 9575-4400",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[H][Zahir] Vitoria",
+      "link": "https://www.instagram.com/zahirconsultoria/",
+      "email": "",
+      "telefone": "55 61 9126-3053",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "[Quimera] Matteus",
+      "link": "https://www.instagram.com/quimeraconsultoriajr/",
+      "email": "",
+      "telefone": "55 61 8538-1573",
+      "uf": "DF",
+      "obs": ""
+    },
+    {
+      "nome": "Concentro DF (Federação das Empresas Juniores do Distrito Federal)",
+      "link": "https://concentro.org.br",
+      "email": "contato@concentro.org.br",
+      "telefone": "(61) 99645-0610",
+      "uf": "DF",
+      "obs": "Instância representativa de todas as Empresas Juniores do Distrito Federal"
+    },
+    {
+      "nome": "FEJESP (Federação das Empresas Juniores do Estado de São Paulo)",
+      "link": "https://fejesp.org.br",
+      "email": "contato@fejesp.org.br",
+      "telefone": "(11) 3288-5111",
+      "uf": "SP",
+      "obs": "Federação estadual das empresas juniores de São Paulo (USP, Unicamp, Unesp)"
+    },
+    {
+      "nome": "FEJEMG (Federação das Empresas Juniores do Estado de Minas Gerais)",
+      "link": "https://fejemg.org.br",
+      "email": "contato@fejemg.org.br",
+      "telefone": "(31) 3274-1233",
+      "uf": "MG",
+      "obs": "Federação estadual das empresas juniores de Minas Gerais (UFMG, UFV, UFU)"
+    },
+    {
+      "nome": "FEJEPE (Federação das Empresas Juniores do Estado de Pernambuco)",
+      "link": "https://fejepe.org.br",
+      "email": "contato@fejepe.org.br",
+      "telefone": "(81) 99876-0810",
+      "uf": "PE",
+      "obs": "Federação estadual das empresas juniores de Pernambuco (UFPE, UPE, Porto Digital)"
+    },
+    {
+      "nome": "DCE UnB Honestino Guimarães",
+      "link": "https://www.instagram.com/dceunb/",
+      "email": "dceunb@gmail.com",
+      "telefone": "(61) 3107-6300",
+      "uf": "DF",
+      "obs": "Diretório Central dos Estudantes da Universidade de Brasília"
     }
   ]
 };

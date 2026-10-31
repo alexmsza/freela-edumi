@@ -10,6 +10,7 @@ REMOVE_DEPT_KEYWORDS: list[str] = [
     "decanato",
     "secretaria geral",
     "secretaria acadêmica geral",
+    "secretaria academica geral",
     "financeiro",
     "comercial",
     "vendas",
@@ -21,6 +22,15 @@ REMOVE_DEPT_KEYWORDS: list[str] = [
     "próreitoria",
     "tesouraria",
     "suporte",
+    "suportes",
+    "suportes de centrais",
+    "biblioteca central",
+    "central",
+    "centrais",
+    "central de atendimento",
+    "central do aluno",
+    "central de relacionamento",
+    "centrais de atendimento",
     "fale conosco",
     "processo seletivo",
     "vestibular",
@@ -28,17 +38,25 @@ REMOVE_DEPT_KEYWORDS: list[str] = [
     "webmaster",
     "atendimento institucional",
     "atendimento geral",
+    "atendimento acadêmico",
+    "atendimento academico",
+    "atendimento ao aluno",
+    "atendimento ao estudante",
     "atendimento acadêmico-financeiro",
     "comunicação social",
     "comunicação institucional",
     "assessoria de comunicação",
     "assessoria de imprensa",
     "ascom",
+    "diretório central dos estudantes",
+    "diretorio central dos estudantes",
 ]
 
 REMOVE_EMAIL_PREFIXES: list[str] = [
     "ouvidoria@",
     "reitoria@",
+    "secretaria.reitoria@",
+    "gabinete.reitoria@",
     "gabinete@",
     "financeiro@",
     "comercial@",
@@ -48,6 +66,7 @@ REMOVE_EMAIL_PREFIXES: list[str] = [
     "faleconosco@",
     "fale.conosco@",
     "atendimento@",
+    "atende@",
     "protocolo@",
     "webmaster@",
     "portal@",
@@ -58,8 +77,12 @@ REMOVE_EMAIL_PREFIXES: list[str] = [
     "decanato@",
     "sac@",
     "central@",
+    "central.",
     "relacionamento@",
     "marketing@",
+    "teleatendimento@",
+    "suporte@",
+    "dceunb@",
 ]
 
 DESCRIPTION_INDICATORS: list[str] = [
@@ -123,7 +146,17 @@ def is_clean_departmental_contact(row: dict[str, Any]) -> bool:
                 continue
             return False
 
-    # 2) Prefixo de email genérico
+    # 2) Prefixo de email proibido ou genérico
+    STRICT_BANNED_EMAIL_PREFIXES = (
+        "ouvidoria@", "reitoria@", "secretaria.reitoria@", "gabinete.reitoria@",
+        "financeiro@", "comercial@", "vendas@", "sales@", "teleatendimento@",
+        "tesouraria@", "decanato@", "sac@", "suporte@", "atendimento@", "atende@",
+        "central@", "central.", "relacionamento@", "marketing@", "dceunb@", "faleconosco@"
+    )
+    for bp in STRICT_BANNED_EMAIL_PREFIXES:
+        if email.startswith(bp):
+            return False
+
     for prefix in REMOVE_EMAIL_PREFIXES:
         if email.startswith(prefix):
             if any(w in dept_lower for w in DEPT_SPECIFIC_WORDS):

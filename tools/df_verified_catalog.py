@@ -20,7 +20,7 @@ DF_VERIFIED_RECORDS: list[dict[str, str]] = [
     {"nome_faculdade": "Universidade de Brasília (UnB)", "nome_departamento": "Ouvidoria da UnB", "email": "ouvidoria@unb.br", "uf": "DF", "source_url": "https://ouvidoria.unb.br"},
     {"nome_faculdade": "Universidade de Brasília (UnB)", "nome_departamento": "Faculdade UnB Ceilândia (FCE)", "email": "fce@unb.br", "uf": "DF", "source_url": "https://fce.unb.br"},
     {"nome_faculdade": "Universidade de Brasília (UnB)", "nome_departamento": "Direção da Faculdade de Medicina (FM)", "email": "fmd@unb.br", "uf": "DF", "source_url": "https://fm.unb.br"},
-    {"nome_faculdade": "Universidade de Brasília (UnB)", "nome_departamento": "Faculdade de Direito — Secretaria / Atendimento (FD)", "email": "daces@unb.br", "uf": "DF", "source_url": "https://fd.unb.br"},
+    {"nome_faculdade": "Universidade de Brasília (UnB)", "nome_departamento": "Secretaria da Faculdade de Direito (FD)", "email": "daces@unb.br", "uf": "DF", "source_url": "https://fd.unb.br"},
     {"nome_faculdade": "Universidade de Brasília (UnB)", "nome_departamento": "Faculdade de Educação — Centro de Extensão e Relações Internacionais (FE)", "email": "ceri@unb.br", "uf": "DF", "source_url": "https://fe.unb.br"},
     {"nome_faculdade": "Universidade de Brasília (UnB)", "nome_departamento": "Direção do Centro de Estudos Avançados Multidisciplinares (CEAM)", "email": "direcaoceam@unb.br", "uf": "DF", "source_url": "https://ceam.unb.br"},
     {"nome_faculdade": "Universidade de Brasília (UnB)", "nome_departamento": "Programa de Pós-Graduação em Direitos Humanos e Cidadania (PPGDH/CEAM)", "email": "ppgdh@unb.br", "uf": "DF", "source_url": "https://ceam.unb.br"},

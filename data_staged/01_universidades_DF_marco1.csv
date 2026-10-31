@@ -1,18 +1,14 @@
 ﻿nome_faculdade,nome_departamento,email,uf
 Centro Universitário Euro-Americano (UNIEURO),Secretaria e Serviços Acadêmicos Online,servicosonline@grupoceuma.com.br,DF
 Centro Universitário IESB,Controladoria e Gestão Institucional,controladoria@iesb.br,DF
-Centro Universitário IESB,Departamento / Coordenação de Psicologia,atendimento@iesb.br,DF
 Centro Universitário IESB,Secretaria de Pós-Graduação e Pesquisa,secretariadaposgraduacao@iesb.br,DF
 Centro Universitário LS (UniLS),Coordenação Acadêmica e Pedagógica (Taguatinga),rosimeire.carmo@unils.edu.br,DF
 Centro Universitário Processus (UniProcessus),Editoria Científica e Pesquisa Acadêmica (Asa Sul / Águas Claras),revistaap@institutoprocessus.com.br,DF
-Centro Universitário Projeção (UniProjeção),Atendimento Acadêmico — Campus Taguatinga,uniprojecaocampus1@projecao.br,DF
 Centro Universitário Projeção (UniProjeção),Coordenação de Atendimento EAD — Asa Norte,atendimentoead@projecao.br,DF
 Centro Universitário Projeção (UniProjeção),Núcleo de Integração e Estágios — Taguatinga,integra.taguatinga@projecao.br,DF
 Centro Universitário Projeção (UniProjeção),Núcleo de Integração — Unidade Guará,integra.guara@projecao.br,DF
 Centro Universitário Projeção (UniProjeção),Núcleo de Integração — Unidade Sobradinho,integra.sobradinho@projecao.br,DF
-Centro Universitário de Brasília (CEUB / UniCEUB),Central de Atendimento e Relacionamento Acadêmico,central.atendimento@uniceub.br,DF
 Centro Universitário de Brasília (CEUB / UniCEUB),Coordenação de Estágios e Carreiras,estagio@uniceub.br,DF
-Centro Universitário do Distrito Federal (UDF),Central de Atendimento ao Aluno (CAA),central.aluno@udf.edu.br,DF
 Escola Nacional de Administração Pública (ENAP),Secretaria Escolar (Pós-Graduação e Mestrado),secretariaescolar@enap.gov.br,DF
 Escola Superior de Ciências da Saúde (ESCS),Coordenação do Curso de Enfermagem (CCE),cce@escs.edu.br,DF
 Escola Superior de Ciências da Saúde (ESCS),Coordenação do Curso de Medicina (CCM),ccm@escs.edu.br,DF
@@ -35,7 +31,6 @@ Faculdade de Tecnologia e Inovação Senac Distrito Federal,Coordenação de Pro
 Faculdade de Tecnologia e Inovação Senac Distrito Federal,Secretaria Acadêmica da Faculdade Senac-DF,secretariaacademica@df.senac.br,DF
 Fundação Getulio Vargas — Escola de Políticas Públicas e Governo (FGV EPPG Brasília),Secretaria da Escola de Políticas Públicas e Governo (EPPG),eppg@fgv.br,DF
 Fundação Getulio Vargas — Polo Brasília (FGV),Coordenação de Educação Executiva e Cursos em Brasília,cursos.bsb@fgv.br,DF
-Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS),Biblioteca Central FEPECS,biblioteca@fepecs.edu.br,DF
 Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS),Comitê de Ética em Pesquisa (CEP),cep@fepecs.edu.br,DF
 Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS),Coordenação de Planejamento e Gestão Estratégica (CPLAGE),cplage@fepecs.edu.br,DF
 Fundação de Ensino e Pesquisa em Ciências da Saúde (FEPECS),Coordenação de Processos Seletivos (CPS),cps@fepecs.edu.br,DF
@@ -86,7 +81,6 @@ SENAI Distrito Federal — Sistema FIBRA,Secretaria Escolar — Unidade Gama,sec
 SENAI Distrito Federal — Sistema FIBRA,Secretaria Escolar — Unidade SIG Brasília,secretaria.sesisig@sistemafibra.org.br,DF
 SENAI Distrito Federal — Sistema FIBRA,Secretaria Escolar — Unidade Sobradinho,secretariasobradinho@sistemafibra.org.br,DF
 SENAI Distrito Federal — Sistema FIBRA,Secretaria Escolar — Unidade Taguatinga,secretaria.sesitaguatinga@sistemafibra.org.br,DF
-Universidade Católica de Brasília (UCB),Central de Atendimento ao Estudante — Graduação (ATENDE),atende@ucb.br,DF
 Universidade Católica de Brasília (UCB),Gestão Estratégica de Pesquisa e Extensão (PAGE),page@ucb.br,DF
 Universidade de Brasília (UnB),Apoio Acadêmico e Administrativo — Faculdade de Tecnologia (FT),adrianaflavia@unb.br,DF
 Universidade de Brasília (UnB),Centro Acadêmico de Engenharia Ambiental (CAEA/FT),engenhariambientalunb@gmail.com,DF
@@ -128,7 +122,6 @@ Universidade de Brasília (UnB),Departamento de Gestão de Políticas Públicas 
 Universidade de Brasília (UnB),Departamento de Jornalismo (JOR),jor@unb.br,DF
 Universidade de Brasília (UnB),Departamento de Sociologia (SOL),sol@unb.br,DF
 Universidade de Brasília (UnB),"Diretoria de Capacitação, Desenvolvimento e Educação (DCADE)",dgpdcade@unb.br,DF
-Universidade de Brasília (UnB),Diretório Central dos Estudantes (DCE),dceunb@gmail.com,DF
 Universidade de Brasília (UnB),Direção da Faculdade de Medicina (FM),fmd@unb.br,DF
 Universidade de Brasília (UnB),Direção do Centro de Estudos Avançados Multidisciplinares (CEAM),direcaoceam@unb.br,DF
 Universidade de Brasília (UnB),Faculdade UnB Ceilândia (FCE),fce@unb.br,DF
@@ -139,7 +132,6 @@ Universidade de Brasília (UnB),Faculdade de Ciência da Informação (FCI),fci@
 Universidade de Brasília (UnB),Faculdade de Ciências e Tecnologias em Engenharia — Campus Gama (FGA/FCTE),direcaofga@unb.br,DF
 Universidade de Brasília (UnB),Faculdade de Ciências e Tecnologias em Saúde — Campus Ceilândia (FCE/FCTS),fcesecadm@unb.br,DF
 Universidade de Brasília (UnB),Faculdade de Comunicação (FAC),fac@unb.br,DF
-Universidade de Brasília (UnB),Faculdade de Direito — Secretaria / Atendimento (FD),daces@unb.br,DF
 Universidade de Brasília (UnB),"Faculdade de Economia, Administração, Contabilidade e Gestão de Políticas Públicas (FACE)",face@unb.br,DF
 Universidade de Brasília (UnB),Faculdade de Educação (FE),fed@unb.br,DF
 Universidade de Brasília (UnB),Faculdade de Educação — Centro de Extensão e Relações Internacionais (FE),ceri@unb.br,DF
@@ -159,6 +151,7 @@ Universidade de Brasília (UnB),Instituto de Relações Internacionais (IREL),ir
 Universidade de Brasília (UnB),"Programa de Pós-Graduação em Desenvolvimento, Sociedade e Cooperação Internacional (PPGDSCI/CEAM)",ppgdsci@unb.br,DF
 Universidade de Brasília (UnB),Programa de Pós-Graduação em Direitos Humanos e Cidadania (PPGDH/CEAM),ppgdh@unb.br,DF
 Universidade de Brasília (UnB),Secretaria Administrativa — Faculdade de Tecnologia (FT),dasilva@unb.br,DF
+Universidade de Brasília (UnB),Secretaria da Faculdade de Direito (FD),daces@unb.br,DF
 Universidade de Brasília (UnB),Secretaria de Administração Acadêmica (SAA),saaatendimento@unb.br,DF
 Universidade de Brasília (UnB),Secretaria de Apoio Técnico — Faculdade de Tecnologia (FT),jacksonferreira@unb.br,DF
 Universidade de Brasília (UnB),Secretaria de Comunicação (SECOM),secom@unb.br,DF

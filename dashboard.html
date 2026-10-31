@@ -492,11 +492,11 @@
         <label>Tipo de Instituição:</label>
         <select id="selectTipo" class="filter-select" onchange="applyFilters()">
           <option value="">Todos os Tipos</option>
-          <option value="Universidade Federal">🎓 Universidades Federais (443)</option>
-          <option value="Instituto Federal (IF)">🏛️ Institutos Federais (IF) (345)</option>
-          <option value="Privada / Particular">🏢 Privadas / Particulares (342)</option>
-          <option value="Universidade Estadual">🏫 Universidades Estaduais (67)</option>
-          <option value="Pública Distrital (DF)">🏥 Pública Distrital (DF) (23)</option>
+          <option value="Universidade Federal">🎓 Universidades Federais</option>
+          <option value="Instituto Federal (IF)">🏛️ Institutos Federais (IF)</option>
+          <option value="Privada / Particular">🏢 Privadas / Particulares</option>
+          <option value="Universidade Estadual">🏫 Universidades Estaduais</option>
+          <option value="Pública Distrital (DF)">🏥 Pública Distrital (DF)</option>
         </select>
       </div>
 
@@ -526,7 +526,7 @@
       <div class="kpi-card">
         <div class="label">Registros Filtrados</div>
         <div class="value" id="kpiTotal">0</div>
-        <div class="sub" id="kpiTotalSub">De 1.220 registros</div>
+        <div class="sub" id="kpiTotalSub">De 604 registros</div>
       </div>
       <div class="kpi-card success" id="kpiCard2">
         <div class="label" id="kpiLabel2">Institutos Federais (IF)</div>
@@ -604,6 +604,7 @@
     let chart2Instance = null;
 
     window.addEventListener('DOMContentLoaded', () => {
+      populateTipoDropdown();
       populateUfDropdown();
       applyFilters();
     });
@@ -644,6 +645,30 @@
         opt.value = uf;
         opt.textContent = uf;
         select.appendChild(opt);
+      });
+    }
+
+    function populateTipoDropdown() {
+      const labels = {
+        'Universidade Federal': '🎓 Universidades Federais',
+        'Instituto Federal (IF)': '🏛️ Institutos Federais (IF)',
+        'Privada / Particular': '🏢 Privadas / Particulares',
+        'Universidade Estadual': '🏫 Universidades Estaduais',
+        'Pública Distrital (DF)': '🏥 Pública Distrital (DF)'
+      };
+      const counts = {};
+      (DATA.universidades || []).forEach(record => {
+        const tipo = record.tipo_instituicao || 'Outros';
+        counts[tipo] = (counts[tipo] || 0) + 1;
+      });
+
+      const select = document.getElementById('selectTipo');
+      select.innerHTML = '<option value="">Todos os Tipos</option>';
+      Object.entries(counts).sort(([a], [b]) => a.localeCompare(b, 'pt-BR')).forEach(([tipo, count]) => {
+        const option = document.createElement('option');
+        option.value = tipo;
+        option.textContent = `${labels[tipo] || tipo} (${count.toLocaleString('pt-BR')})`;
+        select.appendChild(option);
       });
     }
 

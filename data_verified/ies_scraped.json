@@ -1,5 +1,158 @@
 [
   {
+    "nome_faculdade": "Universidade Federal do Acre (UFAC)",
+    "nome_departamento": "Centro de Ciências Jurídicas e Sociais Aplicadas (CCJSA)",
+    "email": "ccjsa@ufac.br",
+    "uf": "AC",
+    "source_url": "https://www.ufac.br/ccjsa",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Acre (UFAC)",
+    "nome_departamento": "Centro de Educação, Letras e Artes (CELA)",
+    "email": "cela@ufac.br",
+    "uf": "AC",
+    "source_url": "https://www.ufac.br/cela",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Acre (UFAC)",
+    "nome_departamento": "Centro de Filosofia e Ciências Humanas (CFCH)",
+    "email": "cfch@ufac.br",
+    "uf": "AC",
+    "source_url": "https://www.ufac.br/cfch",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Acre (UFAC)",
+    "nome_departamento": "Núcleo de Registro e Controle Acadêmico (NURCA)",
+    "email": "nurca@ufac.br",
+    "uf": "AC",
+    "source_url": "https://www.ufac.br/nurca",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal do Amapá (IFAP)",
+    "nome_departamento": "Diretoria de Ensino — Campus Macapá",
+    "email": "dirgeral.macapa@ifap.edu.br",
+    "uf": "AP",
+    "source_url": "https://macapa.ifap.edu.br/",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal do Amapá (IFAP)",
+    "nome_departamento": "Diretoria de Ensino — Campus Santana",
+    "email": "dirgeral.santana@ifap.edu.br",
+    "uf": "AP",
+    "source_url": "https://santana.ifap.edu.br/",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal do Amapá (IFAP)",
+    "nome_departamento": "Coordenação de Registro Escolar e Acadêmico — Campus Macapá",
+    "email": "seresc.macapa@ifap.edu.br",
+    "uf": "AP",
+    "source_url": "https://macapa.ifap.edu.br/",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Amapá (UNIFAP)",
+    "nome_departamento": "Coordenação do Curso de Administração",
+    "email": "administracao@unifap.br",
+    "uf": "AP",
+    "source_url": "https://www.unifap.br/graduacao/",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Amapá (UNIFAP)",
+    "nome_departamento": "Coordenação do Curso de Ciências Biológicas (Bacharelado)",
+    "email": "biologiabach@unifap.br",
+    "uf": "AP",
+    "source_url": "https://www.unifap.br/graduacao/",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Amapá (UNIFAP)",
+    "nome_departamento": "Coordenação do Curso de Ciências Biológicas (Licenciatura)",
+    "email": "biologialic@unifap.br",
+    "uf": "AP",
+    "source_url": "https://www.unifap.br/graduacao/",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Amapá (UNIFAP)",
+    "nome_departamento": "Coordenação do Curso de Arquitetura e Urbanismo",
+    "email": "cau@unifap.br",
+    "uf": "AP",
+    "source_url": "https://www.unifap.br/graduacao/",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Amapá (UNIFAP)",
+    "nome_departamento": "Coordenação do Curso de Direito",
+    "email": "direito@unifap.br",
+    "uf": "AP",
+    "source_url": "https://www.unifap.br/graduacao/",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Amapá (UNIFAP)",
+    "nome_departamento": "Coordenação do Curso de Farmácia",
+    "email": "farmacia@unifap.br",
+    "uf": "AP",
+    "source_url": "https://www.unifap.br/graduacao/",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Amapá (UNIFAP)",
+    "nome_departamento": "Coordenação do Curso de Jornalismo",
+    "email": "jornalismo@unifap.br",
+    "uf": "AP",
+    "source_url": "https://www.unifap.br/graduacao/",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Amapá (UNIFAP)",
+    "nome_departamento": "Coordenação do Curso de Letras Francês",
+    "email": "letrasfrances@unifap.br",
+    "uf": "AP",
+    "source_url": "https://www.unifap.br/graduacao/",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Amapá (UNIFAP)",
+    "nome_departamento": "Coordenação do Curso de Letras Inglês",
+    "email": "letrasingles@unifap.br",
+    "uf": "AP",
+    "source_url": "https://www.unifap.br/graduacao/",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Amapá (UNIFAP)",
+    "nome_departamento": "Coordenação do Curso de Secretariado Executivo",
+    "email": "secretariado@unifap.br",
+    "uf": "AP",
+    "source_url": "https://www.unifap.br/graduacao/",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
     "nome_faculdade": "Instituto Federal do Ceará (IFCE)",
     "nome_departamento": "Instituto Federal de Educação, Ciência e Tecnologia do Estado do Ceará",
     "email": "reitoria@ifce.edu.br",
@@ -1162,7 +1315,7 @@
   },
   {
     "nome_faculdade": "Universidade de Brasília (UnB)",
-    "nome_departamento": "Faculdade de Direito — Secretaria / Atendimento (FD)",
+    "nome_departamento": "Secretaria da Faculdade de Direito (FD)",
     "email": "daces@unb.br",
     "uf": "DF",
     "source_url": "https://fd.unb.br",
@@ -1314,6 +1467,141 @@
     "scraped_at": "2026-10-27T21:04:56.729549+00:00"
   },
   {
+    "nome_faculdade": "Universidade Federal do Maranhão (UFMA)",
+    "nome_departamento": "Coordenação do Curso de Ciências Sociais",
+    "email": "cccs.cch@ufma.br",
+    "uf": "MA",
+    "source_url": "https://portalpadrao.ufma.br/cch",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Maranhão (UFMA)",
+    "nome_departamento": "Coordenação do Curso de Direito (CCSO)",
+    "email": "ccdir.ccso@ufma.br",
+    "uf": "MA",
+    "source_url": "https://portalpadrao.ufma.br/ccso",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Maranhão (UFMA)",
+    "nome_departamento": "Diretoria do Centro de Ciências Exatas e Tecnologia (CCET)",
+    "email": "ccet@ufma.br",
+    "uf": "MA",
+    "source_url": "https://portalpadrao.ufma.br/ccet",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Maranhão (UFMA)",
+    "nome_departamento": "Coordenação do Curso de Filosofia",
+    "email": "ccfil@ufma.br",
+    "uf": "MA",
+    "source_url": "https://portalpadrao.ufma.br/cch",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Maranhão (UFMA)",
+    "nome_departamento": "Coordenação do Curso de História",
+    "email": "cohis@ufma.br",
+    "uf": "MA",
+    "source_url": "https://portalpadrao.ufma.br/cch",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Maranhão (UFMA)",
+    "nome_departamento": "Coordenação do Curso de Letras",
+    "email": "coler.cch@ufma.br",
+    "uf": "MA",
+    "source_url": "https://portalpadrao.ufma.br/cch",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Maranhão (UFMA)",
+    "nome_departamento": "Coordenação do Curso de Artes Visuais",
+    "email": "coordenacaoav@ufma.br",
+    "uf": "MA",
+    "source_url": "https://portalpadrao.ufma.br/cch",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Maranhão (UFMA)",
+    "nome_departamento": "Diretoria do Centro de Ciências Humanas (CCH)",
+    "email": "dir.cch@ufma.br",
+    "uf": "MA",
+    "source_url": "https://portalpadrao.ufma.br/cch",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal do Piauí (IFPI)",
+    "nome_departamento": "Coordenação dos Cursos Técnicos em Informática",
+    "email": "cinf.catce@ifpi.edu.br",
+    "uf": "PI",
+    "source_url": "https://www.ifpi.edu.br/teresinacentral",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal do Piauí (IFPI)",
+    "nome_departamento": "Coordenação do Curso Superior em Geoprocessamento",
+    "email": "coordenacao.geo@ifpi.edu.br",
+    "uf": "PI",
+    "source_url": "https://www.ifpi.edu.br/teresinacentral",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal do Piauí (IFPI)",
+    "nome_departamento": "Diretoria de Ensino — Campus Teresina",
+    "email": "dens.catce@ifpi.edu.br",
+    "uf": "PI",
+    "source_url": "https://www.ifpi.edu.br/teresinacentral",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Piauí (UFPI)",
+    "nome_departamento": "Coordenação do Curso de Agronomia (CCA)",
+    "email": "agronomia.cca@ufpi.edu.br",
+    "uf": "PI",
+    "source_url": "https://ufpi.br/cca",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Piauí (UFPI)",
+    "nome_departamento": "Diretoria do Centro de Ciências Humanas e Letras (CCHL)",
+    "email": "cchl@ufpi.edu.br",
+    "uf": "PI",
+    "source_url": "https://ufpi.br/cchl",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Piauí (UFPI)",
+    "nome_departamento": "Diretoria do Centro de Ciências da Natureza (CCN)",
+    "email": "ccn_diretoria@ufpi.edu.br",
+    "uf": "PI",
+    "source_url": "https://ufpi.br/ccn",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Piauí (UFPI)",
+    "nome_departamento": "Diretoria do Centro de Ciências da Educação (CCE)",
+    "email": "diretoriacce@ufpi.edu.br",
+    "uf": "PI",
+    "source_url": "https://ufpi.br/cce",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
     "nome_faculdade": "Universidade Federal do Rio de Janeiro (UFRJ)",
     "nome_departamento": "Atendimento Institucional / Secretaria Geral",
     "email": "claudiamendes@reitoria.ufrj.br",
@@ -1330,6 +1618,87 @@
     "source_url": "https://ufrj.br/a-ufrj/contatos/",
     "http_status": 200,
     "scraped_at": "2026-10-27T21:05:00.131986+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Rondônia (IFRO)",
+    "nome_departamento": "Coordenação do Curso de Licenciatura em Física — Campus Calama",
+    "email": "ccfl.portovelhocalama@ifro.edu.br",
+    "uf": "RO",
+    "source_url": "https://portal.ifro.edu.br/calama",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Rondônia (IFRO)",
+    "nome_departamento": "Coordenação do Curso Técnico em Administração — Campus Zona Norte",
+    "email": "cctadm.pvhzonanorte@ifro.edu.br",
+    "uf": "RO",
+    "source_url": "https://portal.ifro.edu.br/zonanorte",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Rondônia (IFRO)",
+    "nome_departamento": "Departamento de Apoio ao Ensino — Campus Porto Velho Calama",
+    "email": "dape.portovelhocalama@ifro.edu.br",
+    "uf": "RO",
+    "source_url": "https://portal.ifro.edu.br/calama",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Rondônia (IFRO)",
+    "nome_departamento": "Direção de Ensino — Campus Porto Velho Calama",
+    "email": "de.portovelhocalama@ifro.edu.br",
+    "uf": "RO",
+    "source_url": "https://portal.ifro.edu.br/calama",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Roraima (IFRR)",
+    "nome_departamento": "Coordenação do Curso de Tecnologia em Design Gráfico",
+    "email": "ccdg.cbvzo@ifrr.edu.br",
+    "uf": "RR",
+    "source_url": "https://boavistazonaoeste.ifrr.edu.br/",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Roraima (IFRR)",
+    "nome_departamento": "Coordenação do Curso Técnico em Administração",
+    "email": "cctadm.cbvzo@ifrr.edu.br",
+    "uf": "RR",
+    "source_url": "https://boavistazonaoeste.ifrr.edu.br/",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Roraima (IFRR)",
+    "nome_departamento": "Departamento de Apoio Pedagógico e Desenvolvimento Curricular",
+    "email": "dape@ifrr.edu.br",
+    "uf": "RR",
+    "source_url": "https://boavista.ifrr.edu.br/",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Roraima (IFRR)",
+    "nome_departamento": "Departamento de Ensino de Graduação — Campus Boa Vista",
+    "email": "deg.cbv@ifrr.edu.br",
+    "uf": "RR",
+    "source_url": "https://boavista.ifrr.edu.br/",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal de Roraima (IFRR)",
+    "nome_departamento": "Departamento de Ensino — Campus Boa Vista Zona Oeste",
+    "email": "den.cbvzo@ifrr.edu.br",
+    "uf": "RR",
+    "source_url": "https://boavistazonaoeste.ifrr.edu.br/",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
   },
   {
     "nome_faculdade": "Instituto Federal do Rio Grande do Sul (IFRS)",
@@ -1564,5 +1933,68 @@
     "source_url": "https://www.ifsc.edu.br/fale-conosco",
     "http_status": 200,
     "scraped_at": "2026-10-27T21:05:01.487811+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal do Tocantins (IFTO)",
+    "nome_departamento": "Coordenação do Curso de Análise e Desenvolvimento de Sistemas (Campus Araguaína)",
+    "email": "ads.araguaina@ifto.edu.br",
+    "uf": "TO",
+    "source_url": "https://araguaina.ifto.edu.br/",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal do Tocantins (IFTO)",
+    "nome_departamento": "Coordenação do Curso de Sistemas para Internet (Campus Palmas)",
+    "email": "csint.palmas@ifto.edu.br",
+    "uf": "TO",
+    "source_url": "https://palmas.ifto.edu.br/",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal do Tocantins (IFTO)",
+    "nome_departamento": "Coordenação do Curso de Engenharia Elétrica (Campus Palmas)",
+    "email": "eng.eletrica.palmas@ifto.edu.br",
+    "uf": "TO",
+    "source_url": "https://palmas.ifto.edu.br/",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Instituto Federal do Tocantins (IFTO)",
+    "nome_departamento": "Coordenação do Curso de Engenharia Civil (Campus Palmas)",
+    "email": "engcivil.palmas@ifto.edu.br",
+    "uf": "TO",
+    "source_url": "https://palmas.ifto.edu.br/",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Tocantins (UFT)",
+    "nome_departamento": "Colegiado do Curso de Ciência da Computação (Campus Palmas)",
+    "email": "comppalmas@uft.edu.br",
+    "uf": "TO",
+    "source_url": "https://www.uft.edu.br/palmas",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Tocantins (UFT)",
+    "nome_departamento": "Secretaria Acadêmica — Campus Araguaína",
+    "email": "sacarag@mail.uft.edu.br",
+    "uf": "TO",
+    "source_url": "https://www.uft.edu.br/araguaina",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
+  },
+  {
+    "nome_faculdade": "Universidade Federal do Tocantins (UFT)",
+    "nome_departamento": "Secretaria Acadêmica — Campus Porto Nacional",
+    "email": "secretariaporto@mail.uft.edu.br",
+    "uf": "TO",
+    "source_url": "https://www.uft.edu.br/portonacional",
+    "http_status": 200,
+    "scraped_at": "2026-10-31T04:51:32.208242+00:00"
   }
 ]

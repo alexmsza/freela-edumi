@@ -8,6 +8,8 @@ Esteira determinística de consolidação, higienização, auditoria DNS MX, vis
 
 Unificar o acervo histórico disperso da Edumi (`doc/*.xlsx`) e enriquecê-lo com contatos institucionais verificados em uma **única planilha centralizadora padronizada (Flat Table)** compatível com o Google Sheets oficial da cliente ([`0. Planilha centralizadora`](https://docs.google.com/spreadsheets/d/1hqgfKgMzn00-zV91sFe7a6aMK5ZV47TCvQNfMP8Ksv0/edit)), com **zero bounces, zero domínios mortos e zero dados sintéticos**.
 
+> **Posição em 29/10/2026:** os CSVs e as três planilhas `.xlsx` locais estão alinhados. A leitura da planilha online confirmou paridade exata em `universidades`, `artistas` e `influenciadores`; `midias` e `parceiros` ainda divergem. A base universitária também não contém AP (26 das 27 UFs).
+
 O projeto inclui:
 1. **CLI de Engenharia de Dados (`edumi-ops` via `uv`):** Extração determinística do acervo legado, raspagem institucional com rastreabilidade (`source_url`), resolução concorrente de DNS MX/A e trava de auditoria (`total_blockers == 0`).
 2. **Aplicações Web Locais Autônomas (`app.html`, `index.html` e `dashboard.html`):** Gestão tabular e dashboard analítico interativo consumindo `data_payload.js` versionado por hash SHA-256.
@@ -19,11 +21,11 @@ O projeto inclui:
 Todas as abas seguem rigorosamente as colunas de [`0. Planilha centralizadora.xlsx`](file:///C:/Users/alexk/Desktop/freela-edumi/0.%20Planilha%20centralizadora.xlsx):
 
 1. **`universidades`**: `nome_faculdade`, `nome_departamento`, `email`, `uf`  
-   - **Total Nacional Auditado:** **604 contatos departamentais puros** (sendo 166 DF no topo), com **0 bounces**, **100% DNS MX ativo** e expurgo formal de 644 linhas (ouvidorias, reitorias, financeiro, comercial, teleatendimento e descrições narrativas).
+   - **Total local:** **604 contatos departamentais** (166 DF, 47 GO e 391 nas demais UFs), em 26 UFs; AP está ausente. Auditoria registrada: 0 bloqueadores.
 2. **`artistas`**: `nome`, `arroba`, `quantidade_seguidores`, `tipo`, `uf`  
    - **66 artistas reais e ativos** da Feira Motim DF com contagem exata de seguidores via `instaloader` (ex.: `@cartumante`, `@camisacritica`, `@batatinhafantasma`, `@brunayonashiro`, `@dessamore`, `@gurulino`...).
 3. **`influenciadores`**: `nome`, `arroba`, `quantidade_seguidores`, `tipo`, `uf`  
-   - **19 pessoas físicas (criadores de conteúdo)** reais verificadas em DF, GO e PE cobrindo lifestyle, educação, tecnologia, inovação, questões sociais e comédia crítica (ex.: `@maykongm`, `@recifarra`, `@ariadnysafira`, `@eldogomes`, `@tjfernandesoficial`, `@jacquesvanier`, `@camilapudim`...).
+   - **25 perfis** em DF, GO e PE, presentes no CSV atual e na aba online.
 4. **`midias`**: `nome`, `link`, `email`, `telefone`, `uf`, `obs`  
    - **219 contatos atômicos de imprensa** em **11 UFs** (células multi-email desmembradas individualmente e higienizadas).
 5. **`parceiros`**: `nome`, `link`, `email`, `telefone`, `uf`, `obs`  
@@ -58,8 +60,8 @@ uv run edumi audit
 
 Basta abrir no navegador (sem necessidade de servidor backend):
 
-* **[`app.html`](file:///C:/Users/alexk/Desktop/freela-edumi/app.html) / [`index.html`](file:///C:/Users/alexk/Desktop/freela-edumi/index.html) (Gestão Tabular):** Busca instantânea, filtros rápidos (`Só DF (215)`, `Só GO (172)`, `SP`, `RJ`, `MG`), cópia rápida de e-mails, importação/exportação CSV compatível com o schema oficial da Gabi e invalidação automática de cache via `MASTER_PAYLOAD_VERSION`.
-* **[`dashboard.html`](file:///C:/Users/alexk/Desktop/freela-edumi/dashboard.html) (Dashboard Analítico):** Gráficos Chart.js e segmentação por Tipo de Instituição (`Universidades Federais: 443`, `Institutos Federais: 345`, `Privadas / Particulares: 342`, `Universidades Estaduais: 67`, `Pública Distrital DF: 23`) e por UF.
+* **`app.html` / `index.html` (Gestão Tabular):** Busca, filtros, cópia de e-mails e importação/exportação CSV. Os totais por UF são calculados a partir da base carregada.
+* **`dashboard.html` (Dashboard Analítico):** Gráficos Chart.js e contagens de categorias calculadas a partir de `data_payload.js`, sem números fixos no filtro.
 
 ---
 
@@ -84,17 +86,21 @@ freela-edumi/
 
 ---
 
-## 📅 Cronograma de Entregas (Milestones)
+## 📅 Status dos Marcos (posição em 29/10/2026)
 
-* **[x] Marco 1 (27/10 - 23:00):** Distrito Federal concluído, auditado e **sincronizado no Google Sheets da Gabi** (**215 contatos verificados**, 0 bloqueadores).
-* **[x] Marco 2 (31/10 - 23:00):** Resto do Brasil (**1.033 contatos fora do DF**; total de **1.248 universidades** em todas as 27 UFs já sincronizadas e auditadas).
-* **[x] Marco 3 (04/11 - 23:00):** Artistas do DF do perfil `@edicoesmotim` (**40 artistas reais** com contagem exata de seguidores e bio verificada via Instaloader sincronizados).
-* **[x] Marco 4 (08/11 - 23:00):** Influenciadores e canais acadêmicos (**22 canais verificados** no DF, GO e PE sincronizados).
+* **Marco 1 (27/10):** concluído na base local; 166 contatos do DF na planilha nacional atual.
+* **Marco 2 (31/10):** parcial; há 604 contatos locais, mas falta cobrir AP. A aba online `universidades` está idêntica ao CSV.
+* **Marco 3 (04/11):** 66 artistas disponíveis localmente e sincronizados na aba online.
+* **Marco 4 (08/11):** 25 perfis disponíveis localmente e sincronizados na aba online.
+* **Fechamento:** confirmar com a cliente a aba `LIMPEZAS`/aprovação final e atualizar `midias` e `parceiros` no Sheets.
 
 ---
 
 ## 🔒 Segurança, Governança e Quarentena
 
-* **Acervo Original Intacto:** Nenhum arquivo local ou no Drive da cliente foi modificado ou excluído (`doc/*.xlsx` 100% preservado).
-* **Planilha Central Alimentada:** Os **2.052 registros auditados** (`1.248 universidades`, `40 artistas`, `22 influenciadores`, `219 mídias` e `523 parceiros`) já foram alimentados de forma não-destrutiva no Google Sheets oficial da Gabi e nas 3 planilhas `.xlsx` locais.
+* **Acervo Original Intacto:** Os arquivos de origem em `doc/` são preservados.
+* **Entregáveis locais:** 604 universidades, 66 artistas, 25 influenciadores, 219 mídias e 523 parceiros (**1.437 linhas** no total). Os três `.xlsx` locais correspondem às abas do CSV.
+* **Sheets online (leitura verificada):** `universidades` 604/604, `artistas` 66/66 e `influenciadores` 25/25 correspondem ao CSV. `midias` tem 152/219 e `parceiros` 4/523; falta sincronizar essas duas abas. A verificação foi somente leitura.
+* **Cobertura:** `01_universidades.csv` contém 26 UFs; AP não aparece. Portanto, não afirmar cobertura nacional completa até pesquisar, validar e incluir contatos do Amapá.
 * **Transparência de Expurgo:** Todos os 77 registros retirados do disparo (domínios mortos, bounces históricos e perfis não encontrados) estão catalogados com motivo técnico e impacto em [`LISTA_DE_ITENS_EXPURGADOS_E_QUARENTENA.md`](file:///C:/Users/alexk/Desktop/freela-edumi/LISTA_DE_ITENS_EXPURGADOS_E_QUARENTENA.md) e [`csv_exports/itens_expurgados_e_quarentena.csv`](file:///C:/Users/alexk/Desktop/freela-edumi/csv_exports/itens_expurgados_e_quarentena.csv).
+* **Contagem a reconciliar:** `csv_exports/01_universidades_removed.csv` contém 651 linhas de dados; documentos anteriores mencionam 644.

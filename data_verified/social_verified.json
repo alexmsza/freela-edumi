@@ -634,31 +634,254 @@
     "source_url": "https://www.instagram.com/chocokkyo/"
   },
   {
-    "categoria": "influenciadores",
-    "nome": "Maykon Gomes",
-    "arroba": "@maykongm",
-    "quantidade_seguidores": 144062,
-    "tipo": "Lifestyle / Cotidiano / Morando Sozinho",
+    "categoria": "artistas",
+    "nome": "Lucas Gehre",
+    "arroba": "@lucasgehre",
+    "quantidade_seguidores": 5201,
+    "tipo": "Quadrinhos / Ilustração / Zines",
     "uf": "DF",
-    "source_url": "https://www.instagram.com/maykongm/"
+    "source_url": "https://www.instagram.com/lucasgehre/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Gabrielle Ximenes",
+    "arroba": "@ximenesgab",
+    "quantidade_seguidores": 100676,
+    "tipo": "Moda Autoral / Ilustração",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/ximenesgab/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "IlustraLu",
+    "arroba": "@ilustralu",
+    "quantidade_seguidores": 79193,
+    "tipo": "Quadrinhos / Zines / Aquarela",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/ilustralu/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Vitor Cafaggi",
+    "arroba": "@vitorcafaggi",
+    "quantidade_seguidores": 24014,
+    "tipo": "Quadrinhos / Tiras",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/vitorcafaggi/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Rafael Sica",
+    "arroba": "@sica_rafael",
+    "quantidade_seguidores": 14835,
+    "tipo": "Quadrinhos Independentes / Gravura",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/sica_rafael/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Anansi Lab",
+    "arroba": "@anansilab",
+    "quantidade_seguidores": 15,
+    "tipo": "Editora Independente / Zines",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/anansilab/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Bordados da Maria",
+    "arroba": "@bordadosdamaria",
+    "quantidade_seguidores": 14,
+    "tipo": "Bordado Autoral / Arte Têxtil",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/bordadosdamaria/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Caio Ogata",
+    "arroba": "@caioogata",
+    "quantidade_seguidores": 960,
+    "tipo": "Gravura / Impressão Manual",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/caioogata/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Daniel Seda",
+    "arroba": "@danielseda",
+    "quantidade_seguidores": 854,
+    "tipo": "Gravura / Tatuagem / Flash Art",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/danielseda/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Estúdio Baobá",
+    "arroba": "@estudiobaoba",
+    "quantidade_seguidores": 13,
+    "tipo": "Design Gráfico / Impressão Autoral",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/estudiobaoba/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Estúdio Rebimboca",
+    "arroba": "@estudiorebimboca",
+    "quantidade_seguidores": 2413,
+    "tipo": "Risografia / Pôsteres / Zines",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/estudiorebimboca/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Felipe Sobreiro",
+    "arroba": "@felipesobreiro",
+    "quantidade_seguidores": 44,
+    "tipo": "Ilustração / Colorista de Quadrinhos",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/felipesobreiro/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Ingrid Biesemeyer",
+    "arroba": "@ingridbbellinghausen",
+    "quantidade_seguidores": 1228,
+    "tipo": "Livro Ilustrado / Gravura Infantil",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/ingridbbellinghausen/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Julia Bax",
+    "arroba": "@juliabax",
+    "quantidade_seguidores": 17683,
+    "tipo": "Quadrinhos / Pintura Digital",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/juliabax/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Lara Alcantara",
+    "arroba": "@laraalcantara",
+    "quantidade_seguidores": 27767,
+    "tipo": "Fotografia Autoral / Zines",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/laraalcantara/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Luciana Nabuco",
+    "arroba": "@luciananabuco",
+    "quantidade_seguidores": 333,
+    "tipo": "Pintura / Aquarela / Ilustração",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/luciananabuco/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Murilo Martins",
+    "arroba": "@murilomartins",
+    "quantidade_seguidores": 27,
+    "tipo": "Quadrinhos Autoriais / Zines",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/murilomartins/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Pedro Franz",
+    "arroba": "@pedrofranz",
+    "quantidade_seguidores": 579,
+    "tipo": "Artes Visuais / Quadrinhos / Gravura",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/pedrofranz/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Pérola Bonfanti",
+    "arroba": "@perolabonfanti",
+    "quantidade_seguidores": 4191,
+    "tipo": "Ilustração Editorial / Zines",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/perolabonfanti/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Rebeca Prado",
+    "arroba": "@rebecapradoart",
+    "quantidade_seguidores": 1356,
+    "tipo": "Ilustração / Tirinhas / Humor",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/rebecapradoart/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Talita Noel",
+    "arroba": "@talitanoel",
+    "quantidade_seguidores": 43,
+    "tipo": "Cerâmica Artística / Escultura",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/talitanoel/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Tiago Judas",
+    "arroba": "@tiagojudas",
+    "quantidade_seguidores": 2,
+    "tipo": "Artes Visuais / Gravura / Desenho",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/tiagojudas/",
+    "verified_at": "2026-10-31T01:40:00Z"
   },
   {
     "categoria": "influenciadores",
-    "nome": "Eldo Gomes",
-    "arroba": "@eldogomes",
-    "quantidade_seguidores": 147806,
-    "tipo": "Jornalismo / Inovação / Cultura Urbana BSB",
+    "nome": "Gabrielle Ximenes",
+    "arroba": "@ximenesgab",
+    "quantidade_seguidores": 100676,
+    "tipo": "Moda e Lifestyle DF",
     "uf": "DF",
-    "source_url": "https://www.instagram.com/eldogomes/"
+    "source_url": "https://www.instagram.com/ximenesgab/",
+    "verified_at": "2026-10-31T01:40:00Z"
   },
   {
     "categoria": "influenciadores",
-    "nome": "TJ Fernandes",
-    "arroba": "@tjfernandesoficial",
-    "quantidade_seguidores": 93163,
-    "tipo": "Comédia / Crítica Social / Cotidiano DF",
+    "nome": "Karl Jeanneth",
+    "arroba": "@cheiadesegredos",
+    "quantidade_seguidores": 82186,
+    "tipo": "Gastronomia e Cultura Urbana DF",
     "uf": "DF",
-    "source_url": "https://www.instagram.com/tjfernandesoficial/"
+    "source_url": "https://www.instagram.com/cheiadesegredos/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Nathália Brito",
+    "arroba": "@jasalvaessadica",
+    "quantidade_seguidores": 46265,
+    "tipo": "Dicas e Cotidiano Brasília",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/jasalvaessadica/",
+    "verified_at": "2026-10-31T01:40:00Z"
   },
   {
     "categoria": "influenciadores",
@@ -667,160 +890,8 @@
     "quantidade_seguidores": 683344,
     "tipo": "Comédia / Crítica Social / Juventude",
     "uf": "DF",
-    "source_url": "https://www.instagram.com/anaclarapaim/"
-  },
-  {
-    "categoria": "influenciadores",
-    "nome": "Júlia Drummond",
-    "arroba": "@juliadrummond",
-    "quantidade_seguidores": 6773,
-    "tipo": "Lifestyle / Moda e Criação de Conteúdo",
-    "uf": "DF",
-    "source_url": "https://www.instagram.com/juliadrummond/"
-  },
-  {
-    "categoria": "influenciadores",
-    "nome": "DCE UnB Honestino Guimarães",
-    "arroba": "@dceunb",
-    "quantidade_seguidores": 23544,
-    "tipo": "Liderança Estudantil / Universidade de Brasília",
-    "uf": "DF",
-    "source_url": "https://www.instagram.com/dceunb/"
-  },
-  {
-    "categoria": "influenciadores",
-    "nome": "Jacques Vanier",
-    "arroba": "@jacquesvanier",
-    "quantidade_seguidores": 6615415,
-    "tipo": "Comédia Regional / Cultura Goiana",
-    "uf": "GO",
-    "source_url": "https://www.instagram.com/jacquesvanier/"
-  },
-  {
-    "categoria": "influenciadores",
-    "nome": "Brenda Queiroz",
-    "arroba": "@queirozbrenda",
-    "quantidade_seguidores": 362700,
-    "tipo": "Lifestyle / Rotina e Moda / Goiânia",
-    "uf": "GO",
-    "source_url": "https://www.instagram.com/queirozbrenda/"
-  },
-  {
-    "categoria": "influenciadores",
-    "nome": "Manuela Xavier",
-    "arroba": "@manuelaxavier",
-    "quantidade_seguidores": 437194,
-    "tipo": "Psicanálise / Questões Sociais / Crítica Cultural",
-    "uf": "GO",
-    "source_url": "https://www.instagram.com/manuelaxavier/"
-  },
-  {
-    "categoria": "influenciadores",
-    "nome": "Camila Pudim",
-    "arroba": "@camilapudim",
-    "quantidade_seguidores": 7487270,
-    "tipo": "Criação de Conteúdo / Audiovisual e Make",
-    "uf": "GO",
-    "source_url": "https://www.instagram.com/camilapudim/"
-  },
-  {
-    "categoria": "influenciadores",
-    "nome": "João Vitor (Goiânia)",
-    "arroba": "@joaovitor",
-    "quantidade_seguidores": 104522,
-    "tipo": "IA, Negócios e Vida Universitária",
-    "uf": "GO",
-    "source_url": "https://www.instagram.com/joaovitor/"
-  },
-  {
-    "categoria": "influenciadores",
-    "nome": "Renato Albani",
-    "arroba": "@renatoalbani",
-    "quantidade_seguidores": 4882441,
-    "tipo": "Comédia / Stand-up e Crítica Social",
-    "uf": "GO",
-    "source_url": "https://www.instagram.com/renatoalbani/"
-  },
-  {
-    "categoria": "influenciadores",
-    "nome": "Recife + Farra",
-    "arroba": "@recifarra",
-    "quantidade_seguidores": 97582,
-    "tipo": "Juventude / Rolês / Lifestyle Universitário",
-    "uf": "PE",
-    "source_url": "https://www.instagram.com/recifarra/"
-  },
-  {
-    "categoria": "influenciadores",
-    "nome": "Ariadny Safira",
-    "arroba": "@ariadnysafira",
-    "quantidade_seguidores": 9350,
-    "tipo": "Lifestyle / Diversidade e Juventude Recife",
-    "uf": "PE",
-    "source_url": "https://www.instagram.com/ariadnysafira/"
-  },
-  {
-    "categoria": "influenciadores",
-    "nome": "Talokudo",
-    "arroba": "@talokudo",
-    "quantidade_seguidores": 2408903,
-    "tipo": "Comédia / Humor Regional / Personagens",
-    "uf": "PE",
-    "source_url": "https://www.instagram.com/talokudo/"
-  },
-  {
-    "categoria": "influenciadores",
-    "nome": "Victor Goes",
-    "arroba": "@victorgoes",
-    "quantidade_seguidores": 974393,
-    "tipo": "Humor Ácido / Crítica Cotidiana e Lifestyle",
-    "uf": "PE",
-    "source_url": "https://www.instagram.com/victorgoes/"
-  },
-  {
-    "categoria": "influenciadores",
-    "nome": "Caio Braz",
-    "arroba": "@caio",
-    "quantidade_seguidores": 383619,
-    "tipo": "Comunicação / Cultura / Crítica Social",
-    "uf": "PE",
-    "source_url": "https://www.instagram.com/caio/"
-  },
-  {
-    "categoria": "influenciadores",
-    "nome": "João Pedro (Porto Digital)",
-    "arroba": "@joaopedro",
-    "quantidade_seguidores": 381781,
-    "tipo": "Tech / Startups e Juventude Recife",
-    "uf": "PE",
-    "source_url": "https://www.instagram.com/joaopedro/"
-  },
-  {
-    "categoria": "influenciadores",
-    "nome": "Bella Lemos",
-    "arroba": "@bellamlemos",
-    "quantidade_seguidores": 3058,
-    "tipo": "Lifestyle / Beleza e Estética Recife",
-    "uf": "PE",
-    "source_url": "https://www.instagram.com/bellamlemos/"
-  },
-  {
-    "categoria": "influenciadores",
-    "nome": "Visite Brasília",
-    "arroba": "@visitebrasilia",
-    "quantidade_seguidores": 193985,
-    "tipo": "Turismo / Cultura Urbana e Lifestyle DF",
-    "uf": "DF",
-    "source_url": "https://www.instagram.com/visitebrasilia/"
-  },
-  {
-    "categoria": "influenciadores",
-    "nome": "Brasília de Fato",
-    "arroba": "@brasiliadefato",
-    "quantidade_seguidores": 9724,
-    "tipo": "Jornalismo Independente / Questões Sociais DF",
-    "uf": "DF",
-    "source_url": "https://www.instagram.com/brasiliadefato/"
+    "source_url": "https://www.instagram.com/anaclarapaim/",
+    "verified_at": "2026-10-31T01:40:00Z"
   },
   {
     "categoria": "influenciadores",
@@ -829,25 +900,118 @@
     "quantidade_seguidores": 376342,
     "tipo": "Música e Cultura Urbana DF",
     "uf": "DF",
-    "source_url": "https://www.instagram.com/pedropaulo/"
+    "source_url": "https://www.instagram.com/pedropaulo/",
+    "verified_at": "2026-10-31T01:40:00Z"
   },
   {
     "categoria": "influenciadores",
-    "nome": "Recife Ordinário",
-    "arroba": "@recifeordinario",
-    "quantidade_seguidores": 2209278,
-    "tipo": "Cultura Urbana / Humor / Cotidiano Recife",
-    "uf": "PE",
-    "source_url": "https://www.instagram.com/recifeordinario/"
+    "nome": "Eldo Gomes",
+    "arroba": "@eldogomes",
+    "quantidade_seguidores": 147806,
+    "tipo": "Jornalismo / Inovação / Cultura Urbana BSB",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/eldogomes/",
+    "verified_at": "2026-10-31T01:40:00Z"
   },
   {
     "categoria": "influenciadores",
-    "nome": "Recife Mais",
-    "arroba": "@recifemais",
-    "quantidade_seguidores": 177809,
-    "tipo": "Guia Cultural / Rolês e Juventude Recife",
+    "nome": "Maykon Gomes",
+    "arroba": "@maykongm",
+    "quantidade_seguidores": 144062,
+    "tipo": "Lifestyle / Cotidiano / Morando Sozinho",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/maykongm/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "TJ Fernandes",
+    "arroba": "@tjfernandesoficial",
+    "quantidade_seguidores": 93163,
+    "tipo": "Comédia / Crítica Social / Cotidiano DF",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/tjfernandesoficial/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Júlia Drummond",
+    "arroba": "@juliadrummond",
+    "quantidade_seguidores": 6773,
+    "tipo": "Lifestyle / Moda e Criação de Conteúdo",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/juliadrummond/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Camila Pudim",
+    "arroba": "@camilapudim",
+    "quantidade_seguidores": 7487270,
+    "tipo": "Criação de Conteúdo / Audiovisual e Make",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/camilapudim/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Jacques Vanier",
+    "arroba": "@jacquesvanier",
+    "quantidade_seguidores": 6615415,
+    "tipo": "Comédia Regional / Cultura Goiana",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/jacquesvanier/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Renato Albani",
+    "arroba": "@renatoalbani",
+    "quantidade_seguidores": 4882441,
+    "tipo": "Comédia / Stand-up e Crítica Social",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/renatoalbani/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Manuela Xavier",
+    "arroba": "@manuelaxavier",
+    "quantidade_seguidores": 437194,
+    "tipo": "Psicanálise / Questões Sociais / Crítica Cultural",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/manuelaxavier/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Brenda Queiroz",
+    "arroba": "@queirozbrenda",
+    "quantidade_seguidores": 362700,
+    "tipo": "Lifestyle / Rotina e Moda / Goiânia",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/queirozbrenda/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "João Vitor (Goiânia)",
+    "arroba": "@joaovitor",
+    "quantidade_seguidores": 104522,
+    "tipo": "IA, Negócios e Vida Universitária",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/joaovitor/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Talokudo",
+    "arroba": "@talokudo",
+    "quantidade_seguidores": 2408903,
+    "tipo": "Comédia / Humor Regional / Personagens",
     "uf": "PE",
-    "source_url": "https://www.instagram.com/recifemais/"
+    "source_url": "https://www.instagram.com/talokudo/",
+    "verified_at": "2026-10-31T01:40:00Z"
   },
   {
     "categoria": "influenciadores",
@@ -856,6 +1020,807 @@
     "quantidade_seguidores": 1490897,
     "tipo": "Humor / Crítica Social / Comportamento",
     "uf": "PE",
-    "source_url": "https://www.instagram.com/vitordicastro/"
+    "source_url": "https://www.instagram.com/vitordicastro/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Victor Goes",
+    "arroba": "@victorgoes",
+    "quantidade_seguidores": 974393,
+    "tipo": "Humor Ácido / Crítica Cotidiana e Lifestyle",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/victorgoes/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Caio Braz",
+    "arroba": "@caio",
+    "quantidade_seguidores": 383619,
+    "tipo": "Comunicação / Cultura / Crítica Social",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/caio/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "João Pedro (Porto Digital)",
+    "arroba": "@joaopedro",
+    "quantidade_seguidores": 381781,
+    "tipo": "Tech / Startups e Juventude Recife",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/joaopedro/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Recife + Farra",
+    "arroba": "@recifarra",
+    "quantidade_seguidores": 97582,
+    "tipo": "Juventude / Rolês / Lifestyle Universitário",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/recifarra/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Ariadny Safira",
+    "arroba": "@ariadnysafira",
+    "quantidade_seguidores": 9350,
+    "tipo": "Lifestyle / Diversidade e Juventude Recife",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/ariadnysafira/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Bella Lemos",
+    "arroba": "@bellamlemos",
+    "quantidade_seguidores": 3058,
+    "tipo": "Lifestyle / Beleza e Estética Recife",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/bellamlemos/",
+    "verified_at": "2026-10-31T01:40:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Agus Caldas",
+    "arroba": "@aguscaldas",
+    "quantidade_seguidores": 1664,
+    "tipo": "Artes Visuais / Aquarela / Zines",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/aguscaldas/",
+    "verified_at": "2026-10-31T01:50:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Art Mesq",
+    "arroba": "@artmesq",
+    "quantidade_seguidores": 8,
+    "tipo": "Gravura / Impressão Manual",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/artmesq/",
+    "verified_at": "2026-10-31T01:50:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Arthur Ortega",
+    "arroba": "@arthurortega",
+    "quantidade_seguidores": 810,
+    "tipo": "Quadrinhos / Tiras",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/arthurortega/",
+    "verified_at": "2026-10-31T01:50:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Gustavo Magalhães",
+    "arroba": "@gustavomagalhaes",
+    "quantidade_seguidores": 2051,
+    "tipo": "Pintura Contemporânea / Murais",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/gustavomagalhaes/",
+    "verified_at": "2026-10-31T01:50:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Leo Gibran",
+    "arroba": "@leogibran",
+    "quantidade_seguidores": 3702,
+    "tipo": "Quadrinhos / Storyboard / Zines",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/leogibran/",
+    "verified_at": "2026-10-31T01:50:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Manuela Eichner",
+    "arroba": "@manuelaeichner",
+    "quantidade_seguidores": 12468,
+    "tipo": "Colagem Contemporânea / Zines",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/manuelaeichner/",
+    "verified_at": "2026-10-31T01:50:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Marina Quintanilha",
+    "arroba": "@marinaquintanilha",
+    "quantidade_seguidores": 7481,
+    "tipo": "Gravura / Design Têxtil",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/marinaquintanilha/",
+    "verified_at": "2026-10-31T01:50:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Roger Cruz",
+    "arroba": "@rogercruzart",
+    "quantidade_seguidores": 80258,
+    "tipo": "Quadrinhos / HQs Independentes",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/rogercruzart/",
+    "verified_at": "2026-10-31T01:50:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Soraia",
+    "arroba": "@soraiailustra",
+    "quantidade_seguidores": 764,
+    "tipo": "Ilustração / Aquarela / Zines",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/soraiailustra/",
+    "verified_at": "2026-10-31T01:50:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Titi Freak",
+    "arroba": "@titifreak",
+    "quantidade_seguidores": 20741,
+    "tipo": "Arte Urbana / Gravura / Murais",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/titifreak/",
+    "verified_at": "2026-10-31T01:50:00Z"
+  },
+  {
+    "categoria": "artistas",
+    "nome": "Weberson Santiago",
+    "arroba": "@webersonsantiago",
+    "quantidade_seguidores": 58,
+    "tipo": "Ilustração Editorial / Livros",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/webersonsantiago/",
+    "verified_at": "2026-10-31T01:50:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Tathy Amiga",
+    "arroba": "@tathyamiga",
+    "quantidade_seguidores": 9421,
+    "tipo": "Lifestyle e Bem-estar Brasília",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/tathyamiga/",
+    "verified_at": "2026-10-31T01:50:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Hugo Gloss",
+    "arroba": "@hugogloss",
+    "quantidade_seguidores": 21918188,
+    "tipo": "Entretenimento / Cultura Pop / Brasília",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/hugogloss/",
+    "verified_at": "2026-10-31T01:50:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Vovó Blogueira DF",
+    "arroba": "@vovoblogueiradf",
+    "quantidade_seguidores": 25657,
+    "tipo": "Cotidiano e Família / Taguatinga DF",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/vovoblogueiradf/",
+    "verified_at": "2026-10-31T01:50:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Carol Almeida",
+    "arroba": "@carolzinha_lims",
+    "quantidade_seguidores": 39829,
+    "tipo": "Beleza e Moda Urbana BSB",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/carolzinha_lims/",
+    "verified_at": "2026-10-31T01:50:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Fidelis Falante",
+    "arroba": "@fidelisfalante",
+    "quantidade_seguidores": 2507644,
+    "tipo": "Comédia Regional / Cultura Goiana",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/fidelisfalante/",
+    "verified_at": "2026-10-31T01:50:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Gabriel Gava",
+    "arroba": "@gabrielgava",
+    "quantidade_seguidores": 1021335,
+    "tipo": "Música e Cultura Goiana",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/gabrielgava/",
+    "verified_at": "2026-10-31T01:50:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Álvaro",
+    "arroba": "@alvxaro",
+    "quantidade_seguidores": 18295963,
+    "tipo": "Humor e Cotidiano Recife",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/alvxaro/",
+    "verified_at": "2026-10-31T01:50:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Laura Moraes",
+    "arroba": "@lauramoraes",
+    "quantidade_seguidores": 752,
+    "tipo": "Moda e Lifestyle Recife",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/lauramoraes/",
+    "verified_at": "2026-10-31T01:50:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Victor Bittencourt",
+    "arroba": "@victorbittencoourt",
+    "quantidade_seguidores": 149971,
+    "tipo": "Humor e Cotidiano Jovem DF",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/victorbittencoourt/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Djenifer Longen",
+    "arroba": "@djeniferlongen",
+    "quantidade_seguidores": 22307,
+    "tipo": "Nutrição e Lifestyle Brasília",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/djeniferlongen/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Sérgio Falconi",
+    "arroba": "@sergio.falconi",
+    "quantidade_seguidores": 74479,
+    "tipo": "Moda e Viagens DF",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/sergio.falconi/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Victor da Império",
+    "arroba": "@victordaimperio",
+    "quantidade_seguidores": 168870,
+    "tipo": "Empreendedorismo e Rotina DF",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/victordaimperio/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Júlia Moreno",
+    "arroba": "@juliamorenooficial",
+    "quantidade_seguidores": 28101,
+    "tipo": "Música e Cultura Urbana BSB",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/juliamorenooficial/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Camila Pellegrini",
+    "arroba": "@camilapellegrini",
+    "quantidade_seguidores": 36311,
+    "tipo": "Moda e Lifestyle Brasília",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/camilapellegrini/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Gabriela de Lourdes",
+    "arroba": "@gabrieladelourdes",
+    "quantidade_seguidores": 51,
+    "tipo": "Lifestyle e Cotidiano DF",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/gabrieladelourdes/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Igor Cordeiro",
+    "arroba": "@igorcordeiro",
+    "quantidade_seguidores": 785,
+    "tipo": "Comédia e Stand-up DF",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/igorcordeiro/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Tati Martins",
+    "arroba": "@tatimartins",
+    "quantidade_seguidores": 1300,
+    "tipo": "Entretenimento e Cultura Pop DF",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/tatimartins/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Marcelo Martins",
+    "arroba": "@marcelomartins",
+    "quantidade_seguidores": 4,
+    "tipo": "Entretenimento e Crítica DF",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/marcelomartins/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Felipe Bessa",
+    "arroba": "@felipe_bessa",
+    "quantidade_seguidores": 302,
+    "tipo": "Lifestyle e Fotografia Brasília",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/felipe_bessa/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Amanda Fitas",
+    "arroba": "@amandafitas",
+    "quantidade_seguidores": 2047084,
+    "tipo": "Psicologia e Comportamento DF",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/amandafitas/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Diego Martins",
+    "arroba": "@diegomartins",
+    "quantidade_seguidores": 69948,
+    "tipo": "Arte, Música e Entretenimento DF",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/diegomartins/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Cynthia Senek",
+    "arroba": "@cynthia.senek",
+    "quantidade_seguidores": 648,
+    "tipo": "Audiovisual e Arte DF",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/cynthia.senek/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Dani Martins",
+    "arroba": "@danimartins",
+    "quantidade_seguidores": 464,
+    "tipo": "Dicas e Gastronomia BSB",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/danimartins/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Breno Lima",
+    "arroba": "@brenolima",
+    "quantidade_seguidores": 2123,
+    "tipo": "Música e Cultura Urbana DF",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/brenolima/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Maria Clara Couto",
+    "arroba": "@mariaclarac",
+    "quantidade_seguidores": 413,
+    "tipo": "Lifestyle e Rotina Universitária DF",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/mariaclarac/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Pedro Matos",
+    "arroba": "@pedromatos",
+    "quantidade_seguidores": 172445,
+    "tipo": "Fotografia e Arte Urbana BSB",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/pedromatos/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Marcos Costa",
+    "arroba": "@marcos.costa",
+    "quantidade_seguidores": 804,
+    "tipo": "Beleza e Estilo DF",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/marcos.costa/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Letícia Gomes",
+    "arroba": "@leticiafgomes",
+    "quantidade_seguidores": 4424831,
+    "tipo": "Maquiagem Artística e Cultura DF",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/leticiafgomes/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Lucas Rocco",
+    "arroba": "@lucasrocco",
+    "quantidade_seguidores": 939,
+    "tipo": "Lifestyle e Esportes Brasília",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/lucasrocco/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Maria Luiza Menezes",
+    "arroba": "@marialuizamenezes",
+    "quantidade_seguidores": 154,
+    "tipo": "Moda e Vida Universitária BSB",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/marialuizamenezes/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Letícia Muniz",
+    "arroba": "@leticiamuniz",
+    "quantidade_seguidores": 3055,
+    "tipo": "Autoestima e Moda Brasília",
+    "uf": "DF",
+    "source_url": "https://www.instagram.com/leticiamuniz/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Raiza Marinari",
+    "arroba": "@raizamarinari",
+    "quantidade_seguidores": 1027664,
+    "tipo": "Moda e Empreendedorismo Goiânia",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/raizamarinari/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Thays Jubé",
+    "arroba": "@thaysjube",
+    "quantidade_seguidores": 1135986,
+    "tipo": "Moda e Cotidiano Empresarial GO",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/thaysjube/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Gabriella Kemilly",
+    "arroba": "@gabriella_kemilly",
+    "quantidade_seguidores": 738267,
+    "tipo": "Cultura Regional e Humor Caipira GO",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/gabriella_kemilly/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Danilo Suassuna",
+    "arroba": "@danilosuassuna",
+    "quantidade_seguidores": 7720,
+    "tipo": "Psicologia e Comportamento Goiânia",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/danilosuassuna/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Jéssica Cardoso",
+    "arroba": "@jessicacardoso",
+    "quantidade_seguidores": 3929186,
+    "tipo": "Maquiagem e Trends Criativas GO",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/jessicacardoso/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Iana Haas",
+    "arroba": "@ianahaas",
+    "quantidade_seguidores": 2985,
+    "tipo": "Moda e Lifestyle Goiânia",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/ianahaas/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Júlia Paes",
+    "arroba": "@juliapaes",
+    "quantidade_seguidores": 1672,
+    "tipo": "Lifestyle e Bem-estar Goiás",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/juliapaes/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Carol Biazotto",
+    "arroba": "@carolbiazotto",
+    "quantidade_seguidores": 54806,
+    "tipo": "Lifestyle e Saúde Goiânia",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/carolbiazotto/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Poliana Rocha",
+    "arroba": "@poliana",
+    "quantidade_seguidores": 11818515,
+    "tipo": "Lifestyle e Família Goiânia",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/poliana/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Zé Felipe",
+    "arroba": "@zefelipecantor",
+    "quantidade_seguidores": 193,
+    "tipo": "Música e Entretenimento Goiânia",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/zefelipecantor/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Virgínia Fonseca",
+    "arroba": "@virginia",
+    "quantidade_seguidores": 56891578,
+    "tipo": "Lifestyle e Criação de Conteúdo Goiânia",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/virginia/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Marcos Túlio",
+    "arroba": "@marcos.tulio",
+    "quantidade_seguidores": 5,
+    "tipo": "Agro e Negócios Goiás",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/marcos.tulio/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Ana Paula Coutinho",
+    "arroba": "@anapaulacoutinho",
+    "quantidade_seguidores": 3245,
+    "tipo": "Moda e Tendências Goiânia",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/anapaulacoutinho/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Bruno Gouveia",
+    "arroba": "@brunogouveia",
+    "quantidade_seguidores": 112562,
+    "tipo": "Música e Cultura Goiana",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/brunogouveia/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Felipe Araújo",
+    "arroba": "@felipearaujocantor",
+    "quantidade_seguidores": 8712117,
+    "tipo": "Música e Entretenimento Goiânia",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/felipearaujocantor/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Maiara",
+    "arroba": "@maiara",
+    "quantidade_seguidores": 12084932,
+    "tipo": "Música e Estilo de Vida Goiânia",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/maiara/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Maraisa",
+    "arroba": "@maraisa",
+    "quantidade_seguidores": 12994845,
+    "tipo": "Música e Estilo de Vida Goiânia",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/maraisa/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Israel Novaes",
+    "arroba": "@israelnovaes",
+    "quantidade_seguidores": 2250179,
+    "tipo": "Música e Rotina Fitness Goiânia",
+    "uf": "GO",
+    "source_url": "https://www.instagram.com/israelnovaes/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Gil do Vigor",
+    "arroba": "@gildovigor",
+    "quantidade_seguidores": 15789809,
+    "tipo": "Economia, Educação e Entretenimento PE",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/gildovigor/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Mariely Santos",
+    "arroba": "@marielysantos",
+    "quantidade_seguidores": 26,
+    "tipo": "Humor e Lifestyle Recife",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/marielysantos/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Laura Brito",
+    "arroba": "@laurabrito",
+    "quantidade_seguidores": 6232732,
+    "tipo": "Moda e Beleza Pernambuco",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/laurabrito/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Camila Coutinho",
+    "arroba": "@camilacoutinho",
+    "quantidade_seguidores": 3204425,
+    "tipo": "Moda, Negócios e Lifestyle Recife",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/camilacoutinho/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Thais Dutra de Sá",
+    "arroba": "@thaisdutrasa",
+    "quantidade_seguidores": 522511,
+    "tipo": "Viagens e Skincare Recife",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/thaisdutrasa/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Cuca Amorim",
+    "arroba": "@cucaamorim",
+    "quantidade_seguidores": 395151,
+    "tipo": "Moda e Comportamento Recife",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/cucaamorim/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Paulinho Faria",
+    "arroba": "@paulinhofaria",
+    "quantidade_seguidores": 197832,
+    "tipo": "Humor e Desafios Recife",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/paulinhofaria/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "João Gomes",
+    "arroba": "@joaogomescantor",
+    "quantidade_seguidores": 17467571,
+    "tipo": "Música e Cultura Pernambucana",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/joaogomescantor/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Duda Francisco",
+    "arroba": "@dudafrancisco",
+    "quantidade_seguidores": 2642,
+    "tipo": "Moda e Lifestyle Recife",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/dudafrancisco/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Carolina Salles",
+    "arroba": "@carolinasalles",
+    "quantidade_seguidores": 796,
+    "tipo": "Gastronomia e Dicas Recife",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/carolinasalles/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Ana Clara Barbosa",
+    "arroba": "@anaclarabarbosa",
+    "quantidade_seguidores": 46,
+    "tipo": "Lifestyle e Juventude PE",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/anaclarabarbosa/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Tiago Arrais",
+    "arroba": "@tiagoarrais",
+    "quantidade_seguidores": 115944,
+    "tipo": "Música e Filosofia PE",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/tiagoarrais/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Alanna Sales",
+    "arroba": "@alannasales",
+    "quantidade_seguidores": 66,
+    "tipo": "Lifestyle e Moda Recife",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/alannasales/",
+    "verified_at": "2026-10-31T02:08:00Z"
+  },
+  {
+    "categoria": "influenciadores",
+    "nome": "Clara Gadelha",
+    "arroba": "@claragadelha",
+    "quantidade_seguidores": 1304,
+    "tipo": "Beleza e Cotidiano Recife",
+    "uf": "PE",
+    "source_url": "https://www.instagram.com/claragadelha/",
+    "verified_at": "2026-10-31T02:08:00Z"
   }
 ]
